@@ -24,10 +24,10 @@
 ### Гравці:
 
 > - @LugoMortinsen  (Mauretania)
-> - @solarlumenar (Tundestania)
+> - @SolarLumenar (Tundestania)
 > - @Zucchini (Tuscia)
 > - @Feliss | SUIONIA 
-> - @fleischer | Icenia 
+> - @Fleischer | Icenia 
 > - @BatCat (Roxolania)
 > - @FrankoUA (Getia)
 > - @greenvlad (Macedonia)
@@ -46,17 +46,20 @@
 
 ### Ledger
 
-**📊 СВІТОВИЙ ЛЕДЖЕР ТА ДИНАМІКА ЗРОСТАННЯ (UPDATED) 📊**
+**📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
 
-* 🏛️ **Tuscia** — 236 (+93) territories, 3522 (+1521) pops
-* 🏹 **Scythia** (Roxolania) — 311 (+135) territories, 1736 (+859) pops
-* 🗻 **Greater Armenia** (Armenia) — 194 (+54) territories, 1711 (+627) pops
-* 🛡️ **Dacia** — 222 (+94) territories, 1511 (+945) pops
-* 🍇 **Turdetania** (Karmoia) — 169 (+113) territories, 1500 (+1064) pops
-* 🌊 **Pritania** (Icenia) — 212 (+146) territories, 964 (+697) pops
-* 🦁 **Mauretania** — 78 (+24) territories, 532 (+360) pops
-* ❄️ **Suionia** (Scandia) — 49 (+21) territories, 181 (+114) pops
-* 🥖 **Remia** — 26 (-49) territories, 120 (-220) pops
+| Країна (Колишня) | 🏞️ Території | Территорій додано | 👥 Населення (Pops) | Приріст населення |
+| :--- | :---: | :---: | :---: | :---: |
+| 🏛️ **Tuscia** | 236 | +93 | 3522 | +1521 |
+| ☀️ **Macedonia** | 185 | - | 2218 | - |
+| 🏹 **Scythia** (Roxolania) | 311 | +135 | 1736 | +859 |
+| 🗻 **Greater Armenia** (Armenia) | 194 | +54 | 1711 | +627 |
+| 🛡️ **Dacia** | 222 | +94 | 1511 | +945 |
+| 🍇 **Turdetania** (Karmoia) | 169 | +113 | 1500 | +1064 |
+| 🌊 **Pritania** (Icenia) | 212 | +146 | 964 | +697 |
+| 🦁 **Mauretania** | 78 | +24 | 532 | +360 |
+| ❄️ **Suionia** (Scandia) | 49 | +21 | 181 | +114 |
+| 🥖 **Remia** | 26 | -49 | 120 | -220 |
 
 ## 2026-07-12
 
@@ -86,12 +89,14 @@
 
 ### Ledger
 
-- Tuscia - 143 territories, 2001 pops
-- Armenia - 140 territories, 1084 pops
-- Roxolania - 176 territories, 877 pops
-- Dacia - 128 territories, 566 pops
-- Karmoia - 56 territories, 436 pops
-- Remia - 75 territories, 340 pops
-- Icenia - 66 territories, 267 pops
-- Mauretania - 54 territories, 172 pops
-- Suionia - 28 territories, 67 pops
+| Країна | Території | Населення (Pops) |
+| :--- | :---: | :---: |
+| 🏛️ **Tuscia** | 143 | 2001 |
+| 🗻 **Armenia** | 140 | 1084 |
+| 🏹 **Roxolania** | 176 | 877 |
+| 🛡️ **Dacia** | 128 | 566 |
+| 🍇 **Karmoia** | 56 | 436 |
+| 🥖 **Remia** | 75 | 340 |
+| 🌊 **Icenia** | 66 | 267 |
+| 🦁 **Mauretania** | 54 | 172 |
+| ❄️ **Suionia** | 28 | 67 |
