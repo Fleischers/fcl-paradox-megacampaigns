@@ -4,19 +4,19 @@
 
 **Середземномор'я:**
 * **Mauretania** — `MAURETANIA` — @lugomortinsen4664 
-* **Karmoia** — `BAETICA` — @solarlumenar 
+* **Turdetania** — `BAETICA` — @solarlumenar 
 * **Tuscia** — `ITALIA` — @zucchini0225
 * **Macedonia** — `GREECE` — @greenvlad 
 
 **Північна Європа:**
 * **Remia** — `BELGICA` — @hartree
-* **Suionia** — `SCANDIA` — @.feliss 
-* **Icenia** — `BRITANNIA` — @fleischer 
+* **Scania** — `SCANDIA` — @.feliss 
+* **Pritania** — `BRITANNIA` — @fleischer 
 
 **Східна Європа:**
-* **Roxolania** — `TAURICA` — @__batcat__
+* **Scythia** — `TAURICA` — @__batcat__
 * **Dacia** — `DACIA` — @franko_ua
-* **Armenia** — `ARMENIA` — @cromenus
+* **Greater Armenia** — `ARMENIA` — @cromenus
 
 
 ## звіт за 2026-07-19
@@ -57,10 +57,6 @@
 * 🦁 **Mauretania** — 78 (+24) territories, 532 (+360) pops
 * ❄️ **Suionia** (Scandia) — 49 (+21) territories, 181 (+114) pops
 * 🥖 **Remia** — 26 (-49) territories, 120 (-220) pops
-
-### Інше
-
-посилання на запис стріму https://youtu.be/_Ul8cMQzIPw
 
 ## 2026-07-12
 
