@@ -24,7 +24,7 @@
 ### Гравці:
 
 > - @LugoMortinsen  (Mauretania)
-> - @SolarLumenar (Tundestania)
+> - @SolarLumenar (Turdetania)
 > - @Zucchini (Tuscia)
 > - @Feliss | SUIONIA 
 > - @Fleischer | Icenia 
@@ -48,18 +48,18 @@
 
 **📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
 
-| Країна (Колишня) | 🏞️ Території | Территорій додано | 👥 Населення (Pops) | Приріст населення |
-| :--- | :---: | :---: | :---: | :---: |
-| 🏛️ **Tuscia** | 236 | +93 | 3522 | +1521 |
-| ☀️ **Macedonia** | 185 | - | 2218 | - |
-| 🏹 **Scythia** (Roxolania) | 311 | +135 | 1736 | +859 |
-| 🗻 **Greater Armenia** (Armenia) | 194 | +54 | 1711 | +627 |
-| 🛡️ **Dacia** | 222 | +94 | 1511 | +945 |
-| 🍇 **Turdetania** (Karmoia) | 169 | +113 | 1500 | +1064 |
-| 🌊 **Pritania** (Icenia) | 212 | +146 | 964 | +697 |
-| 🦁 **Mauretania** | 78 | +24 | 532 | +360 |
-| ❄️ **Suionia** (Scandia) | 49 | +21 | 181 | +114 |
-| 🥖 **Remia** | 26 | -49 | 120 | -220 |
+| Країна (Колишня) | 🏞️ Території | Территорій додано | 👥 Населення (Pops) | Приріст населення | Religion |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 🏛️ **Tuscia** | 236 | +93 | 3522 | +1521 | Italic |
+| ☀️ **Macedonia** | 185 | - | 2218 | - | Hellenic |
+| 🏹 **Scythia** (Roxolania) | 311 | +135 | 1736 | +859 | Heptadic |
+| 🗻 **Greater Armenia** (Armenia) | 194 | +54 | 1711 | +627 | Armenian |
+| 🛡️ **Dacia** | 222 | +94 | 1511 | +945 | Zalmoxian |
+| 🍇 **Turdetania** (Karmoia) | 169 | +113 | 1500 | +1064 | Iberic |
+| 🌊 **Pritania** (Icenia) | 212 | +146 | 964 | +697 | Druidic |
+| 🦁 **Mauretania** | 78 | +24 | 532 | +360 | Amazigh |
+| ❄️ **Suionia** (Scandia) | 49 | +21 | 181 | +114 | Tuistic |
+| 🥖 **Remia** | 26 | -49 | 120 | -220 | Druidic |
 
 ## 2026-07-12
 
