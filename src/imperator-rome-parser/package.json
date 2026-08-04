@@ -1,0 +1,24 @@
+{
+  "name": "imperator-rome-parser",
+  "version": "0.0.1",
+  "description": "parses an uncompressed game file to output stats of the game",
+  "keywords": [
+    "imperatorrome",
+    "megacampaign",
+    "gamedata"
+  ],
+  "license": "ISC",
+  "author": "Glib Ischenko <glib@gorlifsense.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline": "^1.3.0",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2"
+  }
+}
