@@ -24,7 +24,43 @@
 | :--- | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: | :---
 | 🏛️ **Tuscia** | 355 | +119 | 4914 | +1392 | Italic | Vesnth 103 | Tech 7 (62%) | 116.88 | Ranazu Spurinas |
 
+## звіт за 2026-08-02
 
+### Гравці:
+
+> - @LugoMortinsen | Mauretania
+> - @SolarLumenar | Tartessia
+> - @Zucchini | Tuscia
+> - @Fleischer | Albion
+> - @BatCat | Scythia
+> - @FrankoUA | Dacia
+> - @Feliss | Scandia
+> - @hartree | Belgia
+> - @kavavend | Macedonia
+
+### Помічені події
+- Albion напав на Belgia й захопив регіон Armorica
+- Belgia переніс столицю в регіон Celtica
+- Albion допоміг Mauretania у війні проти Carthage
+- Albion пригрозив новою війною Belgia, й отримав регіон Belgica
+- Belgia зібрала союзників та напала на Albion аби забрати регіон Belgica успішно. У війні приймали участь Belgia, Dacia, Greater Iberia, Mauretania, Albion, також Scandia й Scythia були зацікавлені сторони. Tuscia оголосила нейтралітет. Цю війну прозвали Перша Антична Війна
+- Albion та Belgia домовились про напад на Tuscia 
+- Belgia, Dacia та Albion оголосили війну Tuscia на захоплення провінції Syracusae, що спричинило серію прокопролитних битв
+
+### Ledger
+
+**📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
+
+🏛️ Tuscia — 394 (+39) territories, 5532 (+618) pops  
+🍇 Greater Iberia (Tartessia) — 480 (+117) territories, 5013 (+1549) pops  
+🛡️ Dacia — 431 (+26) territories, 4377 (+1254) pops  
+☀️ Macedon — 380 (+102) territories, 4018 (+1174) pops  
+🏹 Scythia — 643 (+161) territories, 3948 (+1298) pops  
+🥖 Belgia — 337 (-18) territories, 2902 (+313) pops   
+🌊 Albion — 264 (+23) territories, 2489 (+802) pops  
+🗻 Armenia (Greater Armenia) — 244 (-41) territories, 2370 (-162) pops  
+❄️ Scandia — 387 (+110) territories, 2258 (+897) pops  
+🦁 Mauretania — 203 (+61) territories, 1356 (+412) pops  
 
 ## звіт за 2026-07-26
 
@@ -41,6 +77,8 @@
 - Turdetania: сформовано Tartessia
 - Pritania сформувала Albion
 - Вільний народ (бот) Remia сформували Belgia, також об'єднуючи навколишні вільні народи (велика гальська вписка)
+- Scythia пройшла через тяжку громадянську війну, котра змінила правлячу сім'ю в країні на "якусь бабку"
+- Дакія мала правителя "молоденького", всього 43 роки.
 
 ### Ledger
 
