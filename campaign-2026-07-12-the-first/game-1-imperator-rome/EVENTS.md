@@ -4,20 +4,60 @@
 
 **Середземномор'я:**
 * **Mauretania** — `MAURETANIA` — @lugomortinsen4664 
-* **Turdetania** — `BAETICA` — @solarlumenar 
+* **Greater Iberia** — `BAETICA` — @solarlumenar 
 * **Tuscia** — `ITALIA` — @zucchini0225
-* **Macedonia** — `GREECE` — @greenvlad 
+* **Macedonia** — `MACEDONIA` — @greenvlad; заміни @kavavend
 
 **Північна Європа:**
-* **Remia** — `BELGICA` — @hartree
+* **Belgia** — `CELTICA` — @hartree
 * **Scania** — `SCANDIA` — @.feliss 
-* **Pritania** — `BRITANNIA` — @fleischer 
+* **Albion** — `BRITANNIA` — @fleischer 
 
 **Східна Європа:**
 * **Scythia** — `TAURICA` — @__batcat__
 * **Dacia** — `DACIA` — @franko_ua
 * **Greater Armenia** — `ARMENIA` — @cromenus
 
+### Ledger Template
+
+| Країна (Колишня) | 🏞️ Території | Территорій додано | 👥 Населення (Pops) | Приріст населення | Religion | 🏛️ Столиця (Pops) | 🔬 Tech (Avg Civ) | 💰 Дохід (Income)  | 👑Династія / Правитель |
+| :--- | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: | :---
+| 🏛️ **Tuscia** | 355 | +119 | 4914 | +1392 | Italic | Vesnth 103 | Tech 7 (62%) | 116.88 | Ranazu Spurinas |
+
+
+
+## звіт за 2026-07-26
+
+### Гравці:
+
+> - @LugoMortinsen | Mauretania
+> - @SolarLumenar | Tartessia
+> - @Zucchini | Tuscia
+> - @Fleischer | Albion
+> - @BatCat | Scythia
+> - @FrankoUA | Dacia
+
+### Помічені події
+- Turdetania: сформовано Tartessia
+- Pritania сформувала Albion
+- Вільний народ (бот) Remia сформували Belgia, також об'єднуючи навколишні вільні народи (велика гальська вписка)
+
+### Ledger
+
+**📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
+
+| Країна (Колишня) | 🏞️ Території | Территорій додано | 👥 Населення (Pops) | Приріст населення | Religion |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 🏛️ **Tuscia** | 355 | +119 | 4914 | +1392 | Italic |
+| 🍇 **Tartessia** (Turdetania) | 363 | +194 | 3464 | +1964 | Iberic |
+| 🛡️ **Dacia** | 405 | +183 | 3123 | +1612 | Zalmoxian |
+| ☀️ **Macedonia** | 278 | +93 | 2844 | +626 | Hellenic |
+| 🏹 **Scythia** (Roxolania) | 482 | +171 | 2650 | +914 | Heptadic |
+| 🥖 **Belgia** (Remia) | 355 | +329 | 2589 | +2469 | Druidic |
+| 🗻 **Greater Armenia** (Armenia) | 285 | +91 | 2532 | +821 | Armenian |
+| 🌊 **Albion** (Pritania) | 241 | +29 | 1687 | +723 | Druidic |
+| ❄️ **Scandia** | 277 | +228 | 1361 | +1180 | Tuistic |
+| 🦁 **Mauretania** | 142 | +64 | 944 | +412 | Amazigh |
 
 ## звіт за 2026-07-19
 
@@ -27,9 +67,9 @@
 > - @SolarLumenar (Turdetania)
 > - @Zucchini (Tuscia)
 > - @Feliss | SUIONIA 
-> - @Fleischer | Icenia 
-> - @BatCat (Roxolania)
-> - @FrankoUA (Getia)
+> - @Fleischer | Pritania 
+> - @BatCat (Scythia)
+> - @FrankoUA (Dacia)
 > - @greenvlad (Macedonia)
 
 ### Помічені події
