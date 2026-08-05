@@ -1,0 +1,6441 @@
+[
+  {
+    "key": "164",
+    "record": {
+      "tag": "ICE",
+      "historical": "AIO",
+      "country_name": {
+        "name": "ALBION_NAME",
+        "adjective": "ALBION_ADJECTIVE"
+      },
+      "flag": "ALBION_FLAG",
+      "coat_of_arms": {
+        "root": {
+          "type": "ctry",
+          "identity": 164
+        },
+        "seed": 1159085546
+      },
+      "country_type": "real",
+      "family": 16777311,
+      "minor_family": 262,
+      "monthly_war_exhaustion": 0.09504,
+      "variables": {
+        "data": [
+          {
+            "flag": "AIO_Import_Elephant",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "flavor_maurya.16_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "adjusted_research_efficiency_cached",
+            "tick": 206,
+            "data": {
+              "type": "value",
+              "identity": 140060
+            }
+          },
+          {
+            "flag": "interesting_histories_country_events_ice",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "interesting_treasures_event_variable",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "num_of_completed_missions",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "side_branch_selector",
+            "data": {
+              "type": "value",
+              "identity": 200000
+            }
+          },
+          {
+            "flag": "zorgo_event.98_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "love_target_age",
+            "data": {
+              "type": "value",
+              "identity": 5000000
+            }
+          },
+          {
+            "flag": "zorgo_event.69_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "zorgo_event.71_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "num_of_loyal_cohorts_total",
+            "data": {
+              "type": "value",
+              "identity": 900000
+            }
+          },
+          {
+            "flag": "country_kill_counter",
+            "data": {
+              "type": "value",
+              "identity": 61200000
+            }
+          },
+          {
+            "flag": "zorgo_event.109_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "infra_mission_branches",
+            "data": {
+              "type": "value",
+              "identity": 200000
+            }
+          },
+          {
+            "flag": "forum_research_boon_happened",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "run_once",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "zorgo_event.43_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "albion_wood_wall",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "free_investments",
+            "data": {
+              "type": "value",
+              "identity": 700000
+            }
+          },
+          {
+            "flag": "pbc_event_11_cooldown",
+            "tick": 4135,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "surveillance",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "zorgo_event.110_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "mining_var",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "suitor_age",
+            "data": {
+              "type": "value",
+              "identity": 2400000
+            }
+          },
+          {
+            "flag": "plot_type",
+            "data": {
+              "type": "flag",
+              "flag": "successor_murder"
+            }
+          },
+          {
+            "flag": "gw_existing.8_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "dye_flav_cooldown",
+            "tick": 5111,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "capital_trade_mission_ongoing",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "ai_mission_backout",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "food_mission_var",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "province_price_offer",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "zorgo_event.34_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "fix_new_countries",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "unlock_levant_var",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "zorgo_event.4_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "pirate_event_1_cooldown",
+            "tick": 1874,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "zorgo_event.63_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "rel_flavor_kemetic_4_cooldown",
+            "tick": 6665,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "italic_ways",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "stab_2_cd",
+            "tick": 1194,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "stab_1_cd",
+            "tick": 478,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "dhe_slave_accident_cooldown",
+            "tick": 1963,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "ongoing_plot",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "zorgo_event.101_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "zorgo_event.106_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "zorgo_event.5_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "zorgo_event.50_fire_only_once",
+            "data": {
+              "type": "value",
+              "identity": 100000
+            }
+          },
+          {
+            "flag": "total_money",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "political_gain",
+            "data": {
+              "type": "value",
+              "identity": 2500000
+            }
+          },
+          {
+            "flag": "invention_gain",
+            "data": {
+              "type": "value"
+            }
+          },
+          {
+            "flag": "military_gain",
+            "data": {
+              "type": "value",
+              "identity": 3000000
+            }
+          },
+          {
+            "flag": "slave_gain",
+            "data": {
+              "type": "value",
+              "identity": 600000
+            }
+          },
+          {
+            "flag": "mon_35_cooldown",
+            "tick": 148,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "5_year_trade_good_pulse",
+            "tick": 456,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "city_22_toggle",
+            "tick": 1092,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "pbc_event_12_cooldown",
+            "tick": 6649,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "run_one_more_time",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "city_9_toggle",
+            "tick": 2637,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "food_event_cooldown",
+            "tick": 1983,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "wine_flavour_cooldown",
+            "tick": 5878,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "gw_existing_7_cooldown",
+            "tick": 1108,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "pop_health_var",
+            "tick": 33,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "disloyal_powerful_characters_pulse_cd",
+            "tick": 336,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "run_two_more_times",
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "optimized_state_capitals_and_forts",
+            "tick": 248,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "office_2_toggle",
+            "tick": 1569,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "cached_adjusted_research_efficiency",
+            "tick": 185,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          },
+          {
+            "flag": "gw_5_yearly",
+            "tick": 1731,
+            "data": {
+              "type": "boolean",
+              "identity": 1
+            }
+          }
+        ],
+        "list": [
+          {
+            "name": "region_to_sell",
+            "item": {
+              "type": "governorship",
+              "identity": 164,
+              "data": 19
+            }
+          },
+          {
+            "name": "sell_province_to",
+            "item": {
+              "type": "ctry",
+              "identity": 370
+            }
+          },
+          {
+            "name": "regions_list_to_sell",
+            "item": {
+              "type": "governorship",
+              "identity": 164
+            }
+          }
+        ]
+      },
+      "graphical_culture": "britannic_gfx",
+      "gender_equality": true,
+      "color": {
+        "rgb": [
+          197,
+          200,
+          229
+        ]
+      },
+      "color2": {
+        "rgb": [
+          229,
+          179,
+          189
+        ]
+      },
+      "color3": {
+        "rgb": [
+          65,
+          77,
+          186
+        ]
+      },
+      "num_stance_changes": 0,
+      "currency_data": {
+        "manpower": 35.99171,
+        "gold": 2806.07842,
+        "stability": 59.69829,
+        "tyranny": 0,
+        "war_exhaustion": 11.22226,
+        "aggressive_expansion": 0,
+        "political_influence": 172.98361,
+        "military_experience": 29.35316,
+        "innovations": 0
+      },
+      "auto_accept_trade": true,
+      "is_antagonist": false,
+      "capital": 2022,
+      "original_capital": 2022,
+      "current_regnal_number": 2,
+      "historical_regnal_numbers": [],
+      "has_senior_ally": true,
+      "primary_culture": "iceni",
+      "religion": "druidism",
+      "diplomatic_stance": "neutral_stance",
+      "heritage": "icenian_heritage",
+      "sub_unit": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "sub_unit_access": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "sub_unit_construction_count": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "combat_tactics": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "laws": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "ports": [
+        1321,
+        2003,
+        2013,
+        2021,
+        2022,
+        2028,
+        2031,
+        2040,
+        2073,
+        2075,
+        2076,
+        2081,
+        2090,
+        2095,
+        2104,
+        2105,
+        2108,
+        2109,
+        2121,
+        2138,
+        2141,
+        2151,
+        2158,
+        2173,
+        2175,
+        2179,
+        2190,
+        2197,
+        2203,
+        2207,
+        2212,
+        2218,
+        2394,
+        3057,
+        3095,
+        3255,
+        7740
+      ],
+      "great_work": [
+        2012
+      ],
+      "unit_counts": [
+        25,
+        0,
+        9,
+        1,
+        10,
+        2,
+        0,
+        7,
+        13,
+        10,
+        2,
+        0,
+        67,
+        5,
+        0,
+        0,
+        2,
+        0
+      ],
+      "legion_recruitment": "capital",
+      "ideas": {
+        "idea": {
+          "idea": "idea_bribery",
+          "date": "544.7.1"
+        }
+      },
+      "ignore_senate_approval": false,
+      "not_supporting_primary_heir": 2,
+      "technology": {
+        "military_tech": {
+          "character": 79517,
+          "level": 7,
+          "progress": 64.15892
+        },
+        "civic_tech": {
+          "character": 80175,
+          "level": 9,
+          "progress": 52.83022
+        },
+        "oratory_tech": {
+          "character": 86973,
+          "level": 9,
+          "progress": 31.24684
+        },
+        "religious_tech": {
+          "character": 76566,
+          "level": 8,
+          "progress": 70.01223
+        }
+      },
+      "recovery_motivation": 0,
+      "starting_population": 39,
+      "monthly_manpower": 0.63153,
+      "current_income": 0,
+      "estimated_monthly_income": 59.31109,
+      "averaged_income": 60.08889,
+      "economy": {
+        "income": [
+          92.31939,
+          50.69812,
+          0,
+          0.01822
+        ],
+        "expense": [
+          37.14468,
+          9.17566,
+          0,
+          0,
+          0,
+          0,
+          0,
+          10,
+          0,
+          4.8,
+          35.4089
+        ],
+        "thismonthincome": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "thismonthexpense": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lastmonthincometable": [
+          46.18602,
+          25.34906,
+          0,
+          0
+        ],
+        "lastmonthexpensetable": [
+          18.52378,
+          4.58783,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2.4,
+          17.56026
+        ],
+        "lastyearincome": [
+          548.07643,
+          313.80735,
+          0,
+          49.52587
+        ],
+        "lastyearexpense": [
+          337.55373,
+          50.901,
+          0,
+          0,
+          484,
+          0,
+          0,
+          50,
+          0,
+          24.8,
+          215.44493
+        ],
+        "lastmonthincome": 71.53508,
+        "lastmonthexpense": 43.07187,
+        "telemetry_accumulated": {
+          "manpower": 658.21438,
+          "gold": 55290.24325,
+          "stability": 0,
+          "tyranny": 0,
+          "war_exhaustion": 0,
+          "aggressive_expansion": 0,
+          "political_influence": 3403.98361,
+          "military_experience": 1109.35316,
+          "innovations": 0
+        },
+        "telemetry_spent": {
+          "manpower": 477.90137,
+          "gold": 52605.52723,
+          "stability": 0,
+          "tyranny": 0,
+          "war_exhaustion": 0,
+          "aggressive_expansion": 0,
+          "political_influence": 3231,
+          "military_experience": 1080,
+          "innovations": 0
+        },
+        "telemetry_gold_tribute": 40.20401,
+        "telemetry_gold_commerce": 18325.00919,
+        "telemetry_gold_tax": 32687.98878
+      },
+      "religious_unity": 0.95588,
+      "foreign_religion_pops": 110,
+      "total_population": 2493,
+      "succession": "agnatic",
+      "diplomatic_action": [],
+      "omen": 28,
+      "omen_start": "592.3.4",
+      "omen_duration": "597.3.4",
+      "government_key": "imperium",
+      "steppe_horde_levy_size_laws": "steppe_horde_levy_size_1",
+      "training_steppe_laws": "training_steppe_1",
+      "steppe_arbitration_laws": "steppe_arbitration_1",
+      "hindu_caste_law": "default_hindu_caste_law",
+      "jainist_caste_law": "default_jainist_caste_law",
+      "buddhist_caste_law": "default_buddhist_caste_law",
+      "ajivika_caste_law": "default_ajivika_caste_law",
+      "succession_law": "agnatic_succession_law",
+      "monarchy_military_reforms": "work_for_the_best",
+      "monarchy_maritime_laws": "slave_oarsmen",
+      "monarchy_economic_law": "land_tithe",
+      "monarchy_citizen_law": "foreign_law_for_minorities",
+      "monarchy_religious_laws": "religious_tolerance_monarchy",
+      "monarchy_legitimacy_laws": "renowned_lineage",
+      "monarchy_contract_law": "no_contract_law",
+      "monarchy_divinity_statutes": "humility_status_law",
+      "jewish_monarchy_divinity_statutes": "humility_jewish_status_law",
+      "monarchy_subject_laws": "trusted_beyond_measure",
+      "republic_military_recruitment_laws": "republican_recruitment_3",
+      "republic_military_recruitment_car_laws": "republic_military_recruitment_car_3",
+      "republic_election_reforms": "republican_election_1",
+      "republic_election_car_reforms": "republican_election_car_1",
+      "corruption_laws": "republic_corruption_2",
+      "corruption_car_laws": "republic_corruption_car_2",
+      "republican_mediterranean_laws": "republican_mediterranean_1",
+      "republican_mediterranean_car_laws": "republican_mediterranean_car_1",
+      "republican_religious_laws": "republican_religious_1",
+      "republican_religious_car_laws": "republican_religious_car_1",
+      "republic_integration_laws": "republican_integration_1",
+      "republic_integration_car_laws": "republican_integration_car_1",
+      "republic_citizen_laws": "republican_citizen_1",
+      "republic_citizen_car_laws": "republican_citizen_car_1",
+      "republican_land_reforms": "republican_land_reform_1",
+      "republican_land_reforms_car": "republican_land_reform_car_1",
+      "republic_military_recruitment_laws_rom": "testamentum_militis",
+      "republic_election_reforms_rom": "leges_genuciae",
+      "corruption_laws_rom": "lex_acilia_repetundarum",
+      "republican_mediterranean_laws_rom": "lex_terentia_cassia",
+      "republican_religious_laws_rom": "grant_religious_freedoms",
+      "republic_integration_laws_rom": "lex_canuleia",
+      "republic_citizen_laws_rom": "lex_aternia",
+      "republican_land_reforms_rom": "cassian_reform",
+      "tribal_religious_law": "tribal_religious_freedom_law",
+      "tribal_currency_laws": "coin_minting_law",
+      "tribal_centralization_law": "anarchic_society_law_tribal",
+      "tribal_authority_laws": "absolute_authority",
+      "tribal_autonomy_laws": "clan_cohesion",
+      "tribal_domestic_laws": "formalized_industry_law_tribal",
+      "tribal_decentralized_laws": "tribal_decentralized_laws_1",
+      "tribal_centralized_laws": "tribal_centralized_laws_1",
+      "tribal_super_decentralized_laws": "super_decentralized_law_one",
+      "tribal_super_centralized_laws": "super_centralized_law_one",
+      "administrative_law": "basic_administrative_law",
+      "monetary_law": "basic_monetary_law",
+      "modifier": {
+        "modifier": "albion_mod_82",
+        "start_date": "595.10.24",
+        "date": "635.10.24"
+      },
+      "max_manpower": 78.45607,
+      "blockaded_percent": 0,
+      "blockaded_percent_per_province": 0,
+      "units": [
+        134219019,
+        134219092,
+        503317377,
+        268435553,
+        905969748,
+        251658523,
+        855638229,
+        620757058,
+        570426413,
+        16777894,
+        520093932
+      ],
+      "active_inventions": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mark_invention": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "military_bonuses": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "export": [
+        0,
+        3,
+        1,
+        1,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "denied_tradegoods": [
+        31,
+        6,
+        11
+      ],
+      "economic_policies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "monarch": 72870,
+      "ruler_term": {
+        "character": 72870,
+        "start_date": "543.9.20",
+        "government": "imperium"
+      },
+      "country_characters_packed": [
+        72870,
+        74501,
+        75320,
+        75928,
+        76329,
+        76566,
+        77552,
+        77786,
+        77801,
+        78199,
+        78767,
+        78779,
+        78843,
+        78917,
+        79103,
+        79517,
+        79586,
+        79867,
+        79898,
+        80175,
+        80330,
+        80367,
+        80884,
+        81308,
+        81458,
+        81525,
+        81708,
+        82055,
+        82531,
+        82729,
+        82973,
+        83072,
+        83380,
+        83831,
+        84041,
+        85510,
+        85528,
+        85565,
+        85632,
+        85754,
+        86231,
+        86289,
+        86396,
+        86748,
+        86973,
+        87270,
+        87592,
+        87873,
+        87893,
+        87923,
+        88372,
+        88615,
+        88616,
+        88651,
+        74054,
+        88789,
+        88801,
+        88802,
+        89206,
+        89096,
+        89097,
+        89420,
+        89436,
+        90025,
+        90186,
+        90339,
+        90505,
+        90799,
+        90862,
+        91090,
+        91201,
+        91421,
+        91512,
+        91601,
+        91653,
+        91697,
+        91766,
+        91778,
+        92121,
+        92122,
+        92187
+      ],
+      "successors": {
+        "successors": [
+          80884,
+          89420,
+          90186,
+          83072
+        ]
+      },
+      "prisoners_abroad": [
+        85647
+      ],
+      "last_trade_route_creation_date": "595.10.10",
+      "governorship": {
+        "region": "africa_region",
+        "governor": 82531,
+        "disband_date": "594.4.1",
+        "variables": {
+          "list": [
+            {
+              "name": "provinces_list_to_sell",
+              "item": {
+                "type": "state",
+                "identity": 164,
+                "data": 142
+              }
+            }
+          ]
+        },
+        "cached__cacheddata._totalpopulation": 29,
+        "cached__cacheddata._levypopulation": 0,
+        "debug_only": [
+          {
+            "index": 2029,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2030,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2031,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 13
+              },
+              {
+                "type": "freemen",
+                "count": 12
+              }
+            ]
+          },
+          {
+            "index": 2032,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 19
+              },
+              {
+                "type": "freemen",
+                "count": 17
+              }
+            ]
+          },
+          {
+            "index": 2033,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2034,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2035,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2036,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2037,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2051,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2052,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2118,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2119,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "index": 2120,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2121,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2122,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2128,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "index": 2129,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2130,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2131,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2132,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 7739,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2011,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2012,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2013,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 6
+              },
+              {
+                "type": "freemen",
+                "count": 18
+              }
+            ]
+          },
+          {
+            "index": 2014,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2015,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2016,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "index": 2017,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2024,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2025
+          },
+          {
+            "index": 2026,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2040,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2049,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2092,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2093,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2094,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2095,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2096,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2097,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2098,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2099,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2100,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2050,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2059,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2060,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2101,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2102,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2103,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2104,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2105,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2106,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2107,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 9468,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2046,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2047,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2064,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2065,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2066,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2070,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2071,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2072
+          },
+          {
+            "index": 2073,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2074,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2080,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 5433,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2057
+          },
+          {
+            "index": 2058,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2063,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2067,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2068,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2069,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2075,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2077,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2088,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 3057,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 18
+              },
+              {
+                "type": "freemen",
+                "count": 18
+              }
+            ]
+          },
+          {
+            "index": 3058,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 5434,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2018,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2019
+          },
+          {
+            "index": 2020,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2021,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 10
+              },
+              {
+                "type": "freemen",
+                "count": 17
+              }
+            ]
+          },
+          {
+            "index": 2022,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 28
+              },
+              {
+                "type": "freemen",
+                "count": 56
+              }
+            ]
+          },
+          {
+            "index": 2023,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2027,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 15
+              },
+              {
+                "type": "freemen",
+                "count": 15
+              }
+            ]
+          },
+          {
+            "index": 2028,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 11
+              },
+              {
+                "type": "freemen",
+                "count": 17
+              }
+            ]
+          },
+          {
+            "index": 2038,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2042,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2149,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2150,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2151,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2152,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2154,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2155,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2157,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2158,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 12
+              }
+            ]
+          },
+          {
+            "index": 2159,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2160,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2164,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2165,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2167,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2168,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2186,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2187,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2188,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2189,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2190,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2192,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2193,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2214,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2217,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2218,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2219,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2220,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2221,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2222,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2223,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 5
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2351,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2459,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2467,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2039,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2041,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2043,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2044,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2045,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2048,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 9
+              },
+              {
+                "type": "freemen",
+                "count": 12
+              }
+            ]
+          },
+          {
+            "index": 2053
+          },
+          {
+            "index": 2054,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2055,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2056,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2061,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2062,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2076,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2078,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2079,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2081,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2082,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2083,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2084,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2085,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2087,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 3059,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 3060,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 5432,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2170,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2171,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2172,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2173,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2174,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2175,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2195,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2202,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2203,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2204,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2205,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2206
+          },
+          {
+            "index": 2207,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 16
+              },
+              {
+                "type": "freemen",
+                "count": 17
+              }
+            ]
+          },
+          {
+            "index": 2208
+          },
+          {
+            "index": 3095,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2086,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2089,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2090,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2091,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2108,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2109,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 15
+              },
+              {
+                "type": "freemen",
+                "count": 19
+              }
+            ]
+          },
+          {
+            "index": 2110
+          },
+          {
+            "index": 2111
+          },
+          {
+            "index": 2112
+          },
+          {
+            "index": 2113,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2161,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2162,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2163,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2176,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2177,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2178,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2179,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2180,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2181,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2182,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2183,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2114,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2115,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2116
+          },
+          {
+            "index": 2117,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2123,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2124,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2125,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2126,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2127,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2133
+          },
+          {
+            "index": 6311
+          },
+          {
+            "index": 7740,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2166,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2169,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2184,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2185,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2191,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2194,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2196,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2197
+          },
+          {
+            "index": 2198,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2199,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2200,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2201,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2000,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2001,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2002,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2003,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 5
+              },
+              {
+                "type": "freemen",
+                "count": 18
+              }
+            ]
+          },
+          {
+            "index": 2004,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2005,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2006,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "index": 2007,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2008,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2009,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 4
+              },
+              {
+                "type": "freemen",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "index": 2010,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2350,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2441
+          },
+          {
+            "index": 2442,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2457
+          },
+          {
+            "index": 2460
+          },
+          {
+            "index": 2461,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2462,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2463,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2464,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2465
+          },
+          {
+            "index": 2466,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2478
+          },
+          {
+            "index": 1321,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2135,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2136,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2137,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2138,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 8
+              },
+              {
+                "type": "freemen",
+                "count": 14
+              }
+            ]
+          },
+          {
+            "index": 2139,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2140,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2215
+          },
+          {
+            "index": 2216,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 5431,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2349
+          },
+          {
+            "index": 2394
+          },
+          {
+            "index": 2401
+          },
+          {
+            "index": 2423
+          },
+          {
+            "index": 2424
+          },
+          {
+            "index": 2425
+          },
+          {
+            "index": 2426
+          },
+          {
+            "index": 2456
+          },
+          {
+            "index": 2458
+          },
+          {
+            "index": 2141
+          },
+          {
+            "index": 2142,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2143,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2145,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 3
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2146,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2147,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2148,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "index": 2153,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 1
+              },
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2156,
+            "levy_population": [
+              {
+                "type": "freemen",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "index": 2209,
+            "levy_population": [
+              {
+                "type": "citizen",
+                "count": 2
+              },
+              {
+                "type": "freemen",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "index": 2144
+          },
+          {
+            "index": 2212
+          },
+          {
+            "index": 2352
+          },
+          {
+            "index": 2400
+          },
+          {
+            "index": 2402
+          },
+          {
+            "index": 2403
+          },
+          {
+            "index": 3308
+          },
+          {
+            "index": 3255
+          }
+        ]
+      },
+      "num_owned_provinces_per_year": [
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        289,
+        337,
+        372,
+        372,
+        372,
+        372,
+        372,
+        372,
+        372,
+        373,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        264,
+        263,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        242,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241,
+        241
+      ],
+      "total_holdings": 264,
+      "possible_holdings": 264,
+      "total_power_base": 280.07354,
+      "non_loyal_power_base": 0,
+      "armies": 5,
+      "navies": 6,
+      "total_cohorts": 79,
+      "num_ships_under_construction": 0,
+      "num_regs_under_construction": 0,
+      "num_donkeys_under_construction": 0,
+      "num_forts_under_construction": 0,
+      "loyal_cohorts": 99,
+      "disloyal_cohorts": 0,
+      "loyal_pops": 2493,
+      "centralization": 100,
+      "legitimacy": 100,
+      "last_war": "596.3.10",
+      "last_peace": "591.4.13",
+      "last_battle_won": "593.5.10",
+      "cached_happiness_for_owned": [
+        0.9301,
+        0.95939,
+        0.87134,
+        0.47632,
+        0.54157
+      ],
+      "cached_pop_count_for_owned": [
+        426,
+        613,
+        108,
+        1328,
+        14
+      ],
+      "pirate_haven": 2,
+      "pantheon": [
+        {
+          "deity": 31,
+          "deity_elevated": "574.12.16"
+        },
+        {
+          "deity": 28,
+          "deity_elevated": "566.1.5"
+        },
+        {
+          "deity": 29,
+          "deity_elevated": "567.10.16"
+        },
+        {
+          "deity": 32,
+          "deity_elevated": "587.2.18"
+        }
+      ],
+      "deity_category": [
+        "war",
+        "economy",
+        "culture",
+        "fertility"
+      ],
+      "treasures": [
+        840,
+        855
+      ],
+      "favorite_characters": [
+        72870
+      ],
+      "cultures": {
+        "country_cultures": [
+          604,
+          1927,
+          1928,
+          1929,
+          2144,
+          2264,
+          2277,
+          16779345,
+          2412,
+          16779536,
+          16779479,
+          2841,
+          16779911,
+          134221075,
+          50334090,
+          33555173,
+          16780034,
+          3275,
+          3326,
+          3327,
+          16780399,
+          3439,
+          16780418,
+          3496,
+          150998447,
+          167775819,
+          16779098,
+          2281705712,
+          33557318,
+          16777683,
+          16777648,
+          251658577,
+          33554790,
+          2969571921,
+          4424,
+          33558846,
+          3489665226,
+          4571,
+          4572,
+          4573,
+          4574,
+          16777998,
+          687868076,
+          4784,
+          4786,
+          4787,
+          318771649,
+          4882,
+          2969571922,
+          3019903568,
+          1879052893,
+          33557438,
+          4871,
+          4872,
+          33559070,
+          16781574,
+          33558972
+        ],
+        "num_of_cultures_with_noble_rights": 0
+      },
+      "levy": true,
+      "ai": {
+        "turn": 0,
+        "offer_emission": {
+          "11623": 0.70702,
+          "11624": 0.70875,
+          "11641": 1.46627,
+          "11785": 1.16785,
+          "12024": 4.65351,
+          "2883584": 1.77125,
+          "2975232": 0.7924,
+          "2975488": 0.70702,
+          "2975744": 0.7054,
+          "2978560": 0.82113,
+          "2980096": 0.70847,
+          "3016960": 0.70031,
+          "3078144": 0.0495,
+          "15335424": 2.07467,
+          "19136512": 0.73851,
+          "19529728": 0.70774,
+          "21364736": 0.7071,
+          "21889024": 0.70708,
+          "22937600": 0.70729,
+          "23199744": 0.70704,
+          "23461888": 0.70744,
+          "23592960": 0.81608,
+          "25427968": 0.71354,
+          "25559040": 0.70752,
+          "26345472": 0.93136,
+          "26607616": 0.80076,
+          "27131904": 0.74024,
+          "34734080": 1.24412,
+          "34865152": 2.82833,
+          "35520512": 2.50254,
+          "40501248": 0.72764,
+          "44302336": 0.70808,
+          "45088768": 0.70722,
+          "45613056": 0.71847,
+          "46137344": 0.70714,
+          "46530560": 0.71354,
+          "47054848": 0.71411,
+          "48234496": 0.70683,
+          "48496640": 1.88154,
+          "52166656": 0.79583,
+          "62914560": 0.71044,
+          "67764224": 0.70786,
+          "68157440": 0.70737,
+          "68419584": 0.70784,
+          "68550656": 0.70734,
+          "81395712": 0.70765,
+          "81657856": 0.70716,
+          "83492864": 2.29208,
+          "103153664": 0.70729,
+          "111411200": 0.71045,
+          "118489088": 0.75272,
+          "125435904": 1.42615
+        },
+        "date": "450.10.2",
+        "goal": {
+          "economy_exponent": 0,
+          "research_exponent": 0,
+          "army_offensive_exponent": 0,
+          "army_quantity_exponent": 0,
+          "army_longevity_exponent": 0,
+          "army_cost_exponent": 0,
+          "army_fort_exponent": 0,
+          "goods_exponent": 0,
+          "aggressive": 80,
+          "trustworthy": -435,
+          "ae_ceiling": 49,
+          "migration_chance": -9999,
+          "economy_amplifier": 0,
+          "research_amplifier": 0,
+          "army_offensive_amplifier": 0,
+          "army_quantity_amplifier": 0,
+          "army_longevity_amplifier": 0,
+          "army_cost_amplifier": 0,
+          "army_fort_amplifier": 0,
+          "goods_amplifier": 0,
+          "base_precision": 100,
+          "name": "",
+          "build_cost": -1000,
+          "global_unrest": -1200,
+          "global_tax_modifier": 2000,
+          "global_population_growth": 2000,
+          "global_population_capacity_modifier": 1000,
+          "global_monthly_state_loyalty": 1500,
+          "happiness_for_wrong_culture_modifier": 500,
+          "happiness_for_wrong_culture_group_modifier": 2250,
+          "happiness_for_same_culture_modifier": 1500,
+          "happiness_for_same_religion_modifier": 1000,
+          "land_morale_modifier": 2000,
+          "naval_morale_modifier": 1000,
+          "global_manpower_modifier": 500,
+          "manpower_recovery_speed": 500,
+          "army_weight_modifier": 200,
+          "global_supply_limit_modifier": 1000,
+          "agressive_expansion_monthly_change": -2000,
+          "global_capital_trade_routes": 10,
+          "discipline": 1500,
+          "global_commerce_modifier": 2500,
+          "ruler_popularity_gain": 2000,
+          "fabricate_claim_speed": 100,
+          "monthly_wage_modifier": 1500,
+          "cohort_reinforcement_speed": 500,
+          "land_morale_recovery": 2000,
+          "naval_morale_recovery": 1000,
+          "siege_ability": 2000,
+          "diplomatic_relations": 5,
+          "monthly_corruption": 1000,
+          "army_maintenance_cost": -2000,
+          "navy_maintenance_cost": -1000,
+          "country_civilization_value": 100,
+          "experience_decay": 500,
+          "monthly_experience_gain": 1000,
+          "monthly_tyranny": -1000,
+          "monthly_political_influence": 2000,
+          "stability_monthly_change": 1000,
+          "stability_monthly_decay": -1000,
+          "naval_damage_taken": 200,
+          "monthly_military_experience_modifier": 1000,
+          "global_pop_conversion_speed": 150,
+          "global_pop_conversion_speed_modifier": 1000,
+          "global_pop_assimilation_speed": 150,
+          "global_monthly_food_modifier": 5000,
+          "global_food_capacity": 2000,
+          "general_loyalty": 1500,
+          "levy_size_multiplier": 35,
+          "global_citizen_happyness": 500,
+          "global_freemen_happyness": 500,
+          "global_slaves_output": 1000,
+          "global_slaves_happyness": 500,
+          "global_tribesmen_happyness": 500,
+          "price_state_investment_military_cost_modifier": 200,
+          "reason": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            13,
+            20,
+            21,
+            53,
+            59,
+            60,
+            64
+          ]
+        },
+        "action_plan": {
+          "country": 164,
+          "date": "1.1.1"
+        },
+        "ai_settings": {
+          "ai_settings": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        "conquer_mission_tasks": [
+          "icenia_mission_tree_task_3",
+          "icenia_mission_tree_task_4",
+          "icenia_mission_tree_task_5",
+          "icenia_mission_tree_task_6",
+          "icenia_mission_tree_task_13",
+          "icenia_mission_tree_task_15",
+          "icenia_mission_tree_task_12",
+          "icenia_mission_tree_task_16",
+          "albion_main_mission_1_1",
+          "albion_main_mission_1_2",
+          "albion_main_mission_1_3",
+          "albion_side_mission_1",
+          "albion_conquest_mission_start",
+          "albion_side_mission_3_2",
+          "albion_side_mission_4_2",
+          "albion_main_mission_6_1",
+          "albion_main_mission_6_5",
+          "albion_main_mission_6_2",
+          "albion_main_mission_7_2",
+          "albion_main_mission_8_3",
+          "albion_main_mission_8_8",
+          "albion_conquest_mission_4_1",
+          "albion_conquest_mission_4_2",
+          "albion_main_mission_7_5",
+          "albion_main_mission_7_8",
+          "albion_main_mission_8_12",
+          "albion_main_mission_8_13",
+          "albion_main_mission_9_1"
+        ],
+        "road_network": [
+          2022,
+          2029,
+          2030,
+          2036
+        ],
+        "ambient_threat": 0.46233,
+        "ignored": "1.1.1",
+        "preferred_unit": "light_cavalry",
+        "preferred_ship": "octere",
+        "strategic_trade_good": "cedar",
+        "immediately_accessible_neighbor": 910,
+        "accessible_neighbor": 902,
+        "accessible_neighbor_no_sea": 902,
+        "potential_neighbor": 902,
+        "potential_neighbor_no_sea": 902,
+        "deficit": 10.96877,
+        "war_with": 117,
+        "naval_dominance": "parity",
+        "distress_level": "distressed",
+        "migration": "off",
+        "fleet_transport_capacity": 46.2,
+        "fleet_strength": 134.38912,
+        "decaying": [
+          0.00028,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          18.82463,
+          246.48759,
+          0,
+          43.5229,
+          30.37686,
+          21.37551,
+          257.59796,
+          178.35125,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.00011,
+          0,
+          0.19974,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.00008,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.0031,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.03387,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          57.39562,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.12931,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "allowances": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -18.52378,
+          396.36093,
+          -4.58783,
+          116.16,
+          -2.4,
+          232.32,
+          -17.56026,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          71.58309,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -55.5,
+          0,
+          40.44933,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -13,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          16.82034,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          39.60527,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -25.73281,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1.87681,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -46.90798,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "budget_dates": [
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "596.3.1",
+          "594.9.28",
+          "596.3.1",
+          "596.3.1",
+          "596.3.1",
+          "596.3.1",
+          "596.3.1",
+          "595.11.8",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "544.11.7",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "584.5.29",
+          "1.1.1",
+          "589.11.15",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "547.1.5",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "587.1.23",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "581.11.28",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "451.1.26",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "589.9.30",
+          "1.1.1",
+          "1.1.1",
+          "546.11.28",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "550.5.1",
+          "550.6.6",
+          "547.1.5",
+          "515.8.21",
+          "1.1.1",
+          "1.1.1",
+          "589.11.15",
+          "518.3.5",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "595.8.17",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "596.3.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "594.7.2",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1",
+          "1.1.1"
+        ]
+      }
+    }
+  }
+]
