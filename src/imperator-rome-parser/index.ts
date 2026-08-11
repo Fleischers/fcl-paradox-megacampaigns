@@ -6,14 +6,14 @@ import { StringDecoder } from 'string_decoder';
 
 // Список тегів країн гравців / ключових AI для відстеження
 const TARGET_TAGS = [
-    'TUS', // Tuscia
+    'ETR', // Tuscia
     'TAR', // Tartessia / Turdetania
-    'DAC', // Dacia
+    'GET', // Dacia
     'MAC', // Macedonia
     'SCY', // Scythia / Roxolania
-    'BEL', // Belgia / Remia
+    'REM', // Belgia / Remia
     'ARM', // Greater Armenia
-    'ALB', // Albion / Icenia
+    'ICE', // Albion / Icenia
     'SUI', // Suionia
     'MAU'  // Mauretania
 ];
@@ -23,14 +23,14 @@ const TARGET_TAGS = [
 const SAVE_FILE_PATH = process.argv[2] || 'E:\\Games\\paradox_tools\\FCL1-2026-08-02-b_melted.rome'; // вкажіть назву вашого файлу
 
 const TAG_NAMES: Record<string, string> = {
-    TUS: 'Tuscia',
+    ETR: 'Tuscia',
     TAR: 'Tartessia',
-    DAC: 'Dacia',
+    GET: 'Dacia',
     MAC: 'Macedonia',
     SCY: 'Scythia',
-    BEL: 'Belgia',
+    REM: 'Belgia',
     ARM: 'Armenia',
-    ALB: 'Albion',
+    ICE: 'Albion',
     SUI: 'Suionia',
     MAU: 'Mauretania'
 };

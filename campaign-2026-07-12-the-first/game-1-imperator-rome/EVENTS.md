@@ -24,6 +24,44 @@
 | :--- | :---: | :---: | :---: | :---: |:---: | :---: | :---: | :---: | :---
 | 🏛️ **Tuscia** | 355 | +119 | 4914 | +1392 | Italic | Vesnth 103 | Tech 7 (62%) | 116.88 | Ranazu Spurinas |
 
+## звіт за 2026-08-08
+
+### Гравці:
+
+> - LugoMortinsen | Mauretania
+> - SolarLumenar | Tartessia
+> - Zucchini | Tuscia
+> - Fleischer | Albion
+> - BatCat | Scythia
+> - FrankoUA | Dacia
+> - Feliss | Scandia
+> - greenvlad | Macedonia
+
+### Помічені події
+- Tuscia завершила війну агресії Бельгії шляхом вивільнення купи незалежних держав з неї.
+- Мавританія завершила об'єднання західних земель, а також пішла далі на схід.
+- Албіон захопив шматок біля Fezzan та передав ті земелі Мавританії у знак доброї дружби
+- Мавританія змінила релігію на Canaanite (релігію карфагенян)
+- Іберійці переплутали послів Карфагену та Мавританії (може через релігію? :joke:) і помилково передали першим кілька провінцій. Пізніше оголосивши війну і захопивши їх знову.
+- Скандія та Албіон по секретній змові захопили Родос та кілька островів та портів навколо.
+
+
+### Ledger
+
+**📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
+
+🍇 Greater Iberia (Tartessia) — 525 (+45) territories, 6429 (+1416) pops  
+🏛️ Tuscia — 409 (+15) territories, 6081 (+549) pops  
+🛡️ Dacia — 462 (+31) territories, 5130 (+753) pops  
+☀️ Macedon — 440 (+60) territories, 4616 (+598) pops  
+🏹 Scythia — 736 (+93) territories, 4426 (+478) pops  
+🥖 Belgia — 337 (+0) territories, 3051 (+149) pops  
+🌊 Albion — 283 (+19) territories, 2736 (+247) pops  
+🗻 Greater Armenia (Armenia) — 244 (+0) territories, 2568 (+198) pops  
+❄️ Scandia — 406 (+19) territories, 2527 (+269) pops  
+🦁 Mauretania — 232 (+29) territories, 1604 (+248) pops  
+
+
 ## звіт за 2026-08-02
 
 ### Гравці:
