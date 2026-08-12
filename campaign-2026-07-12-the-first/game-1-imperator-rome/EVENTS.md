@@ -50,15 +50,15 @@
 
 **📊 СТАТИСТИКА ТА ДИНАМІКА ЗРОСТАННЯ**
 
-🍇 Greater Iberia — 525  territories, 6429 pops
-🛡️ Dacia — 535 territories, 6032 pops
-🏛️ Tuscia — 394 territories, 5988 pops
-🏹 Scythia — 712 territories, 5041 pops 
-☀️ Macedon — 449 territories, 5007 pops
-❄️ Scandia — 443 territories, 3165 pops
-🌊 Albion — 265 territories, 2931 pops
- 🥖 Belgia — 255 territories, 2303 pops
-🦁 Mauretania — 280 territories, 2078 pops
+🍇 Greater Iberia (Tartessia) — 525 (+45) territories, 6429 (+1416) pops
+🛡️ Dacia — 535 (+104) territories, 6032 (+1655) pops
+🏛️ Tuscia — 394 (+0) territories, 5988 (+456) pops
+🏹 Scythia — 712 (+69) territories, 5041 (+1093) pops
+☀️ Macedon — 449 (+69) territories, 5007 (+989) pops
+❄️ Scandia — 443 (+56) territories, 3165 (+907) pops
+🌊 Albion — 265 (+1) territories, 2931 (+442) pops
+🥖 Belgia — 255 (-82) territories, 2303 (-599) pops
+🦁 Mauretania — 280 (+77) territories, 2078 (+722) pops
 🗻 Armenia — 💀
 
 ## звіт за 2026-08-02
