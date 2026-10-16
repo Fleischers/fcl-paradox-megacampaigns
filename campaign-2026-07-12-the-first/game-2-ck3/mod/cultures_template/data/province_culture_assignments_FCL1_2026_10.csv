@@ -199,12 +199,12 @@ province_id,culture,notes
 520,dacian,Exported starting assignment from k_hungary.txt
 521,dacian,Exported starting assignment from k_hungary.txt
 523,gallic,Exported starting assignment from k_hungary.txt
-524,gallic,Exported starting assignment from k_hungary.txt
-525,celtic_pannonian,Exported starting assignment from k_hungary.txt
+524,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+525,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 527,vandilian,Exported starting assignment from k_vistulia.txt
 528,vandal,Exported starting assignment from k_central_germania.txt
-529,vandal,Exported starting assignment from k_vistulia.txt
-530,vandilian,Exported starting assignment from k_vistulia.txt
+529,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+530,polish,Polish throughout Duchy of Mazovia (d_mazovia)
 531,vandilian,Exported starting assignment from k_vistulia.txt
 532,vandilian,Exported starting assignment from k_vistulia.txt
 533,celtic_pannonian,Exported starting assignment from k_hungary.txt
@@ -664,10 +664,6 @@ province_id,culture,notes
 1847,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1848,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1849,andalusian,Andalusian throughout Duchy of Granada (d_granada)
-1972,andalusian,Andalusian throughout Duchy of Granada (d_granada)
-1974,andalusian,Andalusian throughout Duchy of Granada (d_granada)
-1975,andalusian,Andalusian throughout Duchy of Granada (d_granada)
-1976,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1852,non_indo_european_iberian,Exported starting assignment from k_contestania.txt
 1853,non_indo_european_iberian,Exported starting assignment from k_contestania.txt
 1854,hellenic_greek,Exported starting assignment from k_contestania.txt
@@ -706,6 +702,10 @@ province_id,culture,notes
 1960,lusoiberian,Exported starting assignment from k_contestania.txt
 1963,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1967,celtiberian,Exported starting assignment from k_contestania.txt
+1972,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1974,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1975,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1976,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1977,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1978,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1979,andalusian,Andalusian throughout Duchy of Granada (d_granada)
@@ -765,9 +765,9 @@ province_id,culture,notes
 2126,belgae,Exported starting assignment from k_belgia.txt
 2130,belgae,Exported starting assignment from k_belgia.txt
 2132,belgae,Exported starting assignment from k_belgia.txt
-2142,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2147,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2150,gallic,Exported starting assignment from k_aquitane_gaul.txt
+2142,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2147,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2150,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
 2151,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
 2152,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
 2153,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
@@ -805,23 +805,28 @@ province_id,culture,notes
 2225,gallic,Exported starting assignment from k_south_gaul.txt
 2226,gallic,Exported starting assignment from k_south_gaul.txt
 2231,gallic,Exported starting assignment from k_south_gaul.txt
-2232,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2237,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2241,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2244,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2248,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2249,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2252,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2257,gallic,Exported starting assignment from k_aquitane_gaul.txt
+2232,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2237,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2241,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2244,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2248,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2249,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2252,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
+2257,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
 2261,gallic,Exported starting assignment from k_armorique.txt
 2264,gallic,Exported starting assignment from k_armorique.txt
 2267,gallic,Exported starting assignment from k_armorique.txt
 2270,gallic,Exported starting assignment from k_armorique.txt
-2274,gallic,Exported starting assignment from k_celtia_gaul.txt
-2278,gallic,Exported starting assignment from k_celtia_gaul.txt
-2280,gallic,Exported starting assignment from k_celtia_gaul.txt
+2273,french,French throughout Duchy of Berry and Duchy of Orleans
+2274,french,French throughout Duchy of Berry and Duchy of Orleans
+2275,french,French throughout Duchy of Berry and Duchy of Orleans
+2276,french,French throughout Duchy of Berry and Duchy of Orleans
+2277,french,French throughout Duchy of Berry and Duchy of Orleans
+2278,french,French throughout Duchy of Berry and Duchy of Orleans
+2279,french,French throughout Duchy of Berry and Duchy of Orleans
+2280,french,French throughout Duchy of Berry and Duchy of Orleans
 2282,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
-2283,gallic,Exported starting assignment from k_celtia_gaul.txt
+2283,french,French throughout Duchy of Berry and Duchy of Orleans
 2284,gallic,Exported starting assignment from k_celtia_gaul.txt
 2285,gallic,Exported starting assignment from k_celtia_gaul.txt
 2289,gallic,Exported starting assignment from k_south_gaul.txt
@@ -831,14 +836,27 @@ province_id,culture,notes
 2302,gallic,Exported starting assignment from k_celtia_gaul.txt
 2309,gallic,Exported starting assignment from k_celtia_gaul.txt
 2310,gallic,Exported starting assignment from k_celtia_gaul.txt
-2314,gallic,Exported starting assignment from k_celtia_gaul.txt
-2319,gallic,Exported starting assignment from k_celtia_gaul.txt
+2312,french,French throughout Duchy of Berry and Duchy of Orleans
+2313,french,French throughout Duchy of Berry and Duchy of Orleans
+2314,french,French throughout Duchy of Berry and Duchy of Orleans
+2315,french,French throughout Duchy of Berry and Duchy of Orleans
+2316,french,French throughout Duchy of Berry and Duchy of Orleans
+2317,french,French throughout Duchy of Berry and Duchy of Orleans
+2318,french,French throughout Duchy of Berry and Duchy of Orleans
+2319,french,French throughout Duchy of Berry and Duchy of Orleans
+2320,french,French throughout Duchy of Berry and Duchy of Orleans
+2321,french,French throughout Duchy of Berry and Duchy of Orleans
+2322,french,French throughout Duchy of Berry and Duchy of Orleans
+2323,french,French throughout Duchy of Berry and Duchy of Orleans
+2324,french,French throughout Duchy of Berry and Duchy of Orleans
 2325,gallic,Exported starting assignment from k_armorique.txt
 2329,gallic,Exported starting assignment from k_armorique.txt
-2331,gallic,Exported starting assignment from k_celtia_gaul.txt
+2331,french,French throughout Duchy of Berry and Duchy of Orleans
 2333,belgae,Exported starting assignment from k_celtia_gaul.txt
-2338,gallic,Exported starting assignment from k_celtia_gaul.txt
-2339,belgae,Exported starting assignment from k_celtia_gaul.txt
+2338,french,French throughout Duchy of Berry and Duchy of Orleans
+2339,french,French throughout Duchy of Berry and Duchy of Orleans
+2340,french,French throughout Duchy of Berry and Duchy of Orleans
+2341,french,French throughout Duchy of Berry and Duchy of Orleans
 2343,gallic,Exported starting assignment from k_celtia_gaul.txt
 2346,gallic,Exported starting assignment from k_celtia_gaul.txt
 2348,gallic,Exported starting assignment from k_celtia_gaul.txt
@@ -876,6 +894,7 @@ province_id,culture,notes
 2450,belgae,Exported starting assignment from k_frisia.txt
 2458,gallic,Exported starting assignment from k_celtia_gaul.txt
 2460,gallic,Exported starting assignment from k_rhetia.txt
+2463,french,French throughout Duchy of Berry and Duchy of Orleans
 2466,ligustic,Exported starting assignment from k_north_italy.txt
 2469,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2471,italian,Italian throughout Kingdom of North Italy (k_north_italy)
@@ -966,11 +985,19 @@ province_id,culture,notes
 2647,nuragic,Exported starting assignment from k_sardinia.txt
 2650,nuragic,Exported starting assignment from k_sardinia.txt
 2652,nuragic,Exported starting assignment from k_sardinia.txt
-2653,carthaginian,Exported starting assignment from k_sardinia.txt
-2656,nuragic,Exported starting assignment from k_sardinia.txt
-2658,nuragic,Exported starting assignment from k_sardinia.txt
-2659,nuragic,Exported starting assignment from k_sardinia.txt
-2662,nuragic,Exported starting assignment from k_sardinia.txt
+2653,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2654,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2655,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2656,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2657,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2658,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2659,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2660,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2661,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2662,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2663,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2664,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
+2665,sardinian,Sardinian throughout Duchy of Sardinia (d_sardinia)
 2670,frankish,Exported starting assignment from k_saxony.txt
 2673,frankish,Exported starting assignment from k_belgia.txt
 2679,frankish,Exported starting assignment from k_belgia.txt
@@ -1082,20 +1109,39 @@ province_id,culture,notes
 3027,suebi,Exported starting assignment from k_central_germania.txt
 3030,suebi,Exported starting assignment from k_central_germania.txt
 3039,gallic,Exported starting assignment from k_central_germania.txt
-3040,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-3042,vandal,Exported starting assignment from k_german_bohemia.txt
-3044,vandal,Exported starting assignment from k_german_bohemia.txt
-3045,vandal,Exported starting assignment from k_central_germania.txt
+3040,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3041,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3042,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3043,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3044,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3045,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3046,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
 3047,czech,Czech throughout Duchy of Bohemia (d_bohemia)
-3048,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-3049,vandal,Exported starting assignment from k_german_bohemia.txt
-3052,vandal,Exported starting assignment from k_german_bohemia.txt
-3058,vandal,Exported starting assignment from k_central_germania.txt
-3061,vandal,Exported starting assignment from k_central_germania.txt
-3064,suebi,Exported starting assignment from k_central_germania.txt
-3067,vandal,Exported starting assignment from k_central_germania.txt
-3068,vandal,Exported starting assignment from k_central_germania.txt
+3048,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3049,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3050,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3051,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3052,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3053,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3054,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3055,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3056,polish,Polish throughout Duchy of Upper Silesia (d_upper_silesia)
+3057,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3058,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3059,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3060,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3061,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3062,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3063,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3064,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3065,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3066,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3067,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3068,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3069,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3070,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
 3073,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+3080,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 3081,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3086,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3088,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
@@ -1114,10 +1160,16 @@ province_id,culture,notes
 3131,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3134,celtic_pannonian,Exported starting assignment from k_rhetia.txt
 3135,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+3139,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
 3140,suebi,Exported starting assignment from k_central_germania.txt
+3142,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
 3143,suebi,Exported starting assignment from k_central_germania.txt
-3145,vandal,Exported starting assignment from k_central_germania.txt
-3149,suebi,Exported starting assignment from k_central_germania.txt
+3144,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3145,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3146,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3147,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+3148,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+3149,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
 3152,vandal,Exported starting assignment from k_central_germania.txt
 3154,vandal,Exported starting assignment from k_central_germania.txt
 3158,suebi,Exported starting assignment from k_central_germania.txt
@@ -1224,21 +1276,39 @@ province_id,culture,notes
 3805,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3808,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3809,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3811,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3815,celtic_pannonian,Exported starting assignment from k_hungary.txt
+3810,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3811,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3812,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3813,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3814,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3815,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3816,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3817,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3820,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3823,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3826,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3827,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3831,celtic_pannonian,Exported starting assignment from k_hungary.txt
+3831,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3832,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3833,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3834,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3835,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3839,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3842,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3846,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3848,gallic,Exported starting assignment from k_hungary.txt
-3854,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3856,celtic_pannonian,Exported starting assignment from k_hungary.txt
+3846,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3847,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3848,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3849,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3850,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3851,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3852,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3853,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3854,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3855,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3856,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3857,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3858,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
+3859,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3862,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3863,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3865,celtic_pannonian,Exported starting assignment from k_hungary.txt
@@ -1255,6 +1325,7 @@ province_id,culture,notes
 3919,dacian,Exported starting assignment from k_hungary.txt
 3924,dacian,Exported starting assignment from k_hungary.txt
 3931,dacian,Exported starting assignment from k_hungary.txt
+3934,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3940,getian,Exported starting assignment from k_hungary.txt
 3942,getian,Exported starting assignment from k_hungary.txt
 3968,hindustani,Exported starting assignment from k_rajputana.txt
@@ -1314,25 +1385,35 @@ province_id,culture,notes
 4145,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4146,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4147,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4148,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 4149,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4150,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4151,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4152,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4153,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4154,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4155,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 4156,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4157,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4158,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4159,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 4160,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4161,czech,Czech throughout Duchy of Bohemia (d_bohemia)
-4162,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4165,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4166,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4168,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+4162,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4163,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4164,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4165,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4166,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4167,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4168,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4169,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4170,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 4171,persian,Exported starting assignment from k_persia.txt
 4177,persian,Exported starting assignment from k_persia.txt
-4182,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4184,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+4181,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4182,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4183,slovien,Slovien throughout Duchy of Moravia (d_moravia)
+4184,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 4185,persian,Exported starting assignment from k_persia.txt
 4191,persian,Exported starting assignment from k_persia.txt
 4193,persian,Exported starting assignment from k_persia.txt
@@ -1527,18 +1608,46 @@ province_id,culture,notes
 4893,anatolian,Exported starting assignment from k_syria.txt
 4894,aramaic,Exported starting assignment from k_syria.txt
 4896,cilician,Exported starting assignment from k_anatolia.txt
-4900,vandal,Exported starting assignment from k_central_germania.txt
-4905,vandal,Exported starting assignment from k_central_germania.txt
-4909,vandal,Exported starting assignment from k_central_germania.txt
-4912,vandal,Exported starting assignment from k_central_germania.txt
-4915,gothic,Exported starting assignment from k_central_germania.txt
+4900,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4901,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4902,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4903,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4904,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4905,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4906,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4907,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4908,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4909,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4910,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4911,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4912,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4913,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4914,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4915,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4916,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
+4917,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
 4918,vandal,Exported starting assignment from k_central_germania.txt
 4922,vandal,Exported starting assignment from k_central_germania.txt
 4924,vandal,Exported starting assignment from k_central_germania.txt
 4931,vandal,Exported starting assignment from k_central_germania.txt
-4940,vandal,Exported starting assignment from k_vistulia.txt
-4943,prussian,Exported starting assignment from k_vistulia.txt
-4946,vandilian,Exported starting assignment from k_vistulia.txt
+4933,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4934,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4935,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4936,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4937,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4938,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4939,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4940,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4941,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4942,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4943,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4944,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4945,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4946,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4947,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4948,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4949,polish,Polish throughout Duchy of Mazovia (d_mazovia)
+4950,polish,Polish throughout Duchy of Mazovia (d_mazovia)
 4951,vandilian,Exported starting assignment from k_vistulia.txt
 4953,vandilian,Exported starting assignment from k_vistulia.txt
 4957,vandilian,Exported starting assignment from k_vistulia.txt
@@ -2577,6 +2686,7 @@ province_id,culture,notes
 8989,han,Exported starting assignment from k_jiangxi.txt
 8990,han,Exported starting assignment from k_jiangxi.txt
 8994,sorko,Exported starting assignment from k_songhay.txt
+8999,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 9002,zhangzhung,Exported starting assignment from k_maryul.txt
 9006,zhangzhung,Exported starting assignment from k_maryul.txt
 9009,zhangzhung,Exported starting assignment from k_maryul.txt

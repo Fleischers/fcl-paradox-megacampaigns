@@ -28,7 +28,7 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-3,568 assignments across 220 cultures. Intentional overrides include all 17
+3,678 assignments across 225 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
@@ -47,8 +47,21 @@ All 16 barony provinces in the Duchy of Dyrrachion (`d_dyrrachion`) were
 changed to `albanian`; 11 had no explicit culture in the source export.
 All 13 barony provinces in the Duchy of Croatia (`d_croatia`) were changed to
 `croatian`; nine had no explicit culture in the source export. Estonian
-provinces were not changed. All 220 culture IDs used are defined in this
-template.
+provinces were not changed. All 28 barony provinces in the Duchy of Nyitra
+(`d_nyitra`, corresponding to Nitra) and all 18 barony provinces in the Duchy
+of Moravia (`d_moravia`) were changed to `slovien`; 19 Nyitra and 12 Moravia
+provinces had no explicit culture in the source export. The template does not
+define a Slovakian culture, so Slovien was used for Nyitra as requested.
+All 22 barony provinces in the Duchy of Wielkopolska (Polania), 15 in Upper
+Silesia, 19 in Lower Silesia, and 20 in Mazovia were changed to `polish`; 49
+had no explicit culture in the source export. Lesser Poland was not changed.
+All 12 baronies in Berry and 16 in Orléans were changed to `french`; 19 had no
+explicit culture in the source export. In the Kingdom of Aquitaine
+(`k_aquitane_gaul`), the 11 baronies that had `gallic` were changed to
+`occitan`; all other culture assignments there were left unchanged. All 13
+baronies in the Duchy of Sardinia (`d_sardinia`) were changed to `sardinian`;
+eight had no explicit culture in the source export. All 225 culture IDs used
+are defined in this template.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the
