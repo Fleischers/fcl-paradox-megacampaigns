@@ -1,0 +1,66 @@
+﻿albanian = {
+	color = rgb { 204 191 212 }
+	heritage = heritage_albanian
+	language = language_albanian
+	traditions = { tradition_swords_for_hire tradition_mountain_homes tradition_wedding_ceremonies }
+	name_list = name_list_albanian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}
+dalmatian = {
+	color = rgb { 246 223 15 }
+	heritage = heritage_albanian
+	language = language_illyrian
+	traditions = { tradition_hit_and_run tradition_swords_for_hire }
+	name_list = name_list_illyrian
+	name_list = name_list_albanian
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethos = ethos_bellicose
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+}
+messapic = {
+	color = rgb { 5 52 113 }
+	heritage = heritage_albanian
+	language = language_messapic
+	traditions = { tradition_only_the_strong }
+	name_list = name_list_illyrian
+	name_list = name_list_albanian
+	martial_custom = martial_custom_male_only
+	ethos = ethos_stoic
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+}

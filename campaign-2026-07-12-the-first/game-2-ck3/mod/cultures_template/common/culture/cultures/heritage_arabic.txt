@@ -1,0 +1,174 @@
+﻿bedouin = {
+	color = rgb { 26 191 26 }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_tribe_unity tradition_desert_nomads tradition_mubarizuns tradition_caravaneers tradition_ep2_avid_falconers }
+	name_list = name_list_bedouin
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		100 = arab
+	}
+}
+yemeni = {
+	color = rgb { 51 153 51 }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_mountaineers tradition_mountain_herding tradition_religion_blending tradition_maritime_mercantilism }
+	name_list = name_list_yemeni
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		62 = arab
+		38 = east_african
+	}
+}
+maghrebi = {
+	color = rgb { 26 153 26 }
+	parents = { bedouin baranis }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_ce1_ritual_washing tradition_african_tolerance tradition_mubarizuns tradition_dryland_dwellers tradition_fishermen }
+	name_list = name_list_maghrebi
+	created = 600.1.1
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_10
+	house_coa_mask_offset = { 0.0 -0.06 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		91 = arab
+		9 = african
+	}
+}
+egyptian = {
+	color = rgb { 26 153 26 }
+	parents = { bedouin ancient_egyptian }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_philosopher_culture tradition_agrarian tradition_zealous_people tradition_mubarizuns }
+	name_list = name_list_egyptian
+	created = 640.1.1
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_10
+	house_coa_mask_offset = { 0.0 -0.06 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	ethnicities = {
+		10 = arab
+	}
+}
+levantine = {
+	color = rgb { 76 242 76 }
+	parents = { bedouin assyrian }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_philosopher_culture tradition_medicinal_plants tradition_mubarizuns tradition_dryland_dwellers tradition_ce1_ritual_washing }
+	name_list = name_list_levantine
+	created = 650.1.1
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		100 = arab
+	}
+}
+nabatean = {
+	color = rgb { 14 20 31 }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_caravaneers tradition_dryland_dwellers tradition_warriors_of_the_dry }
+	name_list = name_list_nabatean
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		10 = arab
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = {
+		mediterranean_building_gfx # quite hellenistic https://en.wikipedia.org/wiki/Nabataean_architecture
+		# arabic_group_building_gfx # commented out to fix log error: "Gfx culture mediterranean_building_gfx in nabatean doesn't match existing sequence in armenian"
+	}
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+adnanite = {
+	color = rgb { 26 128 26 }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_caravaneers tradition_desert_nomads tradition_warriors_of_the_dry }
+	name_list = name_list_bedouin
+	name_list = name_list_levantine
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		10 = arab
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+qahtanite = {
+	color = rgb { 51 102 51 }
+	heritage = heritage_arabic
+	language = language_arabic
+	traditions = { tradition_mountaineers tradition_maritime_mercantilism }
+	name_list = name_list_bedouin
+	name_list = name_list_yemeni
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_13
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		10 = arab
+		6 = east_african
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}

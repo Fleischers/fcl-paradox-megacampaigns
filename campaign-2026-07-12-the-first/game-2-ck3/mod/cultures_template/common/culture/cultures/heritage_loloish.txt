@@ -1,0 +1,83 @@
+﻿yi = {
+	color = rgb { 230 230 230 }
+	heritage = heritage_loloish
+	language = language_yi
+	traditions = { tradition_hill_dwellers tradition_highland_warriors }
+	name_list = name_list_han
+	name_order_convention = dynasty_always_first
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_xenophilic
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_china
+	ethnicities = {
+		10 = asian_han_chinese
+	}
+}
+bai = {
+	color = rgb { 230 102 26 }
+	heritage = heritage_loloish
+	language = language_bai
+	traditions = { tradition_hill_dwellers tradition_xenophilic tradition_ruling_caste }
+	name_list = name_list_han
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_tgp_hydraulic_builders
+		requires_dlc_flag = all_under_heaven
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_china
+	ethnicities = {
+		10 = asian_han_chinese
+	}
+}
+tujia = {
+	color = rgb { 141 186 119 }
+	heritage = heritage_loloish
+	language = language_tujian
+	traditions = { tradition_warrior_monks tradition_loyal_soldiers tradition_storytellers tradition_highland_warriors }
+	name_list = name_list_tai
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { southeast_asian_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_04
+	ethnicities = {
+		10 = asian_han_chinese
+	}
+}
+old_bashu = {
+	color = rgb { 107 153 126 }
+	heritage = heritage_loloish
+	language = language_bashu
+	traditions = { tradition_culinary_art tradition_metal_craftsmanship tradition_music_theory tradition_swords_for_hire }
+	name_list = name_list_han
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_04
+	ethnicities = {
+				10 = asian_han_chinese
+			}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+}

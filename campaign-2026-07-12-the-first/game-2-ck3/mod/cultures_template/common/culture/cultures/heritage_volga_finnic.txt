@@ -1,0 +1,107 @@
+﻿mordvin = {
+	color = rgb { 115 89 204 }
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	traditions = { tradition_music_theory tradition_festivities tradition_religion_blending }
+	name_list = name_list_mordvin
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		75 = circumpolar_dark_hair
+		25 = circumpolar_brown_hair
+	}
+}
+merya = {
+	color = rgb { 64 128 204 }
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	traditions = { tradition_storytellers }
+	name_list = name_list_merya
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		75 = circumpolar_dark_hair
+		25 = circumpolar_brown_hair
+	}
+}
+meshchera = {
+	color = rgb { 89 102 204 }
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	traditions = { tradition_music_theory tradition_religion_blending }
+	name_list = name_list_meshchera
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		75 = circumpolar_dark_hair
+		25 = circumpolar_brown_hair
+	}
+}
+mari = {
+	color = rgb { 115 140 217 }
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	traditions = { tradition_music_theory tradition_festivities }
+	name_list = name_list_mari
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { ugro_permian_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		75 = circumpolar_dark_hair
+		25 = circumpolar_brown_hair
+	}
+}
+muroma = {
+	color = rgb { 51 76 153 }
+	heritage = heritage_volga_finnic
+	language = language_volga_finnic
+	traditions = { tradition_storytellers tradition_festivities }
+	name_list = name_list_muroma
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		75 = circumpolar_dark_hair
+		25 = circumpolar_brown_hair
+	}
+}

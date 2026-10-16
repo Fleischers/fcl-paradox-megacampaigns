@@ -1,0 +1,199 @@
+﻿mongol = {
+	color = rgb { 102 102 255 }
+	heritage = heritage_mongolic
+	language = language_mongolic
+	traditions = { tradition_hunters tradition_only_the_strong tradition_hit_and_run }
+	name_list = name_list_mongol
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_wolves_of_the_deep_steppe
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+buryat = {
+	color = rgb { 26 26 204 }
+	heritage = heritage_mongolic
+	language = language_mongolic
+	traditions = { tradition_sacred_hunts tradition_mystical_ancestors tradition_medicinal_plants }
+	name_list = name_list_buryat
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_northern_tribes
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+oirat = {
+	color = rgb { 51 51 255 }
+	heritage = heritage_mongolic
+	language = language_mongolic
+	traditions = { tradition_hunters tradition_zealous_people tradition_mountain_homes }
+	name_list = name_list_oirat
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_northern_tribes
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+naiman = {
+	color = rgb { 115 140 230 }
+	heritage = heritage_mongolic
+	language = language_mongolic
+	traditions = { tradition_welcoming tradition_pastoralists tradition_mountain_homes tradition_stalwart_defenders }
+	name_list = name_list_naiman
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+kerait = {
+	color = rgb { 102 153 230 }
+	heritage = heritage_mongolic
+	language = language_mongolic
+	traditions = { tradition_horse_breeder tradition_hunters tradition_warrior_culture }
+	name_list = name_list_kerait
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_wolves_of_the_deep_steppe
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_16
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+khitan = {
+	color = rgb { 45 49 107 }
+	heritage = heritage_mongolic
+	language = language_khitan
+	traditions = { tradition_pastoralists tradition_sacred_hunts tradition_ruling_caste }
+	name_list = name_list_khitan
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_malleable_invaders	#the way they took parts of China and then heavily sinicized into LIAO dyn
+		requires_dlc_flag = hybridize_culture
+		fallback = tradition_religion_blending	#mixed a lot of religions : buddhism, christianity, confucianism, taoism, folk religion
+	}
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { khitan_clothing_gfx mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_16
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+shiwei = {
+	color = rgb { 59 38 204 }
+	heritage = heritage_mongolic
+	language = language_khitan
+	traditions = { tradition_isolationist tradition_pastoralists tradition_mountaineers }
+	name_list = name_list_khitan
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+tuyuhun = {
+	color = rgb { 255 125 125 }
+	heritage = heritage_mongolic
+	language = language_khitan
+	traditions = { tradition_horse_breeder tradition_pastoralists tradition_dryland_dwellers }
+	name_list = name_list_tuyuhun
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_mongol
+	}
+}
+ongud = {
+	color = rgb { 166 102 38 }
+	parents = { shatuo }
+	heritage = heritage_mongolic
+	language = language_turkic
+	traditions = { tradition_stalwart_defenders tradition_astute_diplomats tradition_hunters }
+	name_list = name_list_ongud
+	created = 830.1.1
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	coa_gfx = { turkic_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = turkic
+	}
+}

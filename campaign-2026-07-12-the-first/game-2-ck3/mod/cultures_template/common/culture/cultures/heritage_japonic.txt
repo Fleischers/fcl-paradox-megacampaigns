@@ -1,0 +1,67 @@
+﻿japanese = {
+	color = rgb { 255 100 255 }
+	heritage = heritage_japonic
+	language = language_japonic
+	traditions = { }
+	name_list = name_list_yamato
+	name_order_convention = japanese
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_tgp_imperial_peace
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_ephemeral_grace
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_poetry
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_mountain_island
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_mountaineers
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_inward_perfection
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_japanese_houses
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_noble_adoption
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_warrior_monks
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_warrior_monks
+	}
+	coa_gfx = { japanese_coa_gfx }
+	building_gfx = { japanese_building_gfx }
+	clothing_gfx = { japanese_clothing_gfx }
+	unit_gfx = { japanese_unit_gfx }
+	house_coa_frame = house_japan
+	ethnicities = {
+		100 = asian_japanese
+	}
+}
+ryukyuan = {
+	color = rgb { 102 13 13 }
+	heritage = heritage_japonic
+	language = language_japonic
+	traditions = { tradition_seafaring tradition_fishermen tradition_maritime_mercantilism tradition_ce1_ritual_washing }
+	name_list = name_list_ryukyuan
+	name_order_convention = japanese
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { japanese_coa_gfx }
+	building_gfx = { japanese_building_gfx }
+	clothing_gfx = { japanese_clothing_gfx }
+	unit_gfx = { japanese_unit_gfx }
+	house_coa_frame = house_japan
+	ethnicities = {
+		100 = asian_japanese
+	}
+}

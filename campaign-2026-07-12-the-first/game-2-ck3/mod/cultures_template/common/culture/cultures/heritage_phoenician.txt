@@ -1,0 +1,63 @@
+﻿phoenician = {
+	color = rgb { 102 18 186 }
+	heritage = heritage_phoenician
+	language = language_punic
+	traditions = { tradition_seafaring tradition_xenophilic }
+	name_list = name_list_punic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_egalitarian
+	ethnicities = {
+		10 = arab
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+carthaginian = {
+	color = rgb { 178 153 242 }
+	parents = { phoenician }
+	heritage = heritage_phoenician
+	language = language_carthaginian
+	traditions = { tradition_maritime_mercantilism tradition_swords_for_hire tradition_eye_for_an_eye tradition_seafaring tradition_ce1_ritual_washing }
+	name_list = name_list_carthaginian
+	name_list = name_list_punic
+	created = 2.1.1
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { arabic_group_building_gfx mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		10 = arab
+	}
+}
+ugaritic = {
+	color = rgb { 130 143 120 }
+	heritage = heritage_phoenician
+	language = language_ugaritic
+	traditions = { tradition_maritime_mercantilism tradition_xenophilic tradition_poetry tradition_astute_diplomats }
+	name_list = name_list_punic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_bureaucratic
+	ethnicities = {
+		10 = arab
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}

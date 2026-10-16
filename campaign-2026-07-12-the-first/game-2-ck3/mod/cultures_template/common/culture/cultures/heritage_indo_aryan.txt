@@ -1,0 +1,281 @@
+﻿bengali = {
+	color = rgb { 0 120 40 }
+	heritage = heritage_indo_aryan
+	language = language_magadhan
+	traditions = { tradition_philosopher_culture tradition_religious_patronage tradition_agrarian }
+	name_list = name_list_bengali
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+oriya = {
+	color = rgb { 204 102 0 }
+	heritage = heritage_indo_aryan
+	language = language_magadhan
+	traditions = { tradition_culinary_art tradition_seafaring tradition_lords_of_the_elephant }
+	name_list = name_list_oriya
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+assamese = {
+	color = rgb { 166 64 26 }
+	heritage = heritage_indo_aryan
+	language = language_magadhan
+	traditions = { tradition_collective_lands tradition_jungle_warriors }
+	name_list = name_list_assamese
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+hindustani = {
+	color = rgb { 255 0 0 }
+	heritage = heritage_indo_aryan
+	language = language_sauraseni
+	traditions = { tradition_agrarian tradition_ruling_caste tradition_court_eunuchs tradition_city_keepers }
+	name_list = name_list_hindustani
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+gujarati = {
+	color = rgb { 102 51 51 }
+	heritage = heritage_indo_aryan
+	language = language_rajasthani
+	traditions = { tradition_vegetarianism tradition_religion_blending tradition_seafaring tradition_artisans }
+	name_list = name_list_gujarati
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+punjabi = {
+	color = rgb { 204 76 51 }
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	traditions = { tradition_wedding_ceremonies tradition_storytellers tradition_agrarian }
+	name_list = name_list_punjabi
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+rajput = {
+	color = rgb { 153 0 0 }
+	heritage = heritage_indo_aryan
+	language = language_rajasthani
+	traditions = { tradition_warrior_culture tradition_quarrelsome tradition_mystical_ancestors tradition_khadga_puja }
+	name_list = name_list_rajput
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+malvi = {
+	color = rgb { 153 13 13 }
+	heritage = heritage_indo_aryan
+	language = language_rajasthani
+	traditions = { tradition_fervent_temple_builders tradition_mystical_ancestors tradition_khadga_puja tradition_agrarian }
+	name_list = name_list_malvi
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+sindhi = {
+	color = rgb { 255 51 0 }
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	traditions = { tradition_poetry tradition_seafaring tradition_mendicant_mystics }
+	name_list = name_list_sindhi
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+marathi = {
+	color = rgb { 204 51 0 }
+	heritage = heritage_indo_aryan
+	language = language_marathi
+	traditions = { tradition_hard_working tradition_modest tradition_pastoralists }
+	name_list = name_list_marathi
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+kashmiri = {
+	color = rgb { 153 102 76 }
+	heritage = heritage_indo_aryan
+	language = language_kashmiri
+	traditions = { tradition_himalayan_settlers tradition_poetry tradition_equal_inheritance }
+	name_list = name_list_kashmiri
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		91 = indian
+		9 = asian_tibetan
+	}
+}
+sinhala = {
+	color = rgb { 255 76 76 }
+	heritage = heritage_indo_aryan
+	language = language_sinhalese
+	traditions = { tradition_ruling_caste tradition_fervent_temple_builders tradition_city_keepers }
+	name_list = name_list_sinhala
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = indian
+	}
+}
+nepali = {
+	color = rgb { 153 76 0 }
+	heritage = heritage_indo_aryan
+	language = language_pahari
+	traditions = { tradition_himalayan_settlers tradition_martial_admiration tradition_religious_patronage }
+	name_list = name_list_nepali
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { tibetan_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		100 = asian_tibetan
+	}
+}
+brahui = {
+	color = rgb { 255 102 102 }
+	heritage = heritage_indo_aryan
+	language = language_north_dravidian
+	traditions = { tradition_astute_diplomats tradition_culture_blending tradition_desert_nomads }
+	name_list = name_list_gond
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp3_jirga
+		requires_dlc_flag = legacy_of_persia
+		fallback = tradition_tribe_unity 
+	}
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { iranian_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx }
+	house_coa_frame = house_frame_17
+	ethnicities = {
+		60 = indian
+		40 = arab
+	}
+}
+neo_mitanni = {
+	color = rgb { 56 38 13 }
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	traditions = { tradition_poetry tradition_seafaring tradition_mendicant_mystics }
+	name_list = name_list_sindhi
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_17
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		10 = indian
+	}
+}

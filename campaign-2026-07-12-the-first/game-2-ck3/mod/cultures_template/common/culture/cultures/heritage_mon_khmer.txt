@@ -1,0 +1,110 @@
+﻿khmer = {
+	color = rgb { 76 76 178 }
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	traditions = { tradition_fervent_temple_builders tradition_mystical_ancestors }
+	name_list = name_list_khmer
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_tgp_rice_cultivators
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_hydraulic_builders
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_esoteric_power
+		requires_dlc_flag = all_under_heaven
+	}
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		100 = asian_malay
+	}
+}
+khmu = {
+	color = rgb { 51 153 102 }
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	traditions = { tradition_hill_dwellers tradition_storytellers }
+	name_list = name_list_khmer
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_tgp_rice_cultivators
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		100 = asian_malay
+	}
+}
+mon = {
+	color = rgb { 89 153 26 }
+	heritage = heritage_mon_khmer
+	language = language_mon_khmer
+	traditions = { tradition_agrarian tradition_religious_patronage }
+	name_list = name_list_mon
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_xenophilic
+	}
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { southeast_asian_building_gfx }
+	clothing_gfx = { malay_clothing_gfx southeast_asian_clothing_gfx }
+	unit_gfx = { southeast_asian_unit_gfx indian_unit_gfx }
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		100 = asian_malay
+	}
+}
+chong = {
+	color = rgb { 217 189 104 }
+	heritage = heritage_mon_khmer
+	language = language_chong
+	traditions = { tradition_medicinal_plants tradition_agrarian }
+	name_list = name_list_khmer
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_26
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = {
+		# khmer_clothing_gfx austronesian_clothing_gfx # IRToCK3: don't have these
+		indian_clothing_gfx
+	}
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = { # changed from RoA, we don't have their ethnicities
+		10 = asian
+	}
+}

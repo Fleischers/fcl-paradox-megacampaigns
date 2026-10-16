@@ -1,0 +1,109 @@
+﻿russian = {
+	color = rgb { 51 102 26 }
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	traditions = { tradition_druzhina tradition_mendicant_mystics tradition_welcoming }
+	name_list = name_list_russian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { east_slavic_building_gfx western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
+	}
+}
+ilmenian = {
+	color = rgb { 115 153 51 }
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	traditions = { tradition_hit_and_run tradition_agrarian tradition_forest_folk tradition_druzhina }
+	name_list = name_list_ilmenian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { east_slavic_building_gfx western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
+	}
+}
+severian = {
+	color = rgb { 128 204 76 }
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	traditions = { tradition_forest_folk tradition_druzhina tradition_sacred_groves }
+	name_list = name_list_severian
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { east_slavic_building_gfx western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
+	}
+}
+volhynian = {
+	color = rgb { 166 204 76 }
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	traditions = { tradition_astute_diplomats tradition_agrarian tradition_city_keepers tradition_druzhina }
+	name_list = name_list_volhynian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { east_slavic_building_gfx western_building_gfx }
+	clothing_gfx = { east_slavic_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_05
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
+	}
+}
+urslavic = {
+	color = rgb { 51 26 102 }
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	traditions = { tradition_druzhina tradition_forest_folk }
+	name_list = name_list_urslavic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethos = ethos_communal
+	ethnicities = {
+		60 = slavic_northern_blond
+		5 = slavic_northern_ginger
+		25 = slavic_northern_brown_hair
+		10 = slavic_northern_dark_hair
+	}
+}
