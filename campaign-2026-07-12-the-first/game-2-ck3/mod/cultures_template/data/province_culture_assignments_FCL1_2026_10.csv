@@ -146,13 +146,14 @@ province_id,culture,notes
 450,finnish,Exported starting assignment from k_finland.txt
 454,karelian,Exported starting assignment from k_sapmi.txt
 458,dalmatian,Exported starting assignment from k_illiria.txt
+459,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 461,dalmatian,Exported starting assignment from k_illiria.txt
-464,dalmatian,Exported starting assignment from k_illiria.txt
+464,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 465,dalmatian,Exported starting assignment from k_illiria.txt
 466,dalmatian,Exported starting assignment from k_illiria.txt
 468,italiote,Exported starting assignment from k_illiria.txt
 469,albanian,Exported starting assignment from k_illiria.txt
-470,italiote,Exported starting assignment from k_epirus.txt
+470,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
 471,albanian,Exported starting assignment from k_macedon.txt
 472,hellenic_greek,Exported starting assignment from k_epirus.txt
 473,hellenic_greek,Exported starting assignment from k_epirus.txt
@@ -659,8 +660,14 @@ province_id,culture,notes
 1837,celtiberian,Exported starting assignment from k_betique.txt
 1843,carthaginian,Exported starting assignment from k_betique.txt
 1845,non_indo_european_iberian,Exported starting assignment from k_betique.txt
-1846,non_indo_european_iberian,Exported starting assignment from k_betique.txt
-1849,non_indo_european_iberian,Exported starting assignment from k_betique.txt
+1846,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1847,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1848,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1849,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1972,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1974,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1975,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1976,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1852,non_indo_european_iberian,Exported starting assignment from k_contestania.txt
 1853,non_indo_european_iberian,Exported starting assignment from k_contestania.txt
 1854,hellenic_greek,Exported starting assignment from k_contestania.txt
@@ -700,15 +707,17 @@ province_id,culture,notes
 1963,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1967,celtiberian,Exported starting assignment from k_contestania.txt
 1977,non_indo_european_iberian,Exported starting assignment from k_betique.txt
-1978,non_indo_european_iberian,Exported starting assignment from k_betique.txt
-1979,non_indo_european_iberian,Exported starting assignment from k_betique.txt
+1978,andalusian,Andalusian throughout Duchy of Granada (d_granada)
+1979,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1981,non_indo_european_iberian,Exported starting assignment from k_betique.txt
+1984,andalusian,Andalusian throughout Duchy of Granada (d_granada)
 1987,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1991,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1995,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1996,non_indo_european_iberian,Exported starting assignment from k_lusitania.txt
-2000,carthaginian,Exported starting assignment from k_contestania.txt
-2002,nuragic,Exported starting assignment from k_contestania.txt
+2000,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
+2001,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
+2002,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
 2006,celtiberian,Exported starting assignment from k_south_gaul.txt
 2009,basque,Exported starting assignment from k_aquitane_gaul.txt
 2010,basque,Exported starting assignment from k_aquitane_gaul.txt
@@ -723,7 +732,7 @@ province_id,culture,notes
 2035,gallic,Exported starting assignment from k_south_gaul.txt
 2039,gallic,Exported starting assignment from k_south_gaul.txt
 2040,gallic,Exported starting assignment from k_south_gaul.txt
-2041,gallic,Exported starting assignment from k_north_italy.txt
+2041,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2043,ligustic,Exported starting assignment from k_north_italy.txt
 2046,gallic,Exported starting assignment from k_rhetia.txt
 2049,gallic,Exported starting assignment from k_rhetia.txt
@@ -868,8 +877,8 @@ province_id,culture,notes
 2458,gallic,Exported starting assignment from k_celtia_gaul.txt
 2460,gallic,Exported starting assignment from k_rhetia.txt
 2466,ligustic,Exported starting assignment from k_north_italy.txt
-2469,gallic,Exported starting assignment from k_north_italy.txt
-2471,gallic,Exported starting assignment from k_north_italy.txt
+2469,italian,Italian throughout Kingdom of North Italy (k_north_italy)
+2471,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2472,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2474,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2475,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
@@ -890,24 +899,27 @@ province_id,culture,notes
 2493,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2494,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2495,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2497,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2498,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2499,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2501,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2503,venetic,Exported starting assignment from k_north_italy.txt
 2505,venetic,Exported starting assignment from k_north_italy.txt
 2506,venetic,Exported starting assignment from k_north_italy.txt
 2508,venetic,Exported starting assignment from k_north_italy.txt
 2512,venetic,Exported starting assignment from k_north_italy.txt
 2516,celtic_pannonian,Exported starting assignment from k_north_italy.txt
-2517,gallic,Exported starting assignment from k_north_italy.txt
+2517,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2518,venetic,Exported starting assignment from k_illiria.txt
-2521,italiote,Exported starting assignment from k_illiria.txt
-2525,gallic,Exported starting assignment from k_north_italy.txt
+2521,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+2523,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+2525,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2527,gallic,Exported starting assignment from k_central_italy.txt
 2531,etruscan,Exported starting assignment from k_north_italy.txt
 2532,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2536,etruscan,Exported starting assignment from k_north_italy.txt
 2537,ligustic,Exported starting assignment from k_north_italy.txt
-2540,gallic,Exported starting assignment from k_north_italy.txt
+2540,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2542,gallic,Exported starting assignment from k_central_italy.txt
 2543,etruscan,Exported starting assignment from k_north_italy.txt
 2546,oscan,Exported starting assignment from k_central_italy.txt
@@ -937,11 +949,20 @@ province_id,culture,notes
 2628,samnite,Exported starting assignment from k_magna_graecia.txt
 2629,italiote,Exported starting assignment from k_magna_graecia.txt
 2631,italiote,Exported starting assignment from k_magna_graecia.txt
-2633,italiote,Exported starting assignment from k_magna_graecia.txt
-2635,carthaginian,Exported starting assignment from k_magna_graecia.txt
-2638,italiote,Exported starting assignment from k_magna_graecia.txt
-2640,siculian,Exported starting assignment from k_magna_graecia.txt
-2646,carthaginian,Exported starting assignment from k_magna_graecia.txt
+2633,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2634,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2635,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2636,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2637,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2638,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2639,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2640,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2641,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2642,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2643,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2644,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2645,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
+2646,maghrebi,Maghrebi throughout Duchy of Sicily (d_sicily)
 2647,nuragic,Exported starting assignment from k_sardinia.txt
 2650,nuragic,Exported starting assignment from k_sardinia.txt
 2652,nuragic,Exported starting assignment from k_sardinia.txt
@@ -1065,6 +1086,7 @@ province_id,culture,notes
 3042,vandal,Exported starting assignment from k_german_bohemia.txt
 3044,vandal,Exported starting assignment from k_german_bohemia.txt
 3045,vandal,Exported starting assignment from k_central_germania.txt
+3047,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 3048,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3049,vandal,Exported starting assignment from k_german_bohemia.txt
 3052,vandal,Exported starting assignment from k_german_bohemia.txt
@@ -1134,11 +1156,19 @@ province_id,culture,notes
 3513,celtic_pannonian,Exported starting assignment from k_illiria.txt
 3516,dalmatian,Exported starting assignment from k_illiria.txt
 3519,dalmatian,Exported starting assignment from k_illiria.txt
+3520,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
 3522,dalmatian,Exported starting assignment from k_illiria.txt
 3527,dalmatian,Exported starting assignment from k_illiria.txt
 3529,dalmatian,Exported starting assignment from k_illiria.txt
-3539,dalmatian,Exported starting assignment from k_illiria.txt
-3543,dalmatian,Exported starting assignment from k_illiria.txt
+3536,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3537,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3538,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3539,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3540,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3541,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3542,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3543,croatian,Croatian throughout Duchy of Croatia (d_croatia)
+3544,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 3548,dalmatian,Exported starting assignment from k_illiria.txt
 3551,dalmatian,Exported starting assignment from k_illiria.txt
 3555,dalmatian,Exported starting assignment from k_illiria.txt
@@ -1168,10 +1198,20 @@ province_id,culture,notes
 3691,thracian,Exported starting assignment from k_macedon.txt
 3702,macedonian,Exported starting assignment from k_epirus.txt
 3708,hellenic_greek,Exported starting assignment from k_epirus.txt
-3711,hellenic_greek,Exported starting assignment from k_epirus.txt
-3713,albanian,Exported starting assignment from k_epirus.txt
-3720,albanian,Exported starting assignment from k_epirus.txt
-3724,albanian,Exported starting assignment from k_epirus.txt
+3711,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3712,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3713,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3714,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3715,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3716,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3717,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3718,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3719,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3720,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3721,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3722,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3723,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
+3724,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
 3728,hellenic_greek,Exported starting assignment from k_hellas.txt
 3733,hellenic_greek,Exported starting assignment from k_hellas.txt
 3736,hellenic_greek,Exported starting assignment from k_hellas.txt
@@ -1251,14 +1291,40 @@ province_id,culture,notes
 4116,kurdish,Exported starting assignment from k_persia.txt
 4118,persian,Exported starting assignment from k_persia.txt
 4122,kurdish,Exported starting assignment from k_persia.txt
-4125,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4129,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4136,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4138,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4145,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4147,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4154,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-4161,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+4125,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4126,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4127,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4128,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4129,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4130,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4131,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4132,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4133,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4134,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4135,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4136,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4137,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4138,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4139,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4140,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4141,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4142,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4143,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4144,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4145,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4146,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4147,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4149,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4150,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4151,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4152,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4153,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4154,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4156,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4157,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4158,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4160,czech,Czech throughout Duchy of Bohemia (d_bohemia)
+4161,czech,Czech throughout Duchy of Bohemia (d_bohemia)
 4162,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 4165,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 4166,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
@@ -2441,7 +2507,7 @@ province_id,culture,notes
 8723,norse,Exported starting assignment from k_sweden.txt
 8727,norse,Exported starting assignment from k_sweden.txt
 8731,norse,Exported starting assignment from k_sweden.txt
-8735,nuragic,Exported starting assignment from k_contestania.txt
+8735,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
 8745,irish,Exported starting assignment from k_ireland.txt
 8755,messapic,Exported starting assignment from k_magna_graecia.txt
 8761,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)

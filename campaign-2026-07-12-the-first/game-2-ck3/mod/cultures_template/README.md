@@ -28,13 +28,27 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-3,502 assignments across 215 cultures. Intentional overrides include all 17
+3,568 assignments across 220 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
 to `etruscan`. Eleven Breton provinces and 17 Lombard provinces did not have
-explicit cultures in the source export. Estonian provinces were not changed.
-All 215 culture IDs used are defined in this template.
+explicit cultures in the source export. The eight remaining Gallic provinces
+in the Kingdom of North Italy were changed to `italian`; two of those had no
+explicit culture in the source export. All 35 barony provinces in the Duchy of
+Bohemia (`d_bohemia`) were changed to `czech`; 27 had no explicit culture in
+the source export. All 11 barony provinces in the Duchy of Granada
+(`d_granada`) were changed to `andalusian`; seven had no explicit culture in
+the source export. All four barony provinces in the Duchy of Mallorca
+(`d_mallorca`) were changed to `catalan`; one had no explicit culture in the
+source export. All 14 barony provinces in the Duchy of Sicily (`d_sicily`)
+were changed to `maghrebi`; nine had no explicit culture in the source export.
+All 16 barony provinces in the Duchy of Dyrrachion (`d_dyrrachion`) were
+changed to `albanian`; 11 had no explicit culture in the source export.
+All 13 barony provinces in the Duchy of Croatia (`d_croatia`) were changed to
+`croatian`; nine had no explicit culture in the source export. Estonian
+provinces were not changed. All 220 culture IDs used are defined in this
+template.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the
