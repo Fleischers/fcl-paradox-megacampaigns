@@ -1,0 +1,32 @@
+# Iberian culture-restoration pilot. Keep this file in cultures_template.
+# These CK3 province IDs were identified from the FCL1_2026_10_10 example.
+# Recheck the geography if the CK3 map or province IDs change.
+
+1760 = { culture = celtiberian }
+1763 = { culture = celtiberian }
+1784 = { culture = celtiberian }
+1785 = { culture = celtiberian }
+1787 = { culture = celtiberian }
+1795 = { culture = celtiberian }
+1797 = { culture = celtiberian }
+1816 = { culture = celtiberian }
+1818 = { culture = celtiberian }
+1821 = { culture = celtiberian }
+1826 = { culture = celtiberian }
+1894 = { culture = celtiberian }
+1912 = { culture = celtiberian }
+1913 = { culture = celtiberian }
+
+1752 = { culture = lusoiberian }
+1754 = { culture = lusoiberian }
+1758 = { culture = lusoiberian }
+1759 = { culture = lusoiberian }
+1769 = { culture = lusoiberian }
+1773 = { culture = lusoiberian }
+1776 = { culture = lusoiberian }
+1777 = { culture = lusoiberian }
+1831 = { culture = lusoiberian }
+1834 = { culture = lusoiberian }
+1835 = { culture = lusoiberian }
+1954 = { culture = lusoiberian }
+1996 = { culture = lusoiberian }
