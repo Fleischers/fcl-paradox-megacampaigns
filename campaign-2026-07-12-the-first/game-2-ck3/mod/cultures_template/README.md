@@ -26,9 +26,12 @@ The same 27 pilot entries are in
 `data/province_culture_assignments_FCL1_2026_10.csv` is a separate full-world
 reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
-It contains 3,476 explicitly assigned province IDs across 214 culture IDs.
-Each row records the source province-history file. All 214 culture IDs are
-defined in this template.
+It started with 3,476 explicit province assignments across 214 culture IDs,
+with the source province-history file recorded in each row. It now contains
+3,487 assignments across 215 cultures, including an intentional override of
+all 17 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`. Eleven
+of those Breton provinces did not have an explicit culture in the source export.
+All 215 culture IDs are defined in this template.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the

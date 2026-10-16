@@ -759,12 +759,22 @@ province_id,culture,notes
 2142,gallic,Exported starting assignment from k_aquitane_gaul.txt
 2147,gallic,Exported starting assignment from k_aquitane_gaul.txt
 2150,gallic,Exported starting assignment from k_aquitane_gaul.txt
-2152,gallic,Exported starting assignment from k_armorique.txt
-2154,gallic,Exported starting assignment from k_armorique.txt
-2156,gallic,Exported starting assignment from k_armorique.txt
-2157,gallic,Exported starting assignment from k_armorique.txt
-2162,gallic,Exported starting assignment from k_armorique.txt
-2165,gallic,Exported starting assignment from k_armorique.txt
+2151,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2152,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2153,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2154,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2155,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2156,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2157,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2158,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2159,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2160,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2161,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2162,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2163,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2164,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2165,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
+2166,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
 2167,gallic,Exported starting assignment from k_armorique.txt
 2170,gallic,Exported starting assignment from k_armorique.txt
 2174,gallic,Exported starting assignment from k_armorique.txt
@@ -801,6 +811,7 @@ province_id,culture,notes
 2274,gallic,Exported starting assignment from k_celtia_gaul.txt
 2278,gallic,Exported starting assignment from k_celtia_gaul.txt
 2280,gallic,Exported starting assignment from k_celtia_gaul.txt
+2282,breton,Assigned Breton throughout Duchy of Brittany (d_brittany)
 2283,gallic,Exported starting assignment from k_celtia_gaul.txt
 2284,gallic,Exported starting assignment from k_celtia_gaul.txt
 2285,gallic,Exported starting assignment from k_celtia_gaul.txt
