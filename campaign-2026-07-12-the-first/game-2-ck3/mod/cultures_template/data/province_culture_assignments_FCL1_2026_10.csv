@@ -56,7 +56,7 @@ province_id,culture,notes
 153,vepsian,Exported starting assignment from k_lithuania.txt
 154,vepsian,Exported starting assignment from k_lithuania.txt
 156,lithuanian,Exported starting assignment from k_lithuania.txt
-161,vepsian,Exported starting assignment from k_white_rus.txt
+161,urslavic,White Rus Slavic restoration
 166,vepsian,Exported starting assignment from k_lithuania.txt
 169,estonian,Exported starting assignment from k_novgorod.txt
 172,karelian,Exported starting assignment from k_finland.txt
@@ -220,9 +220,9 @@ province_id,culture,notes
 545,dacian,Exported starting assignment from k_moldavia.txt
 546,scythian,Exported starting assignment from k_vistulia.txt
 547,urslavic,Exported starting assignment from k_ruthenia.txt
-548,vepsian,Exported starting assignment from k_white_rus.txt
+548,urslavic,White Rus Slavic restoration
 549,prussian,Exported starting assignment from k_vistulia.txt
-550,vepsian,Exported starting assignment from k_white_rus.txt
+550,urslavic,White Rus Slavic restoration
 552,urslavic,Exported starting assignment from k_ruthenia.txt
 554,urslavic,Exported starting assignment from k_ruthenia.txt
 555,urslavic,Exported starting assignment from k_ruthenia.txt
@@ -240,7 +240,7 @@ province_id,culture,notes
 581,merya,Exported starting assignment from k_opolye.txt
 582,merya,Exported starting assignment from k_opolye.txt
 584,merya,Exported starting assignment from k_opolye.txt
-587,vepsian,Exported starting assignment from k_white_rus.txt
+587,urslavic,White Rus Slavic restoration
 588,mordvin,Exported starting assignment from k_volga_bulgaria.txt
 589,merya,Exported starting assignment from k_volga_bulgaria.txt
 590,mordvin,Exported starting assignment from k_mordvinia.txt
@@ -318,7 +318,7 @@ province_id,culture,notes
 900,saka,Exported starting assignment from k_oghuz_il.txt
 901,saka,Exported starting assignment from k_syr_darya.txt
 933,urslavic,Exported starting assignment from k_white_rus.txt
-934,vepsian,Exported starting assignment from k_white_rus.txt
+934,urslavic,White Rus Slavic restoration
 1013,georgian,Exported starting assignment from k_georgia.txt
 1112,tamil,Exported starting assignment from k_tamilakam.txt
 1114,tamil,Exported starting assignment from k_tamilakam.txt
@@ -870,15 +870,28 @@ province_id,culture,notes
 2466,ligustic,Exported starting assignment from k_north_italy.txt
 2469,gallic,Exported starting assignment from k_north_italy.txt
 2471,gallic,Exported starting assignment from k_north_italy.txt
-2475,gallic,Exported starting assignment from k_north_italy.txt
-2477,gallic,Exported starting assignment from k_north_italy.txt
-2482,gallic,Exported starting assignment from k_north_italy.txt
-2483,ligustic,Exported starting assignment from k_north_italy.txt
-2491,gallic,Exported starting assignment from k_north_italy.txt
-2494,gallic,Exported starting assignment from k_north_italy.txt
-2497,gallic,Exported starting assignment from k_north_italy.txt
-2499,rhaetian,Exported starting assignment from k_north_italy.txt
-2501,gallic,Exported starting assignment from k_north_italy.txt
+2472,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2474,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2475,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2476,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2477,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2478,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2479,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2480,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2481,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2482,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2483,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2487,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2488,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2489,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2490,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2491,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2492,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2493,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2494,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2495,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2498,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+2499,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2503,venetic,Exported starting assignment from k_north_italy.txt
 2505,venetic,Exported starting assignment from k_north_italy.txt
 2506,venetic,Exported starting assignment from k_north_italy.txt
@@ -891,7 +904,7 @@ province_id,culture,notes
 2525,gallic,Exported starting assignment from k_north_italy.txt
 2527,gallic,Exported starting assignment from k_central_italy.txt
 2531,etruscan,Exported starting assignment from k_north_italy.txt
-2532,gallic,Exported starting assignment from k_north_italy.txt
+2532,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 2536,etruscan,Exported starting assignment from k_north_italy.txt
 2537,ligustic,Exported starting assignment from k_north_italy.txt
 2540,gallic,Exported starting assignment from k_north_italy.txt
@@ -1483,7 +1496,7 @@ province_id,culture,notes
 5031,getian,Exported starting assignment from k_moldavia.txt
 5038,scythian,Exported starting assignment from k_moldavia.txt
 5040,scythian,Exported starting assignment from k_moldavia.txt
-5044,vepsian,Exported starting assignment from k_white_rus.txt
+5044,urslavic,White Rus Slavic restoration
 5051,urslavic,Exported starting assignment from k_vistulia.txt
 5057,vandilian,Exported starting assignment from k_vistulia.txt
 5063,vandilian,Exported starting assignment from k_vistulia.txt
@@ -1498,22 +1511,22 @@ province_id,culture,notes
 5109,urslavic,Exported starting assignment from k_ruthenia.txt
 5114,urslavic,Exported starting assignment from k_white_rus.txt
 5117,urslavic,Exported starting assignment from k_white_rus.txt
-5119,vepsian,Exported starting assignment from k_white_rus.txt
-5127,vepsian,Exported starting assignment from k_white_rus.txt
-5129,vepsian,Exported starting assignment from k_white_rus.txt
-5134,vepsian,Exported starting assignment from k_white_rus.txt
-5136,vepsian,Exported starting assignment from k_white_rus.txt
-5137,vepsian,Exported starting assignment from k_novgorod.txt
-5143,vepsian,Exported starting assignment from k_novgorod.txt
-5146,vepsian,Exported starting assignment from k_novgorod.txt
-5150,vepsian,Exported starting assignment from k_novgorod.txt
-5153,vepsian,Exported starting assignment from k_novgorod.txt
-5156,vepsian,Exported starting assignment from k_novgorod.txt
-5159,vepsian,Exported starting assignment from k_novgorod.txt
-5161,vepsian,Exported starting assignment from k_novgorod.txt
-5164,vepsian,Exported starting assignment from k_novgorod.txt
-5168,vepsian,Exported starting assignment from k_novgorod.txt
-5170,vepsian,Exported starting assignment from k_white_rus.txt
+5119,urslavic,White Rus Slavic restoration
+5127,urslavic,White Rus Slavic restoration
+5129,urslavic,White Rus Slavic restoration
+5134,urslavic,White Rus Slavic restoration
+5136,urslavic,White Rus Slavic restoration
+5137,urslavic,Novgorod Slavic restoration
+5143,urslavic,Novgorod Slavic restoration
+5146,urslavic,Novgorod Slavic restoration
+5150,urslavic,Novgorod Slavic restoration
+5153,urslavic,Novgorod Slavic restoration
+5156,urslavic,Novgorod Slavic restoration
+5159,urslavic,Novgorod Slavic restoration
+5161,urslavic,Novgorod Slavic restoration
+5164,urslavic,Novgorod Slavic restoration
+5168,urslavic,Novgorod Slavic restoration
+5170,urslavic,White Rus Slavic restoration
 5173,merya,Exported starting assignment from k_opolye.txt
 5181,scythian,Exported starting assignment from k_ruthenia.txt
 5185,urslavic,Exported starting assignment from k_ruthenia.txt
@@ -1526,7 +1539,7 @@ province_id,culture,notes
 5212,urslavic,Exported starting assignment from k_ruthenia.txt
 5215,urslavic,Exported starting assignment from k_ruthenia.txt
 5217,vepsian,Exported starting assignment from k_ruthenia.txt
-5221,vepsian,Exported starting assignment from k_white_rus.txt
+5221,urslavic,White Rus Slavic restoration
 5231,vepsian,Exported starting assignment from k_opolye.txt
 5239,merya,Exported starting assignment from k_opolye.txt
 5247,merya,Exported starting assignment from k_opolye.txt
@@ -2431,6 +2444,8 @@ province_id,culture,notes
 8735,nuragic,Exported starting assignment from k_contestania.txt
 8745,irish,Exported starting assignment from k_ireland.txt
 8755,messapic,Exported starting assignment from k_magna_graecia.txt
+8761,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
+8762,etruscan,Etruscan throughout Duchy of Lombardy (d_lombardia)
 8782,sami,Exported starting assignment from k_sapmi.txt
 8789,sami,Exported starting assignment from k_sapmi.txt
 8795,basque,Exported starting assignment from k_tarragonaise.txt
