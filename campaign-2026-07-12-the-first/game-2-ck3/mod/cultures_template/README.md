@@ -28,7 +28,7 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-4,129 assignments across 242 cultures. Intentional overrides include all 17
+4,148 assignments across 242 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
@@ -119,6 +119,9 @@ All three baronies in the County of Orania (`c_orania`) were changed to
 `cornish`.
 The five baronies in the County of Abydos (`c_abydos`) and the four in the
 County of Mysia (`c_mysia`) were changed to `levantine`.
+All 16 baronies in the Duchy of Flanders (`d_flanders`) and all 12 in the
+Duchy of Brabant (`d_brabant`) were assigned to `frankish`, since Flemish is
+not defined in the template.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the

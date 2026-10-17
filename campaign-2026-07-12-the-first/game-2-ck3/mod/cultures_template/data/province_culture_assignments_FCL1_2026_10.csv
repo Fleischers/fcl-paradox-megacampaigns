@@ -861,16 +861,16 @@ province_id,culture,notes
 2098,belgae,Exported starting assignment from k_belgia.txt
 2099,belgae,Exported starting assignment from k_belgia.txt
 2104,belgae,Exported starting assignment from k_belgia.txt
-2105,belgae,Exported starting assignment from k_belgia.txt
-2106,belgae,Exported starting assignment from k_belgia.txt
+2105,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2106,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
 2112,belgae,Exported starting assignment from k_frisia.txt
-2115,belgae,Exported starting assignment from k_belgia.txt
-2117,belgae,Exported starting assignment from k_belgia.txt
-2118,belgae,Exported starting assignment from k_belgia.txt
-2125,belgae,Exported starting assignment from k_belgia.txt
-2126,belgae,Exported starting assignment from k_belgia.txt
-2130,belgae,Exported starting assignment from k_belgia.txt
-2132,belgae,Exported starting assignment from k_belgia.txt
+2115,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2117,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2118,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2125,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2126,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2130,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2132,frankish,Exported starting assignment from k_belgia.txt; assigned to frankish (Flemish unavailable) for Flanders and Brabant
 2142,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
 2147,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
 2150,occitan,Occitan replaces Gallic in Kingdom of Aquitaine (k_aquitane_gaul)
@@ -4128,3 +4128,22 @@ province_id,culture,notes
 13142,yao,Exported starting assignment from k_hunan.txt
 13145,hmong,Exported starting assignment from k_kuizhou.txt
 13152,yi,Exported starting assignment from k_qianzhong.txt
+2114,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2124,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2128,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2131,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2129,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2133,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2123,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2134,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2136,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2137,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2135,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2107,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2111,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2108,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2109,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2127,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2120,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2121,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
+2119,frankish,Assigned to frankish (Flemish unavailable) for Flanders and Brabant
