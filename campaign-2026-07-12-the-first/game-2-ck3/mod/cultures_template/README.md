@@ -28,7 +28,7 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-3,678 assignments across 225 cultures. Intentional overrides include all 17
+4,092 assignments across 240 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
@@ -60,8 +60,46 @@ explicit culture in the source export. In the Kingdom of Aquitaine
 (`k_aquitane_gaul`), the 11 baronies that had `gallic` were changed to
 `occitan`; all other culture assignments there were left unchanged. All 13
 baronies in the Duchy of Sardinia (`d_sardinia`) were changed to `sardinian`;
-eight had no explicit culture in the source export. All 225 culture IDs used
-are defined in this template.
+eight had no explicit culture in the source export. All 26 baronies in the
+Duchy of Barcelona (`d_barcelona`) were changed to `catalan`; 18 had no
+explicit culture in the source export. All 16 baronies in Castile
+(`d_castilla`) and seven in Cantabria (`d_cantabria`) were changed to
+`castilian`; 16 had no explicit culture in the source export. All 17 baronies
+in León (`d_leon`) were changed to `asturleonese`, the closest available
+culture because the template does not define `asturian`. The other 34
+baronies in the Kingdom of Galicia (`k_iberian_galicia`) - Galicia, Asturias,
+and Porto - were changed to `galician`; 25 had no explicit culture in the
+source export. All 64 baronies in the Kingdom of Tahert (`k_tahert`) were
+changed to `numidian`; 45 had no explicit culture in the source export. There
+is no `d_moesia` landed duchy in the converted mod; as clarified, Moesia is
+represented by the County of Nikopolis (`c_nikopolis`), whose four baronies
+were assigned to `bulgarian`. Naissus (`c_naissus`, four baronies) and Vidin
+(`d_vidin`, eight baronies) were also assigned to `bulgarian`. The earlier
+Dobrudja assignment was removed and its starting cultures restored. All 21
+baronies in the Duchy of Raška (`d_rashka`) were assigned to `serbian`, and
+all 16 baronies in the Duchy of Visegrad (`d_visegrad`) were assigned to
+`mogyer` (the template also defines `hungarian`). All 240 culture IDs used
+are defined in this template. The seven baronies in the Kingdom of Caucasus
+(`k_caucasus`) that were Sarmatian were changed to `khazar`; other cultures
+in the kingdom were left unchanged. In the Kingdom of Rhetia (`k_rhetia`),
+the 11 baronies that were Gallic were changed to `swabian`; all other
+cultures in the kingdom were left unchanged. The nine Rhetian baronies with
+the in-game display culture Scordiscian (internal ID `celtic_pannonian`) were
+changed to `bavarian`. All baronies in the Duchies of Bavaria (`d_bavaria`,
+27), Nordgau (`d_nordgau`, 13), and Salzburg (`d_salzburg`, 17) were also
+changed to `bavarian`. All 18 baronies in Upper Bosnia (`d_bosna`) and all
+12 in Lower Bosnia (`d_lower_bosna`) were changed to `bosnian`. All 15
+baronies in the Duchy of Moldavia (`d_moldova`) were changed to `vlach`.
+All 19 baronies in the Duchy of York (`d_york`) were changed to `angle`, and
+all eight in the Duchy of Meath (`d_meath`) to `norse`. All 148 baronies in
+the Kingdom of Germania Superior (`k_germania_superior`) were changed to
+`franconian`. The Duchy of Pomerania (`d_pommerania`) was changed to
+`pommeranian` (the culture's defined ID; displayed as Pomeranian), while all
+13 baronies in the Duchy of Veletia (`d_nordmark`, its Polabian cultural
+title name) were changed to `polabian`. The five requested Egyptian duchies -
+Delta (`d_delta`, 14 baronies), Cairo (`d_cairo`, 10), Al-Said (`d_al-said`,
+19), Sinai (`d_sinai`, 10), and Nobatia (`d_nobatia`, 12) - were all changed
+to `egyptian`.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the

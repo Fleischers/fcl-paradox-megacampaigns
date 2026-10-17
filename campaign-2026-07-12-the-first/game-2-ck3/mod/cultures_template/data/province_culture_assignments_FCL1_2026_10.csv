@@ -11,8 +11,14 @@ province_id,culture,notes
 18,irish,Exported starting assignment from k_ireland.txt
 20,irish,Exported starting assignment from k_ireland.txt
 24,irish,Exported starting assignment from k_ireland.txt
-28,irish,Exported starting assignment from k_ireland.txt
-34,irish,Exported starting assignment from k_ireland.txt
+28,norse,Norse throughout Duchy of Meath
+29,norse,Norse throughout Duchy of Meath
+30,norse,Norse throughout Duchy of Meath
+31,norse,Norse throughout Duchy of Meath
+32,norse,Norse throughout Duchy of Meath
+33,norse,Norse throughout Duchy of Meath
+34,norse,Norse throughout Duchy of Meath
+36,norse,Norse throughout Duchy of Meath
 37,irish,Exported starting assignment from k_ireland.txt
 43,irish,Exported starting assignment from k_ireland.txt
 45,irish,Exported starting assignment from k_ireland.txt
@@ -148,6 +154,7 @@ province_id,culture,notes
 458,dalmatian,Exported starting assignment from k_illiria.txt
 459,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 461,dalmatian,Exported starting assignment from k_illiria.txt
+463,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
 464,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 465,dalmatian,Exported starting assignment from k_illiria.txt
 466,dalmatian,Exported starting assignment from k_illiria.txt
@@ -182,15 +189,16 @@ province_id,culture,notes
 498,thracian,Exported starting assignment from k_macedon.txt
 499,thracian,Exported starting assignment from k_macedon.txt
 500,thracian,Exported starting assignment from k_macedon.txt
-501,thracian,Exported starting assignment from k_macedon.txt
-502,dalmatian,Exported starting assignment from k_illiria.txt
+501,bulgarian,Bulgarian in c_naissus (c_naissus)
+502,serbian,Serbian in d_rashka (d_rashka)
+504,bosnian,Bosnian throughout d_bosna (d_bosna)
 505,celtic_pannonian,Exported starting assignment from k_illiria.txt
-506,thracian,Exported starting assignment from k_macedon.txt
-507,thracian,Exported starting assignment from k_macedon.txt
+506,bulgarian,Bulgarian in d_vidin (d_vidin)
+507,bulgarian,Bulgarian in c_nikopolis (c_nikopolis)
 510,getian,Exported starting assignment from k_macedon.txt
-511,getian,Exported starting assignment from k_moldavia.txt
+511,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
 512,hellenic_greek,Exported starting assignment from k_moldavia.txt
-513,getian,Exported starting assignment from k_moldavia.txt
+513,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
 515,getian,Exported starting assignment from k_dacia.txt
 516,dacian,Exported starting assignment from k_dacia.txt
 517,dacian,Exported starting assignment from k_hungary.txt
@@ -198,7 +206,8 @@ province_id,culture,notes
 519,dacian,Exported starting assignment from k_hungary.txt
 520,dacian,Exported starting assignment from k_hungary.txt
 521,dacian,Exported starting assignment from k_hungary.txt
-523,gallic,Exported starting assignment from k_hungary.txt
+522,mogyer,Mogyer in d_visegrad (d_visegrad)
+523,mogyer,Mogyer in d_visegrad (d_visegrad)
 524,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 525,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 527,vandilian,Exported starting assignment from k_vistulia.txt
@@ -215,7 +224,7 @@ province_id,culture,notes
 538,gallic,Exported starting assignment from k_hungary.txt
 539,dacian,Exported starting assignment from k_hungary.txt
 540,getian,Exported starting assignment from k_hungary.txt
-541,getian,Exported starting assignment from k_moldavia.txt
+541,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
 543,hellenic_greek,Exported starting assignment from k_pontic_steppe.txt
 544,urslavic,Exported starting assignment from k_ruthenia.txt
 545,dacian,Exported starting assignment from k_moldavia.txt
@@ -249,13 +258,13 @@ province_id,culture,notes
 593,sarmatian,Exported starting assignment from k_mordvinia.txt
 595,sarmatian,Exported starting assignment from k_pontic_steppe.txt
 596,sarmatian,Exported starting assignment from k_pontic_steppe.txt
-597,sarmatian,Exported starting assignment from k_caucasus.txt
+597,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
 598,hellenic_greek,Exported starting assignment from k_caucasus.txt
-599,sarmatian,Exported starting assignment from k_caucasus.txt
+599,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
 601,georgian,Exported starting assignment from k_georgia.txt
 603,georgian,Exported starting assignment from k_caucasus.txt
 605,alan,Exported starting assignment from k_caucasus.txt
-607,sarmatian,Exported starting assignment from k_caucasus.txt
+607,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
 608,sarmatian,Exported starting assignment from k_caspian_steppe.txt
 609,hunnic,Exported starting assignment from k_volga_bulgaria.txt
 610,hunnic,Exported starting assignment from k_volga_bulgaria.txt
@@ -547,6 +556,8 @@ province_id,culture,notes
 1462,kirghiz,Exported starting assignment from k_angara.txt
 1463,kirghiz,Exported starting assignment from k_ob.txt
 1469,han,Exported starting assignment from k_fujian.txt
+1499,angle,Angle throughout Duchy of York
+1500,angle,Angle throughout Duchy of York
 1502,brythonic,Exported starting assignment from k_england.txt
 1506,brythonic,Exported starting assignment from k_england.txt
 1510,brythonic,Exported starting assignment from k_england.txt
@@ -569,10 +580,23 @@ province_id,culture,notes
 1573,cornish,Exported starting assignment from k_england.txt
 1576,brythonic,Exported starting assignment from k_england.txt
 1580,welsh,Exported starting assignment from k_england.txt
-1583,brythonic,Exported starting assignment from k_england.txt
-1588,brythonic,Exported starting assignment from k_england.txt
-1591,brythonic,Exported starting assignment from k_england.txt
-1595,brythonic,Exported starting assignment from k_england.txt
+1583,angle,Angle throughout Duchy of York
+1584,angle,Angle throughout Duchy of York
+1585,angle,Angle throughout Duchy of York
+1586,angle,Angle throughout Duchy of York
+1587,angle,Angle throughout Duchy of York
+1588,angle,Angle throughout Duchy of York
+1589,angle,Angle throughout Duchy of York
+1590,angle,Angle throughout Duchy of York
+1591,angle,Angle throughout Duchy of York
+1592,angle,Angle throughout Duchy of York
+1593,angle,Angle throughout Duchy of York
+1594,angle,Angle throughout Duchy of York
+1595,angle,Angle throughout Duchy of York
+1596,angle,Angle throughout Duchy of York
+1597,angle,Angle throughout Duchy of York
+1598,angle,Angle throughout Duchy of York
+1599,angle,Angle throughout Duchy of York
 1600,brythonic,Exported starting assignment from k_england.txt
 1603,brythonic,Exported starting assignment from k_england.txt
 1606,brythonic,Exported starting assignment from k_england.txt
@@ -632,28 +656,63 @@ province_id,culture,notes
 1754,celtiberian,Exported starting assignment from k_lusitania.txt
 1758,celtiberian,Exported starting assignment from k_lusitania.txt
 1759,celtiberian,Exported starting assignment from k_lusitania.txt
-1760,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1763,celtiberian,Exported starting assignment from k_iberian_galicia.txt
+1760,galician,Galician assignment for d_porto per regional culture request
+1761,galician,Galician assignment for d_porto per regional culture request
+1762,galician,Galician assignment for d_porto per regional culture request
+1763,galician,Galician assignment for d_porto per regional culture request
+1764,galician,Galician assignment for d_porto per regional culture request
+1765,galician,Galician assignment for d_porto per regional culture request
+1766,galician,Galician assignment for d_porto per regional culture request
+1767,galician,Galician assignment for d_porto per regional culture request
 1769,lusoiberian,Exported starting assignment from k_lusitania.txt
 1773,lusoiberian,Exported starting assignment from k_lusitania.txt
 1776,celtiberian,Exported starting assignment from k_lusitania.txt
 1777,celtiberian,Exported starting assignment from k_lusitania.txt
-1784,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1785,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1787,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1795,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1797,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1801,basque,Exported starting assignment from k_tarragonaise.txt
+1781,galician,Galician assignment for d_galicia per regional culture request
+1782,galician,Galician assignment for d_galicia per regional culture request
+1783,galician,Galician assignment for d_galicia per regional culture request
+1784,galician,Galician assignment for d_galicia per regional culture request
+1785,galician,Galician assignment for d_galicia per regional culture request
+1786,galician,Galician assignment for d_galicia per regional culture request
+1787,galician,Galician assignment for d_galicia per regional culture request
+1788,galician,Galician assignment for d_galicia per regional culture request
+1789,galician,Galician assignment for d_galicia per regional culture request
+1790,galician,Galician assignment for d_galicia per regional culture request
+1791,galician,Galician assignment for d_galicia per regional culture request
+1792,galician,Galician assignment for d_galicia per regional culture request
+1793,galician,Galician assignment for d_asturias per regional culture request
+1794,galician,Galician assignment for d_asturias per regional culture request
+1795,galician,Galician assignment for d_asturias per regional culture request
+1796,galician,Galician assignment for d_asturias per regional culture request
+1797,galician,Galician assignment for d_asturias per regional culture request
+1798,galician,Galician assignment for d_asturias per regional culture request
+1799,galician,Galician assignment for d_galicia per regional culture request
+1800,galician,Galician assignment for d_galicia per regional culture request
+1801,castilian,Castilian assignment for d_cantabria per regional culture request
+1802,castilian,Castilian assignment for d_cantabria per regional culture request
 1803,basque,Exported starting assignment from k_tarragonaise.txt
 1805,basque,Exported starting assignment from k_tarragonaise.txt
 1806,basque,Exported starting assignment from k_tarragonaise.txt
 1807,basque,Exported starting assignment from k_tarragonaise.txt
 1811,basque,Exported starting assignment from k_tarragonaise.txt
-1814,basque,Exported starting assignment from k_tarragonaise.txt
-1816,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1818,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1821,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1826,celtiberian,Exported starting assignment from k_iberian_galicia.txt
+1812,castilian,Castilian assignment for d_cantabria per regional culture request
+1813,castilian,Castilian assignment for d_cantabria per regional culture request
+1814,castilian,Castilian assignment for d_cantabria per regional culture request
+1815,castilian,Castilian assignment for d_cantabria per regional culture request
+1816,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1817,galician,Galician assignment for d_asturias per regional culture request
+1818,galician,Galician assignment for d_galicia per regional culture request
+1819,galician,Galician assignment for d_galicia per regional culture request
+1820,galician,Galician assignment for d_galicia per regional culture request
+1821,galician,Galician assignment for d_galicia per regional culture request
+1822,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1823,galician,Galician assignment for d_asturias per regional culture request
+1824,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1825,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1826,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1827,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1828,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1829,asturleonese,Asturleonese assignment for d_leon per regional culture request
 1831,lusoiberian,Exported starting assignment from k_lusitania.txt
 1834,celtiberian,Exported starting assignment from k_lusitania.txt
 1835,non_indo_european_iberian,Exported starting assignment from k_lusitania.txt
@@ -669,28 +728,59 @@ province_id,culture,notes
 1854,hellenic_greek,Exported starting assignment from k_contestania.txt
 1855,hellenic_greek,Exported starting assignment from k_contestania.txt
 1857,non_indo_european_iberian,Exported starting assignment from k_contestania.txt
-1860,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
-1862,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
-1864,hellenic_greek,Exported starting assignment from k_tarragonaise.txt
-1866,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
-1868,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
+1859,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1860,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1861,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1862,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1863,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1864,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1865,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1866,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1867,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1868,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1869,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1870,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
 1872,basque,Exported starting assignment from k_tarragonaise.txt
 1873,basque,Exported starting assignment from k_tarragonaise.txt
-1878,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
-1881,basque,Exported starting assignment from k_tarragonaise.txt
+1875,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1876,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1877,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1878,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1879,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1880,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1881,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+1884,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
 1887,celtiberian,Exported starting assignment from k_tarragonaise.txt
 1892,non_indo_european_iberian,Exported starting assignment from k_tarragonaise.txt
-1894,celtiberian,Exported starting assignment from k_iberian_galicia.txt
-1897,celtiberian,Exported starting assignment from k_tarragonaise.txt
-1901,celtiberian,Exported starting assignment from k_tarragonaise.txt
+1894,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1895,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1896,castilian,Castilian assignment for d_castilla per regional culture request
+1897,castilian,Castilian assignment for d_castilla per regional culture request
+1898,castilian,Castilian assignment for d_castilla per regional culture request
+1899,castilian,Castilian assignment for d_castilla per regional culture request
+1900,castilian,Castilian assignment for d_castilla per regional culture request
+1901,castilian,Castilian assignment for d_castilla per regional culture request
 1902,celtiberian,Exported starting assignment from k_tarragonaise.txt
-1906,basque,Exported starting assignment from k_tarragonaise.txt
-1912,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1913,lusoiberian,Exported starting assignment from k_iberian_galicia.txt
-1915,celtiberian,Exported starting assignment from k_tarragonaise.txt
+1904,castilian,Castilian assignment for d_cantabria per regional culture request
+1905,castilian,Castilian assignment for d_castilla per regional culture request
+1906,castilian,Castilian assignment for d_castilla per regional culture request
+1907,castilian,Castilian assignment for d_castilla per regional culture request
+1908,castilian,Castilian assignment for d_castilla per regional culture request
+1909,castilian,Castilian assignment for d_castilla per regional culture request
+1910,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1911,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1912,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1913,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1914,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1915,castilian,Castilian assignment for d_castilla per regional culture request
+1916,asturleonese,Asturleonese assignment for d_leon per regional culture request
 1919,celtiberian,Exported starting assignment from k_contestania.txt
+1921,asturleonese,Asturleonese assignment for d_leon per regional culture request
+1922,castilian,Castilian assignment for d_castilla per regional culture request
 1923,celtiberian,Exported starting assignment from k_contestania.txt
-1924,celtiberian,Exported starting assignment from k_tarragonaise.txt
+1924,castilian,Castilian assignment for d_castilla per regional culture request
+1925,castilian,Castilian assignment for d_castilla per regional culture request
+1926,castilian,Castilian assignment for d_castilla per regional culture request
 1932,celtiberian,Exported starting assignment from k_tarragonaise.txt
 1935,celtiberian,Exported starting assignment from k_contestania.txt
 1936,celtiberian,Exported starting assignment from k_tarragonaise.txt
@@ -734,20 +824,27 @@ province_id,culture,notes
 2040,gallic,Exported starting assignment from k_south_gaul.txt
 2041,italian,Italian throughout Kingdom of North Italy (k_north_italy)
 2043,ligustic,Exported starting assignment from k_north_italy.txt
-2046,gallic,Exported starting assignment from k_rhetia.txt
-2049,gallic,Exported starting assignment from k_rhetia.txt
-2051,gallic,Exported starting assignment from k_rhetia.txt
-2053,gallic,Exported starting assignment from k_rhetia.txt
-2055,gallic,Exported starting assignment from k_rhetia.txt
-2057,gallic,Exported starting assignment from k_germania_superior.txt
+2046,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2049,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2051,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2053,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2055,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2056,franconian,Franconian throughout Kingdom of Germania Superior
+2057,franconian,Franconian throughout Kingdom of Germania Superior
+2058,franconian,Franconian throughout Kingdom of Germania Superior
 2061,gallic,Exported starting assignment from k_south_gaul.txt
 2063,gallic,Exported starting assignment from k_south_gaul.txt
 2065,gallic,Exported starting assignment from k_south_gaul.txt
 2071,gallic,Exported starting assignment from k_celtia_gaul.txt
 2076,gallic,Exported starting assignment from k_celtia_gaul.txt
+2078,franconian,Franconian throughout Kingdom of Germania Superior
+2079,franconian,Franconian throughout Kingdom of Germania Superior
+2080,franconian,Franconian throughout Kingdom of Germania Superior
+2081,franconian,Franconian throughout Kingdom of Germania Superior
 2082,belgae,Exported starting assignment from k_belgia.txt
-2083,belgae,Exported starting assignment from k_germania_superior.txt
+2083,franconian,Franconian throughout Kingdom of Germania Superior
 2084,belgae,Exported starting assignment from k_belgia.txt
+2085,franconian,Franconian throughout Kingdom of Germania Superior
 2088,belgae,Exported starting assignment from k_belgia.txt
 2091,belgae,Exported starting assignment from k_belgia.txt
 2092,belgae,Exported starting assignment from k_belgia.txt
@@ -792,6 +889,7 @@ province_id,culture,notes
 2184,belgae,Exported starting assignment from k_celtia_gaul.txt
 2189,belgae,Exported starting assignment from k_celtia_gaul.txt
 2190,belgae,Exported starting assignment from k_celtia_gaul.txt
+2192,franconian,Franconian throughout Kingdom of Germania Superior
 2193,basque,Exported starting assignment from k_aquitane_gaul.txt
 2196,basque,Exported starting assignment from k_aquitane_gaul.txt
 2199,basque,Exported starting assignment from k_aquitane_gaul.txt
@@ -870,12 +968,13 @@ province_id,culture,notes
 2371,gallic,Exported starting assignment from k_celtia_gaul.txt
 2374,gallic,Exported starting assignment from k_celtia_gaul.txt
 2380,gallic,Exported starting assignment from k_celtia_gaul.txt
-2384,gallic,Exported starting assignment from k_germania_superior.txt
-2387,gallic,Exported starting assignment from k_germania_superior.txt
-2388,gallic,Exported starting assignment from k_germania_superior.txt
+2384,franconian,Franconian throughout Kingdom of Germania Superior
+2387,franconian,Franconian throughout Kingdom of Germania Superior
+2388,franconian,Franconian throughout Kingdom of Germania Superior
 2390,belgae,Exported starting assignment from k_celtia_gaul.txt
 2391,belgae,Exported starting assignment from k_celtia_gaul.txt
 2392,belgae,Exported starting assignment from k_celtia_gaul.txt
+2395,franconian,Franconian throughout Kingdom of Germania Superior
 2397,belgae,Exported starting assignment from k_celtia_gaul.txt
 2405,frisian,Exported starting assignment from k_frisia.txt
 2406,frisian,Exported starting assignment from k_frisia.txt
@@ -893,7 +992,7 @@ province_id,culture,notes
 2446,old_saxon,Exported starting assignment from k_saxony.txt
 2450,belgae,Exported starting assignment from k_frisia.txt
 2458,gallic,Exported starting assignment from k_celtia_gaul.txt
-2460,gallic,Exported starting assignment from k_rhetia.txt
+2460,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
 2463,french,French throughout Duchy of Berry and Duchy of Orleans
 2466,ligustic,Exported starting assignment from k_north_italy.txt
 2469,italian,Italian throughout Kingdom of North Italy (k_north_italy)
@@ -1003,68 +1102,159 @@ province_id,culture,notes
 2679,frankish,Exported starting assignment from k_belgia.txt
 2680,frankish,Exported starting assignment from k_belgia.txt
 2689,belgae,Exported starting assignment from k_belgia.txt
-2694,belgae,Exported starting assignment from k_germania_superior.txt
-2704,belgae,Exported starting assignment from k_germania_superior.txt
-2706,belgae,Exported starting assignment from k_germania_superior.txt
-2708,belgae,Exported starting assignment from k_germania_superior.txt
-2709,gallic,Exported starting assignment from k_germania_superior.txt
-2710,gallic,Exported starting assignment from k_germania_superior.txt
-2717,gallic,Exported starting assignment from k_germania_superior.txt
-2721,belgae,Exported starting assignment from k_germania_superior.txt
-2729,belgae,Exported starting assignment from k_germania_superior.txt
-2731,belgae,Exported starting assignment from k_germania_superior.txt
-2732,belgae,Exported starting assignment from k_germania_superior.txt
-2737,belgae,Exported starting assignment from k_germania_superior.txt
-2739,gallic,Exported starting assignment from k_germania_superior.txt
-2745,gallic,Exported starting assignment from k_germania_superior.txt
-2746,belgae,Exported starting assignment from k_germania_superior.txt
-2748,gallic,Exported starting assignment from k_germania_superior.txt
-2751,gallic,Exported starting assignment from k_germania_superior.txt
-2757,gallic,Exported starting assignment from k_germania_superior.txt
-2759,gallic,Exported starting assignment from k_germania_superior.txt
-2763,gallic,Exported starting assignment from k_germania_superior.txt
-2768,gallic,Exported starting assignment from k_germania_superior.txt
-2773,gallic,Exported starting assignment from k_germania_superior.txt
-2777,gallic,Exported starting assignment from k_rhetia.txt
-2778,gallic,Exported starting assignment from k_rhetia.txt
-2782,gallic,Exported starting assignment from k_rhetia.txt
-2783,gallic,Exported starting assignment from k_rhetia.txt
-2786,gallic,Exported starting assignment from k_rhetia.txt
+2692,franconian,Franconian throughout Kingdom of Germania Superior
+2693,franconian,Franconian throughout Kingdom of Germania Superior
+2694,franconian,Franconian throughout Kingdom of Germania Superior
+2695,franconian,Franconian throughout Kingdom of Germania Superior
+2698,franconian,Franconian throughout Kingdom of Germania Superior
+2700,franconian,Franconian throughout Kingdom of Germania Superior
+2701,franconian,Franconian throughout Kingdom of Germania Superior
+2703,franconian,Franconian throughout Kingdom of Germania Superior
+2704,franconian,Franconian throughout Kingdom of Germania Superior
+2705,franconian,Franconian throughout Kingdom of Germania Superior
+2706,franconian,Franconian throughout Kingdom of Germania Superior
+2707,franconian,Franconian throughout Kingdom of Germania Superior
+2708,franconian,Franconian throughout Kingdom of Germania Superior
+2709,franconian,Franconian throughout Kingdom of Germania Superior
+2710,franconian,Franconian throughout Kingdom of Germania Superior
+2711,franconian,Franconian throughout Kingdom of Germania Superior
+2712,franconian,Franconian throughout Kingdom of Germania Superior
+2713,franconian,Franconian throughout Kingdom of Germania Superior
+2714,franconian,Franconian throughout Kingdom of Germania Superior
+2715,franconian,Franconian throughout Kingdom of Germania Superior
+2717,franconian,Franconian throughout Kingdom of Germania Superior
+2719,franconian,Franconian throughout Kingdom of Germania Superior
+2720,franconian,Franconian throughout Kingdom of Germania Superior
+2721,franconian,Franconian throughout Kingdom of Germania Superior
+2722,franconian,Franconian throughout Kingdom of Germania Superior
+2723,franconian,Franconian throughout Kingdom of Germania Superior
+2724,franconian,Franconian throughout Kingdom of Germania Superior
+2725,franconian,Franconian throughout Kingdom of Germania Superior
+2726,franconian,Franconian throughout Kingdom of Germania Superior
+2727,franconian,Franconian throughout Kingdom of Germania Superior
+2728,franconian,Franconian throughout Kingdom of Germania Superior
+2729,franconian,Franconian throughout Kingdom of Germania Superior
+2730,franconian,Franconian throughout Kingdom of Germania Superior
+2731,franconian,Franconian throughout Kingdom of Germania Superior
+2732,franconian,Franconian throughout Kingdom of Germania Superior
+2733,franconian,Franconian throughout Kingdom of Germania Superior
+2735,franconian,Franconian throughout Kingdom of Germania Superior
+2736,franconian,Franconian throughout Kingdom of Germania Superior
+2737,franconian,Franconian throughout Kingdom of Germania Superior
+2738,franconian,Franconian throughout Kingdom of Germania Superior
+2739,franconian,Franconian throughout Kingdom of Germania Superior
+2741,franconian,Franconian throughout Kingdom of Germania Superior
+2742,franconian,Franconian throughout Kingdom of Germania Superior
+2743,franconian,Franconian throughout Kingdom of Germania Superior
+2744,franconian,Franconian throughout Kingdom of Germania Superior
+2745,franconian,Franconian throughout Kingdom of Germania Superior
+2746,franconian,Franconian throughout Kingdom of Germania Superior
+2747,franconian,Franconian throughout Kingdom of Germania Superior
+2748,franconian,Franconian throughout Kingdom of Germania Superior
+2749,franconian,Franconian throughout Kingdom of Germania Superior
+2750,franconian,Franconian throughout Kingdom of Germania Superior
+2751,franconian,Franconian throughout Kingdom of Germania Superior
+2752,franconian,Franconian throughout Kingdom of Germania Superior
+2753,franconian,Franconian throughout Kingdom of Germania Superior
+2755,franconian,Franconian throughout Kingdom of Germania Superior
+2756,franconian,Franconian throughout Kingdom of Germania Superior
+2757,franconian,Franconian throughout Kingdom of Germania Superior
+2758,franconian,Franconian throughout Kingdom of Germania Superior
+2759,franconian,Franconian throughout Kingdom of Germania Superior
+2760,franconian,Franconian throughout Kingdom of Germania Superior
+2761,franconian,Franconian throughout Kingdom of Germania Superior
+2762,franconian,Franconian throughout Kingdom of Germania Superior
+2763,franconian,Franconian throughout Kingdom of Germania Superior
+2764,franconian,Franconian throughout Kingdom of Germania Superior
+2765,franconian,Franconian throughout Kingdom of Germania Superior
+2766,franconian,Franconian throughout Kingdom of Germania Superior
+2767,franconian,Franconian throughout Kingdom of Germania Superior
+2768,franconian,Franconian throughout Kingdom of Germania Superior
+2769,franconian,Franconian throughout Kingdom of Germania Superior
+2770,franconian,Franconian throughout Kingdom of Germania Superior
+2771,franconian,Franconian throughout Kingdom of Germania Superior
+2772,franconian,Franconian throughout Kingdom of Germania Superior
+2773,franconian,Franconian throughout Kingdom of Germania Superior
+2774,franconian,Franconian throughout Kingdom of Germania Superior
+2777,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2778,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2782,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2783,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
+2786,swabian,Swabian in Kingdom of Rhetia (k_rhetia); changed from Gallic
 2793,old_saxon,Exported starting assignment from k_saxony.txt
 2795,old_saxon,Exported starting assignment from k_saxony.txt
 2797,old_saxon,Exported starting assignment from k_saxony.txt
 2802,old_saxon,Exported starting assignment from k_saxony.txt
 2804,suebi,Exported starting assignment from k_saxony.txt
-2807,suebi,Exported starting assignment from k_central_germania.txt
-2809,suebi,Exported starting assignment from k_central_germania.txt
-2811,suebi,Exported starting assignment from k_central_germania.txt
-2812,suebi,Exported starting assignment from k_central_germania.txt
+2806,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2807,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2808,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2809,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2810,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2811,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2812,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2813,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
 2814,suebi,Exported starting assignment from k_central_germania.txt
-2817,suebi,Exported starting assignment from k_central_germania.txt
-2818,gothic,Exported starting assignment from k_central_germania.txt
-2823,gothic,Exported starting assignment from k_central_germania.txt
-2826,gothic,Exported starting assignment from k_central_germania.txt
+2816,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2817,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2818,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+2819,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2820,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2821,polabian,Polabian throughout Duchy of Veletia (d_nordmark; Polabian title name)
+2822,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+2823,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+2824,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+2825,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+2826,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
 2827,gothic,Exported starting assignment from k_central_germania.txt
 2830,prussian,Exported starting assignment from k_central_germania.txt
 2835,prussian,Exported starting assignment from k_lithuania.txt
+2836,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
 2838,old_saxon,Exported starting assignment from k_saxony.txt
 2844,frankish,Exported starting assignment from k_saxony.txt
 2846,suebi,Exported starting assignment from k_saxony.txt
 2847,frankish,Exported starting assignment from k_saxony.txt
 2850,frankish,Exported starting assignment from k_saxony.txt
-2852,belgae,Exported starting assignment from k_germania_superior.txt
-2855,belgae,Exported starting assignment from k_germania_superior.txt
-2859,belgae,Exported starting assignment from k_germania_superior.txt
-2860,belgae,Exported starting assignment from k_germania_superior.txt
-2862,belgae,Exported starting assignment from k_germania_superior.txt
-2870,belgae,Exported starting assignment from k_germania_superior.txt
-2874,belgae,Exported starting assignment from k_germania_superior.txt
-2875,belgae,Exported starting assignment from k_germania_superior.txt
-2877,belgae,Exported starting assignment from k_germania_superior.txt
-2878,gallic,Exported starting assignment from k_german_bohemia.txt
-2883,gallic,Exported starting assignment from k_german_bohemia.txt
-2886,gallic,Exported starting assignment from k_germania_superior.txt
-2889,gallic,Exported starting assignment from k_germania_superior.txt
+2851,franconian,Franconian throughout Kingdom of Germania Superior
+2852,franconian,Franconian throughout Kingdom of Germania Superior
+2853,franconian,Franconian throughout Kingdom of Germania Superior
+2854,franconian,Franconian throughout Kingdom of Germania Superior
+2855,franconian,Franconian throughout Kingdom of Germania Superior
+2856,franconian,Franconian throughout Kingdom of Germania Superior
+2857,franconian,Franconian throughout Kingdom of Germania Superior
+2858,franconian,Franconian throughout Kingdom of Germania Superior
+2859,franconian,Franconian throughout Kingdom of Germania Superior
+2860,franconian,Franconian throughout Kingdom of Germania Superior
+2861,franconian,Franconian throughout Kingdom of Germania Superior
+2862,franconian,Franconian throughout Kingdom of Germania Superior
+2863,franconian,Franconian throughout Kingdom of Germania Superior
+2864,franconian,Franconian throughout Kingdom of Germania Superior
+2865,franconian,Franconian throughout Kingdom of Germania Superior
+2866,franconian,Franconian throughout Kingdom of Germania Superior
+2867,franconian,Franconian throughout Kingdom of Germania Superior
+2868,franconian,Franconian throughout Kingdom of Germania Superior
+2869,franconian,Franconian throughout Kingdom of Germania Superior
+2870,franconian,Franconian throughout Kingdom of Germania Superior
+2871,franconian,Franconian throughout Kingdom of Germania Superior
+2872,franconian,Franconian throughout Kingdom of Germania Superior
+2873,franconian,Franconian throughout Kingdom of Germania Superior
+2874,franconian,Franconian throughout Kingdom of Germania Superior
+2875,franconian,Franconian throughout Kingdom of Germania Superior
+2876,franconian,Franconian throughout Kingdom of Germania Superior
+2877,franconian,Franconian throughout Kingdom of Germania Superior
+2878,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2879,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2880,franconian,Franconian throughout Kingdom of Germania Superior
+2882,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2883,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2885,franconian,Franconian throughout Kingdom of Germania Superior
+2886,franconian,Franconian throughout Kingdom of Germania Superior
+2887,franconian,Franconian throughout Kingdom of Germania Superior
+2888,franconian,Franconian throughout Kingdom of Germania Superior
+2889,franconian,Franconian throughout Kingdom of Germania Superior
+2890,franconian,Franconian throughout Kingdom of Germania Superior
+2891,franconian,Franconian throughout Kingdom of Germania Superior
+2892,franconian,Franconian throughout Kingdom of Germania Superior
 2893,langobard,Exported starting assignment from k_saxony.txt
 2894,langobard,Exported starting assignment from k_saxony.txt
 2898,suebi,Exported starting assignment from k_saxony.txt
@@ -1072,35 +1262,84 @@ province_id,culture,notes
 2901,suebi,Exported starting assignment from k_saxony.txt
 2906,suebi,Exported starting assignment from k_central_germania.txt
 2913,suebi,Exported starting assignment from k_saxony.txt
+2915,franconian,Franconian throughout Kingdom of Germania Superior
 2916,suebi,Exported starting assignment from k_central_germania.txt
-2918,suebi,Exported starting assignment from k_germania_superior.txt
-2919,frankish,Exported starting assignment from k_germania_superior.txt
-2924,belgae,Exported starting assignment from k_germania_superior.txt
-2927,belgae,Exported starting assignment from k_germania_superior.txt
+2918,franconian,Franconian throughout Kingdom of Germania Superior
+2919,franconian,Franconian throughout Kingdom of Germania Superior
+2920,franconian,Franconian throughout Kingdom of Germania Superior
+2921,franconian,Franconian throughout Kingdom of Germania Superior
+2922,franconian,Franconian throughout Kingdom of Germania Superior
+2923,franconian,Franconian throughout Kingdom of Germania Superior
+2924,franconian,Franconian throughout Kingdom of Germania Superior
+2925,franconian,Franconian throughout Kingdom of Germania Superior
+2926,franconian,Franconian throughout Kingdom of Germania Superior
+2927,franconian,Franconian throughout Kingdom of Germania Superior
+2928,franconian,Franconian throughout Kingdom of Germania Superior
 2932,suebi,Exported starting assignment from k_central_germania.txt
 2935,suebi,Exported starting assignment from k_central_germania.txt
 2936,suebi,Exported starting assignment from k_central_germania.txt
-2942,gallic,Exported starting assignment from k_german_bohemia.txt
-2945,gallic,Exported starting assignment from k_german_bohemia.txt
-2949,gallic,Exported starting assignment from k_german_bohemia.txt
+2938,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2939,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2940,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2941,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2942,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2943,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2945,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2946,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2947,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2948,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2949,bavarian,Bavarian throughout d_bavaria (d_bavaria)
 2950,rhaetian,Exported starting assignment from k_rhetia.txt
 2955,rhaetian,Exported starting assignment from k_rhetia.txt
-2956,gallic,Exported starting assignment from k_german_bohemia.txt
-2957,gallic,Exported starting assignment from k_german_bohemia.txt
-2959,gallic,Exported starting assignment from k_german_bohemia.txt
-2960,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-2964,gallic,Exported starting assignment from k_german_bohemia.txt
-2971,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-2975,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-2977,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+2956,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2957,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2958,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2959,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2960,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2961,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2962,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2963,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2964,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2965,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2966,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2967,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2968,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2969,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2970,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2971,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2972,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2973,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2975,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2976,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2977,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2978,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2979,bavarian,Bavarian throughout d_salzburg (d_salzburg)
 2980,suebi,Exported starting assignment from k_central_germania.txt
-2987,gallic,Exported starting assignment from k_german_bohemia.txt
-2989,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-2990,belgae,Exported starting assignment from k_german_bohemia.txt
-2998,belgae,Exported starting assignment from k_germania_superior.txt
-3003,gallic,Exported starting assignment from k_germania_superior.txt
-3005,suebi,Exported starting assignment from k_germania_superior.txt
-3010,belgae,Exported starting assignment from k_germania_superior.txt
+2981,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2982,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2983,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2984,bavarian,Bavarian throughout d_bavaria (d_bavaria)
+2985,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+2986,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2987,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2988,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2989,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2990,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2991,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2992,franconian,Franconian throughout Kingdom of Germania Superior
+2993,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2994,bavarian,Bavarian throughout d_nordgau (d_nordgau)
+2995,franconian,Franconian throughout Kingdom of Germania Superior
+2998,franconian,Franconian throughout Kingdom of Germania Superior
+2999,franconian,Franconian throughout Kingdom of Germania Superior
+3000,franconian,Franconian throughout Kingdom of Germania Superior
+3003,franconian,Franconian throughout Kingdom of Germania Superior
+3005,franconian,Franconian throughout Kingdom of Germania Superior
+3006,franconian,Franconian throughout Kingdom of Germania Superior
+3007,franconian,Franconian throughout Kingdom of Germania Superior
+3008,franconian,Franconian throughout Kingdom of Germania Superior
+3009,franconian,Franconian throughout Kingdom of Germania Superior
+3010,franconian,Franconian throughout Kingdom of Germania Superior
 3012,suebi,Exported starting assignment from k_central_germania.txt
 3020,suebi,Exported starting assignment from k_central_germania.txt
 3021,suebi,Exported starting assignment from k_central_germania.txt
@@ -1140,26 +1379,30 @@ province_id,culture,notes
 3068,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
 3069,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
 3070,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
+3072,bavarian,Bavarian throughout d_salzburg (d_salzburg)
 3073,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3080,slovien,Slovien throughout Duchy of Moravia (d_moravia)
 3081,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3086,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3088,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3089,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-3092,celtic_pannonian,Exported starting assignment from k_rhetia.txt
+3092,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
 3093,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
 3096,celtic_pannonian,Exported starting assignment from k_illiria.txt
-3099,celtic_pannonian,Exported starting assignment from k_rhetia.txt
+3099,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
 3100,celtic_pannonian,Exported starting assignment from k_illiria.txt
-3105,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3109,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3117,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3121,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3125,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3128,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3131,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
-3134,celtic_pannonian,Exported starting assignment from k_rhetia.txt
-3135,celtic_pannonian,Exported starting assignment from k_german_bohemia.txt
+3105,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3109,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3117,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3121,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3125,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3128,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3130,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+3131,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+3132,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+3133,bavarian,Bavarian throughout d_salzburg (d_salzburg)
+3134,bavarian,Bavarian in Rhetia (Scordiscian/celtic_pannonian)
+3135,bavarian,Bavarian throughout d_salzburg (d_salzburg)
 3139,polish,Polish throughout Duchy of Lower Silesia (d_lower_silesia)
 3140,suebi,Exported starting assignment from k_central_germania.txt
 3142,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
@@ -1170,8 +1413,12 @@ province_id,culture,notes
 3147,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
 3148,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
 3149,polish,Polish throughout Duchy of Wielkopolska (Polania) (d_wielkopolska)
-3152,vandal,Exported starting assignment from k_central_germania.txt
-3154,vandal,Exported starting assignment from k_central_germania.txt
+3151,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3152,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3153,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3154,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3155,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3156,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
 3158,suebi,Exported starting assignment from k_central_germania.txt
 3160,gothic,Exported starting assignment from k_central_germania.txt
 3166,suebi,Exported starting assignment from k_central_germania.txt
@@ -1179,7 +1426,12 @@ province_id,culture,notes
 3173,suebi,Exported starting assignment from k_central_germania.txt
 3180,suebi,Exported starting assignment from k_central_germania.txt
 3181,suebi,Exported starting assignment from k_central_germania.txt
-3187,gothic,Exported starting assignment from k_central_germania.txt
+3183,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3184,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3185,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3186,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3187,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
+3188,pommeranian,Pommeranian throughout Duchy of Pomerania (culture ID pommeranian)
 3190,gothic,Exported starting assignment from k_central_germania.txt
 3196,gothic,Exported starting assignment from k_central_germania.txt
 3198,prussian,Exported starting assignment from k_lithuania.txt
@@ -1203,14 +1455,30 @@ province_id,culture,notes
 3427,punjabi,Exported starting assignment from k_punjab.txt
 3434,kashmiri,Exported starting assignment from k_punjab.txt
 3501,dalmatian,Exported starting assignment from k_illiria.txt
-3507,dalmatian,Exported starting assignment from k_illiria.txt
-3510,celtic_pannonian,Exported starting assignment from k_illiria.txt
-3513,celtic_pannonian,Exported starting assignment from k_illiria.txt
-3516,dalmatian,Exported starting assignment from k_illiria.txt
-3519,dalmatian,Exported starting assignment from k_illiria.txt
+3504,bosnian,Bosnian throughout d_bosna (d_bosna)
+3505,bosnian,Bosnian throughout d_bosna (d_bosna)
+3506,bosnian,Bosnian throughout d_bosna (d_bosna)
+3507,bosnian,Bosnian throughout d_bosna (d_bosna)
+3508,bosnian,Bosnian throughout d_bosna (d_bosna)
+3509,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3510,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3511,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3512,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3513,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3514,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3515,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3516,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3517,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3518,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
+3519,bosnian,Bosnian throughout d_lower_bosna (d_lower_bosna)
 3520,albanian,Albanian throughout Duchy of Dyrrachion (d_dyrrachion)
-3522,dalmatian,Exported starting assignment from k_illiria.txt
-3527,dalmatian,Exported starting assignment from k_illiria.txt
+3521,bosnian,Bosnian throughout d_bosna (d_bosna)
+3522,bosnian,Bosnian throughout d_bosna (d_bosna)
+3523,bosnian,Bosnian throughout d_bosna (d_bosna)
+3524,bosnian,Bosnian throughout d_bosna (d_bosna)
+3525,bosnian,Bosnian throughout d_bosna (d_bosna)
+3526,bosnian,Bosnian throughout d_bosna (d_bosna)
+3527,bosnian,Bosnian throughout d_bosna (d_bosna)
 3529,dalmatian,Exported starting assignment from k_illiria.txt
 3536,croatian,Croatian throughout Duchy of Croatia (d_croatia)
 3537,croatian,Croatian throughout Duchy of Croatia (d_croatia)
@@ -1225,13 +1493,33 @@ province_id,culture,notes
 3551,dalmatian,Exported starting assignment from k_illiria.txt
 3555,dalmatian,Exported starting assignment from k_illiria.txt
 3560,dalmatian,Exported starting assignment from k_illiria.txt
-3567,dalmatian,Exported starting assignment from k_illiria.txt
+3564,bosnian,Bosnian throughout d_bosna (d_bosna)
+3565,bosnian,Bosnian throughout d_bosna (d_bosna)
+3566,bosnian,Bosnian throughout d_bosna (d_bosna)
+3567,bosnian,Bosnian throughout d_bosna (d_bosna)
+3568,bosnian,Bosnian throughout d_bosna (d_bosna)
 3572,dalmatian,Exported starting assignment from k_illiria.txt
 3575,albanian,Exported starting assignment from k_illiria.txt
-3583,dalmatian,Exported starting assignment from k_illiria.txt
-3591,dalmatian,Exported starting assignment from k_illiria.txt
-3596,dalmatian,Exported starting assignment from k_illiria.txt
-3598,celtic_pannonian,Exported starting assignment from k_illiria.txt
+3581,serbian,Serbian in d_rashka (d_rashka)
+3582,serbian,Serbian in d_rashka (d_rashka)
+3583,serbian,Serbian in d_rashka (d_rashka)
+3584,serbian,Serbian in d_rashka (d_rashka)
+3585,serbian,Serbian in d_rashka (d_rashka)
+3586,serbian,Serbian in d_rashka (d_rashka)
+3587,serbian,Serbian in d_rashka (d_rashka)
+3588,serbian,Serbian in d_rashka (d_rashka)
+3589,serbian,Serbian in d_rashka (d_rashka)
+3590,serbian,Serbian in d_rashka (d_rashka)
+3591,serbian,Serbian in d_rashka (d_rashka)
+3592,serbian,Serbian in d_rashka (d_rashka)
+3593,serbian,Serbian in d_rashka (d_rashka)
+3594,serbian,Serbian in d_rashka (d_rashka)
+3595,serbian,Serbian in d_rashka (d_rashka)
+3596,serbian,Serbian in d_rashka (d_rashka)
+3597,serbian,Serbian in d_rashka (d_rashka)
+3598,serbian,Serbian in d_rashka (d_rashka)
+3599,serbian,Serbian in d_rashka (d_rashka)
+3600,serbian,Serbian in d_rashka (d_rashka)
 3604,celtic_pannonian,Exported starting assignment from k_illiria.txt
 3610,dalmatian,Exported starting assignment from k_illiria.txt
 3617,thracian,Exported starting assignment from k_macedon.txt
@@ -1244,8 +1532,20 @@ province_id,culture,notes
 3653,thracian,Exported starting assignment from k_macedon.txt
 3656,dalmatian,Exported starting assignment from k_macedon.txt
 3658,dalmatian,Exported starting assignment from k_macedon.txt
-3664,celtic_pannonian,Exported starting assignment from k_macedon.txt
+3661,bulgarian,Bulgarian in c_naissus (c_naissus)
+3662,bulgarian,Bulgarian in c_naissus (c_naissus)
+3663,bulgarian,Bulgarian in c_naissus (c_naissus)
+3664,bulgarian,Bulgarian in d_vidin (d_vidin)
+3665,bulgarian,Bulgarian in d_vidin (d_vidin)
+3666,bulgarian,Bulgarian in d_vidin (d_vidin)
+3667,bulgarian,Bulgarian in d_vidin (d_vidin)
+3668,bulgarian,Bulgarian in d_vidin (d_vidin)
+3669,bulgarian,Bulgarian in d_vidin (d_vidin)
+3670,bulgarian,Bulgarian in d_vidin (d_vidin)
 3678,thracian,Exported starting assignment from k_macedon.txt
+3679,bulgarian,Bulgarian in c_nikopolis (c_nikopolis)
+3680,bulgarian,Bulgarian in c_nikopolis (c_nikopolis)
+3681,bulgarian,Bulgarian in c_nikopolis (c_nikopolis)
 3689,thracian,Exported starting assignment from k_macedon.txt
 3691,thracian,Exported starting assignment from k_macedon.txt
 3702,macedonian,Exported starting assignment from k_epirus.txt
@@ -1272,10 +1572,14 @@ province_id,culture,notes
 3784,macedonian,Exported starting assignment from k_thessalonika.txt
 3793,hellenic_greek,Exported starting assignment from k_thessalonika.txt
 3797,hellenic_greek,Exported starting assignment from k_thessalonika.txt
-3803,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3805,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3808,celtic_pannonian,Exported starting assignment from k_hungary.txt
-3809,celtic_pannonian,Exported starting assignment from k_hungary.txt
+3802,mogyer,Mogyer in d_visegrad (d_visegrad)
+3803,mogyer,Mogyer in d_visegrad (d_visegrad)
+3804,mogyer,Mogyer in d_visegrad (d_visegrad)
+3805,mogyer,Mogyer in d_visegrad (d_visegrad)
+3806,mogyer,Mogyer in d_visegrad (d_visegrad)
+3807,mogyer,Mogyer in d_visegrad (d_visegrad)
+3808,mogyer,Mogyer in d_visegrad (d_visegrad)
+3809,mogyer,Mogyer in d_visegrad (d_visegrad)
 3810,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3811,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3812,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
@@ -1312,6 +1616,9 @@ province_id,culture,notes
 3862,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3863,celtic_pannonian,Exported starting assignment from k_hungary.txt
 3865,celtic_pannonian,Exported starting assignment from k_hungary.txt
+3867,mogyer,Mogyer in d_visegrad (d_visegrad)
+3868,mogyer,Mogyer in d_visegrad (d_visegrad)
+3869,mogyer,Mogyer in d_visegrad (d_visegrad)
 3870,gallic,Exported starting assignment from k_hungary.txt
 3873,dacian,Exported starting assignment from k_hungary.txt
 3877,celtic_pannonian,Exported starting assignment from k_hungary.txt
@@ -1322,13 +1629,16 @@ province_id,culture,notes
 3903,dacian,Exported starting assignment from k_hungary.txt
 3905,dacian,Exported starting assignment from k_hungary.txt
 3907,dacian,Exported starting assignment from k_hungary.txt
+3916,mogyer,Mogyer in d_visegrad (d_visegrad)
 3919,dacian,Exported starting assignment from k_hungary.txt
 3924,dacian,Exported starting assignment from k_hungary.txt
 3931,dacian,Exported starting assignment from k_hungary.txt
 3934,slovien,Slovien throughout Duchy of Nyitra (d_nyitra)
 3940,getian,Exported starting assignment from k_hungary.txt
 3942,getian,Exported starting assignment from k_hungary.txt
+3948,mogyer,Mogyer in d_visegrad (d_visegrad)
 3968,hindustani,Exported starting assignment from k_rajputana.txt
+3976,mogyer,Mogyer in d_visegrad (d_visegrad)
 4001,persian,Exported starting assignment from k_daylam.txt
 4005,persian,Exported starting assignment from k_daylam.txt
 4007,tajik,Exported starting assignment from k_khorasan.txt
@@ -1526,26 +1836,66 @@ province_id,culture,notes
 4598,baranis,Exported starting assignment from k_africa.txt
 4601,butr,Exported starting assignment from k_africa.txt
 4604,butr,Exported starting assignment from k_africa.txt
-4609,baranis,Exported starting assignment from k_tahert.txt
-4615,baranis,Exported starting assignment from k_tahert.txt
-4616,baranis,Exported starting assignment from k_tahert.txt
-4619,numidian,Exported starting assignment from k_tahert.txt
-4621,baranis,Exported starting assignment from k_tahert.txt
+4608,numidian,Numidian assignment for d_mzab per regional culture request
+4609,numidian,Numidian assignment for d_mzab per regional culture request
+4610,numidian,Numidian assignment for d_mzab per regional culture request
+4611,numidian,Numidian assignment for d_mzab per regional culture request
+4613,numidian,Numidian assignment for d_mzab per regional culture request
+4614,numidian,Numidian assignment for d_mzab per regional culture request
+4615,numidian,Numidian assignment for d_mzab per regional culture request
+4616,numidian,Numidian assignment for d_mzab per regional culture request
+4617,numidian,Numidian assignment for d_mzab per regional culture request
+4618,numidian,Numidian assignment for d_mzab per regional culture request
+4619,numidian,Numidian assignment for d_mzab per regional culture request
+4621,numidian,Numidian assignment for d_zab per regional culture request
+4622,numidian,Numidian assignment for d_zab per regional culture request
 4623,baranis,Exported starting assignment from k_africa.txt
+4627,numidian,Numidian assignment for d_zab per regional culture request
 4631,baranis,Exported starting assignment from k_africa.txt
-4634,baranis,Exported starting assignment from k_tahert.txt
-4637,baranis,Exported starting assignment from k_tahert.txt
-4639,baranis,Exported starting assignment from k_tahert.txt
-4644,baranis,Exported starting assignment from k_tahert.txt
-4647,baranis,Exported starting assignment from k_tahert.txt
-4650,baranis,Exported starting assignment from k_tahert.txt
-4653,baranis,Exported starting assignment from k_tahert.txt
-4655,baranis,Exported starting assignment from k_tahert.txt
-4659,baranis,Exported starting assignment from k_tahert.txt
-4666,baranis,Exported starting assignment from k_tahert.txt
-4669,baranis,Exported starting assignment from k_tahert.txt
-4672,baranis,Exported starting assignment from k_tahert.txt
-4674,baranis,Exported starting assignment from k_tahert.txt
+4633,numidian,Numidian assignment for d_zab per regional culture request
+4634,numidian,Numidian assignment for d_zab per regional culture request
+4635,numidian,Numidian assignment for d_bejaia per regional culture request
+4636,numidian,Numidian assignment for d_bejaia per regional culture request
+4637,numidian,Numidian assignment for d_bejaia per regional culture request
+4638,numidian,Numidian assignment for d_bejaia per regional culture request
+4639,numidian,Numidian assignment for d_bejaia per regional culture request
+4640,numidian,Numidian assignment for d_bejaia per regional culture request
+4641,numidian,Numidian assignment for d_zab per regional culture request
+4642,numidian,Numidian assignment for d_zab per regional culture request
+4643,numidian,Numidian assignment for d_zab per regional culture request
+4644,numidian,Numidian assignment for d_zab per regional culture request
+4645,numidian,Numidian assignment for d_tahert per regional culture request
+4646,numidian,Numidian assignment for d_tahert per regional culture request
+4647,numidian,Numidian assignment for d_tahert per regional culture request
+4648,numidian,Numidian assignment for d_alger per regional culture request
+4649,numidian,Numidian assignment for d_alger per regional culture request
+4650,numidian,Numidian assignment for d_alger per regional culture request
+4651,numidian,Numidian assignment for d_alger per regional culture request
+4652,numidian,Numidian assignment for d_alger per regional culture request
+4653,numidian,Numidian assignment for d_alger per regional culture request
+4654,numidian,Numidian assignment for d_alger per regional culture request
+4655,numidian,Numidian assignment for d_tahert per regional culture request
+4656,numidian,Numidian assignment for d_tahert per regional culture request
+4657,numidian,Numidian assignment for d_tahert per regional culture request
+4658,numidian,Numidian assignment for d_tahert per regional culture request
+4659,numidian,Numidian assignment for d_tahert per regional culture request
+4660,numidian,Numidian assignment for d_tahert per regional culture request
+4661,numidian,Numidian assignment for d_tahert per regional culture request
+4662,numidian,Numidian assignment for d_tahert per regional culture request
+4663,numidian,Numidian assignment for d_tlemcen per regional culture request
+4664,numidian,Numidian assignment for d_tlemcen per regional culture request
+4665,numidian,Numidian assignment for d_tlemcen per regional culture request
+4666,numidian,Numidian assignment for d_tlemcen per regional culture request
+4667,numidian,Numidian assignment for d_tlemcen per regional culture request
+4668,numidian,Numidian assignment for d_tlemcen per regional culture request
+4669,numidian,Numidian assignment for d_tlemcen per regional culture request
+4670,numidian,Numidian assignment for d_tlemcen per regional culture request
+4671,numidian,Numidian assignment for d_tlemcen per regional culture request
+4672,numidian,Numidian assignment for d_tlemcen per regional culture request
+4673,numidian,Numidian assignment for d_tlemcen per regional culture request
+4674,numidian,Numidian assignment for d_tlemcen per regional culture request
+4675,numidian,Numidian assignment for d_tlemcen per regional culture request
+4676,numidian,Numidian assignment for d_tlemcen per regional culture request
 4677,baranis,Exported starting assignment from k_maghreb.txt
 4678,carthaginian,Exported starting assignment from k_maghreb.txt
 4682,carthaginian,Exported starting assignment from k_maghreb.txt
@@ -1567,8 +1917,12 @@ province_id,culture,notes
 4737,butr,Exported starting assignment from k_maghreb.txt
 4739,butr,Exported starting assignment from k_maghreb.txt
 4745,baranis,Exported starting assignment from k_maghreb.txt
-4749,butr,Exported starting assignment from k_tahert.txt
+4749,numidian,Numidian assignment for d_tahert per regional culture request
+4750,numidian,Numidian assignment for d_tahert per regional culture request
+4751,numidian,Numidian assignment for d_tahert per regional culture request
+4754,numidian,Numidian assignment for d_zab per regional culture request
 4760,butr,Exported starting assignment from k_anbiya.txt
+4762,numidian,Numidian assignment for d_tahert per regional culture request
 4767,kurdish,Exported starting assignment from k_daylam.txt
 4771,armenian,Exported starting assignment from k_daylam.txt
 4774,assyrian,Exported starting assignment from k_jazira.txt
@@ -1665,9 +2019,18 @@ province_id,culture,notes
 5012,getian,Exported starting assignment from k_moldavia.txt
 5015,getian,Exported starting assignment from k_moldavia.txt
 5017,getian,Exported starting assignment from k_moldavia.txt
-5019,getian,Exported starting assignment from k_moldavia.txt
-5021,scythian,Exported starting assignment from k_moldavia.txt
-5029,getian,Exported starting assignment from k_moldavia.txt
+5019,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5020,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5021,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5022,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5023,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5024,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5025,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5026,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5027,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5028,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5029,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
+5030,vlach,Vlach throughout Duchy of Moldavia (d_moldova)
 5031,getian,Exported starting assignment from k_moldavia.txt
 5038,scythian,Exported starting assignment from k_moldavia.txt
 5040,scythian,Exported starting assignment from k_moldavia.txt
@@ -1731,9 +2094,9 @@ province_id,culture,notes
 5290,sarmatian,Exported starting assignment from k_pontic_steppe.txt
 5296,alan,Exported starting assignment from k_caucasus.txt
 5299,alan,Exported starting assignment from k_caucasus.txt
-5303,sarmatian,Exported starting assignment from k_caucasus.txt
-5305,sarmatian,Exported starting assignment from k_caucasus.txt
-5309,sarmatian,Exported starting assignment from k_caucasus.txt
+5303,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
+5305,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
+5309,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
 5311,alan,Exported starting assignment from k_caucasus.txt
 5313,alan,Exported starting assignment from k_caspian_steppe.txt
 5319,sarmatian,Exported starting assignment from k_caspian_steppe.txt
@@ -1741,7 +2104,7 @@ province_id,culture,notes
 5326,sarmatian,Exported starting assignment from k_pontic_steppe.txt
 5328,sarmatian,Exported starting assignment from k_pontic_steppe.txt
 5330,scythian,Exported starting assignment from k_pontic_steppe.txt
-5343,sarmatian,Exported starting assignment from k_caucasus.txt
+5343,khazar,Khazar in Kingdom of Caucasus (k_caucasus); changed from Sarmatian
 5349,sarmatian,Exported starting assignment from k_caspian_steppe.txt
 5350,finnish,Exported starting assignment from k_mordvinia.txt
 5353,mordvin,Exported starting assignment from k_mordvinia.txt
@@ -1888,6 +2251,7 @@ province_id,culture,notes
 5965,hebrew,Exported starting assignment from k_palestinia.txt
 5968,phoenician,Exported starting assignment from k_palestinia.txt
 5969,nabatean,Exported starting assignment from k_palestinia.txt
+5970,egyptian,Egyptian throughout Duchy of Sinai
 5974,nabatean,Exported starting assignment from k_arabia.txt
 5976,nabatean,Exported starting assignment from k_arabia.txt
 5980,hebrew,Exported starting assignment from k_palestinia.txt
@@ -1907,22 +2271,59 @@ province_id,culture,notes
 6017,babylonian,Exported starting assignment from k_persia.txt
 6019,babylonian,Exported starting assignment from k_mesopotamia.txt
 6020,syro_hellenic,Exported starting assignment from k_mesopotamia.txt
-6030,nabatean,Exported starting assignment from k_egypt.txt
-6033,nabatean,Exported starting assignment from k_egypt.txt
-6038,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6040,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6042,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6046,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6051,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6052,ancient_egyptian,Exported starting assignment from k_egypt.txt
+6030,egyptian,Egyptian throughout Duchy of Sinai
+6031,egyptian,Egyptian throughout Duchy of Sinai
+6032,egyptian,Egyptian throughout Duchy of Sinai
+6033,egyptian,Egyptian throughout Duchy of Sinai
+6034,egyptian,Egyptian throughout Duchy of Sinai
+6035,egyptian,Egyptian throughout Duchy of Sinai
+6036,egyptian,Egyptian throughout Duchy of Sinai
+6037,egyptian,Egyptian throughout Duchy of Sinai
+6038,egyptian,Egyptian throughout Duchy of Sinai
+6039,egyptian,Egyptian throughout Duchy of Cairo
+6040,egyptian,Egyptian throughout Duchy of Delta
+6041,egyptian,Egyptian throughout Duchy of Delta
+6042,egyptian,Egyptian throughout Duchy of Cairo
+6043,egyptian,Egyptian throughout Duchy of Delta
+6044,egyptian,Egyptian throughout Duchy of Delta
+6045,egyptian,Egyptian throughout Duchy of Delta
+6046,egyptian,Egyptian throughout Duchy of Delta
+6047,egyptian,Egyptian throughout Duchy of Delta
+6048,egyptian,Egyptian throughout Duchy of Delta
+6049,egyptian,Egyptian throughout Duchy of Delta
+6050,egyptian,Egyptian throughout Duchy of Delta
+6051,egyptian,Egyptian throughout Duchy of Delta
+6052,egyptian,Egyptian throughout Duchy of Delta
 6053,macedonian,Exported starting assignment from k_egypt.txt
-6057,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6060,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6063,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6067,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6070,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6077,ancient_egyptian,Exported starting assignment from k_egypt.txt
-6081,ancient_egyptian,Exported starting assignment from k_egypt.txt
+6054,egyptian,Egyptian throughout Duchy of Delta
+6055,egyptian,Egyptian throughout Duchy of Delta
+6056,egyptian,Egyptian throughout Duchy of Cairo
+6057,egyptian,Egyptian throughout Duchy of Cairo
+6058,egyptian,Egyptian throughout Duchy of Cairo
+6059,egyptian,Egyptian throughout Duchy of Cairo
+6060,egyptian,Egyptian throughout Duchy of Cairo
+6061,egyptian,Egyptian throughout Duchy of Cairo
+6062,egyptian,Egyptian throughout Duchy of Al-Said
+6063,egyptian,Egyptian throughout Duchy of Al-Said
+6064,egyptian,Egyptian throughout Duchy of Al-Said
+6065,egyptian,Egyptian throughout Duchy of Cairo
+6066,egyptian,Egyptian throughout Duchy of Cairo
+6067,egyptian,Egyptian throughout Duchy of Al-Said
+6068,egyptian,Egyptian throughout Duchy of Al-Said
+6069,egyptian,Egyptian throughout Duchy of Al-Said
+6070,egyptian,Egyptian throughout Duchy of Al-Said
+6071,egyptian,Egyptian throughout Duchy of Al-Said
+6072,egyptian,Egyptian throughout Duchy of Al-Said
+6073,egyptian,Egyptian throughout Duchy of Al-Said
+6074,egyptian,Egyptian throughout Duchy of Al-Said
+6075,egyptian,Egyptian throughout Duchy of Al-Said
+6076,egyptian,Egyptian throughout Duchy of Al-Said
+6077,egyptian,Egyptian throughout Duchy of Al-Said
+6078,egyptian,Egyptian throughout Duchy of Al-Said
+6079,egyptian,Egyptian throughout Duchy of Al-Said
+6080,egyptian,Egyptian throughout Duchy of Al-Said
+6081,egyptian,Egyptian throughout Duchy of Al-Said
+6082,egyptian,Egyptian throughout Duchy of Al-Said
 6083,ancient_egyptian,Exported starting assignment from k_egypt.txt
 6085,ancient_egyptian,Exported starting assignment from k_egypt.txt
 6088,ancient_egyptian,Exported starting assignment from k_egypt.txt
@@ -1989,17 +2390,25 @@ province_id,culture,notes
 6312,qahtanite,Exported starting assignment from k_yemen.txt
 6313,qahtanite,Exported starting assignment from k_yemen.txt
 6314,qahtanite,Exported starting assignment from k_yemen.txt
-6329,nubian,Exported starting assignment from k_nubia.txt
-6334,nubian,Exported starting assignment from k_nubia.txt
-6336,nubian,Exported starting assignment from k_nubia.txt
-6337,nubian,Exported starting assignment from k_nubia.txt
+6322,numidian,Numidian assignment for d_mzab per regional culture request
+6329,egyptian,Egyptian throughout Duchy of Nobatia
+6330,egyptian,Egyptian throughout Duchy of Nobatia
+6331,egyptian,Egyptian throughout Duchy of Nobatia
+6332,egyptian,Egyptian throughout Duchy of Nobatia
+6333,egyptian,Egyptian throughout Duchy of Nobatia
+6334,egyptian,Egyptian throughout Duchy of Nobatia
+6335,egyptian,Egyptian throughout Duchy of Nobatia
+6336,egyptian,Egyptian throughout Duchy of Nobatia
+6337,egyptian,Egyptian throughout Duchy of Nobatia
+6338,egyptian,Egyptian throughout Duchy of Nobatia
 6339,nubian,Exported starting assignment from k_nubia.txt
 6344,nubian,Exported starting assignment from k_nubia.txt
 6346,nubian,Exported starting assignment from k_nubia.txt
 6351,nubian,Exported starting assignment from k_nubia.txt
 6352,beja,Exported starting assignment from k_nubia.txt
 6356,nubian,Exported starting assignment from k_nubia.txt
-6362,nubian,Exported starting assignment from k_nubia.txt
+6361,egyptian,Egyptian throughout Duchy of Nobatia
+6362,egyptian,Egyptian throughout Duchy of Nobatia
 6363,nubian,Exported starting assignment from k_nubia.txt
 6367,nubian,Exported starting assignment from k_nubia.txt
 6373,nubian,Exported starting assignment from k_blemmyia.txt
@@ -2624,7 +3033,12 @@ province_id,culture,notes
 8782,sami,Exported starting assignment from k_sapmi.txt
 8789,sami,Exported starting assignment from k_sapmi.txt
 8795,basque,Exported starting assignment from k_tarragonaise.txt
-8799,basque,Exported starting assignment from k_tarragonaise.txt
+8796,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+8797,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+8798,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+8799,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+8800,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
+8801,catalan,Catalan throughout Duchy of Barcelona (d_barcelona)
 8802,han,Exported starting assignment from k_fujian.txt
 8806,han,Exported starting assignment from k_fujian.txt
 8810,yao,Exported starting assignment from k_fujian.txt
