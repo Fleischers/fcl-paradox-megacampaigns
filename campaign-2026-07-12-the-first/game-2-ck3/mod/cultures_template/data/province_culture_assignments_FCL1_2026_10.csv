@@ -239,7 +239,9 @@ province_id,culture,notes
 556,scythian,Exported starting assignment from k_pontic_steppe.txt
 557,scythian,Exported starting assignment from k_pontic_steppe.txt
 558,scythian,Exported starting assignment from k_pontic_steppe.txt
-562,hellenic_greek,Exported starting assignment from k_pontic_steppe.txt
+560,gothic,Gothic throughout County of Kerch (c_kerch)
+561,gothic,Gothic throughout County of Kerch (c_kerch)
+562,gothic,Gothic throughout County of Kerch (c_kerch)
 564,sarmatian,Exported starting assignment from k_pontic_steppe.txt
 566,urslavic,Exported starting assignment from k_mordvinia.txt
 567,urslavic,Exported starting assignment from k_ruthenia.txt
@@ -301,7 +303,7 @@ province_id,culture,notes
 739,hellenic_greek,Exported starting assignment from k_pontus.txt
 740,hellenic_greek,Exported starting assignment from k_nikaea.txt
 742,phrygian,Exported starting assignment from k_nikaea.txt
-744,thracian,Exported starting assignment from k_thessalonika.txt
+744,levantine,Levantine in County of Abydos (c_abydos)
 745,hellenic_greek,Exported starting assignment from k_nikaea.txt
 750,thracian,Exported starting assignment from k_nikaea.txt
 753,phrygian,Exported starting assignment from k_nikaea.txt
@@ -654,8 +656,10 @@ province_id,culture,notes
 1748,non_indo_european_iberian,Exported starting assignment from k_betique.txt
 1752,celtiberian,Exported starting assignment from k_lusitania.txt
 1754,celtiberian,Exported starting assignment from k_lusitania.txt
-1758,celtiberian,Exported starting assignment from k_lusitania.txt
-1759,celtiberian,Exported starting assignment from k_lusitania.txt
+1756,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1757,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1758,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1759,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
 1760,galician,Galician assignment for d_porto per regional culture request
 1761,galician,Galician assignment for d_porto per regional culture request
 1762,galician,Galician assignment for d_porto per regional culture request
@@ -664,8 +668,12 @@ province_id,culture,notes
 1765,galician,Galician assignment for d_porto per regional culture request
 1766,galician,Galician assignment for d_porto per regional culture request
 1767,galician,Galician assignment for d_porto per regional culture request
-1769,lusoiberian,Exported starting assignment from k_lusitania.txt
-1773,lusoiberian,Exported starting assignment from k_lusitania.txt
+1768,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1769,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1770,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1771,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1772,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
+1773,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
 1776,celtiberian,Exported starting assignment from k_lusitania.txt
 1777,celtiberian,Exported starting assignment from k_lusitania.txt
 1781,galician,Galician assignment for d_galicia per regional culture request
@@ -808,6 +816,7 @@ province_id,culture,notes
 2000,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
 2001,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
 2002,catalan,Catalan throughout Duchy of Mallorca (d_mallorca)
+2003,suebi,Suebian throughout Duchy of Coimbra (d_coimbra)
 2006,celtiberian,Exported starting assignment from k_south_gaul.txt
 2009,basque,Exported starting assignment from k_aquitane_gaul.txt
 2010,basque,Exported starting assignment from k_aquitane_gaul.txt
@@ -1052,17 +1061,17 @@ province_id,culture,notes
 2585,oscan,Exported starting assignment from k_central_italy.txt
 2589,roman,Exported starting assignment from k_central_italy.txt
 2594,italiote,Exported starting assignment from k_central_italy.txt
-2596,samnite,Exported starting assignment from k_central_italy.txt
-2598,samnite,Exported starting assignment from k_central_italy.txt
+2596,langobard,Langobard; changed from Samnite (County of Cosenza excluded)
+2598,langobard,Langobard; changed from Samnite (County of Cosenza excluded)
 2600,roman,Exported starting assignment from k_central_italy.txt
-2604,samnite,Exported starting assignment from k_central_italy.txt
+2604,langobard,Langobard; changed from Samnite (County of Cosenza excluded)
 2606,roman,Exported starting assignment from k_magna_graecia.txt
 2608,italiote,Exported starting assignment from k_magna_graecia.txt
-2609,samnite,Exported starting assignment from k_magna_graecia.txt
-2610,messapic,Exported starting assignment from k_magna_graecia.txt
-2612,samnite,Exported starting assignment from k_magna_graecia.txt
-2619,messapic,Exported starting assignment from k_magna_graecia.txt
-2623,messapic,Exported starting assignment from k_magna_graecia.txt
+2609,langobard,Langobard; changed from Samnite (County of Cosenza excluded)
+2610,lombard,Lombard; changed from Mesapic (County of Lecce excluded)
+2612,langobard,Langobard; changed from Samnite (County of Cosenza excluded)
+2619,lombard,Lombard; changed from Mesapic (County of Lecce excluded)
+2623,lombard,Lombard; changed from Mesapic (County of Lecce excluded)
 2627,italiote,Exported starting assignment from k_magna_graecia.txt
 2628,samnite,Exported starting assignment from k_magna_graecia.txt
 2629,italiote,Exported starting assignment from k_magna_graecia.txt
@@ -1568,6 +1577,10 @@ province_id,culture,notes
 3733,hellenic_greek,Exported starting assignment from k_hellas.txt
 3736,hellenic_greek,Exported starting assignment from k_hellas.txt
 3739,celtic_pannonian,Exported starting assignment from k_illiria.txt
+3748,levantine,Levantine in County of Abydos (c_abydos)
+3749,levantine,Levantine in County of Abydos (c_abydos)
+3750,levantine,Levantine in County of Abydos (c_abydos)
+3751,levantine,Levantine in County of Abydos (c_abydos)
 3771,macedonian,Exported starting assignment from k_thessalonika.txt
 3784,macedonian,Exported starting assignment from k_thessalonika.txt
 3793,hellenic_greek,Exported starting assignment from k_thessalonika.txt
@@ -1827,11 +1840,20 @@ province_id,culture,notes
 4572,numidian,Exported starting assignment from k_africa.txt
 4573,numidian,Exported starting assignment from k_africa.txt
 4575,carthaginian,Exported starting assignment from k_africa.txt
-4578,carthaginian,Exported starting assignment from k_africa.txt
-4582,carthaginian,Exported starting assignment from k_africa.txt
-4585,carthaginian,Exported starting assignment from k_africa.txt
-4588,carthaginian,Exported starting assignment from k_africa.txt
-4589,carthaginian,Exported starting assignment from k_africa.txt
+4578,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4579,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4580,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4581,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4582,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4583,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4584,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4585,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4586,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4587,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4588,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4589,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4590,vandal,Vandal throughout Duchy of Tunis (d_tunis)
+4591,vandal,Vandal throughout Duchy of Tunis (d_tunis)
 4594,carthaginian,Exported starting assignment from k_africa.txt
 4598,baranis,Exported starting assignment from k_africa.txt
 4601,butr,Exported starting assignment from k_africa.txt
@@ -1847,11 +1869,16 @@ province_id,culture,notes
 4617,numidian,Numidian assignment for d_mzab per regional culture request
 4618,numidian,Numidian assignment for d_mzab per regional culture request
 4619,numidian,Numidian assignment for d_mzab per regional culture request
+4620,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
 4621,numidian,Numidian assignment for d_zab per regional culture request
 4622,numidian,Numidian assignment for d_zab per regional culture request
 4623,baranis,Exported starting assignment from k_africa.txt
 4627,numidian,Numidian assignment for d_zab per regional culture request
-4631,baranis,Exported starting assignment from k_africa.txt
+4628,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4629,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4630,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4631,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4632,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
 4633,numidian,Numidian assignment for d_zab per regional culture request
 4634,numidian,Numidian assignment for d_zab per regional culture request
 4635,numidian,Numidian assignment for d_bejaia per regional culture request
@@ -1883,9 +1910,9 @@ province_id,culture,notes
 4661,numidian,Numidian assignment for d_tahert per regional culture request
 4662,numidian,Numidian assignment for d_tahert per regional culture request
 4663,numidian,Numidian assignment for d_tlemcen per regional culture request
-4664,numidian,Numidian assignment for d_tlemcen per regional culture request
-4665,numidian,Numidian assignment for d_tlemcen per regional culture request
-4666,numidian,Numidian assignment for d_tlemcen per regional culture request
+4664,cornish,Cornish throughout County of Orania (c_orania)
+4665,cornish,Cornish throughout County of Orania (c_orania)
+4666,cornish,Cornish throughout County of Orania (c_orania)
 4667,numidian,Numidian assignment for d_tlemcen per regional culture request
 4668,numidian,Numidian assignment for d_tlemcen per regional culture request
 4669,numidian,Numidian assignment for d_tlemcen per regional culture request
@@ -1911,7 +1938,10 @@ province_id,culture,notes
 4720,baranis,Exported starting assignment from k_maghreb.txt
 4723,carthaginian,Exported starting assignment from k_maghreb.txt
 4724,baranis,Exported starting assignment from k_maghreb.txt
-4727,baranis,Exported starting assignment from k_maghreb.txt
+4727,scythian,Scythian throughout County of Ifni (c_ifni)
+4728,scythian,Scythian throughout County of Ifni (c_ifni)
+4729,scythian,Scythian throughout County of Ifni (c_ifni)
+4730,scythian,Scythian throughout County of Ifni (c_ifni)
 4735,butr,Exported starting assignment from k_maghreb.txt
 4736,butr,Exported starting assignment from k_maghreb.txt
 4737,butr,Exported starting assignment from k_maghreb.txt
@@ -1920,7 +1950,11 @@ province_id,culture,notes
 4749,numidian,Numidian assignment for d_tahert per regional culture request
 4750,numidian,Numidian assignment for d_tahert per regional culture request
 4751,numidian,Numidian assignment for d_tahert per regional culture request
+4752,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
+4753,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
 4754,numidian,Numidian assignment for d_zab per regional culture request
+4757,scythian,Scythian throughout County of Ifni (c_ifni)
+4758,scythian,Scythian throughout County of Ifni (c_ifni)
 4760,butr,Exported starting assignment from k_anbiya.txt
 4762,numidian,Numidian assignment for d_tahert per regional culture request
 4767,kurdish,Exported starting assignment from k_daylam.txt
@@ -2159,7 +2193,10 @@ province_id,culture,notes
 5539,lydian,Exported starting assignment from k_nikaea.txt
 5546,lydian,Exported starting assignment from k_nikaea.txt
 5548,phrygian,Exported starting assignment from k_nikaea.txt
-5552,phrygian,Exported starting assignment from k_nikaea.txt
+5551,levantine,Levantine in County of Mysia (c_mysia)
+5552,levantine,Levantine in County of Mysia (c_mysia)
+5553,levantine,Levantine in County of Mysia (c_mysia)
+5556,levantine,Levantine in County of Mysia (c_mysia)
 5561,phrygian,Exported starting assignment from k_nikaea.txt
 5565,thracian,Exported starting assignment from k_nikaea.txt
 5569,hellenic_greek,Exported starting assignment from k_nikaea.txt

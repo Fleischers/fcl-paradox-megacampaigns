@@ -28,7 +28,7 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-4,092 assignments across 240 cultures. Intentional overrides include all 17
+4,129 assignments across 242 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
@@ -78,7 +78,7 @@ were assigned to `bulgarian`. Naissus (`c_naissus`, four baronies) and Vidin
 Dobrudja assignment was removed and its starting cultures restored. All 21
 baronies in the Duchy of Raška (`d_rashka`) were assigned to `serbian`, and
 all 16 baronies in the Duchy of Visegrad (`d_visegrad`) were assigned to
-`mogyer` (the template also defines `hungarian`). All 240 culture IDs used
+`mogyer` (the template also defines `hungarian`). All 242 culture IDs used
 are defined in this template. The seven baronies in the Kingdom of Caucasus
 (`k_caucasus`) that were Sarmatian were changed to `khazar`; other cultures
 in the kingdom were left unchanged. In the Kingdom of Rhetia (`k_rhetia`),
@@ -100,6 +100,25 @@ title name) were changed to `polabian`. The five requested Egyptian duchies -
 Delta (`d_delta`, 14 baronies), Cairo (`d_cairo`, 10), Al-Said (`d_al-said`,
 19), Sinai (`d_sinai`, 10), and Nobatia (`d_nobatia`, 12) - were all changed
 to `egyptian`.
+The three baronies in the County of Kerch (`c_kerch`) were changed to
+`gothic`, a localized assignment reflecting the later Gothic presence in
+Crimea rather than changing the entire duchy.
+The five baronies in the County of Tunis (`c_tunis`) were changed from
+`vandal` to `catalan`; other counties in the Duchy of Tunis remain Vandal.
+All five currently Samnite provinces outside the County of Cosenza were
+changed to `langobard`; the Samnite province in Cosenza was left unchanged.
+All three currently Mesapic provinces outside the County of Lecce were
+changed to `lombard`; Lecce's Mesapic province was left unchanged.
+All 14 baronies in the Duchy of Tunis (`d_tunis`) were changed to `vandal`.
+All eight baronies in the Duchy of Kroumerie (`d_kroumerie`) were also changed
+to `vandal`.
+All 11 baronies in the Duchy of Coimbra (`d_coimbra`) were changed to `suebi`
+(Suebian).
+All six baronies in the County of Ifni (`c_ifni`) were changed to `scythian`.
+All three baronies in the County of Orania (`c_orania`) were changed to
+`cornish`.
+The five baronies in the County of Abydos (`c_abydos`) and the four in the
+County of Mysia (`c_mysia`) were changed to `levantine`.
 
 This reference records the exported starting map; it is not a final 1200 AUC
 assignment plan. Before using it with another conversion, verify that the
