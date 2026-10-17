@@ -1843,10 +1843,10 @@ province_id,culture,notes
 4578,vandal,Vandal throughout Duchy of Tunis (d_tunis)
 4579,vandal,Vandal throughout Duchy of Tunis (d_tunis)
 4580,vandal,Vandal throughout Duchy of Tunis (d_tunis)
-4581,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
-4582,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
-4583,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
-4584,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4581,punic_iberian,Punic-Iberian blend (Carthaginian and Iberian) in County of Tunis (c_tunis)
+4582,punic_iberian,Punic-Iberian blend (Carthaginian and Iberian) in County of Tunis (c_tunis)
+4583,punic_iberian,Punic-Iberian blend (Carthaginian and Iberian) in County of Tunis (c_tunis)
+4584,punic_iberian,Punic-Iberian blend (Carthaginian and Iberian) in County of Tunis (c_tunis)
 4585,vandal,Vandal throughout Duchy of Tunis (d_tunis)
 4586,vandal,Vandal throughout Duchy of Tunis (d_tunis)
 4587,vandal,Vandal throughout Duchy of Tunis (d_tunis)
@@ -1951,7 +1951,7 @@ province_id,culture,notes
 4750,numidian,Numidian assignment for d_tahert per regional culture request
 4751,numidian,Numidian assignment for d_tahert per regional culture request
 4752,vandal,Vandal throughout Duchy of Kroumerie (d_kroumerie)
-4753,catalan,Catalan throughout County of Tunis (c_tunis); changed from Vandal
+4753,punic_iberian,Punic-Iberian blend (Carthaginian and Iberian) in County of Tunis (c_tunis)
 4754,numidian,Numidian assignment for d_zab per regional culture request
 4757,scythian,Scythian throughout County of Ifni (c_ifni)
 4758,scythian,Scythian throughout County of Ifni (c_ifni)

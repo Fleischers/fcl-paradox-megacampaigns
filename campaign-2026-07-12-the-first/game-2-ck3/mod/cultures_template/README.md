@@ -28,7 +28,7 @@ reference extracted from the beginning-of-game export at
 `C:\Users\fleis\Documents\Paradox Interactive\Crusader Kings III\mod\cultures_FCL1_2026_10`.
 It started with 3,476 explicit province assignments across 214 culture IDs,
 with the source province-history file recorded in each row. It now contains
-4,148 assignments across 242 cultures. Intentional overrides include all 17
+4,148 assignments across 243 cultures. Intentional overrides include all 17
 barony provinces in Duchy of Brittany (`d_brittany`) to `breton`, 23 Vepsian
 provinces in the White Rus and Novgorod kingdoms to the East Slavic `urslavic`
 culture, and all 25 barony provinces in the Duchy of Lombardy (`d_lombardia`)
@@ -78,7 +78,7 @@ were assigned to `bulgarian`. Naissus (`c_naissus`, four baronies) and Vidin
 Dobrudja assignment was removed and its starting cultures restored. All 21
 baronies in the Duchy of Raška (`d_rashka`) were assigned to `serbian`, and
 all 16 baronies in the Duchy of Visegrad (`d_visegrad`) were assigned to
-`mogyer` (the template also defines `hungarian`). All 242 culture IDs used
+`mogyer` (the template also defines `hungarian`). All 243 culture IDs used
 are defined in this template. The seven baronies in the Kingdom of Caucasus
 (`k_caucasus`) that were Sarmatian were changed to `khazar`; other cultures
 in the kingdom were left unchanged. In the Kingdom of Rhetia (`k_rhetia`),
@@ -103,8 +103,14 @@ to `egyptian`.
 The three baronies in the County of Kerch (`c_kerch`) were changed to
 `gothic`, a localized assignment reflecting the later Gothic presence in
 Crimea rather than changing the entire duchy.
-The five baronies in the County of Tunis (`c_tunis`) were changed from
-`vandal` to `catalan`; other counties in the Duchy of Tunis remain Vandal.
+The five baronies in the County of Tunis (`c_tunis`, provinces 4581-4584 and
+4753) are assigned to the custom `punic_iberian` culture, a Carthaginian and
+Iberian blend; other counties in the Duchy of Tunis remain Vandal. This is an
+alternate-history culture choice, not a claim that this hybrid identity is
+historically attested in 890 CE. In this campaign's alternate history, an
+Iberian ruler who conquered Carthage established the hybrid culture there.
+It uses Iberian heritage for affinity with the ruling culture, Carthaginian
+language, and Carthaginian and Iberian parents and name lists.
 All five currently Samnite provinces outside the County of Cosenza were
 changed to `langobard`; the Samnite province in Cosenza was left unchanged.
 All three currently Mesapic provinces outside the County of Lecce were
