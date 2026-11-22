@@ -1,0 +1,189 @@
+﻿blood_of_albion = {
+	type = fame
+	icon = blood_of_albion.dds
+	diplomacy = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_albion_desc
+	}
+}
+
+blood_of_armenia = {
+	type = fame
+	icon = blood_of_armenia.dds
+	stewardship = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_armenia_desc
+	}
+}
+
+blood_of_belgia = {
+	type = fame
+	icon = blood_of_belgia.dds
+	diplomacy = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_belgia_desc
+	}
+}
+
+blood_of_dacia = {
+	type = fame
+	icon = blood_of_dacia.dds
+	martial = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_dacia_desc
+	}
+}
+
+blood_of_germania = {
+	type = fame
+	icon = blood_of_germania.dds
+	intrigue = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_germania_desc
+	}
+}
+
+blood_of_greater_iberia = {
+	type = fame
+	icon = blood_of_greater_iberia.dds
+	stewardship = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_greater_iberia_desc
+	}
+}
+
+blood_of_israel = {
+	type = fame
+	icon = blood_of_israel.dds
+	diplomacy = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_israel_desc
+	}
+}
+
+blood_of_macedon = {
+	type = fame
+	icon = blood_of_macedon.dds
+	martial = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_macedon_desc
+	}
+}
+
+blood_of_numidia = {
+	type = fame
+	icon = blood_of_numidia.dds
+	learning = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_numidia_desc
+	}
+}
+
+blood_of_scythia = {
+	type = fame
+	icon = blood_of_scythia.dds
+	intrigue = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_scythia_desc
+	}
+}
+
+blood_of_tuscia = {
+	type = fame
+	icon = blood_of_tuscia.dds
+	stewardship = 1
+	monthly_prestige = 0.1
+	direct_vassal_opinion = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 70
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_tuscia_desc
+	}
+}
+
+blood_of_the_winner = {
+	type = fame
+	icon = blood_of_the_winner.dds
+	monthly_prestige = 0.1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 60
+	both_parent_has_trait_inherit_chance = 100
+	ruler_designer_cost = 20
+	desc = {
+		desc = trait_blood_of_the_winner_desc
+	}
+}

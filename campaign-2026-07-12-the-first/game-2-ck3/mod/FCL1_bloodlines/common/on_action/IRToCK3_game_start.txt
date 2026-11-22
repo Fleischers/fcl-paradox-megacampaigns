@@ -1,0 +1,94 @@
+﻿on_game_start_after_lobby = {
+	on_actions = { irtock3_on_game_start_after_lobby }
+}
+irtock3_on_game_start_after_lobby = {
+	effect = {
+		title:k_IRTOCK3_ICE.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_albion
+				}
+			}
+		}
+		title:e_armenia.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_armenia
+				}
+			}
+		}
+		title:k_IRTOCK3_RMI.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_belgia
+				}
+			}
+		}
+		title:k_IRTOCK3_AHL.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_dacia
+				}
+			}
+		}
+		title:e_germany.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_germania
+				}
+			}
+		}
+		title:h_IRTOCK3_CRM.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_greater_iberia
+				}
+			}
+		}
+		title:k_israel.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_israel
+				}
+			}
+		}
+		title:k_IRTOCK3_MAU.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_numidia
+				}
+			}
+		}
+		title:e_IRTOCK3_A3O.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_scythia
+				}
+			}
+		}
+		title:e_IRTOCK3_A64.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					if = {
+						limit = { NOT = { has_trait = blood_of_tuscia } }
+						add_trait = blood_of_tuscia
+					}
+					if = {
+						limit = { NOT = { has_trait = blood_of_the_winner } }
+						add_trait = blood_of_the_winner
+					}
+				}
+			}
+		}
+	}
+}
