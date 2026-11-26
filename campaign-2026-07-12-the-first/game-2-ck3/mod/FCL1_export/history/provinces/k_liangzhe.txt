@@ -1,0 +1,161 @@
+8809={
+	holding = city_holding
+}
+8825={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+}
+8826={
+	holding = city_holding
+}
+8827={
+	holding = city_holding
+}
+8828={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+}
+8829={
+	holding = church_holding
+}
+8830={
+	holding = church_holding
+}
+8831={
+	holding = city_holding
+}
+8832={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+	special_building = liangzhe_mines_01
+	1150.1.1 = { religion = daoxue }
+}
+8833={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+8834={
+	holding = city_holding
+}
+8835={
+	holding = none
+}
+8836={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+8837={
+	holding = none
+}
+8838={
+	holding = church_holding
+	special_building_slot = tiantai_monasteries_01
+	860.1.1 = { special_building = tiantai_monasteries_01 }
+}
+8839={
+	holding = city_holding
+}
+8841={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+8845={
+	holding = none
+}
+10262={
+	holding = none
+}
+10270={
+	culture = yao
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+10291={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+}
+10292={
+	holding = church_holding
+}
+10316={
+	holding = none
+}
+10327={
+	holding = city_holding
+}
+10328={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+10342={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+10343={
+	holding = city_holding
+}
+10344={
+	holding = church_holding
+}
+10345={
+	holding = city_holding
+	special_building = lingyin_temple_01
+}
+10346={
+	holding = none
+}
+10347={
+	holding = church_holding
+	special_building_slot = liuhe_pagoda_01
+	970.1.1 = { special_building = liuhe_pagoda_01 }
+}
+10348={
+	culture = yao
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+10349={
+	holding = church_holding
+}
+10350={
+	holding = city_holding
+}
+10351={
+	holding = none
+}
+10383={
+	holding = city_holding
+}
+10384={
+	holding = church_holding
+}
+10421={
+	holding = church_holding
+}
+12953={
+	holding = church_holding
+}
+12956={
+	holding = church_holding
+}
+12968={
+	holding = none
+}
+12969={
+	holding = none
+}

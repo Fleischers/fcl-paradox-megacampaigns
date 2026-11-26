@@ -1,0 +1,137 @@
+9681={
+	holding = none
+}
+11397={
+	culture = senoi
+	religion = mahayana
+	holding = tribal_holding
+	1066.1.1 = { holding = castle_holding }
+}
+11398={
+	holding = none
+}
+11399={
+	holding = none
+}
+11400={
+	holding = none
+}
+11401={
+	holding = none
+}
+11402={
+	culture = senoi
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11403={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11404={
+	holding = none
+}
+11405={
+	holding = none
+}
+11406={
+	culture = senoi
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11407={
+	holding = none
+}
+11408={
+	culture = senoi
+	religion = mahayana
+	holding = tribal_holding
+}
+11409={
+	holding = none
+}
+11410={
+	holding = none
+}
+11411={
+	holding = city_holding
+}
+11412={
+	culture = senoi
+	religion = shaivism
+	holding = castle_holding
+	1078.1.1 = { holding = temple_citadel_holding }
+}
+11413={
+	holding = city_holding
+}
+11414={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11415={
+	holding = none
+}
+11416={
+	holding = none
+}
+11417={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11418={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11419={
+	holding = church_holding
+}
+11420={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11421={
+	holding = none
+}
+11422={
+	holding = none
+}
+11423={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11424={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11425={
+	holding = none
+}
+11426={
+	holding = city_holding
+}
+11427={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11428={
+	holding = city_holding
+}
+11429={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11430={
+	holding = none
+}
+12526={
+	culture = malay
+	religion = mahayana
+	holding = tribal_holding
+	1066.1.1 = { holding = temple_citadel_holding }
+}

@@ -1,0 +1,176 @@
+﻿old_saxon = {
+	color = rgb { 128 26 26 }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_things tradition_seafaring tradition_hird }
+	name_list = name_list_old_saxon
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		25 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		35 = caucasian_northern_brown_hair
+		25 = caucasian_northern_dark_hair
+	}
+}
+suebi = {
+	color = rgb { 204 178 102 }
+	heritage = heritage_west_germanic
+	language = language_central_germanic
+	traditions = { tradition_stand_and_fight tradition_agrarian }
+	name_list = name_list_suebi
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+anglo_saxon = {
+	color = rgb { 204 76 76 }
+	parents = { old_saxon }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_the_witenagemot tradition_city_keepers tradition_hird }
+	name_list = name_list_anglo_saxon
+	created = 500.1.1
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { anglo_saxon_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+english = {
+	color = rgb { 204 51 51 }
+	parents = { norman anglo_saxon }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_hereditary_hierarchy tradition_chivalry tradition_castle_keepers tradition_longbow_competitions }
+	name_list = name_list_english
+	created = 1070.1.1
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+scottish = {
+	color = rgb { 204 75 40 }
+	parents = { anglo_saxon cumbrian }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_hereditary_hierarchy tradition_city_keepers tradition_xenophilic tradition_strong_kinship }
+	name_list = name_list_scottish
+	created = 1050.1.1
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { scottish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { english_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+}
+angle = {
+	color = rgb { 142 66 30 }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_things tradition_seafaring }
+	name_list = name_list_old_saxon
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		25 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		35 = caucasian_northern_brown_hair
+		25 = caucasian_northern_dark_hair
+	}
+}
+iweric = {
+	color = rgb { 202 196 204 }
+	parents = { old_saxon irish }
+	heritage = heritage_west_germanic
+	language = language_anglic
+	traditions = { tradition_things tradition_horse_breeder }
+	name_list = name_list_iweric
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	coa_gfx = { irish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	ethos = ethos_stoic
+}

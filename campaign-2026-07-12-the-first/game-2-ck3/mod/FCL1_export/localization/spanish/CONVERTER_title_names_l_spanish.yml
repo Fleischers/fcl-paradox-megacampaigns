@@ -1,0 +1,11 @@
+﻿l_spanish:
+# Pharaoh
+ king_feudal_male_ancient_egyptian: "Faraón"
+ king_feudal_female_ancient_egyptian: "Faraón"
+ emperor_feudal_male_ancient_egyptian: "Faraón"
+ emperor_feudal_female_ancient_egyptian: "Faraón"
+
+# Carthage
+ duke_republic_male_carthaginian: "Sufete"
+ king_republic_male_carthaginian: "Sufete"
+ emperor_republic_male_carthaginian: "Sufete"

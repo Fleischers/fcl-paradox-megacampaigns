@@ -1,0 +1,203 @@
+9694={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11715={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11716={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11718={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11719={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11720={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11721={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11753={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11754={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11758={
+	holding = none
+}
+11759={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11760={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11761={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11762={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11763={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11764={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11765={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11766={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11771={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11772={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11773={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11774={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+11775={
+	holding = none
+}
+11776={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12406={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12407={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12408={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+12409={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12410={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+12411={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12415={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+12416={
+	holding = none
+}
+12417={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12418={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12420={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+12421={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+12422={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12423={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12424={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12425={
+	culture = han
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12426={
+	holding = none
+}
+12427={
+	holding = none
+}
+12428={
+	culture = khitan
+	religion = avatamsaka
+	holding = nomad_holding
+	1066.1.1 = { holding = castle_holding }
+}
+12429={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12430={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}

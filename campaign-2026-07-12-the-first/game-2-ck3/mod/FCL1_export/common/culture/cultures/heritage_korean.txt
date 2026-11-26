@@ -1,0 +1,81 @@
+﻿silla = {
+	color = rgb { 120 46 41 }
+	heritage = heritage_korean
+	language = language_korean
+	traditions = { tradition_poetry }
+	name_list = name_list_korean
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_stratified_society
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}
+goryeo = {
+	color = rgb { 26 76 178 }
+	parents = { goguryeo silla }
+	heritage = heritage_korean
+	language = language_korean
+	traditions = { tradition_court_eunuchs }
+	name_list = name_list_korean
+	created = 1000.1.1
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_scholar_officials
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_philosopher_culture
+	}
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_stratified_society
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}

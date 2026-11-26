@@ -1,0 +1,272 @@
+k_amdo={
+	890.1.1 = { liege = 0 }
+}
+d_aksay={
+	890.1.1 = { holder = IRToCK3_c_aksay_holder government = tribal_government liege = 0 }
+}
+d_amdo={
+	700.1.1 = { holder = 305639 }
+	842.1.1 = { liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder government = tribal_government liege = 0 }
+}
+d_nagormo={
+	740.1.1 = { holder = 305826 }
+	800.1.1 = { holder = 305827 }
+	820.1.1 = { holder = 305828 }
+	840.1.1 = { holder = 305829 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = 305830 }
+	880.1.1 = { holder = 305831 }
+	890.1.1 = { holder = IRToCK3_c_kumkol_holder government = tribal_government liege = 0 }
+}
+d_qumarleb={
+	890.1.1 = { liege = 0 }
+}
+d_tuyuhun={
+	740.1.1 = { holder = 305916 }
+	800.1.1 = { holder = 305917 }
+	820.1.1 = { holder = 305918 }
+	840.1.1 = { holder = 305919 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = 305920 }
+	880.1.1 = { holder = 305921 }
+}
+d_xining={
+	740.1.1 = { holder = 305946 }
+	800.1.1 = { holder = 305947 }
+	820.1.1 = { holder = 305948 }
+	840.1.1 = { holder = 305949 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = 305950 }
+	880.1.1 = { holder = 305951 }
+}
+d_zadoi={
+	740.1.1 = { holder = 305701 }
+	780.1.1 = { holder = 305702 }
+	800.1.1 = { holder = 305703 }
+	820.1.1 = { holder = 305704 }
+	840.1.1 = { holder = 305705 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = 305706 }
+	880.1.1 = { holder = 305707 }
+}
+c_aksay={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_aksay_holder liege = d_aksay change_development_level = 2 }
+}
+c_amdo={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	700.1.1 = { holder = 305639 liege = "d_amdo" }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder liege = 0 }
+}
+c_aqenganggyai={
+	476.1.7 = { change_development_level = 0 }
+	700.1.1 = { liege = "d_amdo" }
+	740.1.1 = { holder = 305671 }
+	800.1.1 = { holder = 305672 }
+	820.1.1 = { holder = 305673 }
+	840.1.1 = { holder = 305674 }
+	860.1.1 = { holder = 305675 }
+	880.1.1 = { holder = 305676 }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder }
+}
+c_chindu={
+	740.1.1 = { holder = 304264 liege = "d_nangqen" }
+	800.1.1 = { holder = 304265 }
+	820.1.1 = { holder = 304266 }
+	840.1.1 = { holder = 304267 }
+	860.1.1 = { holder = 304268 }
+	880.1.1 = { holder = 304269 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_chumarho={
+	700.1.1 = { liege = "d_amdo" }
+	740.1.1 = { holder = 305671 }
+	800.1.1 = { holder = 305672 }
+	820.1.1 = { holder = 305673 }
+	840.1.1 = { holder = 305674 }
+	860.1.1 = { holder = 305675 }
+	880.1.1 = { holder = 305676 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_dangla={
+	476.1.7 = { change_development_level = 0 }
+	700.1.1 = { holder = 305639 liege = "d_amdo" }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder }
+}
+c_datong={
+	740.1.1 = { holder = 305946 liege = "d_xining" }
+	800.1.1 = { holder = 305947 }
+	820.1.1 = { holder = 305948 }
+	840.1.1 = { holder = 305949 }
+	860.1.1 = { holder = 305950 }
+	880.1.1 = { holder = 305951 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_derlenka={
+	740.1.1 = { holder = 305886 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305887 }
+	820.1.1 = { holder = 305888 }
+	840.1.1 = { holder = 305889 }
+	860.1.1 = { holder = 305890 }
+	880.1.1 = { holder = 305891 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_fuqi={
+	740.1.1 = { holder = 305916 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305917 }
+	820.1.1 = { holder = 305918 }
+	840.1.1 = { holder = 305919 }
+	860.1.1 = { holder = 305920 }
+	880.1.1 = { holder = 305921 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_gerqen={
+	740.1.1 = { holder = 305916 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305917 }
+	820.1.1 = { holder = 305918 }
+	840.1.1 = { holder = 305919 }
+	860.1.1 = { holder = 305920 }
+	880.1.1 = { holder = 305921 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_haltang={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_aksay_holder liege = d_aksay change_development_level = 2 }
+}
+c_hohaseco={
+	740.1.1 = { holder = 305671 liege = "d_nagormo" }
+	800.1.1 = { holder = 305672 }
+	820.1.1 = { holder = 305673 }
+	840.1.1 = { holder = 305674 }
+	860.1.1 = { holder = 305675 }
+	880.1.1 = { holder = 305676 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kumkol={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	740.1.1 = { liege = "d_nagormo" }
+	890.1.1 = { holder = IRToCK3_c_kumkol_holder liege = 0 }
+}
+c_lenghu={
+	740.1.1 = { holder = 305826 liege = "d_nagormo" }
+	800.1.1 = { holder = 305827 }
+	820.1.1 = { holder = 305828 }
+	840.1.1 = { holder = 305829 }
+	860.1.1 = { holder = 305830 }
+	880.1.1 = { holder = 305831 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_mangnai={
+	740.1.1 = { holder = 305826 liege = "d_nagormo" }
+	800.1.1 = { holder = 305827 }
+	820.1.1 = { holder = 305828 }
+	840.1.1 = { holder = 305829 }
+	860.1.1 = { holder = 305830 }
+	880.1.1 = { holder = 305831 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_nagormo={
+	740.1.1 = { holder = 305826 liege = "d_nagormo" }
+	800.1.1 = { holder = 305827 }
+	820.1.1 = { holder = 305828 }
+	840.1.1 = { holder = 305829 }
+	860.1.1 = { holder = 305830 }
+	880.1.1 = { holder = 305831 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ngoring={
+	740.1.1 = { holder = 305796 }
+	800.1.1 = { holder = 305797 }
+	820.1.1 = { holder = 305798 }
+	840.1.1 = { holder = 305799 }
+	860.1.1 = { holder = 305800 }
+	880.1.1 = { holder = 305801 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_nyainrong={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	700.1.1 = { holder = 305639 liege = "d_amdo" }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder }
+}
+c_qumarleb={
+	740.1.1 = { holder = 305796 }
+	800.1.1 = { holder = 305797 }
+	820.1.1 = { holder = 305798 }
+	840.1.1 = { holder = 305799 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = 305800 }
+	880.1.1 = { holder = 305801 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_trandam={
+	740.1.1 = { holder = 305701 liege = "d_zadoi" }
+	780.1.1 = { holder = 305702 }
+	800.1.1 = { holder = 305703 }
+	820.1.1 = { holder = 305704 }
+	840.1.1 = { holder = 305705 }
+	860.1.1 = { holder = 305706 }
+	880.1.1 = { holder = 305707 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_tuulain={
+	740.1.1 = { holder = 305886 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305887 }
+	820.1.1 = { holder = 305888 }
+	840.1.1 = { holder = 305889 }
+	860.1.1 = { holder = 305890 }
+	880.1.1 = { holder = 305891 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ulam={
+	740.1.1 = { holder = 305886 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305887 }
+	820.1.1 = { holder = 305888 }
+	840.1.1 = { holder = 305889 }
+	860.1.1 = { holder = 305890 }
+	880.1.1 = { holder = 305891 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_xigortang={
+	740.1.1 = { holder = 305916 liege = "d_tuyuhun" }
+	800.1.1 = { holder = 305917 }
+	820.1.1 = { holder = 305918 }
+	840.1.1 = { holder = 305919 }
+	860.1.1 = { holder = 305920 }
+	880.1.1 = { holder = 305921 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_xining={
+	740.1.1 = { holder = 305946 liege = "d_xining" }
+	800.1.1 = { holder = 305947 }
+	820.1.1 = { holder = 305948 }
+	840.1.1 = { holder = 305949 }
+	860.1.1 = { holder = 305950 }
+	880.1.1 = { holder = 305951 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_yenshipin={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	700.1.1 = { holder = 305639 liege = "d_amdo" }
+	890.1.1 = { holder = IRToCK3_c_amdo_holder }
+}
+c_zadoi={
+	740.1.1 = { holder = 305701 liege = "d_zadoi" }
+	780.1.1 = { holder = 305702 }
+	800.1.1 = { holder = 305703 }
+	820.1.1 = { holder = 305704 }
+	840.1.1 = { holder = 305705 }
+	860.1.1 = { holder = 305706 }
+	880.1.1 = { holder = 305707 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_zhidoi={
+	740.1.1 = { holder = 305701 liege = "d_zadoi" }
+	780.1.1 = { holder = 305702 }
+	800.1.1 = { holder = 305703 }
+	820.1.1 = { holder = 305704 }
+	840.1.1 = { holder = 305705 }
+	860.1.1 = { holder = 305706 }
+	880.1.1 = { holder = 305707 }
+	890.1.1 = { change_development_level = 2 }
+}

@@ -1,0 +1,59 @@
+k_xichuan={
+	890.1.1 = { liege = 0 }
+}
+d_qiongnan={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder government = feudal_government liege = 0 }
+}
+d_xichuan={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder government = feudal_government liege = 0 }
+}
+c_chengdu={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 16 }
+}
+c_hanyuan={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 8 }
+}
+c_hanzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 8 }
+}
+c_jianyang={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 14 }
+}
+c_jiazhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 12 }
+}
+c_lingzhou_1={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 12 }
+}
+c_maozhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 8 }
+}
+c_meizhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 8 }
+}
+c_pengzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_chengdu_holder liege = d_xichuan change_development_level = 8 }
+}
+c_qiongbu={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 8 }
+}
+c_qiongzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 8 }
+}
+c_yazhou_2={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_qiongzhou_holder liege = d_qiongnan change_development_level = 8 }
+}

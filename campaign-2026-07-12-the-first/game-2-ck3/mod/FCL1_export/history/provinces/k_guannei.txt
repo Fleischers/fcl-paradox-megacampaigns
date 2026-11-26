@@ -1,0 +1,321 @@
+9775={
+	holding = city_holding
+}
+10049={
+	holding = castle_holding
+}
+10050={
+	holding = church_holding
+}
+10051={
+	culture = han
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+10052={
+	holding = church_holding
+}
+10053={
+	holding = none
+}
+10054={
+	holding = city_holding
+}
+10111={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10112={
+	holding = city_holding
+}
+10113={
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+	960.1.1 = { culture = han religion = sukhavati }
+}
+10114={
+	holding = church_holding
+}
+10115={
+	holding = city_holding
+}
+10116={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10117={
+	holding = church_holding
+}
+10118={
+	holding = city_holding
+}
+10119={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10120={
+	holding = city_holding
+}
+10121={
+	holding = church_holding
+}
+10122={
+	holding = castle_holding
+}
+10123={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10124={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+10125={
+	holding = city_holding
+}
+10126={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10127={
+	holding = city_holding
+}
+10128={
+	holding = church_holding
+}
+10129={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+	special_building = kaibao_mines_01
+}
+10130={
+	holding = city_holding
+}
+10131={
+	holding = church_holding
+}
+10132={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+10133={
+	holding = city_holding
+}
+10134={
+	holding = church_holding
+}
+10135={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10136={
+	holding = city_holding
+}
+10137={
+	holding = church_holding
+}
+10138={
+	culture = han
+	religion = yogacara
+	holding = castle_holding
+	960.1.1 = { religion = sukhavati }
+}
+10139={
+	holding = city_holding
+}
+10140={
+	holding = church_holding
+}
+10141={
+	culture = tangut
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10142={
+	holding = none
+}
+10143={
+	holding = city_holding
+}
+10144={
+	holding = church_holding
+}
+10145={
+	holding = city_holding
+}
+10146={
+	culture = han
+	religion = jingxue
+	holding = castle_holding
+	1000.1.1 = { religion = daoxue }
+}
+10147={
+	holding = church_holding
+}
+10148={
+	holding = castle_holding
+	effect = {
+		if = {
+			limit = {
+				has_tgp_dlc_trigger = yes
+			}
+			add_special_building_slot = changan_market_01
+			add_special_building = changan_market_01
+		}
+	}
+}
+10149={
+	holding = church_holding
+	special_building_slot = lantian_mines_01
+	867.1.1 = { special_building = lantian_mines_01 }
+}
+10150={
+	holding = city_holding
+}
+10151={
+	holding = castle_holding
+	special_building_slot = qianling_mausoleum_01
+	684.1.1 = { special_building = qianling_mausoleum_01 }
+}
+10152={
+	holding = church_holding
+}
+10153={
+	culture = han
+	religion = jingxue
+	holding = castle_holding
+	1000.1.1 = { religion = daoxue }
+}
+10154={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10155={
+	holding = city_holding
+}
+10264={
+	culture = qiang
+	religion = zhengyi
+	holding = castle_holding
+}
+10265={
+	culture = qiang
+	religion = zhengyi
+	holding = castle_holding
+}
+10266={
+	holding = church_holding
+}
+10267={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+10268={
+	holding = city_holding
+}
+10269={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+10418={
+	holding = city_holding
+}
+10419={
+	holding = castle_holding
+}
+10430={
+	culture = han
+	religion = jingxue
+	holding = castle_holding
+	special_building_slot = giant_wild_goose_pagoda_01
+	652.1.1 = { special_building = giant_wild_goose_pagoda_01 }
+	1000.1.1 = { religion = daoxue }
+}
+12339={
+	holding = city_holding
+}
+12354={
+	holding = city_holding
+}
+12355={
+	holding = none
+}
+12356={
+	holding = city_holding
+}
+12357={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+12358={
+	holding = church_holding
+}
+12359={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+12361={
+	holding = city_holding
+}
+12362={
+	culture = qiang
+	religion = zhengyi
+	holding = castle_holding
+}
+12363={
+	holding = city_holding
+}
+12364={
+	holding = church_holding
+}
+13038={
+	culture = han
+	religion = jingxue
+	holding = castle_holding
+	1000.1.1 = { religion = daoxue }
+}
+13039={
+	holding = castle_holding
+}
+13063={
+	holding = none
+}
+13065={
+	culture = han
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+13084={
+	holding = church_holding
+}
+13085={
+	holding = church_holding
+}
+13124={
+	holding = none
+}

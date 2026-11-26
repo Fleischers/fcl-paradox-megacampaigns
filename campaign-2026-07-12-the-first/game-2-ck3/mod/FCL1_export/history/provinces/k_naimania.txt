@@ -1,0 +1,279 @@
+1450={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	863.1.1 = { holding = herder_holding }
+	884.5.12 = { holding = nomad_holding }
+	1020.1.2 = { religion = nestorian }
+}
+1453={
+	holding = none
+}
+1455={
+	holding = none
+}
+1456={
+	culture = kerait
+	religion = tengri_pagan
+	holding = nomad_holding
+	864.5.16 = { holding = herder_holding }
+	885.6.13 = { holding = nomad_holding }
+	1020.1.2 = { religion = nestorian }
+}
+1458={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7559={
+	culture = kerait
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+	1065.2.22 = { holding = nomad_holding }
+	1101.2.13 = { holding = nomad_holding }
+	1171.10.12 = { holding = herder_holding }
+	1180.1.6 = { holding = nomad_holding }
+}
+7560={
+	holding = none
+}
+7561={
+	holding = none
+}
+7562={
+	culture = kerait
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7563={
+	holding = none
+}
+7564={
+	holding = none
+}
+7565={
+	holding = none
+}
+7566={
+	holding = none
+}
+7567={
+	holding = none
+}
+7568={
+	holding = none
+}
+7569={
+	holding = none
+}
+7570={
+	culture = kerait
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7571={
+	holding = none
+}
+7572={
+	holding = none
+}
+7573={
+	culture = kerait
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7574={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7575={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+	1168.2.22 = { holding = herder_holding }
+}
+7576={
+	holding = none
+}
+7577={
+	holding = none
+}
+7578={
+	holding = none
+}
+7579={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+	867.1.1 = { holding = herder_holding }
+	1040.1.1 = { holding = nomad_holding }
+}
+7580={
+	holding = none
+}
+7581={
+	holding = none
+}
+7582={
+	holding = none
+}
+7583={
+	holding = none
+}
+7584={
+	holding = none
+}
+7585={
+	culture = oirat
+	religion = tengri_pagan
+	holding = nomad_holding
+	1060.2.25 = { holding = herder_holding }
+	1094.8.15 = { holding = nomad_holding }
+}
+7586={
+	culture = oirat
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7587={
+	holding = none
+}
+7588={
+	culture = oirat
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7589={
+	holding = none
+}
+7590={
+	holding = none
+}
+7591={
+	holding = none
+}
+7592={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7593={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7594={
+	holding = none
+}
+7595={
+	holding = none
+}
+7596={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+	1172.4.4 = { holding = herder_holding }
+}
+7597={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7598={
+	holding = none
+}
+7599={
+	holding = none
+}
+7600={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.2 = { holding = herder_holding }
+	1092.7.18 = { holding = nomad_holding }
+	1172.4.4 = { holding = herder_holding }
+}
+7601={
+	holding = none
+}
+7602={
+	holding = none
+}
+7603={
+	holding = none
+}
+7604={
+	holding = none
+}
+7605={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+	867.1.1 = { holding = herder_holding }
+	1040.1.1 = { holding = nomad_holding }
+	1172.4.4 = { holding = herder_holding }
+}
+7606={
+	holding = none
+}
+7607={
+	holding = none
+}
+7608={
+	holding = none
+}
+7609={
+	holding = none
+}
+7610={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7611={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	1020.1.2 = { religion = nestorian }
+}
+7612={
+	holding = none
+}
+7613={
+	holding = none
+}
+7614={
+	holding = none
+}
+7615={
+	culture = naiman
+	religion = tengri_pagan
+	holding = nomad_holding
+	852.1.15 = { holding = herder_holding }
+	884.5.12 = { holding = nomad_holding }
+	1020.1.2 = { religion = nestorian }
+	1176.1.1 = { holding = herder_holding }
+}
+7616={
+	holding = none
+}
+12561={
+	holding = none
+}
+12562={
+	holding = none
+}
+12563={
+	culture = kerait
+	religion = nestorian
+	holding = nomad_holding
+}

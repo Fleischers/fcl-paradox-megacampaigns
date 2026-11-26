@@ -1,0 +1,210 @@
+1130={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1172={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1174={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+	terrain = desert
+}
+1176={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1294={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1300={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1302={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1304={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1345={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1346={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1349={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1350={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1353={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1354={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1355={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3338={
+	holding = none
+}
+3339={
+	holding = church_holding
+}
+3340={
+	holding = none
+}
+3341={
+	holding = none
+}
+3342={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3343={
+	holding = none
+}
+3344={
+	holding = none
+}
+3345={
+	holding = city_holding
+}
+3346={
+	holding = none
+}
+3347={
+	holding = none
+}
+3348={
+	holding = none
+}
+3349={
+	holding = church_holding
+}
+3385={
+	holding = none
+}
+3386={
+	holding = none
+}
+3387={
+	holding = none
+}
+3388={
+	holding = none
+}
+3389={
+	holding = none
+}
+3476={
+	holding = none
+}
+3477={
+	holding = none
+}
+3478={
+	holding = none
+}
+3479={
+	holding = none
+}
+3480={
+	holding = none
+}
+3481={
+	holding = city_holding
+}
+3482={
+	holding = none
+}
+3483={
+	holding = none
+}
+3484={
+	holding = none
+}
+3485={
+	holding = none
+}
+3486={
+	holding = none
+}
+3487={
+	holding = church_holding
+}
+3488={
+	holding = castle_holding
+	terrain = desert
+}
+3489={
+	holding = none
+}
+3490={
+	holding = none
+}
+3491={
+	holding = none
+}
+3492={
+	holding = none
+}
+3493={
+	holding = none
+}
+3494={
+	holding = city_holding
+}
+3495={
+	holding = none
+}
+3496={
+	holding = none
+}
+3497={
+	holding = city_holding
+}
+3498={
+	holding = none
+}
+3499={
+	holding = none
+}
+3968={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+3969={
+	holding = none
+}

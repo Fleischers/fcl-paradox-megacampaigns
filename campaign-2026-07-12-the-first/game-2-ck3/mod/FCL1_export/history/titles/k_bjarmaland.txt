@@ -1,0 +1,83 @@
+k_bjarmaland={
+	890.1.1 = { liege = 0 }
+}
+d_biarmia={
+	890.1.1 = { holder = IRToCK3_c_kholmogory_holder government = tribal_government liege = 0 }
+}
+d_chudia={
+	890.1.1 = { liege = 0 }
+}
+d_ustyug={
+	890.1.1 = { holder = IRToCK3_c_kevrola_holder government = tribal_government liege = 0 }
+}
+d_vologda={
+	890.1.1 = { holder = IRToCK3_c_vologda_holder government = tribal_government liege = 0 }
+}
+c_choklema={
+	854.9.13 = { holder = 302411 government = tribal_government liege = 0 }
+	880.2.15 = { holder = 302413 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kargopol={
+	867.1.1 = { holder = 302395 government = tribal_government liege = 0 }
+	884.1.29 = { holder = 302397 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kevrola={
+	853.3.16 = { government = tribal_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_kevrola_holder liege = 0 change_development_level = 0 }
+}
+c_kholmogory={
+	853.3.16 = { government = tribal_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_kholmogory_holder liege = 0 change_development_level = 1 }
+}
+c_kirillov={
+	867.1.1 = { holder = 302395 government = tribal_government liege = 0 }
+	884.1.29 = { holder = 302397 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_lyubim={
+	854.9.13 = { holder = 302411 government = tribal_government liege = 0 }
+	880.2.15 = { holder = 302413 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_onega_BJA={
+	860.4.16 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kholmogory_holder change_development_level = 1 }
+}
+c_onsthia={
+	854.9.13 = { holder = 302411 government = tribal_government liege = 0 }
+	880.2.15 = { holder = 302413 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_povenets={
+	860.4.16 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kholmogory_holder change_development_level = 1 }
+}
+c_pudozh={
+	860.4.16 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kholmogory_holder change_development_level = 1 }
+}
+c_shenkursk={
+	867.1.1 = { holder = 302404 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_totma={
+	867.1.1 = { holder = 302395 government = tribal_government liege = 0 }
+	884.1.29 = { holder = 302397 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ustyug={
+	867.1.1 = { holder = 302404 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_velsk={
+	867.1.1 = { holder = 302404 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_vologda={
+	476.1.7 = { change_development_level = 13 }
+	854.9.13 = { holder = 302411 government = tribal_government liege = 0 }
+	880.2.15 = { holder = 302413 }
+	890.1.1 = { holder = IRToCK3_c_vologda_holder liege = 0 }
+}

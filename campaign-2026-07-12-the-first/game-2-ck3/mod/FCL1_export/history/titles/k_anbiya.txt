@@ -1,0 +1,78 @@
+k_anbiya={
+	466.9.1 = { government = feudal_government holder = imperator239646 liege = e_spain succession_laws = { high_partition_succession_law } }
+	500.12.26 = { holder = irtock3_imperator239646_successor_0 }
+	543.12.26 = { holder = irtock3_imperator239646_successor_1 }
+	590.12.26 = { holder = irtock3_imperator239646_successor_2 }
+	622.12.26 = { holder = irtock3_imperator239646_successor_3 }
+	672.12.26 = { holder = irtock3_imperator239646_successor_4 }
+	720.12.26 = { holder = irtock3_imperator239646_successor_5 }
+	751.12.26 = { holder = irtock3_imperator239646_successor_6 }
+	796.12.26 = { holder = irtock3_imperator239646_successor_7 }
+	854.12.26 = { holder = irtock3_imperator239646_successor_8 }
+}
+d_adrar={
+	835.1.1 = { holder = 273072 government = tribal_government }
+}
+d_taghaza={
+	890.1.1 = { liege = 0 }
+}
+d_touat={
+	890.1.1 = { liege = 0 }
+}
+d_zammour={
+	890.1.1 = { liege = 0 }
+}
+c_amatlus={
+	835.1.1 = { government = tribal_government liege = d_adrar }
+	848.1.1 = { holder = 273101 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_azukki={
+	835.1.1 = { holder = 273072 government = tribal_government liege = d_adrar }
+	890.1.1 = { change_development_level = 3 }
+}
+c_saoura={
+	864.1.1 = { holder = 273110 government = tribal_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_taghaza={
+	864.1.1 = { holder = 273110 government = tribal_government }
+	890.1.1 = { change_development_level = 7 }
+}
+c_tamentit={
+	866.1.1 = { holder = tagelmust0012 government = tribal_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_tindouf={
+	842.1.1 = { holder = butr0007 government = tribal_government }
+	888.1.1 = { holder = butr0012 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_tiris={
+	835.1.1 = { holder = 273072 government = tribal_government liege = d_adrar }
+	890.1.1 = { change_development_level = 3 }
+}
+c_touat={
+	475.3.17 = { liege = 0 holder = imperator232387 }
+	476.1.7 = { change_development_level = 9 }
+	489.3.21 = { holder = irtock3_imperator232387_successor_0 }
+	522.3.21 = { holder = irtock3_imperator232387_successor_1 }
+	570.3.21 = { holder = irtock3_imperator232387_successor_2 }
+	605.3.21 = { holder = irtock3_imperator232387_successor_3 }
+	653.3.21 = { holder = irtock3_imperator232387_successor_4 }
+	700.3.21 = { holder = irtock3_imperator232387_successor_5 }
+	748.3.21 = { holder = irtock3_imperator232387_successor_6 }
+	796.3.21 = { holder = irtock3_imperator232387_successor_7 }
+	840.3.21 = { holder = irtock3_imperator232387_successor_8 }
+}
+c_wadan={
+	835.1.1 = { holder = 273072 government = tribal_government liege = d_adrar }
+	890.1.1 = { change_development_level = 5 }
+}
+c_zammour={
+	769.1.1 = { holder = 273107 government = tribal_government }
+	812.1.1 = { holder = 273106 }
+	850.1.1 = { holder = 273097 }
+	882.1.1 = { holder = 273080 }
+	890.1.1 = { change_development_level = 3 }
+}

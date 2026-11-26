@@ -1,0 +1,166 @@
+901={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1181={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1186={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1424={
+	culture = scythian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+1431={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1432={
+	holding = none
+}
+7113={
+	holding = castle_holding
+}
+7116={
+	holding = city_holding
+}
+7117={
+	holding = city_holding
+}
+7118={
+	holding = church_holding
+}
+7119={
+	holding = none
+}
+7120={
+	holding = none
+}
+7121={
+	culture = sarmatian
+	faith = orthodox
+	holding = castle_holding
+}
+7122={
+	holding = none
+}
+7123={
+	culture = sarmatian
+	faith = orthodox
+	holding = castle_holding
+}
+7124={
+	holding = city_holding
+}
+7125={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7126={
+	holding = castle_holding
+}
+7127={
+	holding = castle_holding
+}
+7128={
+	holding = none
+}
+7129={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7130={
+	holding = none
+}
+7131={
+	holding = none
+}
+7132={
+	holding = castle_holding
+}
+7133={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7134={
+	holding = none
+}
+7135={
+	holding = none
+}
+7136={
+	holding = church_holding
+}
+7137={
+	holding = none
+}
+7138={
+	holding = none
+}
+7139={
+	holding = none
+}
+7140={
+	holding = church_holding
+}
+7141={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7142={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7143={
+	holding = none
+}
+7144={
+	holding = none
+}
+7145={
+	holding = none
+}
+7146={
+	holding = none
+}
+7147={
+	holding = none
+}
+7148={
+	holding = none
+}
+7149={
+	holding = none
+}
+7150={
+	holding = none
+}
+7151={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7152={
+	holding = none
+}
+7153={
+	holding = none
+}
+7154={
+	culture = scythian
+	faith = manichean
+	holding = tribal_holding
+}

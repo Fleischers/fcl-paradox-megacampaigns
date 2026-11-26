@@ -1,0 +1,209 @@
+4263={
+	holding = none
+}
+4264={
+	holding = city_holding
+}
+4265={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4266={
+	holding = castle_holding
+}
+4267={
+	holding = castle_holding
+}
+4268={
+	culture = brythonic
+	faith = nestorian
+	holding = castle_holding
+}
+4269={
+	holding = city_holding
+}
+4270={
+	holding = none
+}
+4271={
+	holding = none
+}
+4272={
+	holding = none
+}
+4273={
+	holding = city_holding
+}
+4274={
+	culture = getian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4275={
+	holding = city_holding
+}
+4276={
+	holding = none
+}
+4277={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4278={
+	holding = church_holding
+}
+4279={
+	holding = none
+}
+4280={
+	holding = none
+}
+4283={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4284={
+	holding = none
+}
+4285={
+	culture = brythonic
+	faith = nestorian
+	holding = castle_holding
+}
+4286={
+	holding = city_holding
+}
+4287={
+	holding = none
+}
+4288={
+	holding = church_holding
+}
+4289={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4290={
+	holding = none
+}
+4291={
+	holding = none
+}
+4292={
+	holding = none
+}
+4293={
+	holding = none
+}
+4294={
+	holding = castle_holding
+}
+4295={
+	holding = none
+}
+4296={
+	holding = none
+}
+4297={
+	holding = none
+}
+4298={
+	holding = city_holding
+}
+4299={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4463={
+	holding = none
+}
+4464={
+	holding = none
+}
+4465={
+	culture = afghan
+	faith = mazdayasna
+	holding = none
+}
+4466={
+	holding = city_holding
+}
+4467={
+	holding = castle_holding
+}
+4468={
+	holding = none
+}
+4469={
+	holding = none
+}
+4470={
+	holding = none
+}
+4471={
+	culture = baloch
+	faith = mazdayasna
+	holding = none
+}
+4472={
+	holding = none
+}
+4473={
+	holding = church_holding
+}
+4474={
+	holding = castle_holding
+}
+4475={
+	holding = none
+}
+4476={
+	holding = none
+}
+4477={
+	culture = bengali
+	faith = nestorian
+	holding = castle_holding
+}
+4478={
+	holding = none
+}
+4479={
+	culture = sindhi
+	faith = manichean
+	holding = castle_holding
+}
+4480={
+	holding = city_holding
+}
+4481={
+	holding = none
+}
+4482={
+	holding = none
+}
+4483={
+	holding = none
+}
+4484={
+	culture = sindhi
+	faith = manichean
+	holding = castle_holding
+}
+4485={
+	holding = none
+}
+4486={
+	holding = castle_holding
+}
+4487={
+	holding = none
+}
+4488={
+	holding = city_holding
+}

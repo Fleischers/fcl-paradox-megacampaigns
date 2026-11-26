@@ -1,0 +1,117 @@
+k_ghana={
+	860.1.1 = { holder = 184015 government = tribal_government }
+}
+d_diafunu={
+	890.1.1 = { liege = 0 }
+}
+d_kaniaga={
+	890.1.1 = { liege = 0 }
+}
+d_mema={
+	890.1.1 = { liege = 0 }
+}
+d_tagant={
+	890.1.1 = { liege = 0 }
+}
+d_wagadu={
+	695.1.1 = { holder = 184010 government = tribal_government }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+}
+c_awkar={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 10 }
+}
+c_guidimaka={
+	860.1.1 = { holder = soninke0001 government = tribal_government liege = k_ghana }
+	890.1.1 = { change_development_level = 5 }
+}
+c_hodh={
+	863.1.1 = { government = tribal_government liege = k_ghana }
+	886.1.1 = { holder = 184016 }
+	890.1.1 = { change_development_level = 10 }
+}
+c_kaarta={
+	860.1.1 = { holder = 251135 government = tribal_government liege = d_wagadu }
+	886.1.1 = { holder = 251166 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_kaniaga={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_kingui={
+	860.1.1 = { holder = 251135 liege = k_ghana }
+	886.1.11 = { holder = 184015 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_kita={
+	839.1.1 = { holder = 251161 government = tribal_government liege = d_wagadu }
+	868.1.1 = { holder = 251162 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_kouga={
+	815.1.1 = { holder = 184013 government = tribal_government }
+	840.1.1 = { holder = 184014 }
+	865.1.1 = { holder = 251148 liege = d_wagadu }
+	890.1.1 = { change_development_level = 5 }
+}
+c_masin={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_massina={
+	815.1.1 = { holder = 184013 government = tribal_government }
+	840.1.1 = { holder = 184014 }
+	865.1.1 = { holder = 251148 liege = d_wagadu }
+	890.1.1 = { change_development_level = 8 }
+}
+c_mema={
+	815.1.1 = { holder = 184013 government = tribal_government }
+	840.1.1 = { holder = 184014 }
+	865.1.1 = { holder = 251148 liege = d_wagadu }
+	890.1.1 = { change_development_level = 8 }
+}
+c_soso={
+	839.1.1 = { holder = 251161 government = tribal_government liege = d_wagadu }
+	868.1.1 = { holder = 251162 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_tagant={
+	760.1.1 = { government = tribal_government }
+	863.1.1 = { liege = d_wagadu }
+	886.1.1 = { holder = 273074 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_tichitt={
+	863.1.1 = { government = tribal_government liege = k_ghana }
+	886.1.1 = { holder = 184016 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_walata={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_yelimane={
+	860.1.1 = { holder = 251135 government = tribal_government liege = d_wagadu }
+	886.1.1 = { holder = 251166 }
+	890.1.1 = { change_development_level = 5 }
+}

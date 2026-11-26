@@ -1,0 +1,69 @@
+﻿han = {
+	color = rgb { 115 0 0 }
+	heritage = heritage_chinese
+	language = language_chinese
+	traditions = { }
+	name_list = name_list_han
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_scholar_officials
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_philosopher_culture
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_art_of_war
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_formation_fighting
+	}
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_tgp_court_machinations
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_cultivation
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_intensive_farming
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_agrarian
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_china
+	ethnicities = {
+		100 = asian_han_chinese
+	}
+}
+qin = {
+	color = rgb { 153 238 255 }
+	heritage = heritage_chinese
+	language = language_chinese
+	traditions = { tradition_artisans tradition_legalistic tradition_warriors_by_merit tradition_talent_acquisition }
+	name_list = name_list_han
+	ethos = ethos_bureaucratic
+	head_determination = head_determination_domain
+	martial_custom = martial_custom_male_only
+	house_coa_frame = house_china
+	dlc_tradition = {
+		trait = tradition_ep3_palace_politics
+		requires_dlc_flag = roads_to_power
+		fallback = tradition_formation_fighting
+	}
+	ethnicities = {
+				10 = asian
+			}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+}

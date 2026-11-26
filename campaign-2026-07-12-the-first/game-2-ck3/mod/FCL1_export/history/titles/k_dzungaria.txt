@@ -1,0 +1,141 @@
+k_dzungaria={
+	843.1.1 = { holder = 302970 government = feudal_government }
+	864.10.1 = { holder = 302972 }
+	875.1.1 = { holder = uyghur0086 }
+}
+d_akaltay={
+	890.1.1 = { liege = 0 }
+}
+d_altay={
+	890.1.1 = { holder = IRToCK3_c_burqin_holder government = tribal_government liege = 0 }
+}
+d_beshbalik={
+	890.1.1 = { liege = 0 }
+}
+d_gurbantunggut={
+	866.10.1 = { holder = 302985 government = feudal_government liege = k_dzungaria }
+	879.1.23 = { holder = 302986 }
+}
+d_kara_khoja={
+	866.6.1 = { holder = 302972 liege = k_dzungaria }
+	875.1.1 = { holder = uyghur0086 }
+}
+d_naiman_gobi={
+	890.1.1 = { liege = 0 }
+}
+c_agairik={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	866.10.1 = { holder = 302995 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_altay={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	864.1.1 = { holder = fictional_kirghiz_4 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_balgun={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	861.1.1 = { holder = fictional_kirghiz_1 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_barkul={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	850.1.1 = { government = feudal_government }
+	866.6.1 = { liege = d_kara_khoja }
+	876.1.4 = { holder = 303003 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_beshbalik={
+	866.6.1 = { holder = 302972 liege = d_kara_khoja }
+	875.1.1 = { holder = uyghur0086 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_boro_burgasu={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	876.1.4 = { holder = 303003 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_bugur={
+	866.6.1 = { holder = 302972 liege = d_kara_khoja }
+	875.1.1 = { holder = uyghur0086 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_burgasutai={
+	850.1.1 = { government = feudal_government }
+	876.1.1 = { holder = uyghur0001 liege = k_dzungaria }
+	890.1.1 = { change_development_level = 0 }
+}
+c_burqin={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	864.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_burqin_holder liege = 0 change_development_level = 0 }
+}
+c_chamil={
+	850.1.1 = { government = feudal_government }
+	876.1.1 = { holder = uyghur0001 liege = k_dzungaria }
+	890.1.1 = { change_development_level = 0 }
+}
+c_hoboksar={
+	866.10.1 = { holder = 302985 liege = d_gurbantunggut }
+	879.1.23 = { holder = 302986 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_jie_DZU={
+	866.10.1 = { holder = 302985 liege = d_gurbantunggut }
+	879.1.23 = { holder = 302986 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_jimsar={
+	866.6.1 = { holder = 302972 liege = d_kara_khoja }
+	875.1.1 = { holder = uyghur0086 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_kabtag={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	861.1.1 = { holder = fictional_kirghiz_1 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kaerji={
+	866.10.1 = { holder = 302985 liege = d_gurbantunggut }
+	879.1.23 = { holder = 302986 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kara_asirgan={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	876.1.4 = { holder = 303003 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kara_khoja={
+	866.6.1 = { holder = 302972 liege = d_kara_khoja }
+	875.1.1 = { holder = uyghur0086 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_narym_DZU={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	866.10.1 = { holder = 302995 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_qinggil={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	890.1.1 = { holder = IRToCK3_c_burqin_holder change_development_level = 0 }
+}
+c_tengerge={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_burqin_holder change_development_level = 0 }
+}
+c_torangy_kul={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	866.10.1 = { holder = 302995 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ulan_chuzir={
+	866.10.1 = { holder = 302985 liege = d_gurbantunggut }
+	879.1.23 = { holder = 302986 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_yangjibaliq={
+	866.6.1 = { holder = 302972 liege = d_kara_khoja }
+	875.1.1 = { holder = uyghur0086 }
+	890.1.1 = { change_development_level = 0 }
+}

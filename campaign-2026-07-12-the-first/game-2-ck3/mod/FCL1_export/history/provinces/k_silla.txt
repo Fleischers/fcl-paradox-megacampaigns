@@ -1,0 +1,168 @@
+9858={
+	culture = silla
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9859={
+	holding = city_holding
+}
+9860={
+	holding = church_holding
+}
+9861={
+	holding = church_holding
+}
+9862={
+	culture = silla
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9863={
+	holding = city_holding
+}
+9864={
+	holding = none
+}
+9865={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9866={
+	holding = castle_holding
+}
+9867={
+	holding = none
+}
+9868={
+	holding = city_holding
+}
+9869={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9871={
+	holding = none
+}
+9926={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	882.1.1 = { religion = dhyana }
+	1000.1.1 = { culture = goryeo }
+}
+9930={
+	holding = city_holding
+}
+9931={
+	holding = none
+}
+9932={
+	holding = none
+}
+9970={
+	holding = none
+}
+9971={
+	holding = city_holding
+}
+9972={
+	holding = none
+}
+9973={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	special_building_slot = hwangnyongsa_01
+	644.1.1 = { special_building = hwangnyongsa_01 }
+	1000.1.1 = { culture = goryeo }
+}
+9974={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9975={
+	holding = none
+}
+9976={
+	holding = city_holding
+}
+9977={
+	holding = none
+}
+9978={
+	holding = city_holding
+}
+9979={
+	culture = silla
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9980={
+	holding = city_holding
+}
+9981={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9982={
+	holding = none
+}
+9984={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9985={
+	holding = city_holding
+}
+9986={
+	holding = none
+}
+9987={
+	culture = silla
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9988={
+	holding = none
+}
+9989={
+	holding = city_holding
+}
+9990={
+	holding = church_holding
+}
+9991={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9992={
+	holding = city_holding
+}
+9993={
+	holding = none
+}
+9994={
+	holding = city_holding
+}
+9995={
+	culture = silla
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}

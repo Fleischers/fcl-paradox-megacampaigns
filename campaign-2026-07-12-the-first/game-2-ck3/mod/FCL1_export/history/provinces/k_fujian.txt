@@ -1,0 +1,136 @@
+1469={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+}
+1470={
+	holding = none
+}
+3222={
+	holding = none
+}
+8802={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+	special_building_slot = quanzhou_seaport_01
+	700.1.1 = { special_building = quanzhou_seaport_01 }
+}
+8803={
+	holding = church_holding
+	867.1.1 = { special_building = generic_university }
+}
+8804={
+	holding = city_holding
+}
+8805={
+	holding = city_holding
+}
+8806={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+}
+8807={
+	holding = church_holding
+}
+8808={
+	holding = castle_holding
+	special_building_slot = zijinshan_mines_01
+	1050.1.1 = { special_building = zijinshan_mines_01 }
+}
+8810={
+	culture = yao
+	religion = dab_qhuas
+	holding = castle_holding
+}
+8811={
+	holding = church_holding
+}
+8812={
+	holding = city_holding
+}
+8813={
+	holding = none
+}
+8814={
+	holding = church_holding
+}
+8815={
+	culture = yao
+	religion = dab_qhuas
+	holding = castle_holding
+}
+8816={
+	holding = city_holding
+}
+8817={
+	holding = none
+}
+8818={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+8819={
+	holding = none
+}
+8820={
+	holding = city_holding
+}
+8821={
+	holding = none
+}
+8822={
+	holding = city_holding
+}
+8823={
+	holding = city_holding
+	special_building_slot = baofeng_mines_01
+	1086.1.1 = { special_building = baofeng_mines_01 }
+}
+8824={
+	holding = church_holding
+}
+8842={
+	holding = none
+}
+8843={
+	holding = city_holding
+}
+8844={
+	holding = church_holding
+}
+10260={
+	culture = yao
+	religion = dab_qhuas
+	holding = castle_holding
+}
+10261={
+	holding = city_holding
+}
+10263={
+	holding = church_holding
+}
+10335={
+	holding = church_holding
+}
+10336={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+10432={
+	culture = han
+	religion = mingism
+	holding = castle_holding
+	1150.1.1 = { religion = daoxue }
+}
+12949={
+	holding = church_holding
+}
+12952={
+	holding = none
+}

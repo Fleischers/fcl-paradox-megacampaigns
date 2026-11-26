@@ -1,0 +1,301 @@
+102={
+	culture = vepsian
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+103={
+	culture = vepsian
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+104={
+	culture = sarmatian
+	faith = catholic
+	holding = castle_holding
+}
+105={
+	holding = none
+}
+106={
+	holding = none
+}
+107={
+	holding = castle_holding
+}
+109={
+	holding = church_holding
+}
+110={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+111={
+	holding = none
+}
+112={
+	holding = none
+}
+113={
+	holding = none
+}
+114={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+115={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+116={
+	holding = city_holding
+}
+117={
+	holding = none
+}
+118={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+119={
+	holding = city_holding
+}
+120={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+121={
+	holding = none
+}
+122={
+	holding = city_holding
+}
+123={
+	holding = none
+}
+124={
+	culture = lithuanian
+	faith = catholic
+	holding = tribal_holding
+}
+125={
+	holding = city_holding
+}
+126={
+	holding = none
+}
+127={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+128={
+	holding = none
+}
+129={
+	holding = city_holding
+}
+130={
+	holding = none
+}
+131={
+	holding = city_holding
+}
+132={
+	holding = none
+}
+133={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+134={
+	holding = none
+}
+135={
+	holding = church_holding
+}
+136={
+	culture = vepsian
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+137={
+	holding = none
+}
+138={
+	holding = none
+}
+139={
+	holding = none
+}
+140={
+	holding = church_holding
+}
+141={
+	culture = vepsian
+	faith = finnish_pagan
+	holding = castle_holding
+}
+142={
+	holding = none
+}
+149={
+	holding = none
+}
+150={
+	holding = none
+}
+151={
+	holding = none
+}
+152={
+	holding = none
+}
+153={
+	culture = sarmatian
+	faith = catholic
+	holding = castle_holding
+}
+154={
+	culture = sarmatian
+	faith = catholic
+	holding = castle_holding
+}
+155={
+	holding = none
+}
+156={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+157={
+	holding = none
+}
+158={
+	holding = none
+}
+159={
+	holding = none
+}
+160={
+	holding = none
+}
+162={
+	holding = none
+}
+163={
+	holding = none
+}
+165={
+	holding = none
+}
+166={
+	culture = sarmatian
+	faith = catholic
+	holding = castle_holding
+}
+2831={
+	holding = city_holding
+}
+2834={
+	holding = city_holding
+}
+2835={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+3197={
+	holding = none
+}
+3198={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+3199={
+	holding = none
+}
+3200={
+	holding = none
+}
+3201={
+	holding = none
+}
+3202={
+	holding = none
+}
+3203={
+	holding = none
+}
+3204={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3205={
+	holding = none
+}
+3206={
+	holding = none
+}
+3207={
+	holding = city_holding
+}
+3208={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3209={
+	holding = none
+}
+3210={
+	holding = none
+}
+3211={
+	holding = city_holding
+}
+3212={
+	culture = norse
+	faith = germanic_pagan
+	holding = tribal_holding
+}
+3213={
+	holding = none
+}
+3214={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+3215={
+	holding = none
+}
+3216={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+3217={
+	holding = none
+}
+3218={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+3219={
+	holding = none
+}
+3220={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}

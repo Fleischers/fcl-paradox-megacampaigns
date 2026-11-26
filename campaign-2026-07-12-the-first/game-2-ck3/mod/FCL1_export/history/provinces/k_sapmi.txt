@@ -1,0 +1,264 @@
+373={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+374={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+375={
+	holding = none
+}
+376={
+	holding = none
+}
+377={
+	holding = none
+}
+378={
+	holding = none
+}
+379={
+	holding = none
+}
+380={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+381={
+	holding = none
+}
+382={
+	holding = none
+}
+383={
+	holding = none
+}
+384={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+385={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+387={
+	holding = none
+}
+388={
+	holding = none
+}
+390={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+391={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+392={
+	holding = none
+}
+393={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+394={
+	holding = none
+}
+395={
+	holding = none
+}
+396={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+397={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+398={
+	holding = none
+}
+399={
+	holding = none
+}
+400={
+	holding = none
+}
+401={
+	holding = none
+}
+402={
+	holding = none
+}
+403={
+	holding = none
+}
+404={
+	holding = none
+}
+405={
+	holding = none
+}
+406={
+	holding = none
+}
+407={
+	holding = none
+}
+408={
+	holding = none
+}
+409={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+410={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+411={
+	holding = none
+}
+412={
+	holding = none
+}
+413={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+414={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+415={
+	holding = none
+}
+416={
+	holding = none
+}
+417={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+418={
+	holding = none
+}
+419={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+420={
+	holding = none
+}
+421={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+422={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+423={
+	holding = none
+}
+424={
+	holding = none
+}
+425={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+426={
+	holding = none
+}
+427={
+	holding = none
+}
+428={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+429={
+	holding = none
+}
+430={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+431={
+	holding = none
+}
+432={
+	holding = none
+}
+454={
+	culture = karelian
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+455={
+	holding = none
+}
+8781={
+	holding = none
+}
+8782={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+8783={
+	holding = none
+}
+8784={
+	holding = none
+}
+8785={
+	holding = none
+}
+8786={
+	holding = none
+}
+8787={
+	holding = none
+}
+8788={
+	holding = none
+}
+8789={
+	culture = sami
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+8790={
+	holding = none
+}
+8791={
+	holding = none
+}
+8792={
+	holding = none
+}

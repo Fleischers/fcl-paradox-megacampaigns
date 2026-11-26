@@ -1,0 +1,161 @@
+1147={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1148={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1149={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1150={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1170={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+	terrain = jungle
+}
+1182={
+	holding = city_holding
+}
+1183={
+	holding = castle_holding
+}
+1184={
+	holding = city_holding
+}
+1185={
+	holding = none
+}
+1187={
+	holding = none
+}
+1188={
+	holding = none
+}
+1189={
+	holding = castle_holding
+}
+1194={
+	holding = castle_holding
+}
+1195={
+	holding = castle_holding
+}
+1262={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1263={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1287={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1288={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1289={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1298={
+	culture = bengali
+	faith = nestorian
+	holding = castle_holding
+}
+1299={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3315={
+	holding = none
+}
+3316={
+	holding = none
+}
+3317={
+	holding = city_holding
+}
+3318={
+	holding = city_holding
+}
+3319={
+	holding = city_holding
+}
+3320={
+	holding = none
+}
+3321={
+	holding = none
+	terrain = jungle
+}
+3322={
+	holding = none
+	terrain = jungle
+}
+3323={
+	holding = city_holding
+	terrain = jungle
+}
+3324={
+	holding = city_holding
+	terrain = jungle
+}
+3325={
+	holding = none
+}
+3326={
+	holding = none
+}
+3327={
+	holding = city_holding
+}
+3328={
+	holding = none
+}
+3329={
+	holding = none
+}
+3330={
+	holding = city_holding
+}
+3331={
+	holding = none
+}
+3332={
+	holding = none
+}
+3333={
+	holding = none
+}
+3334={
+	holding = none
+}
+3335={
+	holding = none
+}
+3336={
+	holding = none
+}
+3337={
+	holding = none
+}

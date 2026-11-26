@@ -1,0 +1,114 @@
+6746={
+	holding = none
+}
+6775={
+	holding = none
+}
+6776={
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = none
+	1046.1.1 = { religion = ashari }
+}
+6777={
+	holding = none
+}
+6778={
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = none
+	1046.1.1 = { religion = ashari }
+}
+6779={
+	culture = soninke
+	religion = west_african_bidu_pagan
+	holding = none
+	1246.1.1 = { religion = ashari }
+}
+6780={
+	holding = none
+}
+6781={
+	culture = pulaar
+	religion = west_african_roog_pagan
+	holding = none
+	1035.1.1 = { religion = ashari }
+}
+6782={
+	culture = pulaar
+	religion = west_african_roog_pagan
+	holding = tribal_holding
+	1035.1.1 = { religion = ashari }
+	1066.1.1 = { holding = castle_holding buildings = { cereal_fields_01 plantations_01 } }
+}
+6783={
+	holding = none
+}
+6784={
+	holding = none
+}
+6785={
+	holding = none
+}
+6786={
+	holding = none
+}
+6787={
+	holding = none
+}
+6797={
+	culture = pulaar
+	religion = west_african_roog_pagan
+	holding = none
+	1035.1.1 = { religion = ashari }
+}
+6798={
+	holding = none
+}
+6800={
+	holding = none
+}
+8241={
+	holding = none
+}
+8246={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8248={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8249={
+	holding = none
+}
+8250={
+	holding = none
+}
+8251={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8252={
+	holding = none
+}
+8253={
+	holding = none
+}
+8254={
+	holding = none
+}
+8255={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8257={
+	holding = none
+}
+8258={
+	holding = none
+}

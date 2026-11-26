@@ -1,0 +1,54 @@
+﻿mohe = {
+	color = rgb { 140 110 35 }
+	heritage = heritage_tungusic
+	language = language_tungusic
+	traditions = { tradition_hunters tradition_forest_folk tradition_sacred_hunts }
+	name_list = name_list_mohe
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects	#large part of the Balhae kingdom, where they likely weren't ruling class
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_xenophilic
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { amuric_building_gfx steppe_building_gfx }
+	clothing_gfx = { nivkh_clothing_gfx mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}
+jurchen = {
+	color = rgb { 250 185 5 }
+	parents = { mohe }
+	heritage = heritage_tungusic
+	language = language_tungusic
+	traditions = { tradition_forest_folk tradition_practiced_pirates }
+	name_list = name_list_jurchen
+	created = 850.1.1
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects	#tied to many cultures and very symbiotic in general (Mohe, Khitan, China)
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_hunters
+	}
+	dlc_tradition = {
+		trait = tradition_mpo_iron_cavalry
+		requires_dlc_flag = khans_of_the_steppe
+		fallback = tradition_horse_breeder	#skilled horse breeders/exporters and had a large cavalry
+	}
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { amuric_building_gfx steppe_building_gfx }
+	clothing_gfx = { jurchen_clothing_gfx nivkh_clothing_gfx mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		10 = asian_manchu_korean
+	}
+}

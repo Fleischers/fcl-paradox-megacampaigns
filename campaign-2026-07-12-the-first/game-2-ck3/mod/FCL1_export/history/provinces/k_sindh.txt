@@ -1,0 +1,128 @@
+1137={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1138={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1175={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1297={
+	culture = brythonic
+	faith = manichean
+	holding = castle_holding
+}
+1303={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1331={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1333={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1336={
+	culture = sumpa
+	faith = manichean
+	holding = city_holding
+}
+1339={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1370={
+	holding = none
+}
+1371={
+	holding = none
+}
+1372={
+	holding = none
+}
+1374={
+	holding = none
+}
+3391={
+	holding = none
+}
+3392={
+	holding = none
+}
+3393={
+	holding = castle_holding
+}
+3394={
+	holding = none
+}
+3395={
+	holding = none
+}
+3396={
+	holding = none
+}
+3397={
+	holding = none
+}
+3398={
+	holding = none
+}
+3399={
+	holding = city_holding
+}
+3400={
+	holding = city_holding
+}
+3401={
+	holding = castle_holding
+}
+3402={
+	holding = castle_holding
+}
+3403={
+	holding = none
+}
+3404={
+	holding = city_holding
+}
+3405={
+	holding = none
+}
+3406={
+	holding = none
+}
+3407={
+	holding = none
+}
+3971={
+	holding = none
+}
+4497={
+	holding = none
+}
+4510={
+	holding = none
+}
+4511={
+	holding = none
+}
+4512={
+	holding = none
+}
+4513={
+	culture = sindhi
+	faith = manichean
+	holding = castle_holding
+}

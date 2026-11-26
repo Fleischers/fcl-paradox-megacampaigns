@@ -1,0 +1,227 @@
+1178={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1179={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = castle_holding
+}
+1180={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1190={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1191={
+	culture = hunnic
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1192={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1193={
+	culture = hunnic
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1337={
+	culture = sumpa
+	faith = manichean
+	holding = city_holding
+}
+1338={
+	culture = sumpa
+	faith = manichean
+	holding = city_holding
+}
+1340={
+	culture = hunnic
+	faith = manichean
+	holding = city_holding
+}
+1341={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1342={
+	culture = hunnic
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1361={
+	holding = none
+}
+1362={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = castle_holding
+}
+1363={
+	holding = none
+}
+1375={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = tribal_holding
+}
+1376={
+	holding = none
+}
+3408={
+	holding = none
+}
+3409={
+	holding = none
+}
+3410={
+	holding = none
+}
+3411={
+	holding = none
+}
+3412={
+	holding = city_holding
+}
+3413={
+	holding = none
+}
+3414={
+	holding = city_holding
+}
+3415={
+	holding = none
+}
+3416={
+	holding = city_holding
+}
+3417={
+	holding = none
+}
+3418={
+	holding = none
+}
+3419={
+	holding = none
+}
+3420={
+	holding = city_holding
+}
+3421={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+3422={
+	holding = none
+}
+3423={
+	holding = castle_holding
+}
+3424={
+	holding = none
+}
+3425={
+	holding = none
+}
+3426={
+	holding = city_holding
+}
+3427={
+	culture = brythonic
+	faith = nestorian
+	holding = tribal_holding
+}
+3428={
+	holding = city_holding
+}
+3429={
+	holding = city_holding
+}
+3430={
+	holding = none
+}
+3431={
+	holding = none
+}
+3432={
+	holding = none
+}
+3433={
+	holding = none
+}
+3434={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+3435={
+	holding = city_holding
+}
+3436={
+	holding = none
+}
+3437={
+	holding = church_holding
+}
+3438={
+	holding = city_holding
+}
+3439={
+	holding = city_holding
+}
+3440={
+	holding = castle_holding
+}
+3441={
+	holding = city_holding
+}
+3442={
+	holding = castle_holding
+}
+3443={
+	holding = none
+}
+3444={
+	holding = none
+}
+4517={
+	culture = sindhi
+	faith = manichean
+	holding = castle_holding
+}
+4518={
+	holding = none
+}
+4519={
+	holding = none
+}
+4520={
+	holding = none
+}
+4521={
+	culture = hunnic
+	faith = scythian_pagan
+	holding = castle_holding
+}
+4522={
+	holding = none
+}
+4523={
+	holding = none
+}
+7945={
+	holding = none
+}
+7946={
+	holding = castle_holding
+}

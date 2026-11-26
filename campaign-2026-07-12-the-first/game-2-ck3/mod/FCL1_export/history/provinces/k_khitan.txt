@@ -1,0 +1,147 @@
+11652={
+	holding = none
+}
+11653={
+	holding = none
+}
+11654={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = khitan }
+}
+11655={
+	holding = none
+}
+11703={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = khitan religion = dhyana }
+}
+11704={
+	holding = none
+}
+11705={
+	holding = none
+}
+11706={
+	holding = none
+}
+11707={
+	holding = none
+}
+11708={
+	holding = none
+}
+11709={
+	culture = khitan
+	religion = dhyana
+	holding = nomad_holding
+	918.1.1 = { holding = castle_holding }
+}
+11710={
+	holding = none
+}
+11711={
+	holding = none
+}
+11712={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11713={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11714={
+	holding = none
+}
+11717={
+	holding = none
+}
+11725={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana }
+}
+11726={
+	holding = none
+}
+11727={
+	holding = none
+}
+11728={
+	holding = none
+}
+11729={
+	holding = none
+}
+11730={
+	holding = none
+}
+11731={
+	holding = none
+}
+11732={
+	holding = none
+}
+11733={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = khitan }
+}
+11734={
+	holding = none
+}
+11735={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11737={
+	holding = none
+}
+11738={
+	holding = none
+}
+11739={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11740={
+	holding = none
+}
+11755={
+	holding = none
+}
+11756={
+	culture = khitan
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = dhyana holding = castle_holding }
+}
+11757={
+	holding = none
+}
+11767={
+	holding = none
+}
+11768={
+	holding = none
+}
+11769={
+	culture = khitan
+	religion = dhyana
+	holding = nomad_holding
+}
+11770={
+	holding = none
+}

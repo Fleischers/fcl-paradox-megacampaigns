@@ -1,0 +1,371 @@
+1={
+	holding = none
+}
+2={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = { religion = catholic }
+	1178.1.1 = { culture = norwegian }
+}
+3={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = { religion = catholic }
+	1178.1.1 = { culture = norwegian }
+}
+4={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = { religion = catholic }
+	1178.1.1 = { culture = norwegian }
+}
+5={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = { religion = catholic }
+	1178.1.1 = { culture = norwegian }
+}
+6={
+	culture = pictish
+	religion = catholic
+	holding = tribal_holding
+	855.1.1 = { culture = norse religion = norse_pagan }
+	1000.1.1 = { religion = catholic holding = castle_holding }
+	1066.1.1 = { culture = norwegian }
+}
+7={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+8={
+	culture = brythonic
+	faith = insular_celtic
+	holding = tribal_holding
+}
+229={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+230={
+	holding = church_holding
+}
+231={
+	holding = city_holding
+}
+232={
+	holding = none
+}
+233={
+	holding = none
+}
+234={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+235={
+	holding = none
+}
+236={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+237={
+	holding = none
+}
+238={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+239={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+240={
+	holding = none
+}
+241={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+242={
+	holding = none
+}
+243={
+	holding = none
+	997.1.1 = { holding = city_holding }
+}
+244={
+	holding = none
+}
+245={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian }
+	1070.1.1 = { religion = catholic }
+}
+246={
+	holding = castle_holding
+}
+247={
+	holding = none
+}
+248={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+249={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+250={
+	holding = none
+}
+251={
+	holding = city_holding
+}
+252={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+253={
+	holding = city_holding
+}
+254={
+	holding = city_holding
+}
+255={
+	holding = none
+}
+256={
+	holding = none
+}
+257={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+258={
+	holding = none
+}
+259={
+	holding = none
+}
+260={
+	culture = norse
+	faith = norse_pagan
+	holding = none
+}
+261={
+	holding = none
+}
+262={
+	holding = none
+}
+263={
+	holding = none
+}
+264={
+	holding = none
+}
+265={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+266={
+	holding = none
+}
+267={
+	holding = none
+}
+268={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+269={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+270={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	997.1.1 = { holding = castle_holding }
+	1066.1.1 = { culture = norwegian religion = catholic buildings = { common_tradeport_01 barracks_01 } }
+}
+271={
+	holding = none
+}
+272={
+	holding = none
+}
+273={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+274={
+	holding = none
+}
+275={
+	holding = none
+}
+276={
+	holding = none
+}
+277={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian }
+	1070.1.1 = { religion = catholic }
+}
+278={
+	holding = none
+}
+279={
+	holding = none
+}
+280={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian }
+	1070.1.1 = { religion = catholic }
+}
+282={
+	holding = none
+}
+283={
+	holding = none
+}
+284={
+	holding = none
+}
+285={
+	holding = city_holding
+}
+286={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+	special_building_slot = heddal_stave_church_01
+}
+287={
+	holding = city_holding
+}
+288={
+	holding = none
+}
+289={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+290={
+	holding = none
+}
+291={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+292={
+	holding = none
+}
+293={
+	holding = none
+	1020.1.1 = { holding = city_holding }
+}
+294={
+	holding = none
+}
+295={
+	holding = none
+}
+296={
+	holding = none
+	1020.1.1 = { holding = city_holding }
+}
+297={
+	holding = none
+}
+298={
+	holding = none
+}
+386={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+389={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+435={
+	holding = none
+}
+436={
+	holding = none
+}
+437={
+	holding = none
+}
+438={
+	holding = none
+}
+439={
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1020.1.1 = { culture = norwegian religion = catholic holding = castle_holding }
+}
+441={
+	holding = none
+}
+8768={
+	holding = castle_holding
+}
+8769={
+	holding = none
+}
+8770={
+	holding = city_holding
+}
+8771={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+8772={
+	holding = none
+}
+8773={
+	holding = none
+	1066.1.1 = { holding = church_holding }
+}
+8774={
+	holding = none
+}

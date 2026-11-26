@@ -1,0 +1,90 @@
+k_luzhen={
+	890.1.1 = { liege = 0 }
+}
+d_BAL_anwon={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_ningzhou_holder government = tribal_government liege = 0 }
+}
+d_BAL_cheolli={
+	867.1.1 = { holder = jurchen_tieli_1 government = nomad_government }
+}
+d_BAL_dongpyeong={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_dongpyeong_yizhou_holder government = tribal_government liege = 0 }
+}
+d_BAL_hoewon={
+	867.1.1 = { holder = jurchen_tuowen_01_fic government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_BAL_central_hoewon_holder government = tribal_government liege = 0 }
+}
+d_BAL_yeojintang={
+	867.1.1 = { holder = mohe_yulou_1 government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_solbin_holder government = feudal_government liege = 0 }
+}
+c_BAL_anbyeon={
+	867.1.1 = { holder = mohe_yulou_1 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_BAL_central_hoewon={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_central_hoewon_holder liege = 0 change_development_level = 0 }
+}
+c_BAL_dazhou={
+	867.1.1 = { holder = jurchen_tuowen_01_fic government = nomad_government liege = d_BAL_hoewon }
+	890.1.1 = { change_development_level = 5 }
+}
+c_BAL_delizhen={
+	867.1.1 = { holder = jurchen_tieli_1 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_BAL_dongpyeong_yizhou={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_dongpyeong_yizhou_holder liege = 0 change_development_level = 5 }
+}
+c_BAL_east_hoewon={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_central_hoewon_holder change_development_level = 0 }
+}
+c_BAL_heuksu_anwon={
+	890.1.1 = { holder = IRToCK3_c_BAL_ningzhou_holder liege = d_BAL_anwon change_development_level = 0 }
+}
+c_BAL_huligai={
+	867.1.1 = { holder = jurchen_tieli_1 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_BAL_ilanshan={
+	867.1.1 = { holder = jurchen_tuowen_01_fic government = nomad_government liege = d_BAL_hoewon }
+	890.1.1 = { change_development_level = 0 }
+}
+c_BAL_jeongni={
+	867.1.1 = { holder = mohe_yulou_1 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_BAL_jixi={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_dongpyeong_yizhou_holder change_development_level = 0 }
+}
+c_BAL_ningzhou={
+	890.1.1 = { holder = IRToCK3_c_BAL_ningzhou_holder liege = 0 change_development_level = 5 }
+}
+c_BAL_north_anbyeon={
+	867.1.1 = { holder = mohe_yulou_1 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_BAL_north_anwon={
+	890.1.1 = { holder = IRToCK3_c_BAL_ningzhou_holder liege = d_BAL_anwon change_development_level = 0 }
+}
+c_BAL_solbin={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_BAL_solbin_holder liege = 0 change_development_level = 5 }
+}
+c_BAL_south_hoewon={
+	867.1.1 = { holder = jurchen_tuowen_01_fic government = nomad_government liege = d_BAL_hoewon }
+	890.1.1 = { change_development_level = 0 }
+}
+c_BAL_supin={
+	890.1.1 = { holder = IRToCK3_c_BAL_ningzhou_holder change_development_level = 0 }
+}
+c_BAL_west_cheolli={
+	867.1.1 = { holder = jurchen_tieli_1 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}

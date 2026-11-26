@@ -1,0 +1,135 @@
+k_otuken={
+	890.1.1 = { liege = 0 }
+}
+d_EM_onon={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_EM_jiangbian_holder government = tribal_government liege = 0 }
+}
+d_EM_wajiezi={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_EM_shilka_holder government = tribal_government liege = 0 }
+}
+d_EM_yujuelu={
+	890.1.1 = { holder = IRToCK3_c_EM_tsetsen_holder government = tribal_government liege = 0 }
+}
+d_ogrash={
+	867.1.1 = { holder = 0 }
+	890.1.1 = { holder = IRToCK3_c_khentii_holder government = tribal_government liege = 0 }
+}
+d_orkhon={
+	890.1.1 = { liege = 0 }
+}
+d_selenga_valley={
+	831.4.18 = { holder = 303121 government = nomad_government }
+	840.1.2 = { liege = e_kirghiz_khanate }
+	853.5.15 = { holder = 303123 }
+	887.4.24 = { holder = 303127 }
+	890.1.1 = { holder = IRToCK3_c_baibalik_holder government = tribal_government liege = 0 }
+}
+c_baibalik={
+	831.4.18 = { holder = 303121 government = nomad_government liege = d_selenga_valley }
+	853.5.15 = { holder = 303123 }
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_baibalik_holder liege = 0 change_development_level = 0 }
+}
+c_EM_doodonon={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_EM_jiangbian_holder change_development_level = 0 }
+}
+c_EM_jiangbian={
+	890.1.1 = { holder = IRToCK3_c_EM_jiangbian_holder liege = 0 change_development_level = 0 }
+}
+c_EM_khaldun={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_khentii_holder change_development_level = 0 }
+}
+c_EM_khiltsaiz={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_EM_shilka_holder change_development_level = 0 }
+}
+c_EM_khoyorgol={
+	867.1.1 = { holder = mongol_herder_23 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_EM_kizilkhentii={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_EM_jiangbian_holder change_development_level = 0 }
+}
+c_EM_ononum={
+	890.1.1 = { holder = IRToCK3_c_EM_jiangbian_holder change_development_level = 0 }
+}
+c_EM_shilka={
+	890.1.1 = { holder = IRToCK3_c_EM_shilka_holder liege = 0 change_development_level = 0 }
+}
+c_EM_tsetsen={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_EM_tsetsen_holder liege = 0 change_development_level = 0 }
+}
+c_EM_urtolgod={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_EM_tsetsen_holder change_development_level = 0 }
+}
+c_EM_yujuelu={
+	867.1.1 = { holder = mongol_herder_19 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_karabalgasun={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { holder = 303255 government = nomad_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_karakorum={
+	848.1.2 = { holder = 303220 government = nomad_government liege = d_ovorkhangai }
+	867.6.23 = { holder = 303222 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_karatsagaan={
+	831.4.18 = { holder = 303121 government = nomad_government liege = d_selenga_valley }
+	853.5.15 = { holder = 303125 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_khanjargalant={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { holder = 303255 government = nomad_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_khentii={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_khentii_holder liege = 0 change_development_level = 0 }
+}
+c_khokhoo={
+	831.4.18 = { holder = 303121 government = nomad_government liege = d_selenga_valley }
+	853.5.15 = { holder = 303125 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_mumo={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { holder = 303255 government = nomad_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_naushki={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { holder = 303255 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_selenga={
+	831.4.18 = { holder = 303121 government = nomad_government liege = d_selenga_valley }
+	853.5.15 = { holder = 303123 }
+	887.4.24 = { holder = 303127 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_SW_talbai={
+	890.1.1 = { holder = IRToCK3_c_EM_shilka_holder change_development_level = 0 }
+}
+c_tunka={
+	831.4.18 = { holder = 303121 government = nomad_government liege = d_selenga_valley }
+	853.5.15 = { holder = 303123 }
+	887.4.24 = { holder = 303127 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ulaanbaatar={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	867.1.1 = { holder = 303255 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}

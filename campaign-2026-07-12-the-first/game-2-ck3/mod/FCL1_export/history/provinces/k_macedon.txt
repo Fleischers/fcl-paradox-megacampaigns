@@ -1,0 +1,333 @@
+471={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+493={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+494={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+498={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+499={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+500={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+501={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+506={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+507={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+508={
+	holding = castle_holding
+}
+509={
+	holding = city_holding
+}
+510={
+	culture = brythonic
+	faith = hellenic_pagan
+	holding = city_holding
+}
+3614={
+	holding = none
+}
+3615={
+	holding = castle_holding
+}
+3616={
+	holding = none
+}
+3617={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3618={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3619={
+	holding = none
+}
+3620={
+	holding = none
+}
+3621={
+	holding = none
+}
+3622={
+	holding = church_holding
+}
+3623={
+	holding = city_holding
+}
+3624={
+	holding = none
+}
+3625={
+	holding = none
+}
+3626={
+	holding = city_holding
+}
+3627={
+	holding = castle_holding
+}
+3628={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+3629={
+	holding = none
+}
+3630={
+	holding = none
+}
+3631={
+	holding = city_holding
+}
+3632={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3633={
+	holding = none
+}
+3634={
+	holding = none
+}
+3635={
+	holding = church_holding
+}
+3636={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3637={
+	holding = castle_holding
+}
+3638={
+	holding = city_holding
+}
+3639={
+	holding = none
+}
+3640={
+	holding = none
+}
+3641={
+	holding = none
+}
+3642={
+	holding = none
+}
+3643={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3644={
+	holding = none
+}
+3645={
+	holding = none
+}
+3646={
+	holding = none
+}
+3647={
+	holding = none
+}
+3648={
+	holding = none
+}
+3649={
+	holding = none
+}
+3650={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3651={
+	holding = city_holding
+}
+3652={
+	holding = none
+}
+3653={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3654={
+	holding = church_holding
+}
+3655={
+	holding = city_holding
+}
+3656={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3657={
+	holding = none
+}
+3658={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3659={
+	holding = none
+}
+3660={
+	holding = castle_holding
+}
+3661={
+	holding = none
+}
+3662={
+	holding = none
+}
+3663={
+	holding = none
+}
+3664={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3665={
+	holding = city_holding
+}
+3666={
+	holding = none
+}
+3667={
+	holding = city_holding
+}
+3668={
+	holding = none
+}
+3669={
+	holding = none
+}
+3670={
+	holding = none
+}
+3671={
+	holding = none
+}
+3672={
+	holding = city_holding
+}
+3673={
+	holding = castle_holding
+}
+3674={
+	holding = church_holding
+}
+3675={
+	holding = castle_holding
+}
+3676={
+	holding = none
+}
+3677={
+	holding = none
+}
+3678={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3679={
+	holding = none
+}
+3680={
+	holding = none
+}
+3681={
+	holding = none
+}
+3682={
+	holding = castle_holding
+}
+3683={
+	holding = none
+}
+3684={
+	holding = none
+}
+3685={
+	holding = none
+}
+3686={
+	holding = none
+}
+3687={
+	holding = none
+}
+3688={
+	holding = none
+}
+3689={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3690={
+	holding = none
+}
+3691={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+3692={
+	holding = none
+}
+3693={
+	holding = castle_holding
+}
+3694={
+	holding = city_holding
+}
+3695={
+	holding = city_holding
+}
+5010={
+	holding = none
+}

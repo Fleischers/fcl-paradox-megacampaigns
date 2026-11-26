@@ -1,0 +1,74 @@
+k_bashkiria={
+	472.5.1 = { succession_laws = { high_partition_succession_law } }
+	890.1.1 = { liege = 0 }
+}
+d_bashkiria={
+	890.1.1 = { holder = IRToCK3_c_ufa_holder government = tribal_government liege = 0 }
+}
+d_sakmara={
+	890.1.1 = { holder = IRToCK3_c_sakmara_holder government = tribal_government liege = 0 }
+}
+d_uraltau={
+	890.1.1 = { holder = IRToCK3_c_uiska_holder government = tribal_government liege = 0 }
+}
+d_vogulia={
+	890.1.1 = { holder = IRToCK3_c_chadrinsk_holder government = tribal_government liege = 0 }
+}
+c_birsk={
+	837.1.2 = { holder = 302285 government = nomad_government }
+	870.1.2 = { holder = 302286 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_chadrinsk={
+	853.1.2 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_chadrinsk_holder liege = 0 change_development_level = 0 }
+}
+c_chelabinsk={
+	867.1.1 = { holder = fictional_bashkirs_12 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_duvan={
+	865.1.2 = { holder = 302294 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_karabash={
+	865.1.2 = { holder = 302294 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_prigoro_tabynsk={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	837.1.2 = { holder = 302285 government = nomad_government }
+	870.1.2 = { holder = 302286 }
+	890.1.1 = { holder = IRToCK3_c_ufa_holder }
+}
+c_sakmara={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	837.1.2 = { holder = 302285 government = nomad_government }
+	870.1.2 = { holder = 302286 }
+	890.1.1 = { holder = IRToCK3_c_sakmara_holder liege = 0 }
+}
+c_ufa={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	837.1.2 = { holder = 302285 government = nomad_government }
+	870.1.2 = { holder = 302286 }
+	890.1.1 = { holder = IRToCK3_c_ufa_holder liege = 0 }
+}
+c_uiska={
+	476.1.7 = { change_development_level = 0 }
+	865.1.2 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_uiska_holder liege = 0 }
+}
+c_uraltau={
+	865.1.2 = { holder = 302294 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_yanokul={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	837.1.2 = { holder = 302285 government = nomad_government }
+	870.1.2 = { holder = 302286 }
+	890.1.1 = { holder = IRToCK3_c_sakmara_holder }
+}
+c_yekaterinburg={
+	853.1.2 = { holder = 302300 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}

@@ -1,0 +1,141 @@
+514={
+	holding = none
+}
+515={
+	culture = sarmatian
+	faith = tengri_pagan
+	holding = city_holding
+}
+516={
+	culture = finnish
+	faith = finnish_pagan
+	holding = castle_holding
+}
+3881={
+	holding = none
+}
+4975={
+	holding = none
+}
+4976={
+	holding = none
+}
+4977={
+	holding = none
+}
+4978={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+4979={
+	holding = none
+}
+4980={
+	holding = city_holding
+}
+4981={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+4982={
+	holding = none
+}
+4983={
+	holding = city_holding
+}
+4984={
+	holding = none
+}
+4985={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+4986={
+	holding = city_holding
+}
+4987={
+	holding = none
+}
+4988={
+	holding = none
+}
+4989={
+	culture = getian
+	faith = dacian_pagan
+	holding = city_holding
+}
+4990={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+4991={
+	holding = city_holding
+}
+4992={
+	holding = none
+}
+4993={
+	holding = none
+}
+4994={
+	holding = none
+}
+4995={
+	culture = getian
+	faith = tengri_pagan
+	holding = city_holding
+}
+4996={
+	holding = none
+}
+4997={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4998={
+	holding = castle_holding
+}
+4999={
+	holding = none
+}
+5000={
+	culture = getian
+	faith = tengri_pagan
+	holding = city_holding
+}
+5001={
+	holding = city_holding
+}
+5002={
+	holding = city_holding
+}
+5003={
+	culture = getian
+	faith = tengri_pagan
+	holding = city_holding
+}
+5004={
+	holding = city_holding
+}
+5005={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5006={
+	holding = none
+}
+5007={
+	holding = none
+}
+5008={
+	holding = none
+}
+5009={
+	holding = none
+}

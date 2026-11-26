@@ -1,0 +1,66 @@
+1122={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1123={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1207={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+	terrain = jungle
+}
+1221={
+	holding = none
+}
+1222={
+	holding = castle_holding
+	terrain = jungle
+}
+1253={
+	holding = city_holding
+	terrain = jungle
+}
+1415={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+7839={
+	holding = city_holding
+	terrain = jungle
+}
+7840={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+7841={
+	holding = none
+}
+7842={
+	holding = city_holding
+	terrain = jungle
+}
+7843={
+	holding = none
+}
+7844={
+	holding = none
+}
+7845={
+	holding = none
+}
+7846={
+	holding = city_holding
+}
+7911={
+	holding = none
+}
+7916={
+	holding = city_holding
+}

@@ -1,0 +1,142 @@
+k_novgorod={
+	890.1.1 = { liege = 0 }
+}
+d_luki={
+	890.1.1 = { liege = 0 }
+}
+d_novgorod={
+	862.1.2 = { holder = 40605 government = tribal_government liege = 0 }
+	879.1.2 = { holder = 40606 }
+	882.1.2 = { liege = k_ruthenia }
+	890.1.1 = { holder = IRToCK3_c_vodi_holder government = tribal_government liege = 0 }
+}
+d_vepsia={
+	860.1.2 = { government = tribal_government liege = 0 }
+	862.1.2 = { holder = 40605 liege = 0 }
+	879.1.2 = { holder = 0 }
+	890.1.1 = { holder = IRToCK3_c_beloozero_holder government = tribal_government liege = 0 }
+}
+c_beloozero={
+	476.1.7 = { change_development_level = 12 }
+	860.1.2 = { government = tribal_government liege = 0 }
+	862.1.2 = { holder = 40605 liege = d_novgorod }
+	879.1.2 = { holder = 40606 }
+	890.1.1 = { holder = IRToCK3_c_beloozero_holder liege = 0 }
+}
+c_bezichi={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 9 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_luki={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 9 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_novgorod={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 7 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_pskov={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 13 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_rusa={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 8 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_sebezh={
+	459.5.4 = { liege = 0 holder = imperator228730 }
+	476.1.7 = { change_development_level = 15 }
+	476.1.8 = { holder = irtock3_imperator228730_successor_0 }
+	515.1.8 = { holder = irtock3_imperator228730_successor_1 }
+	561.1.8 = { holder = irtock3_imperator228730_successor_2 }
+	598.1.8 = { holder = irtock3_imperator228730_successor_3 }
+	636.1.8 = { holder = irtock3_imperator228730_successor_4 }
+	679.1.8 = { holder = irtock3_imperator228730_successor_5 }
+	728.1.8 = { holder = irtock3_imperator228730_successor_6 }
+	775.1.8 = { holder = irtock3_imperator228730_successor_7 }
+	812.1.8 = { holder = irtock3_imperator228730_successor_8 }
+	866.1.8 = { holder = irtock3_imperator228730_successor_9 }
+}
+c_tikhvin={
+	476.1.7 = { liege = 0 change_development_level = 13 }
+	860.1.2 = { government = tribal_government }
+	862.1.2 = { holder = 40605 liege = d_vepsia }
+	879.1.2 = { holder = 40606 liege = d_novgorod }
+	890.1.1 = { holder = IRToCK3_c_beloozero_holder }
+}
+c_valdai={
+	466.6.27 = { liege = 0 holder = imperator237540 }
+	476.1.7 = { change_development_level = 10 }
+	494.12.29 = { holder = irtock3_imperator237540_successor_0 }
+	536.12.29 = { holder = irtock3_imperator237540_successor_1 }
+	572.12.29 = { holder = irtock3_imperator237540_successor_2 }
+	601.12.29 = { holder = irtock3_imperator237540_successor_3 }
+	640.12.29 = { holder = irtock3_imperator237540_successor_4 }
+	673.12.29 = { holder = irtock3_imperator237540_successor_5 }
+	725.12.29 = { holder = irtock3_imperator237540_successor_6 }
+	772.12.29 = { holder = irtock3_imperator237540_successor_7 }
+	816.12.29 = { holder = irtock3_imperator237540_successor_8 }
+	855.12.29 = { holder = irtock3_imperator237540_successor_9 }
+}
+c_vodi={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	764.1.1 = { government = tribal_government liege = 0 }
+	882.1.2 = { liege = d_novgorod }
+	890.1.1 = { holder = IRToCK3_c_vodi_holder liege = 0 }
+}
+c_vyangi={
+	860.1.2 = { government = tribal_government }
+	862.1.2 = { liege = d_vepsia }
+	879.1.2 = { holder = 40606 liege = d_novgorod }
+	890.1.1 = { change_development_level = 0 }
+}

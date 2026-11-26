@@ -1,0 +1,134 @@
+6483={
+	culture = kanuri
+	religion = west_african_bori_pagan
+	holding = none
+	1097.1.1 = { religion = ashari }
+}
+6484={
+	holding = none
+}
+6485={
+	culture = kanuri
+	religion = west_african_bori_pagan
+	holding = none
+	1097.1.1 = { religion = ashari }
+}
+6486={
+	holding = none
+}
+6487={
+	culture = kanuri
+	religion = west_african_bori_pagan
+	holding = none
+	1097.1.1 = { religion = ashari }
+}
+6488={
+	holding = none
+}
+6489={
+	holding = none
+}
+6490={
+	holding = none
+}
+6491={
+	holding = none
+}
+6492={
+	holding = none
+}
+6500={
+	holding = none
+}
+6501={
+	holding = none
+}
+6502={
+	holding = none
+}
+6503={
+	holding = none
+}
+6504={
+	culture = kanuri
+	religion = west_african_bori_pagan
+	holding = none
+	1136.1.1 = { religion = ashari }
+}
+6505={
+	holding = none
+}
+6506={
+	holding = none
+}
+6507={
+	holding = none
+}
+6508={
+	holding = none
+}
+6509={
+	culture = sao
+	religion = west_african_bori_pagan
+	holding = none
+}
+6510={
+	holding = none
+}
+6511={
+	culture = sao
+	religion = west_african_bori_pagan
+	holding = none
+	1136.1.1 = { religion = ashari }
+	1250.1.1 = { culture = kanuri }
+}
+6512={
+	holding = none
+}
+6513={
+	holding = none
+}
+6514={
+	holding = none
+}
+6515={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+	1250.1.1 = { culture = kanuri }
+}
+6516={
+	holding = none
+}
+6522={
+	holding = none
+}
+6526={
+	holding = none
+}
+6527={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6528={
+	holding = none
+}
+6532={
+	holding = none
+}
+6534={
+	culture = sao
+	religion = west_african_bori_pagan
+	holding = none
+	1300.1.1 = { culture = kanuri }
+}
+6535={
+	holding = none
+}
+6822={
+	holding = none
+}
+6826={
+	holding = none
+}

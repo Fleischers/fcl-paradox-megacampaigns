@@ -1,0 +1,164 @@
+11170={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11171={
+	holding = none
+}
+11172={
+	holding = none
+}
+11173={
+	holding = none
+}
+11174={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11175={
+	holding = none
+}
+11176={
+	holding = none
+}
+11177={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11178={
+	holding = none
+}
+11179={
+	holding = none
+}
+11180={
+	culture = toraja
+	religion = aluk
+	holding = tribal_holding
+	1178.1.1 = { religion = aluk }
+}
+11181={
+	holding = none
+}
+11182={
+	holding = none
+}
+11183={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11184={
+	holding = none
+}
+11185={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11186={
+	holding = none
+}
+11187={
+	holding = none
+}
+11188={
+	holding = none
+}
+11189={
+	holding = none
+}
+11190={
+	culture = bugis
+	religion = tolotang
+	holding = tribal_holding
+}
+11191={
+	holding = none
+}
+11192={
+	holding = none
+}
+11193={
+	culture = toraja
+	religion = aluk
+	holding = tribal_holding
+}
+11194={
+	holding = none
+}
+11195={
+	holding = none
+}
+11196={
+	holding = none
+}
+11197={
+	holding = none
+}
+11198={
+	culture = toraja
+	religion = aluk
+	holding = tribal_holding
+}
+11199={
+	holding = none
+}
+11200={
+	holding = none
+}
+11201={
+	culture = toraja
+	religion = aluk
+	holding = tribal_holding
+}
+11202={
+	holding = none
+}
+11203={
+	culture = bugis
+	religion = aluk
+	holding = tribal_holding
+}
+11204={
+	holding = none
+}
+11205={
+	culture = toraja
+	religion = kaharingan
+	holding = tribal_holding
+}
+11206={
+	holding = none
+}
+11207={
+	holding = none
+}
+11208={
+	holding = none
+}
+11209={
+	holding = none
+}
+11210={
+	culture = toraja
+	religion = kaharingan
+	holding = tribal_holding
+}
+11211={
+	holding = none
+}
+11212={
+	holding = none
+}
+11213={
+	culture = toraja
+	religion = kaharingan
+	holding = tribal_holding
+}
+11214={
+	holding = none
+}

@@ -1,0 +1,45 @@
+k_borgu={
+	890.1.1 = { liege = 0 }
+}
+d_borgu={
+	850.1.1 = { holder = 942069 government = tribal_government liege = 0 }
+}
+d_savalu={
+	890.1.1 = { liege = 0 }
+}
+c_bussa={
+	860.1.1 = { holder = sorko0001 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_djugu={
+	850.1.1 = { holder = 942069 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_ilesa={
+	850.1.1 = { holder = 942069 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_ilo={
+	860.1.1 = { holder = sorko0001 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_nikki={
+	850.1.1 = { holder = 942069 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_savalu={
+	860.1.1 = { holder = ewe0021 government = tribal_government }
+	890.1.1 = { holder = ewe0022 change_development_level = 0 }
+}
+c_shabe={
+	850.1.1 = { holder = 942069 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sokode={
+	860.1.1 = { holder = ewe0021 government = tribal_government }
+	890.1.1 = { holder = ewe0022 change_development_level = 0 }
+}
+c_todo={
+	860.1.1 = { holder = ewe0011 government = tribal_government }
+	890.1.1 = { holder = ewe0012 change_development_level = 0 }
+}

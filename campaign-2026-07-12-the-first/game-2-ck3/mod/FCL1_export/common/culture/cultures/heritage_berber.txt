@@ -1,0 +1,105 @@
+﻿baranis = {
+	color = rgb { 161 67 0 }
+	heritage = heritage_berber
+	language = language_berber
+	traditions = { tradition_african_tolerance tradition_family_entrepreneurship tradition_mountain_herding }
+	name_list = name_list_baranis
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		90 = arab
+		10 = african
+	}
+}
+butr = {
+	color = rgb { 161 90 40 }
+	heritage = heritage_berber
+	language = language_berber
+	traditions = { tradition_african_tolerance tradition_saharan_nomads tradition_desert_ribat tradition_equal_inheritance }
+	name_list = name_list_butr
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		71 = arab
+		29 = african
+	}
+}
+guanches = {
+	color = rgb { 181 87 67 }
+	heritage = heritage_berber
+	language = language_berber
+	traditions = { tradition_stalwart_defenders tradition_mystical_ancestors tradition_isolationist }
+	name_list = name_list_guanches
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		50 = arab
+		50 = african
+	}
+}
+zaghawa = {
+	color = rgb { 161 64 16 }
+	heritage = heritage_berber
+	language = language_tubu
+	traditions = { tradition_african_tolerance tradition_saharan_nomads tradition_desert_ribat }
+	name_list = name_list_zaghawa
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { afr_berber_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethnicities = {
+		64 = african
+		36 = arab
+	}
+}
+numidian = {
+	color = rgb { 102 66 51 }
+	heritage = heritage_berber
+	language = language_berber
+	traditions = { tradition_warriors_by_merit tradition_warriors_of_the_dry }
+	name_list = name_list_numidian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_herd
+	house_coa_frame = house_frame_06
+	house_coa_mask_offset = { 0.0 0.0 }
+	house_coa_mask_scale = { 0.85 0.85 }
+	ethos = ethos_stoic
+	ethnicities = {
+		10 = arab
+		4 = african
+	}
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}

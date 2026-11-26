@@ -1,0 +1,21 @@
+﻿dongyi = {
+	color = rgb { 193 230 46 }
+	heritage = heritage_dongyi
+	language = language_dongyi
+	traditions = { tradition_maritime_mercantilism tradition_adaptive_skirmishing tradition_seafaring }
+	name_list = name_list_han
+	ethos = ethos_egalitarian
+	head_determination = head_determination_domain
+	martial_custom = martial_custom_equal
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	ethnicities = {
+				10 = asian_han_chinese
+			}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+}

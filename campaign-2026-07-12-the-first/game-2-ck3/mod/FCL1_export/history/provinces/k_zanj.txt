@@ -1,0 +1,152 @@
+12771={
+	holding = none
+}
+12772={
+	holding = none
+}
+12773={
+	culture = swahili
+	faith = waaqism_pagan
+	holding = castle_holding
+	special_building_slot = swahili_port_pate
+	special_building = swahili_port_pate
+}
+12774={
+	holding = city_holding
+}
+12775={
+	holding = none
+}
+12776={
+	culture = swahili
+	faith = waaqism_pagan
+	holding = castle_holding
+	special_building_slot = swahili_port_lamu
+	special_building = swahili_port_lamu
+}
+12777={
+	culture = somali
+	religion = waaqism_pagan
+	holding = tribal_holding
+}
+12778={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12779={
+	holding = none
+}
+12780={
+	holding = city_holding
+}
+12781={
+	culture = swahili
+	religion = ngaiism_pagan
+	holding = castle_holding
+}
+12782={
+	holding = none
+}
+12783={
+	holding = none
+}
+12784={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+12785={
+	holding = none
+}
+12786={
+	culture = swahili
+	religion = ngaiism_pagan
+	holding = castle_holding
+	special_building_slot = swahili_port_mombasa
+	special_building = swahili_port_mombasa
+	1200.1.1 = { religion = ashari }
+}
+12787={
+	holding = none
+}
+12788={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+	1100.1.1 = { holding = castle_holding }
+}
+12789={
+	holding = none
+}
+12790={
+	culture = swahili
+	faith = waaqism_pagan
+	holding = castle_holding
+}
+12791={
+	culture = swahili
+	faith = waaqism_pagan
+	holding = castle_holding
+	special_building_slot = swahili_port_pemba
+	special_building = swahili_port_pemba
+}
+12792={
+	culture = swahili
+	faith = waaqism_pagan
+	holding = castle_holding
+	special_building_slot = swahili_port_zanzibar
+	special_building = swahili_port_zanzibar
+}
+12793={
+	holding = city_holding
+}
+12794={
+	holding = none
+	1100.1.1 = { holding = church_holding }
+}
+12795={
+	holding = none
+	1100.1.1 = { holding = church_holding }
+}
+12796={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+}
+12797={
+	holding = none
+}
+12798={
+	holding = none
+}
+12802={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+}
+12803={
+	holding = none
+}
+12804={
+	holding = none
+}
+12805={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+}
+12806={
+	holding = none
+}
+12807={
+	holding = none
+}
+12808={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+}
+12809={
+	culture = east_bantu
+	religion = ngaiism_pagan
+	holding = tribal_holding
+}

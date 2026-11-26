@@ -1,0 +1,170 @@
+k_cuman={
+	890.1.1 = { liege = 0 }
+}
+d_kazakh={
+	890.1.1 = { holder = IRToCK3_c_astana_holder government = tribal_government liege = 0 }
+}
+d_kokturgay={
+	890.1.1 = { liege = 0 }
+}
+d_qyzylsaryarka={
+	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder government = tribal_government liege = 0 }
+}
+d_saryarka={
+	837.1.1 = { holder = 0 }
+	890.1.1 = { holder = IRToCK3_c_qyzylteniz_holder government = tribal_government liege = 0 }
+}
+d_turgay={
+	890.1.1 = { liege = 0 }
+}
+c_achu={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 13 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_astana={
+	863.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_astana_holder liege = 0 change_development_level = 0 }
+}
+c_astrakhanka={
+	863.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_astana_holder change_development_level = 0 }
+}
+c_chumkar_kia={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 14 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_eghiz_kara={
+	476.1.7 = { change_development_level = 0 }
+	837.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder liege = 0 }
+}
+c_jilali={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 13 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_jilanjik={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	858.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder }
+}
+c_kaska={
+	847.5.10 = { holder = 302702 government = nomad_government liege = 0 }
+	860.1.9 = { holder = 302704 }
+	882.1.30 = { holder = 302709 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_murun_tomis={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 15 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_qyzylteniz={
+	837.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_qyzylteniz_holder liege = 0 change_development_level = 0 }
+}
+c_shchuchinsk={
+	861.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_astana_holder change_development_level = 0 }
+}
+c_teke={
+	860.1.12 = { holder = 302608 government = nomad_government liege = 0 }
+	884.4.12 = { holder = 302609 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_teniz={
+	847.5.10 = { holder = 302702 government = nomad_government liege = 0 }
+	860.1.9 = { holder = 302704 }
+	882.1.30 = { holder = 302709 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_togotai={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	847.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_qyzylteniz_holder }
+}
+c_tumar={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 17 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_turgay={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 15 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_ulu_jitanjik={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 9 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_ulytau={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	858.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder }
+}

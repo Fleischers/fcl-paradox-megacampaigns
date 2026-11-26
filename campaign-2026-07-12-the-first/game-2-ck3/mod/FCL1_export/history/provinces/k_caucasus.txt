@@ -1,0 +1,157 @@
+597={
+	culture = sarmatian
+	faith = orthodox
+	holding = city_holding
+}
+598={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+599={
+	culture = sarmatian
+	faith = orthodox
+	holding = city_holding
+}
+603={
+	culture = alan
+	faith = dacian_pagan
+	holding = castle_holding
+}
+604={
+	holding = castle_holding
+}
+605={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = castle_holding
+}
+606={
+	holding = city_holding
+}
+607={
+	culture = sarmatian
+	faith = orthodox
+	holding = city_holding
+}
+674={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+675={
+	holding = none
+}
+5288={
+	holding = city_holding
+}
+5289={
+	holding = none
+}
+5296={
+	culture = alan
+	faith = urartuism
+	holding = castle_holding
+}
+5297={
+	holding = city_holding
+}
+5298={
+	holding = none
+}
+5299={
+	culture = alan
+	faith = orthodox
+	holding = castle_holding
+}
+5300={
+	holding = none
+}
+5301={
+	holding = church_holding
+}
+5302={
+	holding = city_holding
+}
+5303={
+	culture = sarmatian
+	faith = orthodox
+	holding = castle_holding
+}
+5304={
+	holding = city_holding
+}
+5305={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5306={
+	holding = none
+}
+5307={
+	holding = church_holding
+}
+5308={
+	holding = none
+}
+5309={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5310={
+	holding = church_holding
+}
+5311={
+	culture = sarmatian
+	faith = orthodox
+	holding = castle_holding
+}
+5312={
+	holding = none
+}
+5315={
+	holding = none
+}
+5332={
+	holding = city_holding
+}
+5333={
+	holding = none
+}
+5334={
+	holding = church_holding
+}
+5335={
+	holding = none
+}
+5336={
+	holding = none
+}
+5337={
+	holding = city_holding
+}
+5338={
+	holding = city_holding
+}
+5339={
+	holding = city_holding
+}
+5340={
+	holding = city_holding
+}
+5341={
+	holding = none
+}
+5342={
+	holding = none
+}
+5343={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5344={
+	holding = church_holding
+}

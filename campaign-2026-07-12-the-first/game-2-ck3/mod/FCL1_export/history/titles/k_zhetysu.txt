@@ -1,0 +1,132 @@
+k_zhetysu={
+	890.1.1 = { liege = 0 }
+}
+d_alakol={
+	890.1.1 = { liege = 0 }
+}
+d_ili-alatau={
+	890.1.1 = { liege = 0 }
+}
+d_tarbagatai={
+	890.1.1 = { liege = 0 }
+}
+d_zhetysu={
+	850.1.1 = { holder = 34872 government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_qayaliq_holder government = tribal_government liege = 0 }
+}
+c_aksuyek={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	766.1.1 = { government = nomad_government }
+	850.1.1 = { liege = d_zhetysu }
+	890.1.1 = { holder = IRToCK3_c_qayaliq_holder }
+}
+c_almaty={
+	471.4.7 = { liege = 0 holder = imperator225962 }
+	476.1.7 = { change_development_level = 24 }
+	476.1.8 = { holder = irtock3_imperator225962_successor_0 }
+	504.1.8 = { holder = irtock3_imperator225962_successor_1 }
+	545.1.8 = { holder = irtock3_imperator225962_successor_2 }
+	601.1.8 = { holder = irtock3_imperator225962_successor_3 }
+	648.1.8 = { holder = irtock3_imperator225962_successor_4 }
+	676.1.8 = { holder = irtock3_imperator225962_successor_5 }
+	728.1.8 = { holder = irtock3_imperator225962_successor_6 }
+	763.1.8 = { holder = irtock3_imperator225962_successor_7 }
+	804.1.8 = { holder = irtock3_imperator225962_successor_8 }
+	853.1.8 = { holder = irtock3_imperator225962_successor_9 }
+}
+c_bazarka={
+	867.1.1 = { holder = 302657 government = nomad_government liege = 0 }
+	882.6.23 = { holder = 302659 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_chuguchak={
+	867.1.1 = { holder = 302657 government = nomad_government liege = 0 }
+	882.6.23 = { holder = 302659 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ebi-nor={
+	867.1.1 = { holder = 302661 government = nomad_government liege = 0 }
+	875.3.24 = { holder = 302662 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_emil={
+	843.1.19 = { government = herder_government liege = 0 }
+	870.4.13 = { holder = 302729 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ghulja={
+	867.1.1 = { holder = 302661 government = nomad_government liege = 0 }
+	875.3.24 = { holder = 302662 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_guzkol={
+	765.1.1 = { government = nomad_government }
+	860.1.1 = { government = herder_government }
+	885.1.1 = { holder = 188835 }
+	890.1.1 = { holder = 188836 change_development_level = 0 }
+}
+c_iliq={
+	766.1.1 = { government = nomad_government }
+	850.1.1 = { holder = 34872 liege = d_zhetysu }
+	867.1.1 = { holder = fictional_karluks_18 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_jinsko={
+	867.1.1 = { government = herder_government liege = 0 }
+	875.3.24 = { holder = 302662 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_karamay={
+	843.1.19 = { holder = 302726 government = nomad_government liege = 0 }
+	870.4.13 = { holder = 302729 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kash={
+	867.1.1 = { holder = 302661 government = nomad_government liege = 0 }
+	875.3.24 = { holder = 302662 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kaskelen={
+	471.4.7 = { liege = 0 holder = imperator225962 }
+	476.1.7 = { change_development_level = 11 }
+	476.1.8 = { holder = irtock3_imperator225962_successor_0 }
+	504.1.8 = { holder = irtock3_imperator225962_successor_1 }
+	545.1.8 = { holder = irtock3_imperator225962_successor_2 }
+	601.1.8 = { holder = irtock3_imperator225962_successor_3 }
+	648.1.8 = { holder = irtock3_imperator225962_successor_4 }
+	676.1.8 = { holder = irtock3_imperator225962_successor_5 }
+	728.1.8 = { holder = irtock3_imperator225962_successor_6 }
+	763.1.8 = { holder = irtock3_imperator225962_successor_7 }
+	804.1.8 = { holder = irtock3_imperator225962_successor_8 }
+	853.1.8 = { holder = irtock3_imperator225962_successor_9 }
+}
+c_kokpekty={
+	867.1.1 = { holder = 302657 government = nomad_government liege = 0 }
+	882.6.23 = { holder = 302659 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kopathal={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	766.1.1 = { government = nomad_government }
+	850.1.1 = { liege = d_zhetysu }
+	890.1.1 = { holder = IRToCK3_c_qayaliq_holder }
+}
+c_lepsink={
+	765.1.1 = { government = nomad_government }
+	850.1.1 = { holder = 34872 liege = d_zhetysu }
+	867.1.1 = { holder = 188852 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_qayaliq={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	765.1.1 = { government = nomad_government }
+	860.1.1 = { government = nomad_government }
+	885.1.1 = { holder = 188835 }
+	890.1.1 = { holder = IRToCK3_c_qayaliq_holder liege = 0 }
+}
+c_uchkul={
+	765.1.1 = { government = nomad_government }
+	860.1.1 = { government = nomad_government }
+	885.1.1 = { holder = 188835 }
+	890.1.1 = { holder = 188836 change_development_level = 0 }
+}

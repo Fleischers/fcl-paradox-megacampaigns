@@ -1,0 +1,202 @@
+927={
+	holding = castle_holding
+}
+928={
+	holding = castle_holding
+}
+929={
+	holding = none
+}
+930={
+	holding = city_holding
+}
+931={
+	holding = castle_holding
+}
+932={
+	holding = city_holding
+}
+1128={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+	terrain = jungle
+}
+1129={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1155={
+	culture = bengali
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1156={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1160={
+	culture = bengali
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1224={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1225={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1226={
+	holding = none
+	terrain = mountain
+}
+1227={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1228={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1229={
+	culture = oriya
+	faith = vaishnavism
+	holding = castle_holding
+}
+1230={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1231={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1247={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1249={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1252={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+	terrain = jungle
+}
+1270={
+	culture = bengali
+	faith = vaishnavism
+	holding = castle_holding
+}
+3980={
+	holding = none
+}
+3981={
+	holding = castle_holding
+}
+3982={
+	holding = none
+}
+3983={
+	holding = none
+}
+3984={
+	holding = none
+}
+3985={
+	holding = none
+}
+3986={
+	holding = none
+}
+3987={
+	holding = none
+}
+3988={
+	holding = none
+}
+3989={
+	holding = none
+}
+3990={
+	holding = none
+}
+3991={
+	holding = none
+}
+3992={
+	holding = none
+}
+3993={
+	holding = none
+}
+3994={
+	holding = none
+}
+3995={
+	holding = castle_holding
+}
+3996={
+	holding = none
+}
+3997={
+	holding = none
+}
+3998={
+	holding = none
+}
+3999={
+	holding = city_holding
+}
+7914={
+	holding = city_holding
+	terrain = jungle
+}
+7915={
+	holding = none
+	terrain = jungle
+}
+7932={
+	holding = none
+}
+7933={
+	holding = city_holding
+}
+7934={
+	holding = none
+}
+9648={
+	holding = city_holding
+}
+9649={
+	holding = none
+}
+9650={
+	holding = city_holding
+}
+9651={
+	holding = none
+}
+9652={
+	holding = city_holding
+}
+9653={
+	holding = none
+}
+9659={
+	holding = none
+}

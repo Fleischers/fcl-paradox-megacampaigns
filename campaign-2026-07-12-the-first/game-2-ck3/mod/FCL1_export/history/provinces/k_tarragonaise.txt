@@ -1,0 +1,306 @@
+1801={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1802={
+	holding = none
+}
+1803={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1804={
+	holding = church_holding
+}
+1805={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = tribal_holding
+}
+1806={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1807={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1808={
+	holding = castle_holding
+}
+1809={
+	holding = none
+}
+1810={
+	holding = none
+}
+1811={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1812={
+	holding = city_holding
+}
+1813={
+	holding = castle_holding
+}
+1814={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1815={
+	holding = church_holding
+}
+1859={
+	holding = castle_holding
+}
+1860={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = tribal_holding
+}
+1861={
+	holding = none
+}
+1862={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1863={
+	holding = city_holding
+}
+1864={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1865={
+	holding = city_holding
+}
+1866={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+1867={
+	holding = none
+}
+1868={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1869={
+	holding = none
+}
+1870={
+	holding = none
+}
+1871={
+	holding = city_holding
+}
+1872={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1873={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1874={
+	holding = city_holding
+}
+1875={
+	holding = none
+}
+1876={
+	holding = none
+}
+1877={
+	holding = city_holding
+}
+1878={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1879={
+	holding = none
+}
+1880={
+	holding = none
+}
+1881={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1882={
+	holding = none
+}
+1883={
+	holding = none
+}
+1884={
+	holding = church_holding
+}
+1885={
+	holding = none
+}
+1886={
+	holding = none
+}
+1887={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+	special_building_slot = aljaferia_palace_01
+}
+1888={
+	holding = none
+}
+1889={
+	holding = city_holding
+}
+1890={
+	holding = church_holding
+}
+1891={
+	holding = castle_holding
+}
+1892={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1893={
+	holding = church_holding
+}
+1896={
+	holding = city_holding
+}
+1897={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = city_holding
+}
+1898={
+	holding = city_holding
+}
+1899={
+	holding = city_holding
+}
+1900={
+	holding = city_holding
+}
+1901={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = city_holding
+}
+1902={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = city_holding
+}
+1903={
+	holding = none
+}
+1904={
+	holding = none
+}
+1905={
+	holding = none
+}
+1906={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1907={
+	holding = city_holding
+}
+1908={
+	holding = none
+}
+1909={
+	holding = church_holding
+}
+1915={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = city_holding
+}
+1922={
+	holding = none
+}
+1924={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = tribal_holding
+}
+1925={
+	holding = none
+}
+1926={
+	holding = none
+}
+1932={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = city_holding
+}
+1934={
+	holding = castle_holding
+}
+1936={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+1943={
+	holding = city_holding
+}
+3221={
+	holding = none
+}
+8793={
+	holding = city_holding
+}
+8794={
+	holding = none
+}
+8795={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+8796={
+	holding = none
+}
+8797={
+	holding = city_holding
+}
+8798={
+	holding = city_holding
+}
+8799={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+8800={
+	holding = church_holding
+}
+8801={
+	holding = none
+}

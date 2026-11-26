@@ -1,0 +1,75 @@
+﻿breathanach = {
+	color = rgb { 127 143 104 }
+	parents = { roman irish }
+	heritage = heritage_romano_british
+	language = language_breathanach
+	traditions = { tradition_horse_breeder }
+	name_list = name_list_breathanach
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethos = ethos_stoic
+}
+transadrianic = {
+	color = rgb { 127 143 104 }
+	parents = { roman pictish }
+	heritage = heritage_romano_british
+	language = language_breathanach
+	traditions = { tradition_horse_breeder }
+	name_list = name_list_breathanach
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethos = ethos_stoic
+}
+brythenig = {
+	color = rgb { 127 143 104 }
+	parents = { roman brythonic }
+	heritage = heritage_romano_british
+	language = language_breathanach
+	traditions = { tradition_horse_breeder }
+	name_list = name_list_breathanach
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_24
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethos = ethos_stoic
+}

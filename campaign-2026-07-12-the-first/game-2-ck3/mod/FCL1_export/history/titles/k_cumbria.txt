@@ -1,0 +1,6 @@
+k_cumbria={
+	890.1.1 = { liege = 0 }
+}
+d_cumbria={
+	890.1.1 = { liege = 0 }
+}

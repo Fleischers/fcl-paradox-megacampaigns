@@ -1,0 +1,77 @@
+88={
+	culture = sarmatian
+	faith = orthodox
+	holding = castle_holding
+}
+89={
+	holding = castle_holding
+}
+90={
+	holding = castle_holding
+}
+91={
+	holding = castle_holding
+}
+92={
+	culture = estonian
+	faith = finnish_pagan
+	holding = castle_holding
+}
+93={
+	holding = none
+}
+94={
+	culture = estonian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+95={
+	holding = none
+}
+96={
+	holding = church_holding
+}
+97={
+	holding = church_holding
+}
+98={
+	culture = estonian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+99={
+	culture = estonian
+	faith = finnish_pagan
+	holding = castle_holding
+}
+100={
+	holding = none
+}
+101={
+	holding = church_holding
+}
+108={
+	culture = estonian
+	faith = finnish_pagan
+	holding = tribal_holding
+}
+143={
+	holding = none
+}
+144={
+	holding = none
+}
+145={
+	culture = estonian
+	faith = finnish_pagan
+	holding = castle_holding
+}
+146={
+	holding = none
+}
+147={
+	holding = none
+}
+148={
+	holding = city_holding
+}

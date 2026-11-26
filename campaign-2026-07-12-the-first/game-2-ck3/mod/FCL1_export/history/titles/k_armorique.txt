@@ -1,0 +1,246 @@
+k_armorique={
+	890.1.1 = { liege = 0 }
+}
+d_anjou={
+	890.1.1 = { liege = 0 }
+}
+d_brittany={
+	472.9.14 = { government = feudal_government holder = imperator234668 liege = k_IRTOCK3_ICE succession_laws = { high_partition_succession_law } }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+d_normandy={
+	890.1.1 = { liege = 0 }
+}
+c_alencon={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 18 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_anjou={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 17 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_avranches={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 16 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_bayeux={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 15 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_cornouaille={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 21 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_eu={
+	458.5.27 = { liege = 0 holder = imperator244270 }
+	476.1.7 = { change_development_level = 17 }
+	511.4.11 = { holder = irtock3_imperator244270_successor_0 }
+	529.4.11 = { holder = irtock3_imperator244270_successor_1 }
+	582.4.11 = { holder = irtock3_imperator244270_successor_2 }
+	609.4.11 = { holder = irtock3_imperator244270_successor_3 }
+	657.4.11 = { holder = irtock3_imperator244270_successor_4 }
+	686.4.11 = { holder = irtock3_imperator244270_successor_5 }
+	723.4.11 = { holder = irtock3_imperator244270_successor_6 }
+	767.4.11 = { holder = irtock3_imperator244270_successor_7 }
+	800.4.11 = { holder = irtock3_imperator244270_successor_8 }
+	832.4.11 = { holder = irtock3_imperator244270_successor_9 }
+}
+c_evreux={
+	464.1.9 = { liege = 0 holder = imperator237664 }
+	476.1.7 = { change_development_level = 14 }
+	483.11.20 = { holder = irtock3_imperator237664_successor_0 }
+	536.11.20 = { holder = irtock3_imperator237664_successor_1 }
+	592.11.20 = { holder = irtock3_imperator237664_successor_2 }
+	629.11.20 = { holder = irtock3_imperator237664_successor_3 }
+	678.11.20 = { holder = irtock3_imperator237664_successor_4 }
+	703.11.20 = { holder = irtock3_imperator237664_successor_5 }
+	745.11.20 = { holder = irtock3_imperator237664_successor_6 }
+	782.11.20 = { holder = irtock3_imperator237664_successor_7 }
+	827.11.20 = { holder = irtock3_imperator237664_successor_8 }
+	857.11.20 = { holder = irtock3_imperator237664_successor_9 }
+}
+c_french_leon={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 16 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_lisieux={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 14 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_maine={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 10 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_nantes={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 19 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_penthievre={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 19 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}
+c_rennes={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 18 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_rouen={
+	458.5.27 = { holder = imperator244271 }
+	466.6.12 = { liege = d_IRTOCK3_EBS }
+	476.1.7 = { change_development_level = 16 }
+	482.10.28 = { holder = irtock3_imperator244271_successor_0 }
+	523.10.28 = { holder = irtock3_imperator244271_successor_1 }
+	579.10.28 = { holder = irtock3_imperator244271_successor_2 }
+	624.10.28 = { holder = irtock3_imperator244271_successor_3 }
+	667.10.28 = { holder = irtock3_imperator244271_successor_4 }
+	718.10.28 = { holder = irtock3_imperator244271_successor_5 }
+	753.10.28 = { holder = irtock3_imperator244271_successor_6 }
+	786.10.28 = { holder = irtock3_imperator244271_successor_7 }
+	835.10.28 = { holder = irtock3_imperator244271_successor_8 }
+}
+c_sable={
+	443.6.22 = { liege = 0 holder = imperator226879 }
+	476.1.7 = { change_development_level = 15 }
+	476.1.8 = { holder = irtock3_imperator226879_successor_0 }
+	524.1.8 = { holder = irtock3_imperator226879_successor_1 }
+	566.1.8 = { holder = irtock3_imperator226879_successor_2 }
+	616.1.8 = { holder = irtock3_imperator226879_successor_3 }
+	650.1.8 = { holder = irtock3_imperator226879_successor_4 }
+	696.1.8 = { holder = irtock3_imperator226879_successor_5 }
+	745.1.8 = { holder = irtock3_imperator226879_successor_6 }
+	792.1.8 = { holder = irtock3_imperator226879_successor_7 }
+	848.1.8 = { holder = irtock3_imperator226879_successor_8 }
+}
+c_saumur={
+	443.1.5 = { liege = 0 holder = imperator236754 }
+	476.1.7 = { change_development_level = 18 }
+	476.1.8 = { holder = irtock3_imperator236754_successor_0 }
+	518.1.8 = { holder = irtock3_imperator236754_successor_1 }
+	565.1.8 = { holder = irtock3_imperator236754_successor_2 }
+	611.1.8 = { holder = irtock3_imperator236754_successor_3 }
+	650.1.8 = { holder = irtock3_imperator236754_successor_4 }
+	692.1.8 = { holder = irtock3_imperator236754_successor_5 }
+	732.1.8 = { holder = irtock3_imperator236754_successor_6 }
+	771.1.8 = { holder = irtock3_imperator236754_successor_7 }
+	806.1.8 = { holder = irtock3_imperator236754_successor_8 }
+	841.1.8 = { holder = irtock3_imperator236754_successor_9 }
+}
+c_vannes={
+	472.9.14 = { liege = 0 holder = imperator234668 }
+	476.1.7 = { change_development_level = 20 }
+	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
+	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
+	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
+	615.10.11 = { holder = irtock3_imperator234668_successor_3 }
+	662.10.11 = { holder = irtock3_imperator234668_successor_4 }
+	698.10.11 = { holder = irtock3_imperator234668_successor_5 }
+	755.10.11 = { holder = irtock3_imperator234668_successor_6 }
+	806.10.11 = { holder = irtock3_imperator234668_successor_7 }
+	838.10.11 = { holder = irtock3_imperator234668_successor_8 }
+}

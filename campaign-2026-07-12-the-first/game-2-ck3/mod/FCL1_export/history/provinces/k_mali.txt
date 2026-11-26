@@ -1,0 +1,233 @@
+6635={
+	holding = none
+}
+6637={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+	1226.1.1 = { religion = ashari }
+}
+6638={
+	holding = none
+}
+6639={
+	holding = none
+}
+6640={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+	1276.1.1 = { religion = ashari }
+}
+6725={
+	holding = none
+}
+6726={
+	holding = none
+}
+6727={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+	1226.1.1 = { religion = ashari }
+}
+6728={
+	holding = none
+	867.1.1 = { holding = church_holding special_building_slot = mali_mines_01 }
+}
+6729={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+	1226.1.1 = { religion = ashari }
+}
+6730={
+	holding = none
+}
+6731={
+	holding = none
+}
+6732={
+	holding = none
+}
+6733={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+6734={
+	holding = none
+}
+6735={
+	holding = none
+}
+6736={
+	holding = none
+}
+6737={
+	holding = none
+}
+6738={
+	holding = none
+}
+6739={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+	867.1.1 = { special_building_slot = mali_mines_01 }
+}
+6740={
+	holding = none
+}
+6741={
+	holding = none
+}
+6742={
+	holding = none
+}
+6743={
+	holding = none
+}
+6744={
+	holding = none
+}
+6745={
+	holding = none
+}
+6747={
+	culture = malinke
+	religion = west_african_bidu_pagan
+	holding = none
+	867.1.1 = { special_building_slot = mali_mines_01 }
+	1176.1.1 = { religion = ashari }
+}
+6748={
+	holding = none
+}
+6749={
+	holding = none
+}
+6750={
+	holding = none
+}
+6751={
+	culture = malinke
+	religion = west_african_bidu_pagan
+	holding = none
+	1286.1.1 = { religion = ashari }
+}
+6801={
+	culture = malinke
+	religion = west_african_bidu_pagan
+	holding = none
+}
+6802={
+	holding = none
+}
+6803={
+	holding = none
+}
+6995={
+	holding = none
+}
+8163={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8164={
+	holding = none
+}
+8165={
+	holding = none
+}
+8166={
+	holding = none
+}
+8169={
+	holding = none
+}
+8170={
+	holding = none
+}
+8171={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+8172={
+	holding = none
+}
+8173={
+	holding = none
+}
+8174={
+	holding = none
+}
+8175={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8177={
+	holding = none
+}
+8182={
+	holding = none
+}
+8183={
+	holding = none
+}
+8184={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+8185={
+	holding = none
+}
+8186={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8192={
+	holding = none
+}
+8193={
+	holding = none
+}
+8194={
+	holding = none
+}
+8195={
+	holding = none
+}
+8196={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8197={
+	holding = none
+}
+8198={
+	holding = none
+}
+8232={
+	culture = malinke
+	religion = west_african_bidu_pagan
+	holding = none
+}
+8233={
+	holding = none
+}
+8234={
+	holding = none
+}
+8235={
+	holding = none
+}
+8236={
+	holding = none
+}

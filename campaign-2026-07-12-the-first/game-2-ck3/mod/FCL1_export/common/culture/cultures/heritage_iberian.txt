@@ -1,0 +1,224 @@
+﻿basque = {
+	color = rgb { 140 107 10 }
+	heritage = heritage_iberian
+	language = language_basque
+	traditions = { tradition_equal_inheritance tradition_mountaineers tradition_wedding_ceremonies }
+	name_list = name_list_basque
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+castilian = {
+	color = rgb { 242 209 23 }
+	parents = { visigothic }
+	heritage = heritage_iberian
+	language = language_iberian
+	traditions = { tradition_martial_admiration tradition_castle_keepers tradition_chivalry }
+	name_list = name_list_castilian
+	created = 800.1.1
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_strategy_gamers
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_hit_and_run
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { castilian_coa_gfx iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+catalan = {
+	color = rgb { 194 107 20 }
+	parents = { visigothic occitan }
+	heritage = heritage_iberian
+	language = language_occitano_romance
+	traditions = { tradition_visigothic_codes tradition_maritime_mercantilism tradition_parochialism tradition_poetry }
+	name_list = name_list_catalan
+	created = 800.1.1
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+galician = {
+	color = rgb { 235 237 161 }
+	parents = { visigothic }
+	heritage = heritage_iberian
+	language = language_iberian
+	traditions = { tradition_monastic_communities tradition_highland_warriors tradition_fishermen }
+	name_list = name_list_galician
+	created = 800.1.1
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+andalusian = {
+	color = rgb { 102 153 26 }
+	parents = { visigothic bedouin }
+	heritage = heritage_iberian
+	language = language_arabic
+	traditions = { tradition_hit_and_run }
+	name_list = name_list_andalusian
+	created = 800.1.1
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_artisans
+		requires_dlc_flag = royal_court
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_malleable_subjects
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_xenophilic
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_strategy_gamers
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iberian_muslim_unit_gfx }
+	ethnicities = {
+		50 = arab
+		50 = mediterranean
+	}
+}
+portuguese = {
+	color = rgb { 191 171 18 }
+	parents = { galician }
+	heritage = heritage_iberian
+	language = language_iberian
+	traditions = { tradition_chivalry tradition_fervent_temple_builders tradition_martial_admiration }
+	name_list = name_list_portuguese
+	created = 1100.1.1
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+asturleonese = {
+	color = rgb { 250 217 92 }
+	parents = { visigothic }
+	heritage = heritage_iberian
+	language = language_iberian
+	traditions = { tradition_hit_and_run tradition_mountaineers tradition_fervent_temple_builders }
+	name_list = name_list_asturleonese
+	created = 800.1.1
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { leonese_coa_gfx iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+aragonese = {
+	color = rgb { 204 171 61 }
+	parents = { basque catalan }
+	heritage = heritage_iberian
+	language = language_occitano_romance
+	traditions = { tradition_visigothic_codes tradition_martial_admiration tradition_mountaineers }
+	name_list = name_list_aragonese
+	created = 1035.10.18
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_wedding_ceremonies
+	}
+	dlc_tradition = {
+		trait = tradition_fp2_state_ransoming
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx western_clothing_gfx }
+	unit_gfx = { iberian_christian_unit_gfx }
+	ethnicities = {
+		100 = mediterranean
+	}
+}
+non_indo_european_iberian = {
+	color = rgb { 255 107 0 }
+	heritage = heritage_iberian
+	language = language_basque
+	traditions = { tradition_hit_and_run tradition_metal_craftsmanship }
+	name_list = name_list_basque
+	name_list = name_list_iberian
+	martial_custom = martial_custom_male_only
+	ethos = ethos_courtly
+	head_determination = head_determination_domain
+	ethnicities = {
+		10 = mediterranean
+	}
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}

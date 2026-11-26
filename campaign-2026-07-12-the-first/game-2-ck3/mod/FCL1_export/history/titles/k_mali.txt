@@ -1,0 +1,101 @@
+k_mali={
+	890.1.1 = { liege = 0 }
+}
+d_bambuk={
+	890.1.1 = { liege = 0 }
+}
+d_futa_jalon={
+	890.1.1 = { liege = 0 }
+}
+d_loma={
+	890.1.1 = { liege = 0 }
+}
+d_manding={
+	860.1.1 = { holder = 251115 government = tribal_government }
+}
+c_bambuk={
+	695.1.1 = { holder = 184010 government = tribal_government }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { government = tribal_government liege = d_wagadu }
+	868.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_bundu={
+	850.1.1 = { holder = soninke0013 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_bure={
+	860.1.1 = { holder = 251115 government = tribal_government liege = "d_manding" }
+	890.1.1 = { change_development_level = 4 }
+}
+c_dakajalan={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_futa_jalon={
+	860.1.1 = { holder = malinke0041 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_gangaran={
+	695.1.1 = { holder = 184010 government = tribal_government }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { government = tribal_government liege = d_wagadu }
+	868.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_kankan={
+	860.1.1 = { holder = 251115 government = tribal_government liege = "d_manding" }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kisi={
+	866.1.1 = { holder = malinke0007 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kokoli={
+	860.1.1 = { holder = wolof0091 government = tribal_government }
+	890.1.1 = { holder = wolof0092 change_development_level = 2 }
+}
+c_konko={
+	867.1.1 = { holder = malinke0051 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kuranko={
+	867.1.1 = { holder = malinke0007 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_niani={
+	860.1.1 = { holder = 251115 government = tribal_government liege = "d_manding" }
+	890.1.1 = { change_development_level = 4 }
+}
+c_sibi_mali={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_solimana={
+	860.1.1 = { holder = malinke0041 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_tabon={
+	695.1.1 = { holder = 184010 government = tribal_government liege = d_wagadu }
+	770.1.1 = { holder = 184012 }
+	780.1.1 = { holder = 184013 }
+	840.1.1 = { holder = 184014 }
+	860.1.1 = { holder = 184015 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_timbi={
+	860.1.1 = { holder = mel0071 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}

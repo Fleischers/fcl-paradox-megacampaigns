@@ -1,0 +1,71 @@
+k_tuva={
+	890.1.1 = { liege = 0 }
+}
+d_katu_yaryk={
+	890.1.1 = { liege = 0 }
+}
+d_tannu_ola={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	864.3.3 = { holder = 303057 government = nomad_government }
+	866.12.13 = { holder = 303061 }
+}
+d_togina={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	850.3.21 = { holder = 303080 government = nomad_government }
+	863.6.17 = { holder = 303080 government = nomad_government }
+}
+d_western_sayan={
+	890.1.1 = { liege = 0 }
+}
+c_arzhan={
+	865.6.18 = { holder = 303080 government = nomad_government liege = d_togina }
+	890.1.1 = { change_development_level = 0 }
+}
+c_azas={
+	865.6.18 = { holder = fictional_buryats_2 government = herder_government liege = d_togina }
+	890.1.1 = { change_development_level = 0 }
+}
+c_central_tannu={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	866.12.13 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_eastern_tannu={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	866.12.13 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kantegir={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	876.3.21 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kara_khol={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	870.2.24 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_katu_yaryk={
+	864.3.3 = { government = herder_government liege = d_tannu_ola }
+	870.2.24 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sayanchu={
+	864.3.3 = { government = herder_government liege = d_tannu_ola }
+	876.3.21 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_stoyanka={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	876.3.21 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_tapsa={
+	865.6.18 = { holder = 303080 government = nomad_government liege = d_togina }
+	890.1.1 = { change_development_level = 0 }
+}
+c_western_tannu={
+	864.3.3 = { holder = 303057 government = nomad_government liege = d_tannu_ola }
+	870.2.24 = { holder = 303061 }
+	890.1.1 = { change_development_level = 0 }
+}

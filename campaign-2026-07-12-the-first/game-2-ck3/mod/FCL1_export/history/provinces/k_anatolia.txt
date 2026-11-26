@@ -1,0 +1,283 @@
+736={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+737={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+	200.1.1 = { special_building_slot = fairy_chimneys }
+}
+752={
+	holding = none
+}
+754={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+755={
+	holding = city_holding
+}
+758={
+	culture = brythonic
+	faith = orthodox
+	holding = tribal_holding
+}
+759={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+760={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+	1.1.1 = { special_building_slot = cilician_gates }
+}
+761={
+	culture = brythonic
+	faith = orthodox
+	holding = tribal_holding
+}
+762={
+	holding = city_holding
+}
+4895={
+	holding = none
+}
+4896={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+4897={
+	holding = castle_holding
+}
+5610={
+	holding = castle_holding
+}
+5611={
+	holding = none
+}
+5612={
+	holding = city_holding
+}
+5614={
+	holding = none
+}
+5615={
+	holding = none
+}
+5616={
+	holding = none
+}
+5617={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5618={
+	holding = none
+}
+5619={
+	holding = none
+}
+5620={
+	holding = none
+}
+5621={
+	holding = castle_holding
+}
+5622={
+	holding = city_holding
+}
+5623={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5624={
+	holding = none
+}
+5625={
+	holding = none
+}
+5626={
+	holding = none
+}
+5627={
+	holding = none
+}
+5628={
+	holding = none
+}
+5629={
+	holding = city_holding
+}
+5630={
+	holding = castle_holding
+}
+5631={
+	holding = none
+}
+5632={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5633={
+	holding = none
+}
+5634={
+	holding = city_holding
+}
+5635={
+	holding = city_holding
+}
+5636={
+	holding = none
+}
+5637={
+	culture = brythonic
+	faith = orthodox
+	holding = tribal_holding
+}
+5638={
+	holding = none
+}
+5639={
+	holding = none
+}
+5640={
+	holding = none
+}
+5641={
+	holding = city_holding
+}
+5642={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+5643={
+	holding = castle_holding
+}
+5644={
+	holding = city_holding
+}
+5645={
+	holding = city_holding
+}
+5646={
+	holding = none
+}
+5647={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+5648={
+	holding = castle_holding
+}
+5649={
+	holding = city_holding
+}
+5650={
+	holding = none
+}
+5651={
+	culture = phrygian
+	faith = orthodox
+	holding = castle_holding
+}
+5652={
+	holding = castle_holding
+}
+5653={
+	holding = none
+}
+5654={
+	culture = phrygian
+	faith = orthodox
+	holding = castle_holding
+}
+5655={
+	holding = none
+}
+5656={
+	holding = castle_holding
+}
+5657={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+5658={
+	holding = city_holding
+}
+5659={
+	holding = none
+}
+5660={
+	holding = city_holding
+}
+5661={
+	holding = none
+}
+5662={
+	holding = city_holding
+}
+5663={
+	holding = church_holding
+}
+5664={
+	culture = brythonic
+	faith = orthodox
+	holding = tribal_holding
+}
+5665={
+	holding = none
+}
+5666={
+	holding = none
+}
+5667={
+	holding = none
+}
+5668={
+	holding = none
+}
+5669={
+	holding = church_holding
+}
+5670={
+	holding = city_holding
+}
+5671={
+	holding = none
+}
+5672={
+	culture = luwian
+	faith = orthodox
+	holding = tribal_holding
+}
+5673={
+	holding = church_holding
+}
+5674={
+	holding = city_holding
+}
+5675={
+	holding = none
+}
+5676={
+	holding = castle_holding
+}
+5677={
+	holding = none
+}
+5678={
+	holding = none
+}

@@ -1,0 +1,51 @@
+k_viet={
+	890.1.1 = { liege = 0 }
+}
+d_hai_dong={
+	890.1.1 = { holder = IRToCK3_c_binh_nguyen_holder government = tribal_government liege = 0 }
+}
+d_lam_tay={
+	890.1.1 = { holder = IRToCK3_c_quoc_oai_holder government = feudal_government liege = 0 }
+}
+d_nghe_an={
+	890.1.1 = { holder = IRToCK3_c_sam_nuea_holder government = feudal_government liege = 0 }
+}
+d_thang_long={
+	890.1.1 = { holder = IRToCK3_c_thang_long_holder government = feudal_government liege = 0 }
+}
+c_binh_nguyen={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_binh_nguyen_holder liege = 0 change_development_level = 4 }
+}
+c_hai_dong={
+	867.1.1 = { holder = viet_khuc_1 government = celestial_government }
+	890.1.1 = { change_development_level = 6 }
+}
+c_lam_tay={
+	867.1.1 = { holder = viet_ngo_14 government = celestial_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_long_hung={
+	867.1.1 = { holder = viet_khuc_1 government = celestial_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_nam_dinh={
+	867.1.1 = { holder = viet_dinh_11 government = celestial_government }
+	890.1.1 = { change_development_level = 7 }
+}
+c_nghe_an={
+	867.1.1 = { holder = han_vn_1 government = celestial_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_quoc_oai={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_quoc_oai_holder liege = 0 change_development_level = 5 }
+}
+c_sam_nuea={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_sam_nuea_holder liege = 0 change_development_level = 2 }
+}
+c_thang_long={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_thang_long_holder liege = 0 change_development_level = 12 }
+}

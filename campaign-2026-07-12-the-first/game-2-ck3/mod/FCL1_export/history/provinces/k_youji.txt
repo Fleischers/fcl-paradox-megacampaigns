@@ -1,0 +1,129 @@
+9695={
+	holding = none
+}
+9696={
+	holding = castle_holding
+}
+9697={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+9698={
+	holding = city_holding
+}
+9699={
+	holding = church_holding
+}
+9700={
+	holding = city_holding
+}
+9701={
+	holding = church_holding
+}
+9702={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { religion = avatamsaka }
+	1153.1.1 = { culture = jurchen religion = jingxue }
+}
+9703={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+9704={
+	holding = city_holding
+}
+9705={
+	holding = church_holding
+}
+9706={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+9708={
+	holding = church_holding
+}
+9709={
+	holding = city_holding
+}
+9710={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+9711={
+	holding = city_holding
+}
+9712={
+	holding = church_holding
+}
+10082={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { religion = avatamsaka }
+	1150.1.1 = { religion = mantrayana }
+}
+10083={
+	holding = city_holding
+}
+10084={
+	holding = city_holding
+}
+10085={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+10428={
+	holding = none
+}
+12170={
+	holding = church_holding
+}
+12172={
+	holding = church_holding
+}
+12174={
+	culture = khitan
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { religion = avatamsaka }
+	1153.1.1 = { culture = jurchen }
+}
+12176={
+	holding = castle_holding
+}
+12177={
+	holding = city_holding
+}
+12403={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { religion = avatamsaka }
+}
+12405={
+	holding = none
+}
+12419={
+	holding = none
+}
+13017={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = mantrayana }
+}
+13018={
+	holding = church_holding
+}

@@ -1,0 +1,82 @@
+k_maluku={
+	890.1.1 = { liege = 0 }
+}
+d_IDO_lesser_sunda={
+	890.1.1 = { holder = IRToCK3_c_IDO_nusa_nipa_holder government = tribal_government liege = 0 }
+}
+d_IDO_timor={
+	890.1.1 = { holder = IRToCK3_c_IDO_sonba_i_holder government = tribal_government liege = 0 }
+}
+d_papua={
+	890.1.1 = { holder = IRToCK3_c_sran_holder government = tribal_government liege = 0 }
+}
+d_SuMa_halmahera={
+	890.1.1 = { holder = IRToCK3_c_SuMa_ternate_holder government = tribal_government liege = 0 }
+}
+d_SuMa_maluku={
+	890.1.1 = { holder = IRToCK3_c_SuMa_seram_holder government = tribal_government liege = 0 }
+}
+c_aru={
+	867.1.1 = { holder = papuan_aru_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_IDO_barat_daya={
+	867.1.1 = { holder = maluku_baratdaya_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_IDO_galiyao={
+	867.1.1 = { holder = maluku_galiyao_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_IDO_humba={
+	867.1.1 = { holder = fictional_humba_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_IDO_nusa_nipa={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_IDO_nusa_nipa_holder liege = 0 change_development_level = 3 }
+}
+c_IDO_sonba_i={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_IDO_sonba_i_holder liege = 0 change_development_level = 3 }
+}
+c_IDO_wehale={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_IDO_sonba_i_holder change_development_level = 3 }
+}
+c_kepala_burung={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_sran_holder change_development_level = 2 }
+}
+c_papua_selatan={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_sran_holder change_development_level = 2 }
+}
+c_sran={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_sran_holder liege = 0 change_development_level = 2 }
+}
+c_SuMa_bacan={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_ternate_holder change_development_level = 4 }
+}
+c_SuMa_buru-sula={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_seram_holder change_development_level = 3 }
+}
+c_SuMa_raja_ampat={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_seram_holder change_development_level = 2 }
+}
+c_SuMa_seram={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_seram_holder liege = 0 change_development_level = 3 }
+}
+c_SuMa_ternate={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_ternate_holder liege = 0 change_development_level = 5 }
+}
+c_SuMa_tidore={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_SuMa_ternate_holder change_development_level = 5 }
+}

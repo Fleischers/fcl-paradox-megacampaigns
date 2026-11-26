@@ -1,0 +1,68 @@
+k_sao={
+	890.1.1 = { liege = 0 }
+}
+d_baguirmi={
+	890.1.1 = { liege = 0 }
+}
+d_salamat={
+	890.1.1 = { liege = 0 }
+}
+d_wandala={
+	890.1.1 = { liege = 0 }
+}
+c_baguirmi={
+	860.1.1 = { holder = sao0001 government = tribal_government }
+	890.1.1 = { holder = sao0002 change_development_level = 4 }
+}
+c_banre={
+	860.1.1 = { holder = sao0001 government = tribal_government }
+	890.1.1 = { holder = sao0002 change_development_level = 2 }
+}
+c_barma={
+	860.1.1 = { holder = sao0011 government = tribal_government }
+	890.1.1 = { holder = sao0012 change_development_level = 1 }
+}
+c_dar_rashid={
+	860.1.1 = { holder = sao0071 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_diamare={
+	860.1.1 = { holder = sao0021 government = tribal_government }
+	890.1.1 = { holder = sao0022 change_development_level = 2 }
+}
+c_garoua={
+	850.1.1 = { holder = sao0041 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_kera={
+	860.1.1 = { holder = sao0031 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kotoko={
+	850.1.1 = { holder = sao0051 government = tribal_government }
+	880.1.1 = { holder = sao0052 }
+	890.1.1 = { change_development_level = 4 }
+}
+c_kuku={
+	860.1.1 = { holder = sao0061 government = tribal_government }
+	890.1.1 = { holder = sao0062 change_development_level = 1 }
+}
+c_masa={
+	860.1.1 = { holder = sao0061 government = tribal_government }
+	890.1.1 = { holder = sao0062 change_development_level = 2 }
+}
+c_salamat={
+	750.1.1 = { holder = 248717 government = tribal_government liege = 0 }
+	800.1.1 = { holder = 248718 }
+	840.1.1 = { holder = 248719 }
+	880.1.1 = { holder = 248720 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_tumak={
+	860.1.1 = { holder = sao0071 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_wandala={
+	860.1.1 = { holder = sao0021 government = tribal_government }
+	890.1.1 = { holder = sao0022 change_development_level = 2 }
+}

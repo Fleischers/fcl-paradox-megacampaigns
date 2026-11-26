@@ -1,0 +1,168 @@
+11001={
+	culture = iloko
+	religion = dayawism
+	holding = tribal_holding
+}
+11002={
+	holding = none
+}
+11003={
+	holding = none
+}
+11004={
+	culture = iloko
+	religion = dayawism
+	holding = tribal_holding
+}
+11005={
+	holding = none
+}
+11006={
+	culture = iloko
+	religion = vajrayana
+	holding = tribal_holding
+}
+11007={
+	holding = none
+}
+11008={
+	culture = iloko
+	religion = dayawism
+	holding = tribal_holding
+}
+11009={
+	holding = none
+}
+11010={
+	holding = none
+}
+11011={
+	culture = iloko
+	religion = dayawism
+	holding = tribal_holding
+}
+11012={
+	holding = none
+}
+11013={
+	holding = none
+}
+11014={
+	holding = none
+}
+11015={
+	culture = iloko
+	religion = dayawism
+	holding = tribal_holding
+}
+11016={
+	holding = none
+}
+11017={
+	holding = none
+}
+11018={
+	holding = none
+}
+11019={
+	holding = none
+}
+11020={
+	holding = none
+}
+11021={
+	culture = tagalog
+	religion = shaivism
+	holding = tribal_holding
+}
+11022={
+	holding = none
+}
+11023={
+	culture = tagalog
+	religion = shaivism
+	holding = tribal_holding
+}
+11024={
+	holding = city_holding
+}
+11025={
+	holding = none
+}
+11026={
+	holding = none
+}
+11027={
+	holding = none
+}
+11028={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+11029={
+	culture = tagalog
+	religion = dayawism
+	holding = tribal_holding
+	1066.1.1 = { holding = tribal_holding }
+}
+11030={
+	holding = none
+}
+11031={
+	holding = none
+}
+11032={
+	holding = none
+}
+11033={
+	holding = none
+}
+11034={
+	holding = none
+}
+11035={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11036={
+	holding = none
+}
+11037={
+	culture = tagalog
+	religion = vajrayana
+	holding = tribal_holding
+}
+11038={
+	holding = none
+}
+11039={
+	holding = none
+}
+11040={
+	holding = none
+}
+11041={
+	holding = none
+	1000.1.1 = { holding = city_holding }
+}
+11042={
+	holding = none
+}
+11043={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	1000.1.1 = { holding = tribal_holding }
+}
+11044={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11045={
+	holding = none
+}
+11046={
+	holding = none
+}

@@ -1,0 +1,230 @@
+4608={
+	holding = none
+}
+4609={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+4610={
+	holding = none
+}
+4611={
+	holding = none
+}
+4613={
+	holding = none
+}
+4614={
+	holding = none
+}
+4615={
+	culture = brythonic
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4616={
+	culture = brythonic
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4617={
+	holding = none
+}
+4618={
+	holding = none
+}
+4619={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4621={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4622={
+	holding = castle_holding
+}
+4627={
+	holding = city_holding
+}
+4633={
+	holding = none
+}
+4634={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4635={
+	holding = none
+}
+4636={
+	holding = castle_holding
+}
+4637={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4638={
+	holding = castle_holding
+}
+4639={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4640={
+	holding = city_holding
+}
+4641={
+	holding = city_holding
+}
+4642={
+	holding = none
+}
+4643={
+	holding = none
+}
+4644={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4645={
+	holding = none
+}
+4646={
+	holding = city_holding
+}
+4647={
+	culture = brythonic
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4648={
+	holding = none
+}
+4649={
+	holding = city_holding
+}
+4650={
+	culture = brythonic
+	faith = adamites
+	holding = castle_holding
+}
+4651={
+	holding = city_holding
+}
+4652={
+	holding = castle_holding
+}
+4653={
+	culture = brythonic
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4654={
+	holding = castle_holding
+}
+4655={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = none
+}
+4656={
+	holding = none
+}
+4657={
+	holding = none
+}
+4658={
+	holding = city_holding
+}
+4659={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4660={
+	holding = city_holding
+}
+4661={
+	holding = none
+}
+4662={
+	holding = none
+}
+4663={
+	holding = none
+}
+4664={
+	holding = none
+}
+4665={
+	holding = castle_holding
+}
+4666={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4667={
+	holding = city_holding
+}
+4668={
+	holding = city_holding
+}
+4669={
+	culture = baranis
+	faith = catholic
+	holding = castle_holding
+}
+4670={
+	holding = church_holding
+}
+4671={
+	holding = none
+}
+4672={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+4673={
+	holding = none
+}
+4674={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = none
+}
+4675={
+	holding = city_holding
+}
+4676={
+	holding = none
+}
+4749={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = tribal_holding
+}
+4750={
+	holding = none
+}
+4751={
+	holding = none
+}
+4754={
+	holding = city_holding
+}
+4762={
+	holding = none
+}
+6322={
+	holding = none
+}

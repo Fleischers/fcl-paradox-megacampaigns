@@ -1,0 +1,169 @@
+670={
+	holding = city_holding
+}
+671={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+672={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+681={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+682={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+701={
+	holding = none
+}
+702={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+703={
+	holding = none
+}
+704={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+707={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5706={
+	holding = city_holding
+}
+5707={
+	holding = city_holding
+}
+5708={
+	holding = none
+}
+5709={
+	holding = castle_holding
+}
+5710={
+	holding = city_holding
+}
+5711={
+	holding = city_holding
+}
+5712={
+	holding = none
+}
+5713={
+	holding = none
+}
+5714={
+	holding = castle_holding
+}
+5715={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+5716={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+5717={
+	holding = city_holding
+}
+5718={
+	holding = none
+}
+5719={
+	holding = none
+}
+5720={
+	holding = castle_holding
+}
+5721={
+	holding = none
+}
+5722={
+	holding = none
+}
+5723={
+	holding = none
+}
+5724={
+	holding = church_holding
+}
+5725={
+	holding = none
+}
+5726={
+	holding = church_holding
+}
+5727={
+	holding = none
+}
+5728={
+	holding = church_holding
+	304.1.1 = { special_building_slot = etchmiadzin_cathedral }
+}
+5729={
+	holding = city_holding
+}
+5730={
+	holding = church_holding
+}
+5731={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+5732={
+	holding = city_holding
+}
+5733={
+	holding = none
+}
+5734={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+5735={
+	holding = church_holding
+}
+5780={
+	holding = castle_holding
+}
+5781={
+	holding = none
+}
+5782={
+	holding = none
+}
+5783={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5784={
+	holding = none
+}
+5785={
+	holding = castle_holding
+}
+5786={
+	holding = none
+}
+5787={
+	holding = city_holding
+}

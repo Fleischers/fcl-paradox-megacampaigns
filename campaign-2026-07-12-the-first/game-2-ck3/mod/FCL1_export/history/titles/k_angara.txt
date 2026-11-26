@@ -1,0 +1,87 @@
+k_angara={
+	890.1.1 = { liege = 0 }
+}
+d_angara={
+	890.1.1 = { liege = 0 }
+}
+d_chuna_valley={
+	890.1.1 = { liege = 0 }
+}
+d_lena={
+	890.1.1 = { liege = 0 }
+}
+d_yenisei_kan={
+	890.1.1 = { liege = 0 }
+}
+c_bratsk={
+	856.3.26 = { holder = 303172 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_chuna={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	848.8.16 = { government = herder_government }
+	889.2.23 = { holder = 303181 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_gatsuurgazar={
+	864.1.18 = { holder = 303156 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ilga={
+	865.1.14 = { holder = fictional_buryats_8 government = herder_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kada={
+	856.3.26 = { holder = fictional_buryats_4 government = herder_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kansk={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	848.8.16 = { holder = 303180 government = nomad_government }
+	889.2.23 = { holder = 303181 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kitoi={
+	865.1.14 = { holder = 303164 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_krasnoyarsk={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	853.5.19 = { government = herder_government }
+	878.2.3 = { holder = 303190 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kymyl_tey={
+	866.3.16 = { holder = 303197 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_lena={
+	864.1.18 = { holder = 303156 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_mana={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	853.5.19 = { holder = 303189 government = nomad_government }
+	878.2.3 = { holder = 303190 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_okangara={
+	856.3.26 = { holder = 303172 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_shishina={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	853.5.19 = { holder = 303189 government = nomad_government }
+	878.2.3 = { holder = 303190 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_tagul={
+	840.1.2 = { liege = e_kirghiz_khanate }
+	848.8.16 = { holder = 303180 government = nomad_government }
+	889.2.23 = { holder = 303181 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_tulun={
+	866.3.16 = { holder = 303197 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}

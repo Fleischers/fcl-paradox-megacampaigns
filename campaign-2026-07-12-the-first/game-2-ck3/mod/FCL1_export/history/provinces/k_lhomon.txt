@@ -1,0 +1,180 @@
+9128={
+	holding = city_holding
+}
+9129={
+	culture = brythonic
+	faith = nestorian
+	holding = city_holding
+}
+9133={
+	culture = brythonic
+	faith = manichean
+	holding = city_holding
+}
+9134={
+	holding = city_holding
+}
+9135={
+	holding = none
+}
+9137={
+	culture = brythonic
+	faith = manichean
+	holding = city_holding
+}
+9138={
+	holding = church_holding
+}
+9139={
+	holding = city_holding
+}
+9140={
+	culture = lhomon
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9141={
+	holding = none
+}
+9142={
+	holding = church_holding
+}
+9143={
+	culture = bengali
+	faith = vaishnavism
+	holding = castle_holding
+}
+9144={
+	holding = church_holding
+}
+9145={
+	culture = lhomon
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9146={
+	holding = none
+}
+9147={
+	holding = none
+}
+9148={
+	holding = none
+}
+9149={
+	culture = bengali
+	faith = vaishnavism
+	holding = castle_holding
+}
+9150={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9151={
+	holding = none
+}
+9152={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9153={
+	holding = none
+}
+9154={
+	culture = lhomon
+	faith = old_bon
+	holding = tribal_holding
+}
+9155={
+	holding = none
+}
+9156={
+	holding = city_holding
+}
+9157={
+	culture = lhomon
+	faith = old_bon
+	holding = none
+}
+9158={
+	holding = city_holding
+}
+9159={
+	holding = none
+}
+9160={
+	culture = assamese
+	faith = donyipoloism
+	holding = castle_holding
+}
+9161={
+	holding = none
+}
+9162={
+	holding = none
+}
+9163={
+	holding = none
+}
+9164={
+	holding = none
+}
+9165={
+	culture = assamese
+	faith = donyipoloism
+	holding = castle_holding
+}
+9166={
+	culture = assamese
+	faith = donyipoloism
+	holding = castle_holding
+}
+9167={
+	holding = none
+}
+9168={
+	holding = none
+}
+9169={
+	holding = none
+}
+9170={
+	culture = lhomon
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9171={
+	holding = none
+}
+9172={
+	culture = lhomon
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9173={
+	holding = none
+}
+9174={
+	holding = none
+}
+9175={
+	culture = assamese
+	faith = donyipoloism
+	holding = castle_holding
+}
+9176={
+	culture = lhomon
+	religion = donyipoloism
+	holding = tribal_holding
+}
+9177={
+	holding = none
+}
+9178={
+	holding = none
+}
+9179={
+	holding = none
+}

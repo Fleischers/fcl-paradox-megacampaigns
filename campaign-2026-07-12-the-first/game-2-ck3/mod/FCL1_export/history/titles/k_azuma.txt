@@ -1,0 +1,129 @@
+k_azuma={
+	890.1.1 = { liege = 0 }
+}
+d_east_bando={
+	890.1.1 = { holder = IRToCK3_c_shimosa_holder government = feudal_government liege = 0 }
+}
+d_hokurikudo={
+	890.1.1 = { holder = IRToCK3_c_echizen_holder government = feudal_government liege = 0 }
+}
+d_tokaido={
+	890.1.1 = { holder = IRToCK3_c_ise_holder government = feudal_government liege = 0 }
+}
+d_tosando={
+	890.1.1 = { holder = IRToCK3_c_omi_holder government = feudal_government liege = 0 }
+}
+d_west_bando={
+	890.1.1 = { holder = IRToCK3_c_izu_holder government = feudal_government liege = 0 }
+}
+c_echigo={
+	700.1.1 = { government = japan_administrative_government }
+	863.3.20 = { holder = japanese_kiyohara_41 }
+	890.1.1 = { holder = IRToCK3_c_echizen_holder change_development_level = 6 }
+}
+c_echizen={
+	700.1.1 = { government = japan_administrative_government }
+	840.1.30 = { holder = japanese_kiyohara_17 }
+	890.1.1 = { holder = IRToCK3_c_echizen_holder liege = 0 change_development_level = 7 }
+}
+c_etchu={
+	700.1.1 = { government = japan_administrative_government }
+	865.1.1 = { holder = japanese_yamato_329 }
+	890.1.1 = { change_development_level = 6 }
+}
+c_hida={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_omi_holder change_development_level = 5 }
+}
+c_hitachi={
+	700.1.1 = { government = japan_administrative_government }
+	867.1.1 = { holder = japanese_yamato_106 }
+	890.1.1 = { change_development_level = 7 }
+}
+c_ise={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_ise_holder liege = 0 change_development_level = 7 }
+}
+c_izu={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_izu_holder liege = 0 change_development_level = 6 }
+}
+c_kaga={
+	700.1.1 = { government = japan_administrative_government }
+	866.1.13 = { holder = japanese_yamato_165 }
+	890.1.1 = { change_development_level = 6 }
+}
+c_kai={
+	700.1.1 = { government = japan_administrative_government }
+	833.1.1 = { holder = japanese_yamato_344 }
+	890.1.1 = { holder = IRToCK3_c_omi_holder change_development_level = 6 }
+}
+c_kazusa={
+	700.1.1 = { government = japan_administrative_government }
+	861.1.13 = { holder = japanese_yamato_330 }
+	867.1.1 = { holder = japanese_taira_kanmu_4 }
+	890.1.1 = { change_development_level = 6 }
+}
+c_kozuke={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_izu_holder change_development_level = 6 }
+}
+c_mikawa={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_ise_holder change_development_level = 7 }
+}
+c_mino={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_omi_holder change_development_level = 7 }
+}
+c_musashi={
+	700.1.1 = { government = japan_administrative_government }
+	867.1.1 = { holder = japanese_tachibana_115 }
+	890.1.1 = { change_development_level = 8 }
+}
+c_noto={
+	700.1.1 = { government = japan_administrative_government }
+	848.8.26 = { holder = japanese_tachibana_115 }
+	890.1.1 = { holder = IRToCK3_c_echizen_holder change_development_level = 5 }
+}
+c_omi={
+	700.1.1 = { government = japan_administrative_government }
+	842.9.8 = { holder = japanese_minamoto_saga_28 }
+	847.1.12 = { holder = japanese_minamoto_saga_28 }
+	863.2.10 = { holder = japanese_harusumi_1 }
+	890.1.1 = { holder = IRToCK3_c_omi_holder liege = 0 change_development_level = 8 }
+}
+c_owari={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_ise_holder change_development_level = 8 }
+}
+c_sagami={
+	700.1.1 = { government = japan_administrative_government }
+	887.2.2 = { holder = japanese_fujiwara_536 }
+	890.1.1 = { change_development_level = 7 }
+}
+c_shimosa={
+	700.1.1 = { government = japan_administrative_government }
+	863.2.10 = { holder = japanese_kiyohara_41 }
+	890.1.1 = { holder = IRToCK3_c_shimosa_holder liege = 0 change_development_level = 6 }
+}
+c_shimotsuke={
+	700.1.1 = { government = japan_administrative_government }
+	838.1.13 = { holder = japanese_yamato_164 }
+	864.1.16 = { holder = japanese_yamato_329 }
+	890.1.1 = { holder = IRToCK3_c_shimosa_holder change_development_level = 6 }
+}
+c_shinano={
+	700.1.1 = { government = japan_administrative_government }
+	887.6.13 = { holder = japanese_fujiwara_860 }
+	890.1.1 = { change_development_level = 6 }
+}
+c_suruga={
+	700.1.1 = { government = japan_administrative_government }
+	884.3.9 = { holder = japanese_harusumi_2 }
+	890.1.1 = { change_development_level = 7 }
+}
+c_totomi={
+	700.1.1 = { government = japan_administrative_government }
+	890.1.1 = { holder = IRToCK3_c_ise_holder change_development_level = 6 }
+}

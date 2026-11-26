@@ -1,0 +1,229 @@
+1425={
+	holding = none
+}
+1426={
+	holding = none
+}
+1427={
+	holding = none
+}
+7155={
+	holding = none
+}
+7156={
+	holding = none
+}
+7157={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7158={
+	holding = none
+}
+7159={
+	holding = none
+}
+7160={
+	holding = none
+}
+7161={
+	holding = none
+}
+7162={
+	culture = scythian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+7163={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7164={
+	culture = scythian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+7165={
+	holding = none
+}
+7166={
+	holding = none
+}
+7167={
+	holding = none
+}
+7168={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7169={
+	holding = none
+}
+7170={
+	holding = none
+}
+7171={
+	holding = none
+}
+7172={
+	holding = none
+}
+7173={
+	culture = karluk
+	religion = manichean
+	holding = nomad_holding
+	1178.1.1 = { religion = maturidi holding = herder_holding }
+}
+7174={
+	holding = none
+}
+7175={
+	holding = none
+}
+7176={
+	holding = none
+}
+7177={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1178.1.1 = { holding = herder_holding }
+}
+7178={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7179={
+	holding = none
+}
+7180={
+	holding = none
+}
+7181={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = karluk }
+	1178.1.1 = { culture = kimek }
+}
+7182={
+	holding = none
+}
+7183={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	860.1.1 = { holding = herder_holding }
+	1066.1.1 = { religion = manichean holding = nomad_holding }
+	1178.1.1 = { religion = tengri_pagan holding = herder_holding }
+}
+7184={
+	holding = none
+}
+7185={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = maturidi }
+	1178.1.1 = { culture = karluk religion = tengri_pagan }
+}
+7186={
+	holding = none
+}
+7187={
+	culture = karluk
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { holding = nomad_holding }
+	1178.1.1 = { culture = khitan religion = avatamsaka }
+}
+7188={
+	holding = none
+}
+7189={
+	holding = none
+}
+7190={
+	holding = none
+}
+7191={
+	holding = none
+}
+7192={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	1178.1.1 = { culture = khitan religion = avatamsaka }
+}
+7193={
+	holding = none
+}
+7194={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { religion = maturidi }
+	1178.1.1 = { culture = khitan religion = avatamsaka }
+}
+7195={
+	holding = none
+}
+7196={
+	holding = none
+}
+7197={
+	culture = karluk
+	religion = tengri_pagan
+	holding = herder_holding
+	1000.1.1 = { religion = maturidi }
+	1178.1.1 = { culture = khitan religion = avatamsaka holding = nomad_holding }
+}
+7198={
+	holding = none
+}
+7199={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	867.1.1 = { holding = herder_holding }
+	934.1.1 = { religion = maturidi }
+	940.1.1 = { holding = nomad_holding }
+}
+7200={
+	holding = none
+}
+7201={
+	holding = none
+}
+7202={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	934.1.1 = { religion = maturidi }
+	1178.1.1 = { holding = herder_holding }
+}
+7203={
+	culture = karluk
+	religion = tengri_pagan
+	holding = nomad_holding
+	934.1.1 = { religion = maturidi }
+	1059.1.1 = { holding = herder_holding }
+	1095.1.1 = { holding = nomad_holding }
+}
+7204={
+	holding = none
+}
+7205={
+	holding = none
+}
+7206={
+	holding = none
+}
+7207={
+	holding = none
+}

@@ -1,0 +1,4301 @@
+@smCastleX=0.27
+@smCastleY=0.23
+@smLysX=0.23
+@smLysY=0.26
+@smCross=0.22
+@smErmine=0.27
+k_IRTOCK3_MAC={
+	pattern = "pattern_solid.tga"
+	color1 = "macedonian_blue"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_macedonian_sun.dds"
+		color1 = "roman_gold"
+	}
+}
+k_IRTOCK3_MAE={
+	pattern="pattern_checkers_diagonal_01.tga"
+	color1=bone_white
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_flower_06.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_ODS={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+
+	colored_emblem = {
+		texture = "ce_odessos_derzelas.dds"
+		color1 = "ck2_white"
+		color2 = rgb { 198 132 93 }
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_meander_01.tga"
+		color1 = "ck2_white"
+		color2 = "ck2_green"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+d_IRTOCK3_HIS={
+	pattern="pattern_solid.tga"
+	color1=bone_white
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=purple
+		color2=roman_gold
+		texture="ce_grain_02.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=maurya_brown
+		color2=bone_white
+		texture="ce_border_checker_02.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_BOI={ #Boii
+	color1 = "boii_purple"
+	color2 = "boii_gold"
+
+	colored_emblem = {
+		texture = "cr_gallic_boii_01.dds"
+		color1 = "boii_gold"
+		color2 = "boii_purple"
+	}
+}
+k_IRTOCK3_ICE={
+	pattern = "pattern_solid.tga"
+	color1 = "albion_color"
+	color2 = "ck2_blue"
+
+	colored_emblem = {
+		texture = "ce_bow_01.dds"
+		color1 = "ck2_blue"
+		color2= "roman_red"
+		instance = { scale = { 0.9 0.9 }  }
+	}
+}
+d_IRTOCK3_EDT={
+	pattern="pattern_solid.tga"
+	color1 = rgb { 255 135 183 }
+	color2 = rgb { 255 135 183 }
+	colored_emblem={
+		texture = "ce_border_palm_fronds_01.dds"
+		color1 = "senones_cafe"
+		color2 = "senones_cafe"	
+	}
+	colored_emblem={
+		texture = "ce_edetania.dds"
+		color1 = rgb { 64 36 36 }
+		color2 = "offwhite"
+	}
+}
+k_IRTOCK3_EPO={
+	pattern="pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+	colored_emblem={
+		texture = "ce_border_meander_01.tga"
+		color1 = "roman_gold"
+		color2 = "ck2_green"
+		instance={
+			rotation=90
+		}
+		instance={
+			rotation=270
+		}
+		instance={
+			rotation=0
+		}
+		instance={
+			rotation=180
+		}
+	}
+	colored_emblem={
+		texture="ce_pegasus.dds"
+		color1 = "bone_white"
+		color2 = rgb { 30  30  30 }
+		instance={
+			scale={ .95 .95 }
+		}
+	}
+}
+d_IRTOCK3_VAD={
+	pattern = "pattern_solid.tga"
+	color1 = rgb {130 163 184}
+	color2 = rgb {130 163 184}
+
+	colored_emblem={
+		texture = "ce_circle_02.dds"
+		color1 = "pitch_black"
+		color2 = "pitch_black"
+		instance = { scale = { 1.52 1.52 }  }
+	}
+	colored_emblem={
+		texture = "ce_circle_01.dds"
+		color1 = "pure_white"
+		color2 = "pure_white"
+		instance = { scale = { 1.28 1.28 }  }
+	}
+	colored_emblem={
+		texture = "ce_cantabrian_labaru_03.dds"
+		color1 = "pure_white"
+		color2 = "pure_white"
+	}
+	colored_emblem={
+		texture = "ce_border_greek_04.dds"
+		color1 = rgb {130 163 184}
+		color2 = "pitch_black"
+	}
+}
+k_IRTOCK3_BLN={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=roman_red
+	color2=ck2_blue
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_cantabrian_labaru_01.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_GRV={
+	pattern = "pattern_solid.tga"
+	color1 = "gallaecia_color"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_border_stars_01.dds"
+		color1 = "offwhite"
+		color2 = "gallaecia_color"
+		instance = { 
+			rotation = 0 
+		}
+		instance = { 
+			rotation = 180 
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_16.dds"
+		color1 = "offwhite"
+		instance = { 
+			scale = { 0.9 0.9 }  
+			position = { 0.5 0.4 }
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_10.dds"
+		color1 = "offwhite"
+		instance = { 
+			rotation = 90
+			scale = { 0.55 0.55 } 
+			position = { 0.25 0.7 } 
+		}
+	}
+
+	colored_emblem = {
+		texture = "ce_10.dds"
+		color1 = "offwhite"
+		instance = { 
+			rotation = 90
+			scale = { 0.55 -0.55 } 
+			position = { 0.75 0.7 } 
+		}
+	}
+}
+d_IRTOCK3_TMG={
+	pattern="pattern_vertical_split_01.tga"
+	color1=navy_blue
+	color2=pitch_black
+	color3=roman_gold
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_triskelion_02.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_BDL={
+	pattern="pattern_solid.tga"
+	color1= rgb { 166 89 120 }
+	color2= "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_rosette_thracian.dds"
+		color1 = "silver"
+		color2 = "epirus_yellow"
+	}
+}
+k_IRTOCK3_AVC={
+	pattern="pattern_solid.tga"
+	color1 = rgb {46 153 166}
+	color2 = "athens_blue"
+	colored_emblem={
+		texture = "ce_arevacia_horse.dds"
+		color1 = "pure_white"
+		color2 = rgb {165 193 196}
+	}
+	colored_emblem={
+		texture = "ce_border_celtic_knot_03.dds"
+		color1 = "ocean_blue"
+		color2 = rgb {165 193 196}
+		instance={
+			rotation=0
+		}
+		instance={
+			rotation=180
+		}
+	}
+}
+k_IRTOCK3_CRE={
+	pattern="pattern_canton_02.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=maurya_brown
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_knot_03.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_DEI={
+	pattern="pattern_solid.tga"
+	color1= "beige"
+	color2= "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_border_venetic_8.dds"
+		color1 = "roman_gold"
+		instance = { rotation = 180 }
+		instance = {}
+	}
+
+	colored_emblem = {
+		texture = "ce_nuragic_05.dds"
+		color1 = "mid_grey"
+		instance = { scale = { 0.80 0.80 } }
+		instance = { scale = { 0.60 0.60 } position = { 0.30 0.50} }
+		instance = { scale = { 0.60 0.60 } position = { 0.70 0.50} }
+	}
+}
+d_IRTOCK3_GRM={
+	pattern="pattern_solid.tga"
+	color1= rgb { 159 71 129 }
+	color2= "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_germanic_pattern_02.dds"
+		color1 = "roman_gold"
+		color2 = "silver"
+	}
+}
+k_IRTOCK3_MAU={
+	pattern = "pattern_solid.tga"
+	color1 = "rust_brown"
+	color2 = "numidia_yellow"
+	
+	colored_emblem = {
+		texture = "ce_border_stars_01.dds"
+		color1 = "numidia_yellow"
+		color2 = "rust_brown"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+
+	colored_emblem = {
+		texture = "ce_horse_07.dds"
+		color1 = "numidia_yellow"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+}
+d_IRTOCK3_RUT={
+	pattern="pattern_horizontal_bar_02.tga"
+	color1=maurya_brown
+	color2=ck2_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_stripes_vertical_16.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_VNN={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=maurya_brown
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_circle_wheel_01.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_TBC={
+	pattern="pattern_vertical_split_02.tga"
+	color1=maurya_brown
+	color2=ck2_blue
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_empty.dds"
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_EBS={
+	pattern = "pattern_solid.tga"
+	color1 = rgb {  0  49  83  }
+	color2 = rgb {  0  49  83  }
+
+	colored_emblem = {
+		texture = "ce_eburones_belgae.dds"
+		color1 = "frost_blue"
+	}
+}
+k_IRTOCK3_RMI={
+	pattern = "pattern_solid.tga"
+	color1 = rgb {  72  84  0  }
+	color2 = "roman_red"
+
+	colored_emblem = {
+		texture = "ce_belgae_formable.dds"
+		color1 = "ck2_white"
+		color2 = "roman_red"
+	}
+}
+d_IRTOCK3_SMP={
+	pattern = "pattern_solid.tga"
+	color1 = tibetan_empire_flag_color
+
+	colored_emblem = {
+		texture = "ce_tibetLion.dds"
+		color1 = "pure_white"
+		color2 = "ck2_black"
+		instance = { 
+			scale = { 1.5 1.5 } 
+			position={ 0.55 0.50 }
+		}
+	}
+	colored_emblem = {
+		texture = "ce_tibetLionEyes.dds"
+		color1 = "roman_gold"
+		color2 = "pure_white"
+		instance = { 
+			scale = { 1.5 1.5 } 
+			position={ 0.55 0.50 }
+		}
+	}
+	colored_emblem = {
+		texture = "ce_tibetLionTongue.dds"
+		color1 = "tibetan_empire_toungue_color"
+		color2 = "pure_white"
+		instance = { 
+			scale = { 1.5 1.5 } 
+			position={ 0.55 0.50 }
+		}
+	}
+}
+d_IRTOCK3_SXS={
+	pattern = "pattern_solid.tga"
+	color1= "spartan_rust"
+	color2= "roman_gold"
+	color3= "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_sword_01.dds"
+		color1 = "offwhite"
+		color2 = "roman_gold"
+		
+		
+		instance = { rotation = -90 scale = { 0.75 0.75 }  position = { 0.5 0.25 } }
+		instance = { rotation = -90 scale = { 0.75 0.75 }  position = { 0.5 0.5 } }
+		instance = { rotation = -90 scale = { 0.75 0.75 }  position = { 0.5 0.75 } }
+	}
+}
+d_IRTOCK3_VDL={
+	pattern = "pattern_solid.tga"
+	color1 = "rust_brown"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_star_4.dds"
+		color1 = "offwhite"
+		
+		instance = { scale = { 0.25 0.25 }  position = { 0.50 0.25 } }
+		instance = { scale = { 0.25 0.25 }  position = { 0.25 0.50 } }
+		instance = { scale = { 0.25 0.25 }  position = { 0.75 0.50 } }
+		instance = { scale = { 0.25 0.25 }  position = { 0.50 0.75 } }
+	}
+}
+d_IRTOCK3_ANG={
+	pattern = "pattern_solid.tga"
+	color1= "offwhite"
+	color2= "phrygia_red"
+	
+	colored_emblem = {
+		texture = "ce_knot_01.dds"
+		color1 = "phrygia_red"
+		instance = { scale = { 0.75 0.75 }  }
+	}
+}
+k_IRTOCK3_CHC={
+	pattern = "pattern_viking_13.dds"
+	color1 = chauci_magenta
+	color2 = samnite_red
+	color3 = chauci_brown
+	colored_emblem={
+		color1 = light_gold
+		texture = "ce_bird_chasuaria.dds"
+		instance = { scale = { 0.7 0.7 } }
+	}
+}
+d_IRTOCK3_DAN={
+	pattern="pattern_vertical_split_02.tga"
+	color1=maurya_brown
+	color2=roman_red
+	color3=roman_gold
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_knot_01.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.400000 0.400000 }
+		}
+
+		instance={
+			position={ 0.750000 0.750000 }
+			scale={ 0.400000 0.400000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_SCI={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=ck2_blue
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_star_4.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_VND={
+	pattern = "pattern_vertical_bar_01.tga"
+	color1 = rgb { 140 109 140 }
+	color2 = rgb { 46 21 60 }
+	color3 = rgb { 205 149 109 }
+
+	colored_emblem = {
+		texture = "ce_venedia.dds"
+		color1 = rgb { 222 190 180 }
+		color2 = "offwhite"
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_centre_thracian_pattern_10.dds"
+		color1 = rgb { 66 41 81 }
+		color2 = rgb { 140 109 140 }
+		instance = { 
+			rotation = 0 
+			position= { 0.50 0.05 }
+		}
+		instance = {
+			rotation = 180
+			position= { 0.50 0.95 }
+		}
+	}
+}
+k_IRTOCK3_ELE={
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 42  60  105 }
+	color2 = rgb { 42  60  105 }
+
+	colored_emblem = {
+		texture = "ce_elea_velia.dds"
+		color1 = rgb { 219  83  144 }
+		color2 = rgb { 231  151  22 }
+	}
+}
+k_IRTOCK3_ASP={
+	pattern = "pattern_solid.tga"
+	color1 = "navy_blue"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_fish_01.dds"
+		color1 = "light_yellow"
+		color2 = "roman_gold"
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_meander_01.tga"
+		color1 = "light_yellow"
+		color2 = "navy_blue"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+d_IRTOCK3_SA1={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=navy_blue
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_green
+		color2=roman_gold
+		texture="ce_head_05.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_PHU={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_numidian_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_border_checker_01.tga"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_A0M={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=roman_gold
+	color3=ck2_green
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_gryphon_02.dds"
+		instance={
+			position={ 0.500000 0.170000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.830000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_A25={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=ck2_blue
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_green
+		color2=roman_gold
+		texture="ce_scorpion_01.dds"
+	}
+
+}
+k_IRTOCK3_A2D={
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "pitch_black"
+
+	colored_emblem = {
+		texture = "ce_egyptian_04.dds"
+		color1 = "offwhite"
+		color2 = "pitch_black"		
+	}	
+}
+k_IRTOCK3_A2X={
+	pattern="pattern_vertical_split_01.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=ck2_blue
+		color2=navy_blue
+		texture="ce_persian_12.dds"
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_A3O={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_scythia.dds"
+		color1 = "ck2_white"
+		color2 = "roman_gold"
+		instance = { scale = { 1.1 1.1 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_stars_01.dds"
+		color1 = "roman_gold"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+		instance = { rotation = 270 }
+		instance = { rotation = 90 }
+	}
+	
+}
+k_IRTOCK3_A5M={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_spiral_02.dds"
+	}
+
+}
+k_IRTOCK3_A5V={
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "lombard_red"
+
+	colored_emblem = {
+		texture = "ce_egypt_udjat_eye.dds"
+		color1 = "lombard_red"
+		color2 = "pitch_black"
+	}
+	
+	colored_emblem = {
+		texture = "ce_border_ancient_egyptian_pattern_01.dds"
+		color1 = "lombard_red"
+		color2 = "pitch_black"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+e_IRTOCK3_A64={
+	pattern = "pattern_solid.tga"
+	color1 = "etruscan_blue"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_chimera.dds"
+		color1 = "bone_white"
+	}
+}
+k_IRTOCK3_A6D={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_aryan_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_border_rug_02.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_A7V={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_club.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_green
+		texture="ce_border_rug_01.tga"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_A83={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=roman_gold
+		texture="ce_wheel_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_border_meander_02.tga"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_A8B={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_egyptian_05.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_border_triangles_02.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_A92={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=ck2_green
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_square_04.dds"
+	}
+
+}
+k_IRTOCK3_A9F={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_egyptian_07.dds"
+	}
+
+}
+k_IRTOCK3_AB1={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_star_4.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_ACF={
+	pattern="pattern_horizontal_bar_02.tga"
+	color1=roman_red
+	color2=navy_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=purple
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_AEI={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_star_8.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_border_simple_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AEM={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=maurya_brown
+	color2=roman_gold
+	color3=pitch_black
+	colored_emblem={
+		color1=navy_blue
+		color2=bone_white
+		texture="ce_wheel_02.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.750000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AEW={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=bone_white
+	color3=ck2_green
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_dolphin.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_border_iberian_01.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AFB={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=pitch_black
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_dacian_02.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_border_simple_02.tga"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AFC={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_spiral_02.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_border_dacian_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AFF={
+	pattern="pattern_vertical_split_01.tga"
+	color1=maurya_brown
+	color2=navy_blue
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_geto_dacian_generic_2.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AFH={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_dacian_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_border_stars_04.dds"
+	}
+
+}
+k_IRTOCK3_AFK={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_bactrian_03.dds"
+	}
+
+}
+k_IRTOCK3_AFT={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_bull_04.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_border_iberian_sun_03.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AFX={
+	pattern="pattern_vertical_split_02.tga"
+	color1=navy_blue
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_stripes_vertical_16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_stone_01.dds"
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+e_IRTOCK3_AFZ={
+	pattern="pattern_checkers_2x2.tga"
+	color1=ck2_green
+	color2=maurya_brown
+	color3=roman_gold
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_panther_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AG9={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_crescent_02.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_border_dacian_01.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AGO={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=navy_blue
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_circle_wheel_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_red
+		color2=roman_gold
+		texture="ce_border_iberian_sun_01.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AH4={
+	pattern="pattern_diagonal_line_fat_01.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=purple
+		color2=roman_gold
+		texture="ce_crescent_02.dds"
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AH7={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_liburna_novilara.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_border_simple_03.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+e_IRTOCK3_AHD={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=roman_red
+	color3=roman_gold
+	colored_emblem={
+		color1=purple
+		color2=roman_gold
+		texture="ce_circle_concentric_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=maurya_brown
+		color2=roman_gold
+		texture="ce_border_zigzag_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AHL={
+	pattern = "pattern_solid.tga"
+	color1 = "dacia_color"
+	color2 = "frost_blue"
+
+	colored_emblem = {
+		texture = "ce_dacian_draco.dds"
+		color1 = "frost_blue"
+	}
+}
+k_IRTOCK3_AHV={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_circle_wheel_01.dds"
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AI5={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=navy_blue
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_iberian_sun_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_border_meander_01.tga"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AIG={#Aigion
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 206 121 37 }
+	color2 = "pure_white"
+	colored_emblem = {
+		texture = "ce_zeus_standing_a.dds"
+		color1 = "pure_white"
+		color2 = "pitch_black"
+	}
+}
+k_IRTOCK3_AIU={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=bone_white
+	color3=pitch_black
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_geto_dacian_generic_4.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_border_zigzag_01.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AJ4={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_egyptian_04.dds"
+	}
+
+}
+k_IRTOCK3_AJF={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_circle_concentric_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_border_simple_01.tga"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AJG={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=ck2_green
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_green
+		texture="ce_dolphin.dds"
+	}
+
+}
+k_IRTOCK3_AJI={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=maurya_brown
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_bull_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_border_iberian_01.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AJK={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=pitch_black
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_circle_wheel_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_border_iberian_sun_01.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AJT={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_scorpion_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_border_zigzag_02.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AJW={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=roman_gold
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_arse.dds"
+		instance={
+			position={ 0.500000 0.170000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.830000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AKH={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_circle_wheel_01.dds"
+	}
+
+}
+k_IRTOCK3_AKM={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_geto_dacian_generic_4.dds"
+	}
+
+}
+d_IRTOCK3_AKO={
+	pattern="pattern_vertical_bar_01.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_tanit_02.dds"
+		instance={
+			position={ 0.500000 0.170000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.830000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AKQ={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=roman_gold
+	color3=ck2_green
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_dolphin.dds"
+	}
+
+}
+k_IRTOCK3_AL5={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_bull_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_border_checker_01.tga"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AL8={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_gryphon_01.dds"
+		instance={
+			position={ 0.170000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AL9={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=maurya_brown
+		color2=bone_white
+		texture="ce_head_05.dds"
+		instance={
+			position={ 0.170000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_ALC={
+	pattern="pattern_checkers_2x2.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_geto_dacian_generic_3.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_ALM={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=ck2_green
+	color3=bone_white
+	colored_emblem={
+		color1=maurya_brown
+		color2=roman_gold
+		texture="ce_spiral_03.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=purple
+		color2=roman_gold
+		texture="ce_border_checker_01.tga"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_ALS={
+	pattern="pattern_checkers_2x2.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=maurya_brown
+	colored_emblem={
+		color1=pitch_black
+		color2=roman_gold
+		texture="ce_man_01.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AM9={
+	pattern="pattern_diagonal_split_02.tga"
+	color1=roman_red
+	color2=maurya_brown
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_egyptian_03.dds"
+	}
+
+}
+d_IRTOCK3_AMJ={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=ck2_green
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_square_02.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AMT={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=ck2_blue
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_anchor_01.dds"
+	}
+
+}
+k_IRTOCK3_AMX={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_hellenic_1.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_border_meander_03.tga"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AN0={
+	pattern="pattern_vertical_split_01.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_red
+		color2=ck2_green
+		texture="ce_numidian_02.dds"
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AN8={
+	pattern="pattern_checkers_diagonal_02.tga"
+	color1=navy_blue
+	color2=ck2_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_star_4.dds"
+	}
+
+}
+k_IRTOCK3_ANB={
+	pattern="pattern_canton_01.tga"
+	color1=roman_red
+	color2=ck2_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_ANJ={
+	pattern="pattern_diagonal_line_fat_04.tga"
+	color1=roman_gold
+	color2=bone_white
+	color3=pitch_black
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_stripes_horizontal_16.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_AO6={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=navy_blue
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_tree_01.dds"
+	}
+
+}
+d_IRTOCK3_AO7={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=navy_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_diamond_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_border_simple_03.dds"
+	}
+
+}
+d_IRTOCK3_AOA={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=roman_gold
+	color3=ck2_green
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_qataban_ibex.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_border_zigzag_03.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AOC={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	colored_emblem={
+		color1=ck2_green
+		color2=roman_gold
+		texture="ce_checker_8x8_diagonal_02.dds"
+	}
+
+}
+k_IRTOCK3_AOM={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=ck2_blue
+	color2=pitch_black
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_AON={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_dolphin.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_border_meander_02.tga"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AOW={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=roman_red
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_panther_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AOZ={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=ck2_blue
+	color2=roman_gold
+	color3=navy_blue
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_circle_wheel_01.dds"
+		instance={
+			position={ 0.170000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AP3={
+	pattern="pattern_diagonal_line_fat_01.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_square_02.dds"
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AP6={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_man_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AP7={
+	pattern="pattern_diagonal_line_fat_01.tga"
+	color1=roman_gold
+	color2=roman_gold
+	color3=pitch_black
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_stripes_vertical_16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_horse_06.dds"
+		instance={
+			position={ 0.800000 0.200000 }
+			scale={ 0.400000 0.400000 }
+			rotation=45
+		}
+
+		instance={
+			position={ 0.200000 0.800000 }
+			scale={ -0.400000 0.400000 }
+			rotation=225
+		}
+
+	}
+
+}
+k_IRTOCK3_APA={
+	pattern="pattern_horizontal_bar_04.tga"
+	color1=ck2_green
+	color2=ck2_green
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_blue
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_APF={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=ck2_green
+		color2=roman_red
+		texture="ce_star_8.dds"
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_APT={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=roman_red
+	color2=ck2_green
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_head_05.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AQ5={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_bactrian_03.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_border_checker_01.tga"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AQG={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_crescent_02.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_border_triangles_01.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AQH={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_rider_thracian.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_border_zigzag_03.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+k_IRTOCK3_AQS={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_tree_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_border_rug_01.tga"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AQT={
+	pattern="pattern_checkers_2x2.tga"
+	color1=roman_red
+	color2=maurya_brown
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_spiral_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AQU={
+	pattern="pattern_checkers_diagonal_01.tga"
+	color1=ck2_green
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_square_04.dds"
+	}
+
+}
+d_IRTOCK3_TYE={
+	pattern = "pattern_solid.tga"
+	color1 = "helvetia_color"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_letter_phoenician_aleph.dds"
+		color1 = "offwhite"
+	}
+}
+d_IRTOCK3_CAL={
+	pattern="pattern_vertical_split_01.tga"
+	color1=navy_blue
+	color2=navy_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=navy_blue
+		color2=bone_white
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_pict_04.dds"
+		instance={
+			position={ 0.250000 0.170000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.250000 0.830000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_SBZ={
+	pattern="pattern_vertical_split_01.tga"
+	color1=ck2_blue
+	color2=purple
+	color3=roman_gold
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_triskelion_01.dds"
+	}
+
+}
+d_IRTOCK3_NBT={
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "yellowish_grey"
+
+	colored_emblem = {
+		texture = "ce_nabatea.dds"
+		color1 = "bone_white"
+		color2 = "yellowish_grey"
+	}
+}
+d_IRTOCK3_IVE={
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 0 66 0 }
+	color2 = rgb { 0 66 0 }
+	
+	colored_emblem = {
+		texture = "ce_hibernia.dds"
+		color1 = rgb { 243 174 9 }
+	}
+}
+d_IRTOCK3_ISU={
+	pattern = "pattern_solid.tga"
+	color1 = "cilician_orange"
+	color2 = "cilicia_color"
+
+	colored_emblem = {
+		texture = "ce_border_simple_02.tga"
+		color1 = "cilicia_color"
+		color2 = "pure_white"
+		instance = { 
+			rotation = 0 
+			scale = { 1 0.5 }
+			position = { 0.5 0.3 }
+		}
+		instance = { 
+			rotation = 180 
+			scale = { 1 0.5 }
+			position = { 0.5 0.7 }
+		}
+	}
+	colored_emblem = {
+		texture = "ce_sandas_lion.dds"
+		color1 = "cilicia_color"
+		color2 = "pure_white"
+	}
+}
+d_IRTOCK3_ABL={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=ck2_green
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_persian_09.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_border_zigzag_03.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_YHK={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_diamond_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_border_checker_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_BKT={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_star_4.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_border_zigzag_02.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_HAL={
+	pattern="pattern_diagonal_split_01.tga"
+	color1=maurya_brown
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_red
+		color2=bone_white
+		texture="ce_circle_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_ZKO={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=maurya_brown
+	color3=roman_gold
+	colored_emblem={
+		color1=purple
+		color2=maurya_brown
+		texture="ce_egyptian_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_A4A={
+	pattern="pattern_diagonal_split_01.tga"
+	color1=roman_red
+	color2=ck2_green
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_goat.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_A72={
+	pattern="pattern_checkers_2x2.tga"
+	color1=navy_blue
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_green
+		texture="ce_aryan_03.dds"
+	}
+
+}
+d_IRTOCK3_A7N={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_star_12.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_border_meander_04.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+d_IRTOCK3_A82={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_persian_11.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_border_zigzag_01.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+d_IRTOCK3_A8U={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=maurya_brown
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_crescent_01.dds"
+		instance={
+			position={ 0.170000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_A90={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=purple
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_goat.dds"
+		instance={
+			position={ 0.170000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_A9L={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=navy_blue
+	color2=purple
+	color3=roman_gold
+	colored_emblem={
+		color1=navy_blue
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_horse_05.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_A9V={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=bone_white
+	color3=pitch_black
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_goddess_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_border_checker_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AA3={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_elephant_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_border_rug_02.dds"
+		instance={
+			rotation=90
+		}
+
+		instance={
+			rotation=270
+		}
+
+	}
+
+}
+d_IRTOCK3_AA9={#CYP
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_cyprus.dds"
+		color1 = "spartan_rust"
+		color2 = "spartan_rust"
+	}
+}
+d_IRTOCK3_AAA={
+	pattern = "pattern_solid.tga"
+	color1 = "lapethos_blue"
+	color2 = "roman_red"
+	
+	colored_emblem = {
+		texture = "ce_lapethos.dds"
+		color1 = "roman_red"	
+	}
+
+	colored_emblem = {
+		texture = "ce_border_simple_03.dds"
+		color1 = "lapethos_blue"
+		color2 = "roman_gold"
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+}
+d_IRTOCK3_AAB={
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 92 56 128 }
+	color2 = rgb { 92 56 128 }
+	
+	colored_emblem = {
+		texture = "ce_border_simple_02.tga"
+		color1 = "offwhite"
+		color2 = rgb { 92 56 128 }
+		instance = { rotation = 0 }
+		instance = { rotation = 180 }
+	}
+
+	colored_emblem = {
+		texture = "ce_cyprus_2.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { scale = { 0.85 0.85 }  }
+	}
+}
+d_IRTOCK3_AAD={#Cyprus held by Soloi
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_cyprus.dds"
+		color1 = "soloi_color"
+		color2 = "soloi_color"
+	}
+}
+d_IRTOCK3_AAY={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=navy_blue
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_elephant_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_green
+		texture="ce_border_simple_square_double.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AB7={
+	pattern="pattern_horizontal_bar_03.tga"
+	color1=ck2_green
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_blue
+		color2=roman_gold
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_ABF={
+	pattern="pattern_horizontal_bar_02.tga"
+	color1=navy_blue
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=maurya_brown
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_ABR={
+	pattern="pattern_vertical_split_02.tga"
+	color1=roman_red
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_horse_01.dds"
+		instance={
+			position={ 0.750000 0.170000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.750000 0.830000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AC0={
+	pattern="pattern_diagonal_line_fat_01.tga"
+	color1=ck2_blue
+	color2=purple
+	color3=bone_white
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_triskelion_01.dds"
+		instance={
+			position={ 0.800000 0.200000 }
+			scale={ 0.400000 0.400000 }
+			rotation=45
+		}
+
+		instance={
+			position={ 0.200000 0.800000 }
+			scale={ -0.400000 0.400000 }
+			rotation=225
+		}
+
+	}
+
+}
+d_IRTOCK3_AC2={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_spiral_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AC3={
+	pattern="pattern_vertical_bar_01.tga"
+	color1=purple
+	color2=bone_white
+	color3=ck2_green
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_crescent_02.dds"
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AC4={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_circle_concentric_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_border_simple_02.tga"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AC9={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_aryan_01.dds"
+		instance={
+			position={ 0.170000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_ACH={
+	pattern="pattern_checkers_2x2_reversed.tga"
+	color1=ck2_green
+	color2=maurya_brown
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_triskelion_02.dds"
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_ACX={
+	pattern="pattern_horizontal_bar_02.tga"
+	color1=ck2_green
+	color2=navy_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_ACY={
+	pattern="pattern_vertical_split_01.tga"
+	color1=ck2_green
+	color2=pitch_black
+	color3=roman_gold
+	colored_emblem={
+		color1=ck2_green
+		color2=roman_gold
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_spiral_02.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_ACZ={
+	pattern="pattern_horizontal_bar_04.tga"
+	color1=ck2_blue
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_AD1={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_bactrian_02.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=purple
+		texture="ce_border_triangles_02.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_ADB={
+	pattern="pattern_horizontal_bar_04.tga"
+	color1=purple
+	color2=ck2_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_ADJ={
+	pattern="pattern_vertical_split_01.tga"
+	color1=ck2_blue
+	color2=ck2_green
+	color3=roman_gold
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_stripes_vertical_16.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_snake_02.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ -0.400000 0.400000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_ADS={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=navy_blue
+		color2=roman_gold
+		texture="ce_kantharos_sparates.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AE1={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=ck2_green
+	color2=roman_gold
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_hellenic_5.dds"
+		instance={
+			position={ 0.170000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.500000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.250000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AE5={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=navy_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_flower_08.dds"
+		instance={
+			position={ 0.500000 0.250000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_red
+		color2=roman_red
+		texture="ce_diamond_02.dds"
+		instance={
+			position={ 0.500000 0.750000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AEG={
+	pattern="pattern_diagonal_line_fat_04.tga"
+	color1=maurya_brown
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=bone_white
+		color2=maurya_brown
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_AEU={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_geto_dacian_generic_2.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AEX={
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=roman_gold
+	color3=navy_blue
+	colored_emblem={
+		color1=bone_white
+		color2=navy_blue
+		texture="ce_tree_01.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_border_rug_03.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AF2={
+	pattern="pattern_checkers_2x2.tga"
+	color1=maurya_brown
+	color2=purple
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_amphora_04.dds"
+	}
+
+}
+d_IRTOCK3_AF7={
+	pattern="pattern_vertical_split_02.tga"
+	color1=ck2_blue
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_blue
+		color2=roman_gold
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=pitch_black
+		texture="ce_snake_02.dds"
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AF9={
+	pattern="pattern_horizontal_split_02.tga"
+	color1=ck2_green
+	color2=ck2_blue
+	color3=bone_white
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AFA={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_whirl_01.dds"
+	}
+
+}
+d_IRTOCK3_AG5={
+	pattern="pattern_horizontal_split_02.tga"
+	color1=ck2_green
+	color2=roman_red
+	color3=bone_white
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_16x16.dds"
+		mask={ 0 2 0 }
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AG6={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_numidian_04.dds"
+	}
+
+}
+d_IRTOCK3_AGH={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=ck2_green
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=purple
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+d_IRTOCK3_AGL={
+	pattern="pattern_horizontal_bar_04.tga"
+	color1=navy_blue
+	color2=ck2_green
+	color3=bone_white
+	colored_emblem={
+		color1=roman_red
+		color2=bone_white
+		texture="ce_stripes_vertical_16.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_AGW={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_bull_04.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_border_iberian_01.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+k_IRTOCK3_AH2={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=bone_white
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_numidian_03.dds"
+	}
+
+}
+d_IRTOCK3_AJN={
+	pattern="pattern_horizontal_split_01.tga"
+	color1=roman_red
+	color2=ck2_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_egyptian_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_AM7={
+	pattern="pattern_solid.tga"
+	color1=roman_red
+	color2=roman_gold
+	color3=purple
+	colored_emblem={
+		color1=roman_gold
+		color2=roman_red
+		texture="ce_owl_03.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_border_triangles_01.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_ANW={
+	pattern="pattern_vertical_split_01.tga"
+	color1=purple
+	color2=roman_red
+	color3=roman_gold
+	colored_emblem={
+		color1=purple
+		color2=roman_gold
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=roman_red
+		texture="ce_bow_01.dds"
+		instance={
+			position={ 0.250000 0.170000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.250000 0.830000 }
+			scale={ -0.330000 0.330000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AO2={
+	pattern="pattern_horizontal_bar_01.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_red
+		color2=bone_white
+		texture="ce_goat.dds"
+		instance={
+			position={ 0.170000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			scale={ 0.330000 0.330000 }
+		}
+
+		instance={
+			position={ 0.830000 0.500000 }
+			scale={ 0.330000 0.330000 }
+		}
+
+	}
+
+}
+k_IRTOCK3_APN={
+	pattern="pattern_solid.tga"
+	color1=roman_gold
+	color2=pitch_black
+	color3=bone_white
+	colored_emblem={
+		color1=ck2_blue
+		color2=roman_gold
+		texture="ce_crescent_02.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=ck2_blue
+		color2=roman_gold
+		texture="ce_border_checker_01.tga"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_APX={
+	pattern="pattern_vertical_split_01.tga"
+	color1=navy_blue
+	color2=navy_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_goddess_01.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_APZ={
+	pattern="pattern_checkers_diagonal_02.tga"
+	color1=ck2_green
+	color2=maurya_brown
+	color3=roman_gold
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_green
+		texture="ce_goddess_01.dds"
+	}
+
+}
+d_IRTOCK3_AQ0={
+	pattern="pattern_solid.tga"
+	color1=maurya_brown
+	color2=roman_gold
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_panther_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=ck2_blue
+		texture="ce_border_simple_03.dds"
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AQ4={
+	pattern="pattern_solid.tga"
+	color1=purple
+	color2=bone_white
+	color3=roman_red
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_bactrian_01.dds"
+		instance={
+			scale={ 0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_border_simple_03.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=90
+		}
+
+		instance={
+			scale={ -1.000000 1.000000 }
+			rotation=270
+		}
+
+		instance={
+		}
+
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AQ6={
+	pattern="pattern_checkers_2x2.tga"
+	color1=navy_blue
+	color2=navy_blue
+	color3=bone_white
+	colored_emblem={
+		color1=roman_red
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal_02.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=roman_gold
+		color2=maurya_brown
+		texture="ce_bow_01.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.750000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+	}
+
+}
+d_IRTOCK3_AQ7={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_bactrian_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_border_simple_03.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AQ8={
+	pattern="pattern_diagonal_line_fat_02.tga"
+	color1=navy_blue
+	color2=maurya_brown
+	color3=bone_white
+	colored_emblem={
+		color1=pitch_black
+		color2=bone_white
+		texture="ce_checker_8x8.dds"
+		mask={ 0 2 0 }
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=pitch_black
+		texture="ce_s_01.dds"
+		instance={
+			position={ 0.200000 0.200000 }
+			scale={ 0.400000 0.400000 }
+			rotation=-45
+		}
+
+		instance={
+			position={ 0.800000 0.800000 }
+			scale={ 0.400000 0.400000 }
+			rotation=-225
+		}
+
+	}
+
+}
+k_IRTOCK3_AQB={
+	pattern="pattern_solid.tga"
+	color1=ck2_blue
+	color2=bone_white
+	color3=ck2_blue
+	colored_emblem={
+		color1=roman_gold
+		color2=navy_blue
+		texture="ce_bactrian_03.dds"
+		instance={
+			scale={ -0.750000 0.750000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=bone_white
+		color2=ck2_blue
+		texture="ce_border_simple_03.dds"
+		instance={
+			rotation=180
+		}
+
+	}
+
+}
+d_IRTOCK3_AQF={
+	pattern="pattern_horizontal_bar_04.tga"
+	color1=ck2_green
+	color2=roman_red
+	color3=roman_gold
+	colored_emblem={
+		color1=ck2_green
+		color2=bone_white
+		texture="ce_checker_8x8_diagonal.dds"
+		mask={ 0 2 0 }
+	}
+
+}
+k_IRTOCK3_AQM={
+	pattern="pattern_diagonal_split_02.tga"
+	color1=navy_blue
+	color2=navy_blue
+	color3=roman_gold
+	colored_emblem={
+		color1=bone_white
+		color2=purple
+		texture="ce_bull_03.dds"
+	}
+
+}
+k_IRTOCK3_AQN={
+	pattern="pattern_solid.tga"
+	color1=ck2_green
+	color2=bone_white
+	color3=maurya_brown
+	colored_emblem={
+		color1=navy_blue
+		color2=ck2_green
+		texture="ce_circle_concentric_01.dds"
+		instance={
+			position={ 0.250000 0.500000 }
+			scale={ 0.500000 0.500000 }
+		}
+
+		instance={
+			position={ 0.750000 0.500000 }
+			scale={ -0.500000 0.500000 }
+		}
+
+	}
+
+}
+dynn_irtock3_50333036=d_IRTOCK3_A9V
+dynn_irtock3_134218841=d_IRTOCK3_SBZ
+dynn_irtock3_33556367=k_IRTOCK3_A6D
+dynn_irtock3_from_imperator238887=k_IRTOCK3_EPO
+dynn_irtock3_16778632=d_IRTOCK3_AC2
+dynn_irtock3_33556758=d_IRTOCK3_AMJ
+dynn_irtock3_16779071=d_IRTOCK3_AGH
+dynn_irtock3_16779180=e_IRTOCK3_AHD
+dynn_irtock3_33556006=k_IRTOCK3_GRV
+dynn_irtock3_33556566=k_IRTOCK3_AMT
+dynn_irtock3_67110710=k_IRTOCK3_AM7
+dynn_irtock3_33556199=k_IRTOCK3_AG9
+dynn_irtock3_50334053=k_IRTOCK3_ACF
+dynn_irtock3_33556832=d_IRTOCK3_AOZ
+dynn_irtock3_2888=d_IRTOCK3_YHK
+dynn_irtock3_50333924=k_IRTOCK3_AOW
+dynn_irtock3_67110994=d_IRTOCK3_AQ4
+dynn_irtock3_16778965=k_IRTOCK3_AFK
+dynn_irtock3_from_imperator246926=d_IRTOCK3_AD1
+dynn_irtock3_16779490=k_IRTOCK3_ALS
+dynn_irtock3_33555917=k_IRTOCK3_A92
+dynn_irtock3_2658=e_spain
+dynn_irtock3_83888118=k_IRTOCK3_AHL
+dynn_irtock3_33555775=d_IRTOCK3_ISU
+dynn_irtock3_83887613=k_IRTOCK3_ELE
+dynn_irtock3_16779309=k_IRTOCK3_AFF
+dynn_irtock3_33556361=k_IRTOCK3_AON
+dynn_irtock3_83888421=k_IRTOCK3_APT
+dynn_irtock3_16779234=k_IRTOCK3_AEW
+dynn_irtock3_83888238=k_IRTOCK3_AMX
+dynn_irtock3_50333511=k_IRTOCK3_AQB
+dynn_irtock3_83887593=d_IRTOCK3_GRM
+dynn_irtock3_33555993=d_IRTOCK3_TMG
+dynn_irtock3_16778921=k_IRTOCK3_AFB
+dynn_irtock3_100664588=d_IRTOCK3_AA9
+dynn_irtock3_16778888=d_IRTOCK3_AF2
+dynn_irtock3_16779521=k_IRTOCK3_BLN
+dynn_irtock3_16778843=k_IRTOCK3_AEM
+dynn_irtock3_83888114=k_sardinia
+dynn_irtock3_2596=k_IRTOCK3_A3O
+dynn_irtock3_1284=k_IRTOCK3_ICE
+dynn_irtock3_33555737=d_IRTOCK3_A82
+dynn_irtock3_83888428=d_IRTOCK3_AQ7
+dynn_irtock3_50332955=k_IRTOCK3_AIU
+dynn_irtock3_from_imperator242255=d_IRTOCK3_ACX
+dynn_irtock3_16778710=d_IRTOCK3_ADJ
+dynn_irtock3_16779091=k_IRTOCK3_AA3
+dynn_irtock3_16779132=k_IRTOCK3_AH2
+dynn_irtock3_33556799=k_IRTOCK3_AL8
+dynn_irtock3_50333604=d_IRTOCK3_AKO
+dynn_irtock3_16778950=k_IRTOCK3_AFC
+dynn_irtock3_16779485=d_IRTOCK3_BOI
+dynn_irtock3_150997251=k_IRTOCK3_AIG
+dynn_irtock3_50333771=k_IRTOCK3_ANJ
+dynn_irtock3_from_imperator240511=k_IRTOCK3_MAE
+dynn_irtock3_16779647=k_IRTOCK3_A25
+dynn_irtock3_16779459=k_IRTOCK3_A7V
+dynn_irtock3_50333482=k_IRTOCK3_AQS
+dynn_irtock3_452985803=k_IRTOCK3_AJT
+dynn_irtock3_2024=d_IRTOCK3_NBT
+dynn_irtock3_1885=k_IRTOCK3_RMI
+dynn_irtock3_33556234=d_IRTOCK3_IVE
+dynn_irtock3_16777221=k_IRTOCK3_MAC
+dynn_irtock3_67110423=k_IRTOCK3_AM9
+dynn_irtock3_from_imperator241404=d_IRTOCK3_AQ5
+dynn_irtock3_33556092=d_IRTOCK3_AFA
+dynn_irtock3_117442886=d_IRTOCK3_HIS
+dynn_irtock3_33555693=d_IRTOCK3_A90
+dynn_irtock3_67110599=d_IRTOCK3_AO7
+dynn_irtock3_83888189=k_IRTOCK3_AQT
+dynn_irtock3_33556204=d_IRTOCK3_AG5
+dynn_irtock3_16779368=k_IRTOCK3_AJG
+dynn_irtock3_16778938=e_armenia
+dynn_irtock3_134219992=k_IRTOCK3_A5V
+dynn_irtock3_16779218=k_IRTOCK3_AJK
+dynn_irtock3_16779551=k_IRTOCK3_A2D
+dynn_irtock3_from_imperator239402=d_IRTOCK3_ACH
+dynn_irtock3_16778809=k_IRTOCK3_APA
+dynn_irtock3_33556214=d_IRTOCK3_CAL
+dynn_irtock3_67110896=k_IRTOCK3_AKQ
+dynn_irtock3_2955=d_IRTOCK3_ZKO
+dynn_irtock3_16779138=k_IRTOCK3_AH4
+dynn_irtock3_67110934=d_IRTOCK3_DAN
+dynn_irtock3_83888367=k_IRTOCK3_ANB
+dynn_irtock3_16779009=k_IRTOCK3_AFX
+dynn_irtock3_16778784=d_IRTOCK3_AE5
+dynn_irtock3_16779014=e_IRTOCK3_AFZ
+dynn_irtock3_2202=e_germany
+dynn_irtock3_67110513=k_IRTOCK3_A8B
+dynn_irtock3_2904=d_IRTOCK3_HAL
+dynn_irtock3_16778917=d_IRTOCK3_AF9
+dynn_irtock3_16778358=e_IRTOCK3_A64
+dynn_irtock3_134218730=k_IRTOCK3_AHV
+dynn_irtock3_50332941=d_IRTOCK3_AAA
+dynn_irtock3_50333116=d_IRTOCK3_ADB
+dynn_irtock3_83887667=h_hellenistic_empire
+dynn_irtock3_33555809=d_IRTOCK3_ABF
+dynn_irtock3_100665639=d_IRTOCK3_AQ6
+dynn_irtock3_33556625=d_IRTOCK3_AF7
+dynn_irtock3_67110672=d_IRTOCK3_DEI
+dynn_irtock3_16779544=k_IRTOCK3_AJF
+dynn_irtock3_16779620=k_IRTOCK3_AP3
+dynn_irtock3_16778738=d_IRTOCK3_ADS
+dynn_irtock3_67109966=d_IRTOCK3_A9L
+dynn_irtock3_100665632=d_IRTOCK3_VAD
+dynn_irtock3_from_imperator242544=d_IRTOCK3_AC0
+dynn_irtock3_16779097=k_IRTOCK3_AGO
+dynn_irtock3_50333292=d_IRTOCK3_SXS
+dynn_irtock3_67111062=k_IRTOCK3_A83
+dynn_irtock3_16778641=d_IRTOCK3_AC4
+dynn_irtock3_33556663=d_IRTOCK3_EBS
+dynn_irtock3_16778282=d_IRTOCK3_A72
+dynn_irtock3_33556168=d_IRTOCK3_A7N
+dynn_irtock3_167774473=d_IRTOCK3_APF
+dynn_irtock3_83886964=d_IRTOCK3_AQ0
+dynn_irtock3_50334067=k_IRTOCK3_TBC
+dynn_irtock3_67111270=k_IRTOCK3_AQN
+dynn_irtock3_16779086=d_IRTOCK3_AGL
+dynn_irtock3_from_imperator239368=d_IRTOCK3_AB7
+dynn_irtock3_16779545=k_IRTOCK3_A9F
+dynn_irtock3_100665536=d_IRTOCK3_SA1
+dynn_irtock3_83888006=d_IRTOCK3_SCI
+dynn_irtock3_16779640=k_IRTOCK3_AQM
+dynn_irtock3_2131=d_IRTOCK3_SMP
+dynn_irtock3_16778636=d_IRTOCK3_AC3
+dynn_irtock3_150996773=d_IRTOCK3_AQU
+dynn_irtock3_33555826=d_IRTOCK3_AC9
+dynn_irtock3_83888287=k_IRTOCK3_A5M
+dynn_irtock3_16779612=d_IRTOCK3_BDL
+dynn_irtock3_16778837=k_IRTOCK3_AEI
+dynn_irtock3_67111208=d_IRTOCK3_AOA
+dynn_irtock3_33556615=k_IRTOCK3_ALM
+dynn_irtock3_67110200=d_IRTOCK3_A8U
+dynn_irtock3_150996671=k_IRTOCK3_AQG
+dynn_irtock3_16779650=k_IRTOCK3_A2X
+dynn_irtock3_67110770=d_IRTOCK3_ANG
+dynn_irtock3_33556643=k_IRTOCK3_AFT
+dynn_irtock3_16778826=d_IRTOCK3_AEG
+dynn_irtock3_16779586=d_IRTOCK3_AO2
+dynn_irtock3_83888433=d_IRTOCK3_APX
+dynn_irtock3_100665268=k_IRTOCK3_ODS
+dynn_irtock3_33556740=k_IRTOCK3_AVC
+dynn_irtock3_1592=k_IRTOCK3_MAU
+dynn_irtock3_100665429=d_IRTOCK3_AQF
+dynn_irtock3_33556786=k_IRTOCK3_A0M
+dynn_irtock3_16779628=k_IRTOCK3_AH7
+dynn_irtock3_67111194=k_IRTOCK3_VNN
+dynn_irtock3_16778879=d_IRTOCK3_AEX
+dynn_irtock3_16778567=k_IRTOCK3_AB1
+dynn_irtock3_100665669=k_IRTOCK3_AJ4
+dynn_irtock3_33556417=d_IRTOCK3_VND
+dynn_irtock3_50333017=k_IRTOCK3_AN0
+dynn_irtock3_33555943=d_IRTOCK3_AE1
+dynn_irtock3_100665445=k_IRTOCK3_AQH
+dynn_irtock3_100664944=k_IRTOCK3_ASP
+dynn_irtock3_50332876=d_IRTOCK3_TYE
+dynn_irtock3_67110783=k_IRTOCK3_AJI
+dynn_irtock3_67110159=d_IRTOCK3_AAB
+dynn_irtock3_67111164=k_IRTOCK3_CHC
+dynn_irtock3_16779333=k_IRTOCK3_AKM
+dynn_irtock3_100664837=d_IRTOCK3_ACZ
+dynn_irtock3_134219258=k_IRTOCK3_AI5
+dynn_irtock3_67110198=d_IRTOCK3_ABL
+dynn_irtock3_50333895=d_IRTOCK3_ANW
+dynn_irtock3_16779041=d_IRTOCK3_AAD
+dynn_irtock3_16779225=d_IRTOCK3_AJN
+dynn_irtock3_117442753=k_IRTOCK3_AOM
+dynn_irtock3_83887039=d_IRTOCK3_A4A
+dynn_irtock3_50334028=d_IRTOCK3_APZ
+dynn_irtock3_83887794=k_IRTOCK3_AP6
+dynn_irtock3_33556753=k_IRTOCK3_AOC
+dynn_irtock3_16777252=k_israel
+dynn_irtock3_16779030=d_IRTOCK3_AG6
+dynn_irtock3_83887869=k_IRTOCK3_AP7
+dynn_irtock3_16779381=k_IRTOCK3_AL5
+dynn_irtock3_2896=d_IRTOCK3_BKT
+dynn_irtock3_33556847=d_IRTOCK3_RUT
+dynn_irtock3_50332882=k_IRTOCK3_PHU
+dynn_irtock3_33555797=d_IRTOCK3_ABR
+dynn_irtock3_16779263=k_IRTOCK3_AJW
+dynn_irtock3_33556593=k_IRTOCK3_AL9
+dynn_irtock3_16779533=k_IRTOCK3_CRE
+dynn_irtock3_16779316=k_IRTOCK3_AKH
+dynn_irtock3_16779391=k_IRTOCK3_ALC
+dynn_irtock3_150997095=k_IRTOCK3_AO6
+dynn_irtock3_50333775=k_IRTOCK3_APN
+dynn_irtock3_16779296=d_IRTOCK3_VDL
+dynn_irtock3_16779104=k_IRTOCK3_AGW
+dynn_irtock3_16778868=d_IRTOCK3_AEU
+dynn_irtock3_16779519=d_IRTOCK3_EDT
+dynn_irtock3_from_imperator243260=d_IRTOCK3_ACY
+dynn_irtock3_16779604=d_IRTOCK3_AN8

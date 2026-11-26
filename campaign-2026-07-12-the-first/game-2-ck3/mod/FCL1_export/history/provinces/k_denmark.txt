@@ -1,0 +1,162 @@
+55={
+	holding = none
+}
+56={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+57={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+58={
+	holding = castle_holding
+}
+59={
+	culture = old_saxon
+	faith = catholic
+	holding = castle_holding
+}
+60={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+61={
+	holding = city_holding
+}
+62={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+	special_building_slot = danevirke_01
+}
+63={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+64={
+	holding = castle_holding
+}
+65={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+66={
+	holding = city_holding
+}
+67={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+68={
+	holding = city_holding
+}
+69={
+	holding = none
+}
+70={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+	special_building_slot = lund_cathedral_01
+}
+71={
+	holding = city_holding
+}
+72={
+	holding = city_holding
+}
+73={
+	holding = city_holding
+}
+74={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+75={
+	holding = city_holding
+}
+76={
+	holding = city_holding
+}
+77={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+78={
+	culture = norse
+	faith = catholic
+	holding = tribal_holding
+}
+79={
+	holding = city_holding
+}
+80={
+	holding = city_holding
+}
+81={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+82={
+	culture = old_saxon
+	faith = catholic
+	holding = castle_holding
+}
+83={
+	holding = church_holding
+}
+84={
+	holding = none
+}
+85={
+	holding = none
+}
+86={
+	holding = city_holding
+}
+87={
+	holding = city_holding
+}
+220={
+	holding = castle_holding
+}
+221={
+	holding = church_holding
+}
+222={
+	holding = none
+}
+223={
+	holding = none
+}
+224={
+	holding = none
+}
+225={
+	holding = none
+}
+226={
+	holding = none
+}
+227={
+	holding = none
+}
+228={
+	holding = none
+}
+433={
+	holding = none
+}
+434={
+	holding = castle_holding
+}

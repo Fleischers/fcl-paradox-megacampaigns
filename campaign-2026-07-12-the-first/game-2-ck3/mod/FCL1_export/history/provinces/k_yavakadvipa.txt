@@ -1,0 +1,160 @@
+11325={
+	holding = none
+}
+11326={
+	holding = castle_holding
+}
+11327={
+	holding = city_holding
+}
+11328={
+	holding = church_holding
+}
+11330={
+	culture = javanese
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11331={
+	holding = none
+}
+11332={
+	holding = none
+}
+11333={
+	holding = city_holding
+}
+11334={
+	holding = church_holding
+}
+11335={
+	culture = javanese
+	religion = shaivism
+	holding = castle_holding
+}
+11336={
+	holding = city_holding
+}
+11337={
+	culture = javanese
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11338={
+	holding = church_holding
+}
+11339={
+	holding = none
+}
+11340={
+	holding = none
+}
+11341={
+	holding = church_holding
+	special_building_slot = borobudur_01
+	780.1.1 = { special_building = borobudur_01 }
+}
+11342={
+	holding = city_holding
+}
+11343={
+	culture = javanese
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11344={
+	culture = javanese
+	religion = shaivism
+	holding = castle_holding
+	special_building_slot = dieng_plateau_01
+	special_building = dieng_plateau_01
+}
+11345={
+	holding = city_holding
+}
+11346={
+	holding = none
+}
+11347={
+	holding = church_holding
+}
+11348={
+	holding = none
+}
+11349={
+	holding = none
+}
+11350={
+	holding = castle_holding
+}
+11351={
+	holding = none
+}
+11352={
+	holding = none
+}
+11353={
+	holding = church_holding
+}
+11354={
+	holding = city_holding
+}
+11355={
+	holding = castle_holding
+}
+11356={
+	culture = javanese
+	religion = shaivism
+	holding = castle_holding
+	1166.1.1 = { holding = temple_citadel_holding }
+}
+11357={
+	holding = city_holding
+}
+11358={
+	holding = none
+}
+11359={
+	culture = javanese
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11360={
+	holding = none
+}
+11361={
+	culture = javanese
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11362={
+	holding = city_holding
+}
+11363={
+	holding = none
+}
+11364={
+	holding = none
+}
+11365={
+	holding = city_holding
+}
+11366={
+	culture = javanese
+	religion = shaivism
+	holding = temple_citadel_holding
+	special_building_slot = besakih_temple_01
+	865.1.1 = { special_building = besakih_temple_01 }
+	1040.1.1 = { religion = vaishnavism }
+}
+11367={
+	holding = none
+}
+11368={
+	holding = none
+}
+11369={
+	culture = javanese
+	religion = vaishnavism
+	holding = tribal_holding
+}

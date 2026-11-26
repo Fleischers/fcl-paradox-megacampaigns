@@ -1,0 +1,91 @@
+﻿goguryeo = {
+	color = rgb { 56 84 191 }
+	heritage = heritage_buyeo
+	language = language_korean
+	traditions = { tradition_martial_admiration tradition_warriors_by_merit }
+	name_list = name_list_korean
+	name_order_convention = dynasty_always_first
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	dlc_tradition = {
+		trait = tradition_fortress_mastery
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_castle_keepers
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}
+baekje = {
+	color = rgb { 89 161 115 }
+	heritage = heritage_buyeo
+	language = language_korean
+	traditions = { tradition_astute_diplomats tradition_maritime_mercantilism tradition_religious_patronage }
+	name_list = name_list_korean
+	name_order_convention = dynasty_always_first
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}
+balhae = {
+	color = rgb { 76 0 76 }
+	parents = { mohe goguryeo }
+	heritage = heritage_buyeo
+	language = language_tungusic
+	traditions = { tradition_castle_keepers tradition_warriors_by_merit tradition_culture_blending }
+	name_list = name_list_balhae
+	created = 700.1.1
+	name_order_convention = dynasty_always_first
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_cultural_primacy
+		requires_dlc_flag = all_under_heaven
+		fallback = tradition_isolationist
+	}
+	dlc_tradition = {
+		trait = tradition_sinophilic
+		requires_dlc_flag = all_under_heaven
+	}
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { korean_clothing_gfx chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	house_coa_frame = house_frame_09
+	ethnicities = {
+		100 = asian_manchu_korean
+	}
+}

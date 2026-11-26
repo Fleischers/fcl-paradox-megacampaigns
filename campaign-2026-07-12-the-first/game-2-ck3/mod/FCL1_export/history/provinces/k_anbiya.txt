@@ -1,0 +1,120 @@
+4612={
+	holding = none
+}
+4760={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+	special_building = taghaza_mines_01
+}
+4761={
+	holding = none
+}
+6465={
+	holding = none
+}
+6466={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+}
+6467={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+}
+6468={
+	holding = none
+}
+6469={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+}
+6470={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+}
+6471={
+	holding = none
+}
+6472={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+}
+6473={
+	culture = butr
+	faith = berber_pagan
+	holding = tribal_holding
+	935.1.1 = { holding = castle_holding }
+}
+6474={
+	holding = none
+}
+6475={
+	culture = butr
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	867.1.1 = { special_building = ijil_mines_01 }
+	935.1.1 = { holding = castle_holding }
+	1050.1.1 = { religion = ashari }
+	1178.1.1 = { religion = masmudi }
+}
+6476={
+	culture = butr
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	935.1.1 = { holding = castle_holding }
+	950.1.1 = { religion = ibadi }
+	1050.1.1 = { religion = ashari }
+	1178.1.1 = { religion = masmudi }
+}
+6477={
+	holding = none
+}
+6478={
+	holding = none
+}
+6479={
+	holding = tribal_holding
+	935.1.1 = { holding = castle_holding }
+}
+6480={
+	holding = none
+}
+6481={
+	culture = butr
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	1050.1.1 = { religion = ashari }
+	1178.1.1 = { religion = masmudi }
+}
+6482={
+	holding = none
+}
+6590={
+	holding = none
+}
+6591={
+	holding = none
+}
+6650={
+	holding = none
+}
+6651={
+	holding = none
+}
+6652={
+	holding = none
+}
+6653={
+	holding = none
+}
+6654={
+	holding = none
+}
+6655={
+	holding = none
+}

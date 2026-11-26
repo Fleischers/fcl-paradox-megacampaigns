@@ -1,0 +1,216 @@
+﻿ce1_heroic_legacy_1 = {
+	type = legitimizing
+	quality = famed
+	is_shown = {
+		dynasty ?= {
+			has_dynasty_perk = ce1_heroic_legacy_1
+			NOT = {
+				exists = var:dynasty_legend_used
+			}
+		}
+	}
+	is_valid = {
+		is_landed = yes
+		OR = {
+			is_ai = no
+			# Prevent the AI from sniping the seed from the player
+			AND = {
+				is_ai = yes
+				NOT = {
+					dynasty = { any_dynasty_member = { is_ai = no } }
+				}
+			}
+		}
+	}
+	chronicle = great_deed_dynasty
+	chronicle_properties = {
+		founder = house.house_founder
+		dynasty = dynasty
+		title = primary_title
+	}
+}
+corineus = {
+	type = heroic
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		NOT = {
+			has_global_variable = corineus_legend
+		}
+		OR = {
+			culture = culture:cornish
+			culture = {
+				any_parent_culture_or_above = {
+					this = culture:cornish
+				}
+			}
+		}
+	}
+	is_valid = {
+		is_playable_character = yes
+		has_title = title:d_cornwall
+		prestige_level >= very_high_prestige_level
+	}
+
+	chronicle = ancient_people
+	chronicle_properties = {
+		culture = culture:trojan
+		title = title:c_cornwall
+		original_region = geographical_region:troy_region
+	}
+}
+holy_site = { # Holy Site
+	type = holy
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		is_landed = yes
+		faith = {
+			any_holy_site = {
+				OR = {
+					county.holder = root
+					county.holder.top_liege = root
+				}
+			}
+		}
+	}
+	is_valid = {
+		piety_level >= very_high_piety_level
+	}
+
+	chronicle = saintly_location
+	chronicle_properties = {
+		location = root.location
+		religion = root.religion
+		faith = root.faith
+	}
+}
+holy_warrior = { # Generico Crusader legend
+	type = heroic
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		faith = {
+			OR = {
+				has_doctrine_parameter = great_holy_wars_active
+				has_doctrine_parameter = great_holy_wars_active_if_reformed
+			}
+		}
+		has_trait = crusader_king
+	}
+	is_valid = {
+		has_trait = crusader_king
+	}
+
+	chronicle = holy_warrior
+	chronicle_properties = {
+		ancestor = root
+		religion = root.religion
+	}
+}
+naga_descent = { # Kashmiri kings claim descent from Naga (divine snake people or "sneople" for short)
+	type = holy
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		NOT = {
+			has_global_variable = naga_descent_legend
+		}
+		OR = {
+			culture = culture:kashmiri
+			culture = {
+				any_parent_culture_or_above = {
+					this = culture:kashmiri
+				}
+			}
+		}
+	}
+	is_valid = {
+		is_playable_character = yes
+		has_title = title:k_kashmir
+		piety_level >= high_piety_level
+	}
+
+	chronicle = mythical_descent
+	chronicle_properties = {
+		beast = flag:naga
+	}
+}
+new_troy_london = {
+	type = heroic
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		NOT = {
+			has_global_variable = new_troy_london_legend
+		}
+		has_title = title:c_middlesex
+	}
+	is_valid = {
+		is_playable_character = yes
+		highest_held_title_tier >= tier_kingdom
+		prestige_level >= high_prestige_level
+	}
+
+	chronicle = ancient_people
+	chronicle_properties = {
+		culture = culture:trojan
+		title = title:e_britannia
+		original_region = geographical_region:troy_region
+	}
+}
+roman_heritage = { 
+	type = legitimizing
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		NOT = {
+			has_global_variable = roman_heritage_legend
+		}
+		OR = {
+			has_title = title:e_hre
+			is_roman_emperor_trigger = yes
+			has_title = title:k_rum
+		}
+	}
+	is_valid = {
+		is_playable_character = yes
+		highest_held_title_tier >= tier_kingdom
+		prestige_level >= high_prestige_level
+	}
+
+	chronicle = ancient_people
+	chronicle_properties = {
+		culture = culture:roman
+		title = title:h_roman_empire
+		original_region = geographical_region:custom_roman_full_borders
+	}
+}
+scota = { # Scots claiming ancestry from Ancient Egypt
+	type = legitimizing
+	quality = famed
+	is_shown = {
+		has_dlc_feature = legends
+		NOT = {
+			has_global_variable = scota_legend
+		}
+		has_title = title:k_scotland
+		culture = {
+			OR = {
+				has_cultural_pillar = heritage_west_germanic
+				has_cultural_pillar = heritage_goidelic
+			}
+		}
+	}
+	is_valid = {
+		is_playable_character = yes
+		prestige_level >= high_prestige_level
+	}
+
+	chronicle = ancient_people
+	chronicle_properties = {
+		culture = culture:ancient_egyptian
+		title = title:k_scotland
+		original_region = geographical_region:ghw_region_egypt_et_al
+	}
+}

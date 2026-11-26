@@ -1,0 +1,112 @@
+895={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	1178.1.2 = { holding = herder_holding }
+}
+5890={
+	holding = none
+}
+5891={
+	holding = none
+}
+5892={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	849.6.24 = { holding = herder_holding }
+	886.2.16 = { holding = nomad_holding }
+}
+5893={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	1047.2.5 = { holding = herder_holding }
+	1072.7.16 = { holding = nomad_holding }
+}
+5894={
+	holding = none
+}
+5895={
+	holding = none
+}
+7018={
+	holding = none
+}
+7019={
+	holding = none
+}
+7020={
+	culture = khanty
+	religion = siberian_pagan
+	holding = nomad_holding
+	1045.5.26 = { holding = herder_holding }
+	1088.2.13 = { holding = nomad_holding }
+}
+7021={
+	holding = none
+}
+7022={
+	holding = none
+}
+7023={
+	holding = none
+}
+7024={
+	holding = none
+}
+7025={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7026={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	842.4.24 = { holding = herder_holding }
+	1059.7.28 = { holding = nomad_holding }
+}
+7035={
+	culture = khanty
+	religion = siberian_pagan
+	holding = nomad_holding
+}
+7036={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	1176.1.1 = { holding = herder_holding }
+}
+7037={
+	holding = none
+}
+7038={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7039={
+	holding = none
+}
+7058={
+	holding = none
+}
+7253={
+	holding = none
+}
+7356={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7357={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	861.1.1 = { holding = herder_holding }
+	1032.1.1 = { holding = nomad_holding }
+}
+7358={
+	holding = none
+}

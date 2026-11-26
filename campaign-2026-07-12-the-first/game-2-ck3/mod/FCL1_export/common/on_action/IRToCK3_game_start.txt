@@ -1,0 +1,7 @@
+﻿on_game_start_after_lobby = {
+	on_actions = { irtock3_on_game_start_after_lobby }
+}
+irtock3_on_game_start_after_lobby = {
+	effect = {
+	}
+}

@@ -1,0 +1,497 @@
+458={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+459={
+	holding = none
+}
+460={
+	holding = castle_holding
+}
+461={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+462={
+	holding = none
+}
+463={
+	holding = none
+}
+464={
+	culture = finnish
+	faith = catholic
+	holding = tribal_holding
+}
+465={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+466={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+467={
+	holding = none
+}
+468={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+469={
+	culture = lemnian
+	faith = catholic
+	holding = city_holding
+}
+502={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+503={
+	holding = none
+}
+504={
+	holding = city_holding
+}
+505={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+2518={
+	culture = lemnian
+	faith = catholic
+	holding = tribal_holding
+}
+2519={
+	holding = city_holding
+}
+2520={
+	holding = none
+}
+2521={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+2522={
+	holding = none
+}
+2523={
+	holding = none
+}
+3095={
+	holding = none
+}
+3096={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3097={
+	holding = none
+}
+3098={
+	holding = none
+}
+3100={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3101={
+	holding = none
+}
+3102={
+	holding = none
+}
+3500={
+	holding = none
+}
+3501={
+	culture = lemnian
+	faith = catholic
+	holding = castle_holding
+}
+3502={
+	holding = none
+}
+3503={
+	holding = castle_holding
+}
+3504={
+	holding = city_holding
+}
+3505={
+	holding = castle_holding
+}
+3506={
+	holding = city_holding
+}
+3507={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3508={
+	holding = city_holding
+}
+3509={
+	holding = none
+}
+3510={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3511={
+	holding = none
+}
+3512={
+	holding = none
+}
+3513={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3514={
+	holding = none
+}
+3515={
+	holding = none
+}
+3516={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3517={
+	holding = none
+}
+3518={
+	holding = castle_holding
+}
+3519={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3521={
+	holding = none
+}
+3522={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3523={
+	holding = city_holding
+}
+3524={
+	holding = none
+}
+3525={
+	holding = none
+}
+3526={
+	holding = none
+}
+3527={
+	culture = lemnian
+	faith = catholic
+	holding = castle_holding
+}
+3528={
+	holding = castle_holding
+}
+3529={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3530={
+	holding = none
+}
+3531={
+	holding = castle_holding
+}
+3532={
+	holding = none
+}
+3533={
+	holding = none
+}
+3534={
+	holding = none
+}
+3535={
+	holding = city_holding
+}
+3536={
+	holding = none
+}
+3537={
+	holding = none
+}
+3538={
+	holding = city_holding
+}
+3539={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3540={
+	holding = city_holding
+}
+3541={
+	holding = none
+}
+3542={
+	holding = none
+}
+3543={
+	culture = getian
+	faith = catholic
+	holding = tribal_holding
+}
+3544={
+	holding = none
+}
+3545={
+	holding = church_holding
+}
+3546={
+	holding = none
+}
+3547={
+	holding = city_holding
+}
+3548={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+3549={
+	holding = none
+}
+3550={
+	holding = none
+}
+3551={
+	culture = lemnian
+	faith = catholic
+	holding = city_holding
+}
+3552={
+	holding = none
+}
+3553={
+	holding = none
+}
+3555={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+3556={
+	holding = city_holding
+}
+3557={
+	holding = none
+}
+3558={
+	holding = none
+}
+3559={
+	holding = none
+}
+3560={
+	culture = lemnian
+	faith = catholic
+	holding = castle_holding
+}
+3561={
+	holding = none
+}
+3562={
+	holding = none
+}
+3563={
+	holding = none
+}
+3564={
+	holding = castle_holding
+}
+3565={
+	holding = castle_holding
+}
+3566={
+	holding = castle_holding
+}
+3567={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3568={
+	holding = none
+}
+3569={
+	holding = none
+}
+3571={
+	holding = none
+}
+3572={
+	culture = lemnian
+	faith = catholic
+	holding = city_holding
+}
+3573={
+	holding = none
+}
+3574={
+	holding = city_holding
+}
+3575={
+	culture = getian
+	faith = catholic
+	holding = city_holding
+}
+3576={
+	holding = city_holding
+}
+3577={
+	holding = none
+}
+3578={
+	holding = none
+}
+3579={
+	holding = castle_holding
+}
+3580={
+	holding = none
+}
+3581={
+	holding = none
+}
+3582={
+	holding = none
+}
+3583={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3584={
+	holding = none
+}
+3585={
+	holding = none
+}
+3586={
+	holding = none
+}
+3587={
+	holding = none
+}
+3588={
+	holding = none
+}
+3589={
+	holding = none
+}
+3590={
+	holding = city_holding
+}
+3591={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3592={
+	holding = none
+}
+3593={
+	holding = none
+}
+3594={
+	holding = none
+	special_building_slot = trepca_mines_01
+}
+3595={
+	holding = none
+}
+3596={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3597={
+	holding = castle_holding
+}
+3598={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3599={
+	holding = none
+}
+3600={
+	holding = city_holding
+}
+3601={
+	holding = city_holding
+}
+3602={
+	holding = castle_holding
+}
+3603={
+	holding = none
+}
+3604={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+3605={
+	holding = none
+}
+3606={
+	holding = none
+}
+3607={
+	holding = castle_holding
+}
+3608={
+	holding = none
+}
+3609={
+	holding = city_holding
+}
+3610={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}
+3611={
+	holding = none
+}
+3613={
+	holding = none
+}
+3739={
+	culture = getian
+	faith = catholic
+	holding = castle_holding
+}

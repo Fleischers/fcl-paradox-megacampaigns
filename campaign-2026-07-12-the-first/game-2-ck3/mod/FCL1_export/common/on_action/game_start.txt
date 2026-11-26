@@ -1,0 +1,4330 @@
+﻿# Empty scope
+on_game_start = {
+	events = {
+		fp1_scandinavian_adventurers.0004	# FP1 - Organise Norse adventurers.
+		
+		
+		#Guaranteed historical artifacts fixed spawning
+		debug_portraits.1 					# Debug portraits for animation testing
+		
+	}
+
+	effect = {
+		set_global_variable = { name = is_game_start_date days = 1 }
+		# Chinese Song-fashion
+		if = {
+			limit = {
+				current_date >= 960.1.1
+			}
+			set_global_variable = {
+				name = chinese_fashion_change
+				value = 1
+			}
+		}
+		#Epidemics 10 years grace
+		set_global_variable = {
+			name = start_epidemic_grace
+			value = yes
+			years = 10
+		}
+		#Set Cumania name if there is no MPO DLC
+		if = {
+			limit = {
+				has_mpo_dlc_trigger = no
+				current_date >= 1000.1.1
+			}
+			title:e_caspian-pontic_steppe = {
+				set_title_name = cn_cumania
+			}
+		}
+		#Rabbene Gershom outlaws polygamy
+		if = {
+			limit = {
+				current_date >= 1000.1.1
+			}
+			religion:judaism_religion = {
+				every_faith = {
+					limit = {
+						has_doctrine = temple_authority_rabbinic_doctrine
+					}
+					remove_doctrine = doctrine_polygamy
+					add_doctrine = doctrine_monogamy
+				}
+			}
+		}
+		
+		
+
+		
+
+		
+
+		
+		
+		
+
+		
+		
+
+		### HRE SETUP ###
+		if = {
+			limit = { exists = title:e_hre.holder }
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:c_cologne
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:c_mainz
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:c_trier
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:d_bohemia
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:d_east_franconia
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:d_ostmark
+			}
+			add_to_global_variable_list = {
+				name = hre_elector_list
+				target = title:d_angria
+			}
+			hre_elector_list_save_effect = yes
+			hre_margraves_effect = yes
+		}
+
+		
+
+		
+
+		### Every nomad and herder in the Steppe Region becomes tribal if DLC not enabled, pre-lobby history setup ###
+		if = {
+			limit = {
+				has_mpo_dlc_trigger = no
+			}
+			# Change Nomad and Herder Holdings to Tribal Holdings for Tribals
+			every_province = {
+				limit = {
+					OR = {
+						has_holding_type = nomad_holding
+						has_holding_type = herder_holding
+					}
+				}
+				set_holding_type = tribal_holding
+				if = {
+					limit = {
+						county.holder.capital_province ?= this
+					}
+					county.holder ?= {
+						if = {
+							limit = {
+								NOT = {
+									has_government = tribal_government
+								}
+							}
+							change_government = tribal_government
+						}
+					}
+				}
+			}
+		}
+
+
+
+		# To prevent the Season Changes event from triggering on game start
+		situation:the_great_steppe ?= {
+			every_participant_group = {
+				every_situation_group_participant = {
+					set_variable = {
+						name = steppe_game_start_var
+						years = 1
+					}
+				}
+			}
+		}
+
+		#CP3 Special Buildings - Goes Before Holy Sites
+		if = {
+			limit = {
+				has_cp3_dlc_trigger = yes
+			}
+	        title:b_barcelona.title_province = { add_special_building_slot = drassanes_01 } #1892
+	        title:b_merv.title_province = { add_special_building = kyz_kala_01 } #4238
+	        if = { limit = { game_start_date >= 1178.10.1 } title:b_cluny.title_province = { add_special_building = cluny_abbey_02 } } #2304
+	        else_if = { limit = { game_start_date >= 1066.9.15 } title:b_cluny.title_province = { add_special_building = cluny_abbey_01 } }
+	        else = { title:b_cluny.title_province = { add_special_building_slot = cluny_abbey_01 } }
+	        title:b_york.title_province = { add_special_building = york_walls_01 } #1595
+	        title:b_damascus.title_province = { add_special_building = damascus_mosque_01 } #5924
+	        title:b_lhasa.title_province = { add_special_building = jokhang_01 } #9237
+	        if = { limit = { game_start_date >= 1178.10.1 } title:b_schmalkalden.title_province = { add_special_building = wartburg_01 } } #3010
+	        else = { title:b_schmalkalden.title_province = { add_special_building_slot = wartburg_01 } }
+	        title:b_lalibela.title_province = { add_special_building_slot = beta_giyorgis_01 } #8301
+	        if = { limit = { game_start_date >= 1066.9.15 } title:b_novgorod.title_province = { add_special_building = holy_wisdom_01 } } #5137
+	        else = { title:b_novgorod.title_province = { add_special_building_slot = holy_wisdom_01 } }
+	        title:b_kano.title_province = { add_special_building_slot = kano_walls_01 } #6519
+	        title:b_somapur.title_province = { add_special_building = somapura_university_01 } #848
+	        if = { limit = { game_start_date >= 1178.10.1 } title:b_firenze.title_province = { add_special_building = duomo_florence_02 } } #2543
+	        else = { title:b_firenze.title_province = { add_special_building = duomo_florence_01 } }
+	        title:b_konarak.title_province = { add_special_building_slot = konark_temple_01 } #928
+	        title:b_fes.title_province = { add_special_building = al_qarawiyyin_university_01 } #4694
+	        title:b_kairouan.title_province = { add_special_building = kairouan_basins_01 } #4594
+	        title:b_al-ghaba.title_province = { add_special_building = ghana_palace_01 } #6628 #NOTE: likely existed since the 8th, but earliest (only) source on palace is from 1068
+	        title:b_visegrad_hun.title_province = { add_special_building_slot = visegrad_castle_01 } #3803
+	        if = { limit = { game_start_date >= 1161.9.15 } title:b_leczyca.title_province = { add_special_building = wawel_cathedral_01 } } #4924 #Date of consecreation of Archcollegiate Church of St. Mary and St. Alexius in Tum
+	        else = { title:b_leczyca.title_province = { add_special_building_slot = wawel_cathedral_01 } }
+	        title:b_vatapi.title_province = { add_special_building = vatapi_caves_01 } #1198
+	        if = { limit = { game_start_date >= 1178.10.1 } title:b_jaisalmer.title_province = { add_special_building = jaisalmer_fort_01 } } #3387
+	        else = { title:b_jaisalmer.title_province = { add_special_building_slot = jaisalmer_fort_01 } } #3387
+		}
+
+		#CP6 Special Buildings - Goes Before Holy Sites
+		if = {
+			limit = {
+				has_cp6_dlc_trigger = yes
+			}
+			#remove
+	        title:b_vaticano.title_province = { remove_building = holy_site_cathedral_01 } #2577
+			title:b_indraprastha.title_province = { remove_building = iron_pillar_of_delhi_01 } #1365
+			
+			#always exists
+	        title:b_vaticano.title_province = { add_special_building = holy_site_st_peters_basilica_01 } #2577
+	        title:b_kathmandu.title_province = { add_special_building = boudhanath_01 } #9116
+	        title:b_indraprastha.title_province = { add_special_building = qutb_minar_01 } #1365
+	        title:b_sanchi.title_province = { add_special_building = sanchi_stupa_01 } #3323
+			
+			#only buildable
+	        title:b_yazd.title_province = { add_special_building_slot = yazd_mosque_01 } #4053
+			
+			#different by start date
+	        if = { 
+				limit = {
+					game_start_date >= 1066.9.15
+				} 
+				title:b_avranches.title_province = { add_special_building = mont_st_michel_02 } 
+			} #2167
+	        else = { 
+				title:b_avranches.title_province = { add_special_building = mont_st_michel_01 } 
+			}
+			
+		}
+
+		#CP8 Special Buildings  - Goes Before Holy Sites
+		if = {
+			limit = { has_cp8_dlc_trigger = yes }
+			#Great Buddha of Kamakura - from the 1250s
+			title:b_kamakura.title_province = { add_special_building_slot = buddha_kamakura_01 }
+			#Kizuki Taisha
+			title:b_kizuki_taisha.title_province = { add_special_building = izumo_taisha_01 }
+			#Stone Pagoda of Mireuksa
+			title:b_Goryeo_Jeolla_Jeonju.title_province = { add_special_building = stone_pagoda_01 }
+			#Tomb of a Goguryeo King
+			title:b_Liao_Xijing.title_province = { add_special_building = goguryeo_tomb_01 }
+			#Iron Lion of Cangzhou - from the 950s
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_qingchi.title_province = { add_special_building = iron_lion_cangzhou_01 } }
+			else = { title:b_qingchi.title_province = { add_special_building_slot = iron_lion_cangzhou_01 } }
+			#Temple of Confucius
+			title:b_fuqu.title_province = { add_special_building = confucius_temple_01 }
+			#Gaocheng Observatory #NOTE: technically in continuous use from the 8th century, but the major expansion depicted is from the 1200s
+			title:b_yangzhai.title_province = { add_special_building_slot = dengfeng_observatory_01 } #1
+			#Maijishan Grottoes
+			title:b_chengji.title_province = { add_special_building = maijishan_grottoes_01 }
+			#Yuelu Academy - from 976
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_changsha.title_province = { add_special_building = yuelu_academy_01 } }
+			else = { title:b_changsha.title_province = { add_special_building_slot = yuelu_academy_01 } }
+			#Imperial Citadel of Lin'an - from the 1130s-1150s
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_qiantang.title_province = { add_special_building = citadel_linan_01 } } #2
+			else = { title:b_qiantang.title_province = { add_special_building_slot = citadel_linan_01 } } #2
+			#Fanfang of Guangzhou
+			title:b_nanhai.title_province = { add_special_building = fanfang_guangzhou_01 }
+			#My Son Sanctuary
+			title:b_my_son.title_province = { add_special_building = my_son_sanctuary_01 }
+			#Ha Long Bay
+			title:b_long_hung.title_province = { add_special_building = ha_long_bay_01 }
+			#Three Pagodas of Dali
+			title:b_dali_1.title_province = { add_special_building = three_pagodas_dali_01 }
+			#Thuriang Kilns - from the 1200s
+			title:b_sukhothai.title_province = { add_special_building = thuriang_kilns_01 remove_building = thuriang_kilns_01 } #3
+			#Lingapura Pyramid - from the 900s
+			if = { limit = { game_start_date >= 1066.9.15 } title:b_koh_ker.title_province = { add_special_building = pyramid_lingapura_01 } }
+			else = { title:b_koh_ker.title_province = { add_special_building_slot = pyramid_lingapura_01 } }
+			if = { limit = { game_start_date >= 1066.1.1 } title:b_SUM_Muara_Takus.title_province = { add_special_building = muara_takus_01 } }
+			else = { title:b_SUM_Muara_Takus.title_province = { add_special_building = muara_takus_01 remove_building = muara_takus_01 } } #8
+			#Wilwatikta Palace - sometime in the mid 1300s
+			title:b_JAV_Daha.title_province = { add_special_building_slot = wilwatikta_palace_01 } #4
+			#Gunung Api
+			title:b_BOR_Brunei.title_province = { add_special_building = gunung_api_01 } #5
+			#Chocolate Hills
+			title:b_PHI_Bool.title_province = { add_special_building = chocolate_hills_01 }
+			#Sulawesi Megaliths
+			title:b_SUL_Malangke.title_province = { add_special_building = suwalesi_megaliths_01 } #6
+			#Temples of Angkor
+			if = {
+				limit = { game_start_date >= 1150.1.1 }
+				title:b_angkor.title_province = {
+					remove_building = angkor_wat_01
+					add_special_building = temples_angkor_02
+				}
+			}
+			else = {
+				title:b_angkor.title_province = { add_special_building = temples_angkor_01 } #7
+			}
+		}
+
+		### RELIGIOUS THINGS ###
+		# Set up Holy Site Buildings to be buildable in Holy Sites
+		religion:islam_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_mosque_01
+					}
+				}
+			}
+		}
+		religion:christianity_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_cathedral_01
+					}
+				}
+			}
+		}
+		religion:zoroastrianism_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_fire_temple_01
+					}
+				}
+			}
+		}
+		religion:buddhism_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_buddhist_grand_temple_01
+					}
+				}
+			}
+		}
+		religion:shintoism_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_japanese_temple_01
+					}
+				}
+			}
+		}
+		religion:taoism_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_chinese_temple_01
+					}
+				}
+			}
+		}
+		religion:confucianism_religion = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_chinese_temple_01
+					}
+				}
+			}
+		}
+		every_religion_global = {
+			limit = {
+				OR = {
+					this = religion:hinduism_religion
+					this = religion:jainism_religion
+					this = religion:tani_religion
+					this = religion:bon_religion
+				}
+			}
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_indian_grand_temple_01
+					}
+				}
+			}
+		}
+		every_religion_global = {
+			limit = {
+				OR = {
+					this = religion:satsana_phi_religion
+					this = religion:dayawism_religion
+					this = religion:hantuism_religion
+					this = religion:satsana_phi_religion
+					this = religion:kaharingan_religion
+					this = religion:tolotang_religion
+					this = religion:aluk_religion
+					this = religion:dab_qhuas_religion
+					this = religion:biliku_religion
+				}
+			}
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_se_asia_pagan_temple_01
+					}
+				}
+			}
+		}
+		every_religion_global = {
+			limit = {
+				is_in_family = rf_pagan
+			}
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_pagan_grand_temple_01
+					}
+				}
+			}
+		}
+		every_religion_global = {
+			every_faith = {
+				every_holy_site = {
+					limit = {
+						title_province = {
+							has_special_building_slot = no
+						}
+					}
+					title_province = {
+						add_special_building_slot = holy_site_other_grand_temple_01
+					}
+				}
+			}
+		}
+
+		# If your capital on game start is Mecca, you get the Hajjaj trait (since you can't Hajj to your capital)
+		title:b_makka.county.holder = {
+			if = {
+				limit = {
+					faith = { has_doctrine_parameter = mandatory_hajj }
+					NOT = { has_trait = hajjaj }
+				}
+				# Have some Hajjaj
+				add_trait = hajjaj
+			}
+		}
+
+		# Pagans that start pre-reformed
+		## Bon has already been reformed into new bon.
+		faith:old_bon = {
+			set_variable = { name = has_been_reformed }
+		}
+
+		# Mark some faiths to block conversion till specific decisions are taken.
+		faith:basque_pagan = {
+			set_variable = { name = block_conversion_till_decision_taken }
+		}
+		faith:adoptionist = {
+			set_variable = { name = block_conversion_till_nebulous_circumstances }
+		}
+		# Kuzarite cannot be reformed under normal circumstances
+		faith:kabarism = {
+			set_variable = { name = block_reformation_var }
+		}
+
+		
+		
+
+		### UNIVERSITIES ###
+		title:b_fes.title_province = {
+			if = {
+				limit = {
+					has_special_building_slot = no #Depends on DLC
+				}
+				add_special_building_slot = generic_university
+			}
+		}
+		title:b_somapur.title_province = {
+			if = {
+				limit = {
+					has_special_building_slot = no #Depends on DLC
+				}
+				add_special_building_slot = generic_university
+			}
+		}
+		#title:b_bologna.title_province = { add_special_building_slot = generic_university } # Added in province history
+		title:b_salamanca.title_province = { if = { limit = { has_special_building_slot = no } add_special_building_slot = generic_university } }
+		title:b_madrid.title_province = { add_special_building_slot = generic_university }
+		#title:b_oxford.title_province = { add_special_building_slot = generic_university } # Added in province history
+		title:b_cambridge.title_province = { add_special_building_slot = generic_university }
+		title:b_padua.title_province = { add_special_building_slot = generic_university }
+		title:b_coimbra.title_province = { add_special_building_slot = generic_university }
+		title:b_napoli.title_province = { add_special_building_slot = generic_university }
+		title:b_milano.title_province = { add_special_building_slot = generic_university }
+		title:b_vienna.title_province = { add_special_building_slot = generic_university }
+		title:b_praha.title_province = { add_special_building_slot = generic_university }
+		title:b_perugia.title_province = { add_special_building_slot = generic_university }
+		title:b_malappuram.title_province = { add_special_building_slot = generic_university }
+		title:b_janakpur.title_province = { add_special_building_slot = generic_university }
+		title:b_uppsala.title_province = { add_special_building_slot = generic_university }
+		title:b_montlhery.title_province = { add_special_building_slot = generic_university } # Technically should be Paris, but that's occupied by Notre Dame
+		title:b_qartajana.title_province = { add_special_building_slot = generic_university } # Technically should be Tunis, but that's occupied by a cathedral
+		title:b_wazwan.title_province = { add_special_building_slot = generic_university } # Technically should be Isfahan, but that's occupied by the Friday Mosque
+		title:b_sarsar.title_province = { add_special_building_slot = generic_university } # Technically should be Baghdad, but that's occupied by the House of Wisdom
+		title:b_speyer.title_province = { add_special_building_slot = generic_university } # 1350ish, should be in Heidelberg but that's a church
+		title:b_krakow.title_province = { add_special_building_slot = generic_university } # 1364
+		title:b_pisa.title_province = { add_special_building_slot = generic_university } # 1350ish
+		title:b_rostock.title_province = { add_special_building_slot = generic_university } # 1400ish
+		title:b_turin.title_province = { add_special_building_slot = generic_university } # 1400ish
+		title:b_ferrara.title_province = { add_special_building_slot = generic_university } # 1400ish
+		title:b_leipzig.title_province = { add_special_building_slot = generic_university } # 1400ish, a city holding
+		title:b_messina.title_province = { add_special_building_slot = generic_university }  # 1400ish, should be in Catania but that's a church
+		if = {
+			limit = {
+				has_cp3_dlc_trigger = yes
+			}
+			title:b_sitges.title_province = { add_special_building_slot = generic_university } # Should be Barcelona but that location has another building now
+		}
+		else = {
+			title:b_barcelona.title_province = { add_special_building_slot = generic_university } # 1450ish, but still fun to build
+		}
+		title:b_dumbarton.title_province = { add_special_building_slot = generic_university } # 1450ish, but still fun to build
+		title:b_bidar.title_province = { add_special_building_slot = generic_university } # 1450ish, but still fun to build
+		if = {
+			limit = {
+				has_cp8_dlc_trigger = no
+			}
+			title:b_changsha.title_province = {
+				add_special_building_slot = generic_university
+			}
+		}
+
+		
+
+		### COA ###
+		if = {
+			limit = {
+				game_start_date <= 1000.1.1
+			}
+			title:e_scandinavia = { set_coa = e_scandinavia_norse }
+			title:k_sweden = { set_coa = k_sweden_norse }
+			title:d_svealand = { set_coa = d_svealand_norse }
+			title:c_upland = { set_coa = c_upland_norse }
+			title:c_gastrikland = { set_coa = c_gastrikland_norse }
+			title:c_sodermannaland = { set_coa = c_sodermannaland_norse }
+			title:c_aland = { set_coa = c_aland_norse }
+			title:d_bergslagen = { set_coa = d_bergslagen_norse }
+			title:c_vastmanland = { set_coa = c_vastmanland_norse  }
+			title:c_varmland = { set_coa = c_varmland_norse }
+			title:c_dalarna = { set_coa = c_dalarna_norse }
+			title:c_dalabergslagen = { set_coa = c_dalabergslagen_norse }
+			title:d_vastergotland = { set_coa = d_vastergotland_norse }
+			title:c_vastergotland = { set_coa = c_vastergotland_norse }
+			title:c_skara = { set_coa = c_skara_norse }
+			title:c_dal = { set_coa = c_dal_norse }
+			title:c_nordmark = { set_coa = c_nordmark_norse }
+			title:d_ostergotland = { set_coa = d_ostergotland_norse }
+			title:c_ostergotland = { set_coa = c_ostergotland_norse }
+			title:c_kinda = { set_coa = c_kinda_norse }
+			title:c_narke = { set_coa = c_narke_norse }
+			title:d_smaland = { set_coa = d_smaland_norse }
+			title:c_more = { set_coa = c_more_norse }
+			title:c_sevede = { set_coa = c_sevede_norse }
+			title:c_varend = { set_coa = c_varend_norse }
+			title:c_njudung = { set_coa = c_njudung_norse }
+			title:c_finnveden = { set_coa = c_finnveden_norse }
+			title:c_oland = { set_coa = c_oland_norse }
+			title:d_norrland = { set_coa = d_norrland_norse }
+			title:c_halsingland = { set_coa = c_halsingland_norse }
+			title:c_medelpad = { set_coa = c_medelpad_norse }
+			title:c_angermanland = { set_coa = c_angermanland_norse }
+			title:d_gotland = { set_coa = d_gotland_norse }
+			title:c_gutland = { set_coa = c_gutland_norse }
+			title:k_norway = { set_coa = k_norway_norse }
+			title:d_viken = { set_coa = d_viken_norse }
+			title:c_vingulmork = { set_coa = c_vingulmork_norse }
+			title:c_raniriki = { set_coa = c_raniriki_norse }
+			title:c_vestfold = { set_coa = c_vestfold_norse }
+			title:c_telemark = { set_coa = c_telemark_norse }
+			title:d_agder = { set_coa = d_agder_norse }
+			title:c_nedenes = { set_coa = c_nedenes_norse }
+			title:c_agdeside = { set_coa = c_agdeside_norse }
+			title:d_vestlandi = { set_coa = d_vestlandi_norse }
+			title:c_rogalandi = { set_coa = c_rogalandi_norse }
+			title:c_hordalandi = { set_coa = c_hordalandi_norse }
+			title:c_sogn = { set_coa = c_sogn_norse }
+			title:d_trandalog = { set_coa = d_trandalog_norse }
+			title:c_trandheim = { set_coa = c_trandheim_norse }
+			title:c_norwegian_more = { set_coa = c_norwegian_more_norse }
+			title:c_firdafylki = { set_coa = c_firdafylki_norse }
+			title:d_dalir = { set_coa = d_dalir_norse }
+			title:c_hedmork = { set_coa = c_hedmork_norse }
+			title:c_gudbrandsdalir = { set_coa = c_gudbrandsdalir_norse }
+			title:c_eystridalir = { set_coa = c_eystridalir_norse }
+			title:c_gauldala = { set_coa = c_gauldala_norse }
+			title:d_halogaland = { set_coa = d_halogaland_norse }
+			title:c_vastvag = { set_coa = c_vastvag_norse }
+			title:c_bothin = { set_coa = c_bothin_norse }
+			title:c_namdalfylki = { set_coa = c_namdalfylki_norse }
+			title:d_iceland = { set_coa = d_iceland_norse }
+			title:c_vestisland = { set_coa = c_vestisland_norse }
+			title:c_nordrland = { set_coa = c_nordrland_norse }
+			title:c_austisland = { set_coa = c_austisland_norse }
+			title:c_sudurland = { set_coa = c_sudurland_norse }
+			title:d_northern_isles = { set_coa = d_northern_isles_norse }
+			title:c_orkney = { set_coa = c_orkney_norse }
+			title:c_faereyar = { set_coa = c_faereyar_norse }
+			title:c_shetland = { set_coa = c_shetland_norse }
+			title:d_jamtland = { set_coa = d_jamtland_norse }
+			title:c_jamtfir = { set_coa = c_jamtfir_norse }
+			title:c_morarna = { set_coa = c_morarna_norse }
+			title:c_helgum = { set_coa = c_helgum_norse }
+			title:c_harjadalen = { set_coa = c_harjadalen_norse }
+			title:k_denmark = { set_coa = k_denmark_norse }
+			title:d_sjaelland = { set_coa = d_sjaelland_norse }
+			title:c_sjaelland = { set_coa = c_sjaelland_norse }
+			title:c_fyn = { set_coa = c_fyn_norse }
+			title:c_lolland_falster = { set_coa = c_lolland_falster_norse }
+			title:d_skane = { set_coa = d_skane_norse }
+			title:c_skane = { set_coa = c_skane_norse }
+			title:c_halland = { set_coa = c_halland_norse }
+			title:c_bornholm = { set_coa = c_bornholm_norse }
+			title:c_blekinge = { set_coa = c_blekinge_norse }
+			title:d_jylland = { set_coa = d_jylland_norse }
+			title:c_aarhus = { set_coa = c_aarhus_norse }
+			title:c_viborg = { set_coa = c_viborg_norse }
+			title:c_ringkobing = { set_coa = c_ringkobing_norse }
+			title:c_aalborg = { set_coa = c_aalborg_norse }
+			title:d_slesvig = { set_coa = d_slesvig_norse }
+			title:c_slesvig = { set_coa = c_slesvig_norse }
+			title:c_vorbasse = { set_coa = c_vorbasse_norse }
+			title:c_ribe = { set_coa = c_ribe_norse }
+			title:d_york = { set_coa = d_york_norse }
+			title:c_east_riding = { set_coa = c_east_riding_norse }
+			title:d_western_isles = { set_coa = d_western_isles_norse }
+			title:c_inner_hebrides = { set_coa = c_inner_hebrides_norse  }
+			title:c_dublin = { set_coa = c_dublin_norse }
+			title:c_argyll = { set_coa = c_argyll_norse }
+		}
+		
+
+		### GRANDEUR ###
+		#Royal Court: Set starting Grandeur to be the same as Expected
+		if = {
+			limit = {
+				has_dlc_feature = royal_court
+			}
+			every_character_with_royal_court = {
+				set_current_court_grandeur = court_grandeur_minimum_expected
+				apply_hold_court_grace_effect = yes
+				# Stops Hold Court reminders at game start
+				set_variable = {
+					name = last_hold_court_date
+					value = current_year
+				}
+			}
+		}
+
+		
+
+		### REGENCIES ###
+		
+		if = {
+			limit = { has_tgp_dlc_trigger = no }
+			title:k_yongson_throne ?= {
+				holder ?= {
+					destroy_title = prev
+				}
+			}
+		}
+		every_ruler = { # PUT EVERY_RULER TYPE STUFF HERE FOR PERFORMANCE REASONS
+			# Set up anyone who should be in a regency at start whether we have sources or not.
+			## If you start as a child, incapable, or imprisoned, you get a regency.
+			if = {
+				limit = {
+					OR = {
+						is_adult = no
+						is_incapable = yes
+						is_imprisoned = yes
+					}
+				}
+				# We don't want to check over so many characters *twice*, so we check again inside the block to determine what type of regency to put 'em in.
+				## Temporary Regencies.
+				if = {
+					limit = { is_imprisoned = yes }
+					trigger_event = {
+						id = diarchy.0001
+						delayed = yes
+					}
+				}
+				## Entrenched Regencies.
+				else = {
+					trigger_event = {
+						id = diarchy.0011
+						delayed = yes
+					}
+				}
+			}
+			if = {
+				limit = {
+					has_mpo_dlc_trigger = no
+				}
+				if = {
+					limit = {
+						has_government = nomad_government
+					}
+					change_government = tribal_government
+				}
+				else_if = {
+					limit = {
+						has_government = herder_government
+					}
+					change_government = tribal_government
+				}
+			}
+
+			# Set Coronation laws for everyone
+			if = {
+				limit = {
+					coronation_trigger = yes
+				}
+				if = {
+					limit = {
+						highest_held_title_tier = tier_kingdom
+					}
+					add_realm_law_skip_effects = crowned_king
+					set_variable = crowned_king_var
+				}
+				else_if = {
+					limit = {
+						highest_held_title_tier > tier_kingdom
+						trigger_if = { # Heinich IV crowned April 1st 1084 by Pope Clement III
+							limit = { has_title = title:e_hre }
+							NOT = { game_start_date = 1066.9.15 }
+						}
+					}
+					add_realm_law_skip_effects = crowned_emperor
+					set_variable = crowned_emperor_var
+				}
+			}
+
+			# Admin - Let's give existing governors the Governor trait on game start
+			if = {
+				limit = {
+					is_governor = yes
+					NOT = { has_trait = governor }
+					OR = {
+						government_allows = administrative
+						government_is_japanese_trigger = yes
+					}
+				}
+				add_trait = governor
+				add_trait_xp = {
+					trait = governor
+					value = {
+						add = primary_title.title_held_years
+						multiply = 2
+						if = {
+							limit = {
+								age >= 50
+								has_government = japan_administrative_government
+							}
+							add = {
+								value = age
+								divide = 4
+							}
+						}
+					}
+				}
+			}
+			# Clean up TGP governments is the Expansion is not enabled
+			if = {
+				limit = { has_tgp_dlc_trigger = no }
+				# TGP: Clean up maritime tribal govs and revert them to non-dlc tribals
+				if = {
+					limit = {
+						government_has_flag = government_is_wanua
+					}
+					change_government = tribal_government
+				}
+				# TGP: Clean up mandala govs and revert them to non-dlc feudals
+				else_if = {
+					limit = {
+						government_has_flag = government_is_mandala
+					}
+					change_government = feudal_government
+				}
+				### Every Celestial/Meritocratic/Japanese Government becomes feudal if DLC not enabled, pre-lobby history setup ###
+				else_if = {
+					limit = {
+						OR = {
+							has_government = celestial_government
+							has_government = meritocratic_government
+							has_government = steppe_admin_government
+							has_government = japan_administrative_government
+							has_government = japan_feudal_government
+						}
+					}
+					empty_treasury_when_abandoning_landed_life_effect = yes
+					change_government = feudal_government
+				}
+				if = {
+					limit = {
+						any_held_title = {
+							is_noble_family_title = yes
+						}
+					}
+					every_held_title = {
+						limit = {
+							is_noble_family_title = yes
+							title_domicile ?= {
+								OR = {
+									is_domicile_type = japanese_manor
+									is_domicile_type = east_asian_estate
+								}
+							}
+						}
+						save_temporary_scope_as = family_title
+						prev = { destroy_title = scope:family_title }
+					}
+				}
+			}
+			
+			if = {
+				limit = {
+					has_domicile = yes
+					any_held_title = {
+						is_noble_family_title = yes
+					}
+				}
+				if = {
+					limit = {
+						is_landed = yes
+						domicile.domicile_location != this.capital_province
+					}
+					random_held_title = {
+						limit = {
+							is_noble_family_title = yes
+						}
+						set_capital_county = prev.capital_county
+					}
+					domicile ?= {
+						move_domicile = prev.capital_province
+					}
+				}
+				if = {
+					limit = {
+						tgp_is_any_minister = yes
+					}
+					random_held_title = {
+						limit = {
+							tier = tier_empire
+						}
+						set_capital_county = prev.top_liege.capital_county
+					}
+					random_held_title = {
+						limit = {
+							is_noble_family_title = yes
+						}
+						set_capital_county = prev.top_liege.capital_county
+					}
+					domicile ?= {
+						move_domicile = prev.top_liege.capital_province
+					}
+				}
+			}
+		}
+		# DYNASTIC CYCLE SETUP
+		situation:dynastic_cycle ?= {
+			title:h_china = {
+				set_variable = {
+					name = years_since_imperial_examination
+					value = 0
+				}
+			}
+			
+		}
+		setup_tributaries_effect = yes # defined in 00_tributary_setup_effect.txt
+		# Sort custom regencies.
+		
+
+		### FERTILE LANDS ###
+		# For deserts that are supposed to be very fertile
+		title:c_taizz = { add_county_modifier = fertile_desert_mountains_modifier }
+		title:c_mandab = { add_county_modifier = fertile_desert_mountains_modifier }
+		title:c_zabid = { add_county_modifier = fertile_desert_mountains_modifier }
+		title:c_sanaa = { add_county_modifier = fertile_desert_mountains_modifier }
+		title:c_dathina = { add_county_modifier = fertile_desert_mountains_modifier }
+
+		### HENDEKAPOLIS ###
+		title:c_ionia = { add_county_modifier = dodekapolis_modifier }
+		title:c_chios = { add_county_modifier = dodekapolis_modifier }
+		title:c_aeolis = { add_county_modifier = dodekapolis_modifier }
+		title:c_lesbos = { add_county_modifier = dodekapolis_modifier }
+
+		
+
+		
+
+		
+
+		if = {
+			limit = {
+				has_dlc_feature = hybridize_culture
+				NOT = {
+					has_dlc_feature = khans_of_the_steppe
+				}
+			}
+			culture:mongol = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:khitan = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:jurchen = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:cuman = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:bolghar = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:bashkir = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:karluk = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+			culture:shatuo = {
+				add_culture_tradition = tradition_malleable_invaders
+			}
+		}
+
+		if = {
+			limit = {
+				NOT = {
+					has_dlc_feature = khans_of_the_steppe
+				}
+			}
+			culture:hunnic = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:saka = { add_culture_tradition = tradition_horse_lords }
+			culture:alan = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:mongol = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:buryat = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:oirat = { add_culture_tradition = tradition_horse_lords }
+			culture:naiman = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:kerait = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:khitan = { add_culture_tradition = tradition_horse_lords }
+			culture:tuyuhun = { add_culture_tradition = tradition_horse_lords }
+			culture:jurchen = { add_culture_tradition = tradition_horse_lords }
+			culture:cuman = { add_culture_tradition = tradition_horse_lords }
+			culture:khazar = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:bolghar = { add_culture_tradition = tradition_horse_lords }
+			culture:bashkir = { add_culture_tradition = tradition_horse_lords }
+			culture:avar = { add_culture_tradition = tradition_horse_lords }
+			culture:karluk = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:kimek = { add_culture_tradition = tradition_horse_lords }
+			culture:kipchak = { add_culture_tradition = tradition_horse_lords }
+			culture:laktan = { add_culture_tradition = tradition_horse_lords }
+			culture:kirghiz = { add_culture_tradition = tradition_horse_lords }
+			culture:yughur = { add_culture_tradition = tradition_horse_lords add_culture_tradition = tradition_steppe_tolerance }
+			culture:uriankhai = { add_culture_tradition = tradition_horse_lords }
+			culture:chuvash = { add_culture_tradition = tradition_horse_lords }
+			culture:ongud = { add_culture_tradition = tradition_horse_lords }
+			culture:turkmen = { add_culture_tradition = tradition_horse_lords }
+			culture:mogyer = { add_culture_tradition = tradition_horse_lords }
+			culture:pecheneg = { add_culture_tradition = tradition_horse_lords }
+			culture:ongud = { add_culture_tradition = tradition_steppe_tolerance }
+			culture:uyghur = { add_culture_tradition = tradition_steppe_tolerance }
+			#culture:turkish = { add_culture_tradition = tradition_horse_lords }
+		}
+
+		### DEBUG GLOBAL VARIABLES ###
+		# We set these here so that they present nicely and you can see when some variables register zero.
+
+		# FP3 Struggle.
+		if = {
+			limit = { gather_debug_variables_for_persian_struggle_trigger = yes }
+			# ENDING
+			set_global_variable = {
+				name = sp_end_date
+				value = 0
+			}
+			# There's also fp3_struggle_ending; we don't track that here because it has functional usage that depends on it existing or not, so it's not a debug variable.
+
+			# PHASES
+			set_global_variable = {
+				name = sp_phase_unrest
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_phase_stabil
+				value = 0
+			}
+
+			# UNREST
+			set_global_variable = {
+				name = sp_unrest_catalyst_yearly_influential_house_is_antagonistic_major
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_yearly_influential_house_is_antagonistic_medium
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_yearly_influential_house_is_antagonistic_minor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_yearly_influential_house_is_antagonistic_minimal
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_becomes_rival_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_gain_claim_on_title_fp3
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_usurp_title_fp3
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_cadet_branch_created
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_supporter_forced_conversion
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_execute_supporter
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_imprison_supporter
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_unnatural_death_supporter
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_reveal_secret_supporter
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_turn_supporter_into_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_forming_alliance_between_detractor_uninvolved_rulers
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_detractor_win_unfair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_detractor_win_fair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_detractor_declare_unfair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_detractor_declare_fair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_unrest_catalyst_became_detractor_fp3
+				value = 0
+			}
+			# STABILISATION
+			set_global_variable = {
+				name = sp_stabil_catalyst_yearly_influential_house_is_harmonious_major
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_yearly_influential_house_is_harmonious_medium
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_yearly_influential_house_is_harmonious_minor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_yearly_influential_house_is_harmonious_minimal
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_learned_new_language_important
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_vassalize_independent_ruler
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_invite_involved_as_honorary_guests_to_feast_hunt
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_supporter_win_unfair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_supporter_win_fair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_supporter_declare_unfair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_supporter_declare_fair_war_within_the_region
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_install_loyalist_cb
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_imprison_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_execute_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_unnatural_death_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_reveal_secret_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_detractor_forced_conversion
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_turn_detractor_into_supporter
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_gain_struggle_titles_from_interlopers_uninvolved
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_stabil_catalyst_became_supporter_fp3
+				value = 0
+			}
+			# CONCESSION
+			set_global_variable = {
+				name = sp_concession_catalyst_missing_caliphate_or_arabian_empire
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_caliph_or_emperor_loses_revolt_war
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_caliph_or_emperor_accepts_faction_demands
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_caliph_died_violently
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_caliph_died_naturally
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_war_ends_in_white_peace_between_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_became_best_friend_soulmate_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_became_friend_lover_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_forming_alliance_between_supporter_detractor_rulers
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_abandon_hook_on_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_grants_pardon_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_release_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_ransom_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_grants_vassal_to_de_jure_liege_supporter_detractor
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_gift_supporter_detractor_ruler
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_interloper_uninvolved_gain_struggle_titles
+				value = 0
+			}
+			set_global_variable = {
+				name = sp_concession_catalyst_raided_involved
+				value = 0
+			}
+		}
+
+		
+
+		# Cultural setup
+		if = {
+			limit = {
+				game_start_date = 1178.10.1
+			}
+			culture:norman = {
+				set_name_list = name_list_late_norman
+			}
+		}
+
+		
+
+		# MPO Tribes of the North cultrad mechanic
+		if = {
+			limit = {
+				has_dlc_feature = khans_of_the_steppe
+			}
+			every_county_in_region = {
+				region = mpo_region_permafrost
+				if = {
+					limit = {
+						holder.culture ?= culture
+						culture = {
+							has_cultural_parameter = permafrost_modifier_mechanic
+						}
+					}
+					add_county_modifier = mpo_siberian_permafrost_modifier
+				}
+				else = {
+					add_county_modifier = mpo_siberian_permafrost_modifier_bad
+				}
+
+			}
+		}
+
+		# Byzantine name game rule
+		title:e_byzantium = {
+			if = {
+				limit = {
+					has_game_rule = eastern_rome_name_of_byzantium
+				}
+				set_title_name = e_eastern_roman_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = roman_empire_name_of_byzantium
+				}
+				set_title_name = h_roman_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = romania_name_of_byzantium
+				}
+				set_title_name = e_romania_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = empire_of_the_greeks_name_of_byzantium
+				}
+				set_title_name = e_empire_of_the_greeks
+			}
+			else_if = {
+				limit = {
+					has_game_rule = rhomaion_name_of_byzantium
+				}
+				set_title_name = e_rhomaion
+			}
+			else_if = {
+				limit = {
+					has_game_rule = unholy_roman_empire_name_of_byzantium
+				}
+				set_title_name = e_unholy_roman_empire
+			}
+		}
+
+		# Remove Coronation Doctrine if you don't have the DLC
+		if = {
+			limit = {
+				has_ach_dlc_trigger = no
+			}
+			every_religion_global = {
+				every_faith = {
+					switch = {
+						trigger = has_doctrine
+						doctrine_no_anointment = { remove_doctrine = doctrine_no_anointment }
+						doctrine_anointment_permitted = { remove_doctrine = doctrine_anointment_permitted }
+						doctrine_imperial_anointment = { remove_doctrine = doctrine_imperial_anointment }
+					}
+				}
+			}
+		}
+
+		# Set Coronation laws for everyone
+		if = {
+			limit = {
+				has_ach_dlc_trigger = yes
+			}
+			every_ruler = {
+				limit = {
+					coronation_trigger = yes
+					age >= 12
+					
+				}
+				save_temporary_scope_as = ruler
+				if = {
+					limit = {
+						highest_held_title_tier > tier_kingdom
+						NOT = {
+							has_any_shunned_or_criminal_trait_in_faith_trigger = {
+								CHARACTER = scope:ruler
+								FAITH = scope:ruler.faith
+							}
+							faith = { has_doctrine = doctrine_no_anointment }
+						}
+					}
+					if = {
+						limit = {
+							NOT = {
+								has_game_rule = coronation_laws_off
+								has_realm_law = crowned_emperor
+							}
+						}
+						add_realm_law_skip_effects = crowned_emperor
+					}
+					set_variable = crowned_emperor_var
+				}
+				else = {
+					if = {
+						limit = {
+							NOT = {
+								has_game_rule = coronation_laws_off
+								has_realm_law = crowned_king
+							}
+						}
+						add_realm_law_skip_effects = crowned_king
+					}
+					set_variable = crowned_king_var
+				}
+			}
+		}
+
+		# TGP: extra legitimacy for the Hegemon, so you don't fold over immediately
+		if = {
+			limit = { has_tgp_dlc_trigger = yes }
+			title:h_china.holder = {
+				# and even more for the Song, as they were in a pretty good shape on our start dates
+				if = {
+					limit = {
+						situation:dynastic_cycle ?= {
+							OR = {
+								situation_current_phase = situation_dynastic_cycle_phase_stability_expansion
+								situation_current_phase = situation_dynastic_cycle_phase_stability_advancement
+							}
+						}
+					}
+					add_legitimacy = 4500
+				}
+				else = {
+					add_legitimacy = 3000
+				}
+			}
+		}
+		
+
+		### FP1 culture innovations (Varangian / All Things — DLC-gated; see culture history comments)
+		fp1_culture_innovation_setup_effect = yes
+
+		set_global_variable = {
+			name = natural_disaster_initial_grace_period
+			years = natural_disaster_initial_grace_period_years
+		}
+
+		### TGP Earthquake Regions
+		# background regions
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_europe }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_europe_south }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_asia_china }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:north_pacific_earthquake_region } # Basically Japan, whole region as risky
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_asia_north_east_and_korea }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_asia_southeast_mainland } # no Burma since it's already fully covered by sichuan_myanmar_earthquake_region
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_asia_southeast_islands }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_asia_minor }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_middle_east }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_india }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_steppe }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_siberia }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_tibet }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_africa }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:world_africa_north_east }
+		# strips
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:himalaya_earthquake_region }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:sichuan_myanmar_earthquake_region }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:south_china_coastaline_earthquake_region }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:north_china_earthquake_region }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:mongolia_baikal_earthquake_region }
+		add_to_global_variable_list = { name = earthquake_region_list target = geographical_region:central_asian_earthquake_region }
+
+		### TGP Flood Regions
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:amur_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:danube_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:daugava_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:dnieper_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:dniester_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:don_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:elbe_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:ganges_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:garonne_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:godavari_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:guadalquivir_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:guadiana_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:indus_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:irrawaddy_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:kaveri_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:loire_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:lovat_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:mahanadi_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:mekong_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:niger_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:nile_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:pearl_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:po_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:rhine_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:rhone_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:seine_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:tapti_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:tigris_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:vistula_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:volga_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:yangtze_river_region }
+		add_to_global_variable_list = { name = flood_region_list target = geographical_region:yellow_river_region }
+		
+		#
+		
+	}
+}
+
+# Like on_game_start, except it is called once the host (or player, in single player) exits the lobby. Good for anything where you need to know who the players are, or what the game rules are
+on_game_start_after_lobby = {
+	effect = {
+		disable_succession_calculation = yes
+	
+		# To prevent the Season Changes event from triggering on game start
+		situation:the_great_steppe ?= {
+			every_participant_group = {
+				every_situation_group_participant = {
+					set_variable = {
+						name = steppe_game_start_var
+						years = 1
+					}
+				}
+			}
+		}
+
+		# Extra Nomad Regions
+		#Tibet
+		if = {
+		    limit = {
+				has_mpo_dlc_trigger = yes
+				has_game_rule = tibet_nomad_region_on
+			}
+			start_situation = {
+				type = game_rule_extra_nomads_tibet
+				start_phase = situation_steppe_abundant_grazing_season
+				save_scope_as = my_situation
+			}
+			scope:my_situation = {
+				every_situation_county = {
+					limit = {
+						holder = {
+							government_has_flag = government_is_tribal
+						}
+					}
+					holder = {
+						set_variable = {
+							name = steppe_game_start_var
+							years = 1
+						}
+						every_held_title = {
+							if = {
+								limit = {
+									title_province = {
+										has_holding_type = tribal_holding
+									}
+								}
+								title_province = {
+									set_holding_type = nomad_holding
+								}
+							}
+						}
+						change_government = nomad_government
+						if = {
+							limit = {
+								OR = {
+									domicile.domicile_culture != capital_county.culture
+									domicile.domicile_faith != capital_county.faith
+								}
+							}
+							domicile = {
+								set_domicile_culture = prev.capital_county.culture
+								set_domicile_faith = prev.capital_county.faith
+							}
+						}
+					}
+				}
+			}
+		}
+		#Sami
+		if = {
+		    limit = {
+				has_mpo_dlc_trigger = yes
+				has_game_rule = sami_nomad_region_on
+			}
+			start_situation = {
+				type = game_rule_extra_nomads_sami
+				start_phase = situation_steppe_abundant_grazing_season
+				save_scope_as = my_situation
+			}
+			scope:my_situation = {
+				every_situation_county = {
+					limit = {
+						holder = {
+							OR = {
+								culture = culture:sami
+								culture = culture:karelian
+								culture = culture:samoyed
+								is_ai = no
+							}
+						}
+					}
+					holder = {
+						set_variable = {
+							name = steppe_game_start_var
+							years = 1
+						}
+						every_held_title = {
+							if = {
+								limit = {
+									title_province = {
+										has_holding_type = tribal_holding
+									}
+								}
+								title_province = {
+									set_holding_type = nomad_holding
+								}
+							}
+						}
+						change_government = nomad_government
+					}
+				}
+			}
+		}
+		#Arabia
+		if = {
+		    limit = {
+				has_mpo_dlc_trigger = yes
+				has_game_rule = arabia_nomad_region_on
+			}
+			start_situation = {
+				type = game_rule_extra_nomads_arabs
+				start_phase = situation_steppe_severe_drought_season
+				save_scope_as = my_situation
+				sub_region = {
+					key = arabia_nomads
+					start_phase = situation_steppe_severe_drought_season
+					map_color = { 34 255 76 }
+					geographical_regions = { arab_nomad_area }
+				}
+				sub_region = {
+					key = egypt_nomads
+					start_phase = situation_steppe_abundant_grazing_season
+					map_color = { 24 155 76 }
+					geographical_regions = { egypt_nomad_area }
+				}
+			}
+			scope:my_situation = {
+				every_situation_county = {
+					limit = {
+						holder = {
+							government_has_flag = government_is_tribal
+						}
+					}
+					holder = {
+						set_variable = {
+							name = steppe_game_start_var
+							years = 1
+						}
+						every_held_title = {
+							if = {
+								limit = {
+									title_province = {
+										has_holding_type = tribal_holding
+									}
+								}
+								title_province = {
+									set_holding_type = nomad_holding
+								}
+							}
+						}
+						change_government = nomad_government
+					}
+				}
+			}
+		}
+		#Sahel
+		if = {
+		    limit = {
+				has_mpo_dlc_trigger = yes
+				has_game_rule = sahel_nomad_region_on
+			}
+		    start_situation = {
+				type = game_rule_extra_nomads_sahel
+				start_phase = situation_steppe_severe_drought_season
+				save_scope_as = my_situation
+				sub_region = {
+					key = north_africa_nomads
+					start_phase = situation_steppe_abundant_grazing_season
+					map_color = { 155 62 0 }
+					geographical_regions = { sahel_north_africa_nomad_area }
+				}
+				sub_region = {
+					key = sahara_nomads
+					start_phase = situation_steppe_severe_drought_season
+					map_color = { 255 232 100 }
+					geographical_regions = { sahel_desert_nomad_area }
+				}
+				sub_region = {
+					key = sahel_nomads
+					start_phase = situation_steppe_abundant_grazing_season
+					map_color = { 100 46 92 }
+					geographical_regions = { sahel_sub_saharan_africa_nomad_area }
+				}
+			}
+			scope:my_situation = {
+				every_situation_county = {
+					limit = {
+						holder = {
+							government_has_flag = government_is_tribal
+							OR = {
+								culture = { has_cultural_pillar = heritage_berber }
+								culture = culture:bedouin
+								is_ai = no
+							}
+							NOR = {
+								culture = culture:welayta
+								culture = culture:ethiopian
+								culture = culture:nubian
+								culture = culture:daju
+							}
+						}
+					}
+					holder = {
+						set_variable = {
+							name = steppe_game_start_var
+							years = 1
+						}
+						every_held_title = {
+							if = {
+								limit = {
+									title_province = {
+										has_holding_type = tribal_holding
+									}
+								}
+								title_province = {
+									set_holding_type = nomad_holding
+								}
+							}
+						}
+						change_government = nomad_government
+					}
+				}
+			}
+		}
+		#Horn of Africa
+		if = {
+		    limit = {
+				has_mpo_dlc_trigger = yes
+				has_game_rule = horn_of_africa_nomad_region_on
+			}
+		    start_situation = {
+				type = game_rule_extra_nomads_horn
+				start_phase = situation_steppe_severe_drought_season
+				save_scope_as = my_situation
+			}
+			scope:my_situation = {
+				every_situation_county = {
+					limit = {
+						holder = {
+							government_has_flag = government_is_tribal
+							OR = {
+								culture = culture:somali
+								culture = culture:beja
+								culture = culture:afar
+								culture = culture:bedouin
+								AND = {
+									is_ai = no
+									NOR = {
+										culture = culture:welayta
+										culture = culture:ethiopian
+										culture = culture:nubian
+										culture = culture:daju
+									}
+								}
+							}
+						}
+					}
+					holder = {
+						set_variable = {
+							name = steppe_game_start_var
+							years = 1
+						}
+						every_held_title = {
+							if = {
+								limit = {
+									title_province = {
+										has_holding_type = tribal_holding
+									}
+								}
+								title_province = {
+									set_holding_type = nomad_holding
+								}
+							}
+						}
+						change_government = nomad_government
+					}
+				}
+			}
+		}
+		### INITIAL BUDGET CALC, ONE MORE AFTER THE EVERY_RULER ASSIGNS PROVINCE TYPES ###
+		if = {
+			limit = {
+				exists = title:h_china.holder
+				has_tgp_dlc_trigger = yes
+			}
+			title:h_china.holder ?= {
+				enact_treasury_budgets_init = yes
+			}
+		}
+		
+		
+		
+		every_ruler = { # PUT EVERY_RULER TYPE STUFF HERE FOR PERFORMANCE REASONS
+			### Every nomad in the Steppe Region gets their yurt domicile goodies ###
+			if = {
+				limit = {
+					government_has_flag = government_is_nomadic
+					is_landed = yes
+				}
+				save_scope_as = holder
+				if = {
+					limit = {
+						NOT = {
+							any_held_title = {
+								is_nomad_title = yes
+							}
+						}
+					}
+					create_nomad_title = {
+						name = nomad_title_name
+						holder = scope:holder
+						government = nomad_government
+						save_scope_as = new_nomad_title
+					}
+				}
+				if = {
+					limit = {
+						exists = situation:the_great_steppe
+						any_character_situation = {
+							this = situation:the_great_steppe
+						}
+					}
+					add_trait = nomadic_philosophy
+					dynasty ?= {
+						every_dynasty_member = {
+							limit = {
+								top_liege ?= {
+									government_has_flag = government_is_nomadic
+								}
+							}
+							add_trait = nomadic_philosophy
+						}
+					}
+				}
+				
+				switch = {
+					trigger = primary_title.tier
+					tier_county = {
+						add_gold = {
+							value = {
+								value = 0
+								add = { 25 40 }
+								multiply = gold_value_scale_by_era
+							}
+						}
+					}
+					tier_duchy = {
+						add_gold = {
+							value = {
+								value = 0
+								add = { 50 80 }
+								multiply = gold_value_scale_by_era
+							}
+						}
+						add_realm_law_skip_effects = nomadic_authority_2
+						domicile ?= {
+							add_domicile_building = yurt_main_02
+							add_random_yurt_external_building_effect = yes
+							upgrade_random_yurt_external_building_effect = yes
+						}
+					}
+					tier_kingdom = {
+						add_gold = {
+							value = {
+								value = 0
+								add = { 100 125 }
+								multiply = gold_value_scale_by_era
+							}
+						}
+						add_realm_law_skip_effects = nomadic_authority_3
+						if = {
+							limit = {
+								current_year >= 1100
+							}
+							domicile ?= {
+								add_domicile_building = yurt_main_02
+								add_domicile_building = yurt_main_03
+								add_random_yurt_external_building_effect = yes
+								add_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+							}
+						}
+						else = {
+							domicile ?= {
+								add_domicile_building = yurt_main_02
+								add_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+							}
+						}
+					}
+					tier_empire = {
+						add_gold = {
+							value = {
+								value = 0
+								add = { 150 200 }
+								multiply = gold_value_scale_by_era
+							}
+						}
+						add_realm_law_skip_effects = nomadic_authority_3
+						if = {
+							limit = {
+								current_year >= 1100
+							}
+							domicile ?= {
+								add_domicile_building = yurt_main_02
+								add_domicile_building = yurt_main_03
+								add_domicile_building = yurt_main_04
+								add_random_yurt_external_building_effect = yes
+								add_random_yurt_external_building_effect = yes
+								add_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+							}
+						}
+						else = {
+							domicile ?= {
+								add_domicile_building = yurt_main_02
+								add_domicile_building = yurt_main_03
+								add_random_yurt_external_building_effect = yes
+								add_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+								upgrade_random_yurt_external_building_effect = yes
+							}
+						}
+					}
+				}
+				if = {
+					limit = {
+						has_royal_court = yes
+						NOT = { has_court_type = court_nomadic }
+					}
+					set_court_type = court_nomadic
+				}
+				every_councillor = {
+					limit = {
+						NOR = {
+							has_council_position = councillor_spymaster
+							has_council_position = councillor_court_chaplain
+							has_council_position = councillor_spouse
+						}
+					}
+					prev = { fire_councillor_skip_effects = prev }
+					remove_opinion = {
+						modifier = fired_from_council_opinion
+						target = prev
+					}
+				}
+				random_courtier = {
+					limit = {
+						is_adult = yes
+					}
+					save_scope_as = astrologer_character
+					prev = {
+						appoint_court_position = {
+							recipient = scope:astrologer_character
+							court_position = court_astrologer_court_position
+						}
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							NOT = { exists = cp:councillor_kurultai_1 }
+							NOT = { exists = cp:councillor_kurultai_2 }
+							NOT = { exists = cp:councillor_kurultai_3 }
+							NOT = { exists = cp:councillor_kurultai_4 }
+						}
+					}
+					ordered_vassal = {
+						order_by = current_military_strength
+						limit = {
+							is_councillor = no
+						}
+						make_councillor_start_up_effect = yes
+					}
+				}
+				if = {
+					limit = {
+						OR = {
+							NOT = { exists = cp:councillor_kurultai_1 }
+							NOT = { exists = cp:councillor_kurultai_2 }
+							NOT = { exists = cp:councillor_kurultai_3 }
+							NOT = { exists = cp:councillor_kurultai_4 }
+						}
+					}
+					every_knight = {
+						limit = {
+							is_councillor = no
+						}
+						make_councillor_start_up_effect = yes
+					}
+				}
+				ordered_councillor = {
+					order_by = stewardship
+					position = 0
+					limit = {
+						NOR = {
+							has_council_position = councillor_spymaster
+							has_council_position = councillor_court_chaplain
+							has_council_position = councillor_spouse
+						}
+					}
+					switch = {
+						trigger = this
+						liege_or_court_owner.cp:councillor_kurultai_1 = {
+							set_council_task = {
+								task_type = task_kurultai_fertility_1
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_2 = {
+							set_council_task = {
+								task_type = task_kurultai_fertility_2
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_3 = {
+							set_council_task = {
+								task_type = task_kurultai_fertility_3
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_4 = {
+							set_council_task = {
+								task_type = task_kurultai_fertility_4
+								target = liege_or_court_owner.capital_province
+							}
+						}
+					}
+				}
+				ordered_councillor = {
+					order_by = learning
+					position = 0
+					limit = {
+						NOR = {
+							has_council_position = councillor_spymaster
+							has_council_position = councillor_court_chaplain
+							has_council_position = councillor_spouse
+							is_performing_council_task = task_kurultai_fertility_1
+							is_performing_council_task = task_kurultai_fertility_2
+							is_performing_council_task = task_kurultai_fertility_3
+							is_performing_council_task = task_kurultai_fertility_4
+						}
+					}
+					switch = {
+						trigger = this
+						liege_or_court_owner.cp:councillor_kurultai_1 = {
+							set_council_task = {
+								task_type = task_kurultai_court_astrologer_1
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_2 = {
+							set_council_task = {
+								task_type = task_kurultai_court_astrologer_2
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_3 = {
+							set_council_task = {
+								task_type = task_kurultai_court_astrologer_3
+								target = liege_or_court_owner.capital_province
+							}
+						}
+						liege_or_court_owner.cp:councillor_kurultai_4 = {
+							set_council_task = {
+								task_type = task_kurultai_court_astrologer_4
+								target = liege_or_court_owner.capital_province
+							}
+						}
+					}
+				}
+				#Nomadic Philosophy lobby added realms
+				if = {
+					limit = {
+						exists = situation:the_great_steppe
+						any_character_situation = {
+							this = situation:the_great_steppe
+						}
+						NOT = {
+							has_trait = nomadic_philosophy
+						}
+					}
+					add_trait = nomadic_philosophy
+					dynasty ?= {
+						every_dynasty_member = {
+							limit = {
+								top_liege ?= {
+									government_has_flag = government_is_nomadic
+								}
+							}
+							add_trait = nomadic_philosophy
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					government_has_flag = government_is_herder
+				}
+				if = {
+					limit = { gold >= 30 }
+					remove_short_term_gold = 27
+				}
+				else_if = {
+					limit = { gold >= 25 }
+					remove_short_term_gold = 22
+				}
+				else_if = {
+					limit = { gold >= 20 }
+					remove_short_term_gold = 18
+				}
+				else_if = {
+					limit = { gold >= 15 }
+					remove_short_term_gold = 11
+				}
+				else_if = {
+					limit = { gold >= 10 }
+					remove_short_term_gold = 5
+				}
+				# We're fine with them having 10 gold max
+
+				if = {
+					limit = {
+						is_ai = no
+					}
+					every_held_title = {
+						limit = {
+							tier = tier_county
+							title_province = {
+								has_holding_type = herder_holding
+							}
+						}
+						title_province = {
+							set_holding_type = nomad_holding
+						}
+					}
+					change_government = nomad_government
+				}
+			}
+			# Make sure that Realm Priests are landed theocrats where it makes sense
+			else_if = {
+				limit = {
+					highest_held_title_tier >= tier_duchy
+				}
+				if = {
+					limit = {
+						exists = cp:councillor_court_chaplain
+						cp:councillor_court_chaplain = {
+							is_ruler = no
+						}
+						faith = { has_doctrine = doctrine_clerical_succession_spiritual_fixed_appointment }
+						any_vassal = {
+							is_physically_able_adult = yes
+							is_councillor = no
+							government_has_flag = government_is_theocracy
+							can_be_court_chaplain_trigger = { COURT_OWNER = liege }
+							faith = liege.faith
+						}
+					}
+					random_vassal = {
+						limit = {
+							is_physically_able_adult = yes
+							is_councillor = no
+							government_has_flag = government_is_theocracy
+							can_be_court_chaplain_trigger = { COURT_OWNER = liege }
+							faith = liege.faith
+						}
+						weight = {
+							base = 1
+							modifier = {
+								add = 1000
+								faith.religious_head ?= this
+							}
+							modifier = {
+								add = learning
+							}
+							modifier = {
+								add = primary_title.tier
+							}
+						}
+						liege = {
+							assign_councillor_type = {
+								type = councillor_court_chaplain
+								remove_existing_councillor = yes
+								target = prev
+							}
+						}
+					}
+				}
+				if = {
+					limit = {
+						is_landless_adventurer = yes
+					}
+					if = { limit = { has_realm_law = crown_authority_0 } remove_realm_law = crown_authority_0 }
+				}
+			}
+			#Autopopulate families.
+			if = {
+				limit = {
+					trigger_if = {
+						limit = {
+							has_game_rule = on_generate_families_ai_only
+						}
+						is_ai = yes
+					}
+					trigger_else = {
+						has_game_rule = on_generate_families
+					}
+				}
+				trigger_event = game_rule.1001
+			}
+
+			### CE1 LEGITIMACY SETUP ###
+			if = {
+				limit = {
+					exists = this
+					has_legitimacy = yes
+				}
+				add_legitimacy = base_legitimacy_value
+			}
+
+			### MANDALA SETUP ###
+			if = {
+				limit = { government_has_flag = government_is_mandala }
+
+				#Triple Mandala's Legitimacy to make them not start at a negative expectation at game start
+				add_legitimacy = {
+					value = legitimacy
+					multiply = 2
+					if = {
+						limit = {
+							highest_held_title_tier > tier_duchy
+						}
+						multiply = 3
+					}
+					else = { multiply = 2 }
+				}
+
+				#Yer starter kit
+				change_to_mandala_government_decree_effect = yes
+				#No Succession for this character pls
+				set_variable = {
+					name = not_subject_to_succession_trials
+					value = flag:started_as_mandala
+				}
+				if = {
+					limit = { var:not_subject_to_succession_trials ?= flag:started_as_mandala }
+					#To prevent 'unused except in loc' errors :catto:
+				}
+
+				#Aspect modifiers?
+				house = {
+					#Start counting years of peace
+					if = {
+						limit = { has_house_head_parameter = peaceful_rule_5_year_modifier }
+						house_head = {
+							#Aspect modifier
+							set_variable = {
+								name = mandala_house_power_accumulated_increments_of_peace
+								value = 1
+							}
+							add_character_modifier = { modifier = mandala_increments_of_peace_modifier }
+							trigger_event = {
+								id = tgp_east_asia_mandala_events.0200
+								years = 5
+							}
+							#Aspect trigger
+							set_variable = {
+								name = serenity_mandala_years_of_non_aggression_war
+								value = 0
+							}
+							trigger_event = {
+								id = tgp_east_asia_mandala_events.0205
+								years = 1
+							}
+						}
+					}
+					#Give the initial Creator modifier
+			    	if = {
+						limit = { has_house_head_parameter = creator_10_year_modifier }
+						house_head = {
+							set_variable = {
+								name = mandala_house_power_accumulated_creator
+								value = 1
+								years = 10
+							}
+							hidden_effect = {
+								mandala_apply_10_year_modifier = yes
+							}
+						}
+					}
+				}
+			}
+
+			if = {
+				limit = {
+					title:h_china.holder ?= top_liege
+					this != top_liege
+				}
+				### TGP MERIT AND TREASURY HANDOUT ON GAME START ###
+				if = {
+					limit = {
+						culture = {
+							has_cultural_pillar = heritage_chinese
+						}
+						NOR = {
+							AND = {
+								has_council_position = councillor_court_chaplain
+								NOT = { has_title = title:e_minister_of_rites }
+							}
+							has_trait = devoted
+						}
+						government_has_flag = government_is_celestial
+						is_faith_dominant_gender = yes
+					}
+					save_temporary_scope_as = exam_contender
+					hidden_effect = {
+						assign_completed_exams_based_on_merit_effect = yes
+					}
+					if = {
+						limit = {
+							any_parent = {
+								OR = {
+									has_trait = ambitious
+									has_trait = scholar
+									has_trait = diligent
+									has_trait = confucian_education
+								}
+							}
+							NOR = {
+								has_trait = lazy
+								has_trait = dull
+								has_trait = intellect_bad
+								location.county ?= {
+									development_level <= bad_development_level
+								}
+							}
+						}
+						add_character_flag = passed_child_exam
+					}
+					if = { # We adjust Merit depending on the dynastic cycle phase
+						limit = {
+							situation:dynastic_cycle ?= {
+								situation_current_phase = situation_dynastic_cycle_phase_stability_advancement
+							}
+						}
+						change_merit = {
+							value = merit
+							multiply = 0.1
+						}
+					}
+					if = {
+						limit = {
+							is_ai = no
+							is_governor_or_admin_count = yes
+						}
+						spawn_celestial_governance_contract_effect = yes
+					}
+					
+				}
+				### Examination pass status and initial wave of governor candidates done after game start, in order to include generated families ###
+				every_courtier = {
+					limit = {
+						is_lowborn = no
+						culture = { has_cultural_pillar = heritage_chinese }
+						NOR = {
+							has_council_position = councillor_court_chaplain
+							has_trait = devoted
+						}
+						government_has_flag = government_is_celestial # courtiers have governments, too!
+						is_faith_dominant_gender = yes
+						age >= 30
+						static_group_filter = {
+							group = ai_filter
+							match = 0.5
+						}
+					}
+					hidden_effect = {
+						add_character_flag = passed_provincial_exam
+						add_character_modifier = {
+							modifier = tgp_passed_provincial_exam_modifier
+						}
+						add_character_flag = passed_metropolitan_exam
+						add_character_modifier = {
+							modifier = tgp_passed_metropolitan_exam_modifier
+						}
+						change_merit = {
+							value = county_starting_merit_value
+							add = age
+							add = learning
+						}
+					}
+				}
+				save_scope_as = governor
+			}
+
+			if = {
+				limit = {
+					government_has_flag = government_has_merit
+					title:h_china.holder != top_liege
+				}
+				### TGP MERITOCRATIC/STEPPE ADMIN SETUP ON GAME START ###
+				if = {
+					limit = {
+						NOR = {
+							AND = {
+								has_council_position = councillor_court_chaplain
+								NOT = { has_title = title:e_minister_of_rites }
+							}
+							has_trait = devoted
+						}
+						government_has_flag = government_has_merit
+						is_faith_dominant_gender = yes
+					}
+					hidden_effect = {
+						meritocratic_assign_completed_exams_based_on_merit_effect = yes
+					}
+				}
+			}
+
+			#elder/disciple setup
+			if = {
+				limit = {
+					government_allows = merit
+					top_overlord != title:h_china.holder
+				}
+				if = {
+					limit = {
+						top_liege = this
+						merit_level >= merit_level_expected_kingdom_value
+					}
+					add_to_list = elders
+				}
+				else_if = {
+					limit = {
+						merit_level >= merit_level_expected_duchy_value
+					}
+					add_to_list = elders
+				}
+				else = {
+					add_to_list = disciple
+				}
+			}
+
+			# Sexualities if game rules are default
+			if = {
+				limit = { has_game_rule = sexuality_distribution_default }
+				if = {
+					limit = {
+						is_adult = no
+						age >= 10
+					}
+					game_rule_sexuality_distribution_reroll_effect = yes
+				}
+
+				every_courtier_or_guest = {
+					if = {
+						limit = {
+							is_adult = no
+							age >= 10
+						}
+						game_rule_sexuality_distribution_reroll_effect = yes
+					}
+				}
+			}
+		}
+		
+		
+
+		if = {
+			limit = { has_game_rule = sexuality_distribution_default }
+			every_duchy = {
+				limit = {
+					exists = title_capital_county.title_province
+				}
+				title_capital_county.title_province = { save_scope_as = pool_province }
+				# Sexualities for Pool Characters if game rules are default
+				every_pool_character = {
+					limit = {
+						NOT = { is_in_list = pool_characters }
+					}
+					province = scope:pool_province
+					add_to_list = pool_characters
+				}
+			}
+			every_in_list = {
+				list = pool_characters
+				if = {
+					limit = {
+						is_adult = no
+						age >= 10
+					}
+					game_rule_sexuality_distribution_reroll_effect = yes
+				}
+			}
+		}
+
+		#elder/disciple setup (continued from above)
+		every_in_list = {
+			list = disciple
+			save_scope_as = disciple
+			random_in_list = {
+				list = elders
+				limit = {
+					top_liege = scope:disciple.top_liege
+					eligible_for_elder_trigger = {
+						DISCIPLE = scope:disciple
+					}
+				}
+				save_scope_as = elder
+			}
+			if = {
+				limit = {
+					exists = scope:elder
+				}
+				random = {
+					chance = 65
+					set_relation_elder = scope:elder
+				}
+			}
+		}
+
+		if = {
+			limit = {
+				has_mpo_dlc_trigger = yes
+			}
+			#Fully Landlocked Nomad Cultures Setup
+			every_culture_global = {
+				limit = {
+					has_cultural_pillar = head_determination_herd # IRToCK3: Made it check that the culture uses Herd to determine culture head, instead of checking specific heritages
+					# IRToCK3: Making sure that the Nomad culture has no coastal counties
+					NOT = {
+						any_culture_county = { is_coastal_county = yes }
+					}
+				}
+				add_to_global_variable_list = {
+					name = fully_landlocked_nomad_cultures
+					target = this
+				}
+			}
+			recalculate_cultural_heads_of_type = herd
+		}
+
+		### GAME RULE: VIEW ON SAME-SEX RELATIONS
+		if = {
+			limit = { has_game_rule = accepted_same_sex_relations }
+			game_rule_accepted_same_sex_relations_effect = yes
+		}
+
+		### GAME RULE: RANDOM RULER PLACEMENT
+		if = {
+			limit = { NOT = { has_game_rule = random_ruler_placement_off } }
+			game_rule_random_ruler_placement_effect = yes
+		}
+
+		### GAME RULE: RANDOMIZE FAITH
+		if = {
+			limit = { has_game_rule = randomized_faiths_on }
+			game_rule_randomize_faith_effect = yes
+		}
+
+		### GAME RULE: FAITH ACCEPTANCE
+		if = {
+			limit = { has_game_rule = full_faith_acceptance }
+			game_rule_faith_acceptance_effect = yes
+		}
+
+		### GAME RULE: GENDER EQUALITY ###
+		if = {
+			limit = { has_game_rule = full_gender_equality }
+			game_rule_full_gender_equality_effect = yes
+		}
+		else_if = {
+			limit = { has_game_rule = inversed_gender_equality }
+			game_rule_inversed_gender_equality_effect = yes
+		}
+		else_if = {
+			limit = { has_game_rule = lenient_gender_equality }
+			game_rule_lenient_gender_equality_effect = yes
+		}
+
+		### GAME RULE: SEXUALITY DISTRIBUTION ###
+		if = {
+			limit = { NOT = { has_game_rule = sexuality_distribution_default } }
+			game_rule_sexuality_distribution_effect = yes
+		}
+
+		### GAME RULE: SITUATION TOGGLES
+		struggle:iberian_struggle ?= {
+			if = {
+				limit = { has_game_rule = struggle_iberia_toggle_off }
+				end_struggle = yes
+			}
+		}
+		struggle:persian_struggle ?= {
+			if = {
+				limit = { has_game_rule = struggle_persia_toggle_off }
+				end_struggle = yes
+			}
+		}
+		situation:the_great_steppe ?= {
+			if = {
+				limit = { has_game_rule = situation_the_great_steppe_toggle_off }
+				end_situation = yes
+			}
+		}
+
+		
+
+		
+
+		### 867 - MISC ###
+		
+
+		
+
+		# Give Ruler Designer characters regencies.
+		every_in_global_list = {
+			variable = rd_chars_needing_regencies
+			trigger_event = diarchy.0011
+			# Aaaand clean the list.
+			save_temporary_scope_as = char_temp
+			remove_list_global_variable = {
+				name = rd_chars_needing_regencies
+				target = scope:char_temp
+			}
+		}
+
+		### ACHIEVEMENT: FROM RAGS TO RICHES
+		every_player = {
+			limit = { highest_held_title_tier = tier_county }
+			add_achievement_global_variable_effect = {
+				VARIABLE = achievement_rags_to_riches_valid
+				VALUE = yes
+			}
+		}
+
+		### ACHIEVEMENT (FP2): Holidaying in Iberia
+		every_player = {
+			limit = { fp2_character_involved_in_struggle_trigger = no }
+			add_achievement_global_variable_effect = {
+				VARIABLE = fp2_holiday_in_iberia_achievement_unlocked
+				VALUE = no # Boolean in actual usage
+			}
+		}
+
+		
+
+		
+
+		### ACHIEVEMENT: FROM RAGS TO RICHES TO RAGS TO RICHES
+		every_player = {
+			limit = { highest_held_title_tier = tier_county }
+			add_achievement_global_variable_effect = {
+				VARIABLE = achievement_rags_to_riches_to_rags_to_riches_valid
+				VALUE = yes
+			}
+		}
+
+		#Set starting cultural acceptance
+		culture:vlach = {
+			change_cultural_acceptance = {
+				target = culture:serbian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:croatian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:bosnian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:bulgarian
+				value = 40
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:khazar = {
+			change_cultural_acceptance = {
+				target = culture:radhanite
+				value = 25
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:mordvin
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:meshchera
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:muroma
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:russian
+				value = 30
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:norse = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:finnish
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:swedish = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+			change_cultural_acceptance = {
+				target = culture:finnish
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		culture:norwegian = {
+			change_cultural_acceptance = {
+				target = culture:sami
+				value = 20
+				desc = cultural_acceptance_historical_relations
+			}
+		}
+		# In 867, the Slavic cultures are still very similar to each other, so we start them off at a very high tolerance.
+		if = {
+			limit = { current_date = 867.1.1 }
+			# West Slavic.
+			culture:pommeranian = {
+				change_cultural_acceptance = {
+					target = culture:czech
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polish
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:czech = {
+				change_cultural_acceptance = {
+					target = culture:polish
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:polish = {
+				change_cultural_acceptance = {
+					target = culture:polabian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:polabian = {
+				change_cultural_acceptance = {
+					target = culture:slovien
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:slovien = {
+				change_cultural_acceptance = {
+					target = culture:carantanian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:carantanian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:croatian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			# South Slavic.
+			culture:croatian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bosnian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:bosnian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:serbian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:serbian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:bulgarian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:bulgarian = {
+				change_cultural_acceptance = {
+					target = culture:russian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			# East Slavic.
+			culture:russian = {
+				change_cultural_acceptance = {
+					target = culture:ilmenian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			culture:ilmenian = {
+				change_cultural_acceptance = {
+					target = culture:severian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:volhynian
+					value = 50
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+			## Volhynian doesn't get its own box, because we've already applied acceptance to it bilaterally everywhere else.
+			#Splitting up Byzantine heritage means we need a little help reflecting historical relations
+			culture:greek = {
+				change_cultural_acceptance = {
+					target = culture:armenian
+					value = 20
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:georgian
+					value = 20
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:alan
+					value = 5
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+		}
+		if = {
+			limit = {
+				game_start_date >= 1066.1.1
+				game_start_date < 1178.1.1
+			}
+			culture:greek = {
+				change_cultural_acceptance = {
+					target = culture:armenian
+					value = 40
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:georgian
+					value = 25
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:alan
+					value = 10
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+		}
+		if = {
+			limit = { game_start_date >= 1178.1.1 }
+			culture:greek = {
+				change_cultural_acceptance = {
+					target = culture:armenian
+					value = 30
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:georgian
+					value = 15
+					desc = cultural_acceptance_historical_relations
+				}
+				change_cultural_acceptance = {
+					target = culture:alan
+					value = 10
+					desc = cultural_acceptance_historical_relations
+				}
+			}
+		}
+		
+
+		# Specific innovation unlock
+		if = {
+			limit = {
+				game_start_date >= 1066.1.1
+			}
+			every_culture_global = {
+				limit = {
+					OR = {
+						has_cultural_pillar = heritage_arabic
+						this = culture:yemeni
+					}
+				}
+				add_innovation = innovation_ghilman
+			}
+		}
+		# Custom ruler under the HRE should have lowered feudal obligations
+		if = {
+			limit = { exists = title:e_hre.holder }
+			title:e_hre.holder ?= {
+				every_vassal = {
+					limit = {
+						vassal_contract_has_modifiable_obligations = yes
+					}
+					vassal_contract_decrease_obligation_level = feudal_government_taxes
+					vassal_contract_decrease_obligation_level = feudal_government_levies
+					set_subject_contract_modification_blocked = no
+				}
+			}
+		}
+
+		
+
+		
+
+		
+
+		
+
+		### EP3 SETUP ###
+		if = {
+			limit = { has_ep3_dlc_trigger = yes }
+			### EP3 LAAMP SETUP ###
+			# Resources.
+			every_independent_ruler = {
+				limit = { has_government = landless_adventurer_government }
+				# Cash.
+				add_gold = {
+					value = {
+						value = 0
+						add = prestige
+						add = piety
+						divide = 10
+					}
+				}
+				save_temporary_scope_as = adventurer_scope
+				# Set CoA
+				primary_title = { set_coa = scope:adventurer_scope.house }
+				# Cleanup characters
+				every_councillor = {
+					if = {
+						limit = {
+							NOR = {
+								has_council_position = councillor_court_chaplain
+								has_council_position = councillor_spouse
+							}
+						}
+						scope:adventurer_scope = {
+							fire_councillor = prev
+						}
+						remove_opinion = {
+							modifier = fired_from_council_opinion
+							target = scope:adventurer_scope
+						}
+					}
+					else_if = {
+						limit = {
+							NOR = {
+								is_close_or_extended_family_of = prev
+								has_relation_lover = prev
+								has_relation_friend = prev
+								is_consort_of = prev
+								has_council_position = councillor_spouse
+							}
+						}
+						death = {
+							death_reason = death_vanished
+						}
+					}
+				}
+				# Evict everyone who isn't your family from your camp.
+				every_courtier = {
+					limit = {
+						prev = { save_temporary_scope_as = char_temp }
+						NOR = {
+							dynasty ?= scope:char_temp.dynasty
+							is_imprisoned_by = scope:char_temp
+							# Plus any relations, who are presumably meant to be here.
+							has_important_relationship_with_character_trigger = { CHARACTER = scope:char_temp }
+							# Catch bastards and such that may be left over.
+							is_close_or_extended_family_of = scope:char_temp
+						}
+					}
+					move_to_pool = yes
+				}
+				# Courtiers.
+				trigger_event = ep3_laamps.1001
+			}
+			# Starting camp purposes.
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			every_independent_ruler = {
+				if = {
+					limit = { is_landless_adventurer = yes }
+					# C... food.
+					domicile = { change_provisions = starting_provisions_value }
+					# Contracts
+					if = {
+						limit = { is_ai = no }
+						# Set up additional firing contracts.
+						player_adventurer_contract_generation_on_wait_in_place_effect = yes
+						#generate contracts if you are far away from your previous location
+						player_adventurer_contract_generation_on_domicile_moved_effect = yes
+					}
+					else = {
+						create_story = { type = story_adventurer_ai }
+						trigger_event = {
+							on_action = on_adventurer_ai_new_employer_arrival
+							days = { 10 30 }
+						}
+					}
+					# Sort our starting flavourisation.
+					if = {
+						limit = { has_realm_law = camp_purpose_mercenaries }
+						set_variable = flavourise_camp_purpose_mercenaries
+					}
+					else_if = {
+						limit = { has_realm_law = camp_purpose_wanderers }
+						set_variable = flavourise_camp_purpose_wanderers
+					}
+					else_if = {
+						limit = { has_realm_law = camp_purpose_scholars }
+						set_variable = flavourise_camp_purpose_scholars
+					}
+					else_if = {
+						limit = { has_realm_law = camp_purpose_explorers }
+						set_variable = flavourise_camp_purpose_explorers
+					}
+					else_if = {
+						limit = { has_realm_law = camp_purpose_brigands }
+						set_variable = flavourise_camp_purpose_brigands
+					}
+					else_if = {
+						limit = { has_realm_law = camp_purpose_legitimists }
+						set_variable = flavourise_camp_purpose_legitimists
+					}
+					# And tally our numbers for performance purposes.
+					add_to_global_variable_list = {
+						name = laamps_tally
+						target = this.primary_title
+					}
+				}
+				### EP3 ADMIN SETUP ###
+				if = {
+					limit = { government_allows = administrative }
+					save_scope_as = top_liege
+					### EP3 NOBLE FAMILIES & DOMICILE SETUP ###
+					random_held_title = { # May be removed once every_noble_family includes liege (TIT-51212)
+						limit = { is_noble_family_title = yes }
+						set_coa = scope:top_liege.house
+					}
+					every_noble_family = {
+						# Ensure Noble Family CoA match House
+						set_coa = holder.house
+						# Ensure holders of historical noble family titles are the default house heads
+						holder ?= {
+							save_scope_as = nf_holder
+							if = {
+								limit = { is_landed = yes }
+								capital_province = { save_scope_as = domicile_location }
+							}
+							house ?= {
+								if = {
+									limit = { house_head != scope:nf_holder }
+									set_house_head = scope:nf_holder
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		### TGP SETUP ###
+		if = {
+			limit = { has_tgp_dlc_trigger = yes }
+			### JAPAN
+
+			# Special variable that UI uses to display correct title
+			title:e_japan = {
+				# More starting house relations
+				holder ?= {
+					every_noble_family = {
+						holder.house ?= {
+							save_temporary_scope_as = house_temp
+							every_house_member = {
+								limit = {
+									is_married = yes
+									exists = primary_spouse.house
+									NOT = {
+										primary_spouse.house = { has_house_relation_with = scope:house_temp }
+									}
+								}
+								save_temporary_scope_as = member_temp
+								primary_spouse = { save_temporary_scope_as = spouse_temp }
+								house = {
+									change_house_relation_effect = {
+										HOUSE = scope:member_temp.primary_spouse.house
+										VALUE = house_relation_improve_minor_value
+										REASON = preexisting_marriage
+										CHAR = scope:member_temp
+										TARGET_CHAR = scope:spouse_temp
+										TITLE = scope:dummy_gender
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+
+			### IMPERIAL FAMILY
+			title:k_chrysanthemum_throne.holder ?= {
+				save_scope_as = japanese_emperor
+				# Give him some cash
+				add_gold = monumental_gold_value
+				house = {
+					# ENSURE MEMBERS REMAIN IN COURT OF EMPEROR
+					every_house_member = {
+						limit = {
+							is_ruler = no
+							is_married = no
+							NOT = { liege = scope:japanese_emperor }
+						}
+						save_scope_as = imperial_family_member
+						scope:japanese_emperor = { add_courtier = scope:imperial_family_member }
+					}
+				}
+				# GET THOSE ROOKIE NUMBERS UP
+				dynasty = {
+					while = {
+						limit = { dynasty_prestige_level < high_dynasty_prestige_level }
+						add_dynasty_prestige_level = 1
+					}
+				}
+			}
+
+			
+
+
+			
+
+
+			### MANDALA
+
+			
+			#Apply the Godking AI story to Maharajas with a temple
+			every_independent_ruler = {
+				limit = { government_has_flag = government_is_mandala }
+				if = {
+					limit = {
+						is_ai = yes
+						highest_held_title_tier >= tier_kingdom
+						has_mandala_capital_trigger = yes
+						trigger_if = {
+							limit = { has_ruined_mandala_capital_trigger = yes }
+							less_than_max_amount_of_mandala_capitals_trigger = yes
+						}
+					}
+					create_story = story_mandala
+				}
+			}
+			#Tai Migrations
+			every_county_in_region = { # save all migration counties to variable list
+				region = custom_tai_migration_target
+				add_to_global_variable_list = {
+					name = tai_migration_target_counties
+					target = this
+				}
+			}
+			every_in_global_list = { # give all saved migration county holders the story
+				variable = tai_migration_target_counties
+				holder = {
+					if = {
+						limit = {
+							NOT = {
+								any_owned_story = {
+									type = story_tai_migrations
+								}
+							}
+							has_tgp_dlc_trigger = yes
+							any_realm_province = {
+								culture = {
+									NOT = {
+										has_cultural_pillar = heritage_tai
+									}
+								}
+							}
+						}
+						create_story = story_tai_migrations
+					}
+				}
+			}
+		}
+		### TGP MERIT AND TREASURY HANDOUT ON GAME START ###
+		if = {
+			limit = {
+				has_tgp_dlc_trigger = yes
+			}
+			title:h_china.holder ?= {
+				# If the hegemon is from the ruler designer, let's ensure we got decent starting values
+				if = {
+					limit = {
+						is_from_ruler_designer = yes
+					}
+					if = {
+						limit = { # If we don't have enough legitimacy, let's increase it
+							legitimacy < legitimacy_level_3
+						}
+						add_legitimacy = {
+							value = legitimacy_level_3
+							add = 100 # To provide a margin and not drop down a level too quickly
+							subtract = legitimacy
+						}
+					}
+					if = {
+						limit = { # If the royal court is enabled, set it to a decent default
+							has_royal_court = yes
+						}
+						set_current_court_grandeur = court_grandeur_minimum_expected
+					}
+					# Let's add some starting currencies
+					add_prestige = 1000
+					add_piety = 500
+					change_influence = 1000
+					dynasty ?= { add_dynasty_prestige = 500 }
+				}
+				# Set Grand Chancellor as Chinese diarchy
+				try_start_diarchy = grand_secretariat
+			}
+		}
+		
+		
+		##TEACH CHINESE TO RELEVENT NOBLES###
+		
+		title:h_china.holder ?= {
+			every_tributary = {
+				add_to_list = holder_to_learn_chinese
+			}
+		}
+		every_in_list = {
+			list = holder_to_learn_chinese
+			tgp_learn_chinese_effect_game_start = yes
+			every_noble_family = {
+				holder ?= {
+					tgp_learn_chinese_effect_game_start = yes
+					house = {
+						every_house_member = {
+							tgp_learn_chinese_effect_game_start = yes
+						}
+					}
+				}
+			}
+		}
+		# Byzantium naming
+		title:e_byzantium = {
+			if = {
+				limit = {
+					has_game_rule = eastern_rome_name_of_byzantium
+				}
+				set_title_name = e_eastern_roman_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = roman_empire_name_of_byzantium
+				}
+				set_title_name = h_roman_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = romania_name_of_byzantium
+				}
+				set_title_name = e_romania_empire
+			}
+			else_if = {
+				limit = {
+					has_game_rule = empire_of_the_greeks_name_of_byzantium
+				}
+				set_title_name = e_empire_of_the_greeks
+			}
+			else_if = {
+				limit = {
+					has_game_rule = rhomaion_name_of_byzantium
+				}
+				set_title_name = e_rhomaion
+			}
+			else_if = {
+				limit = {
+					has_game_rule = unholy_roman_empire_name_of_byzantium
+				}
+				set_title_name = e_unholy_roman_empire
+			}
+		}
+		# Saharan stuff.
+		every_county_in_region = {
+			region = custom_sahara_proper
+			# Every county is in the region, not every province of every county, so we go to county to avoid iterating over every world province _then_ check which ones are in the region.
+			every_county_province = { apply_saharan_provisions_debuff_effect = yes }
+		}
+		# 1066 Buildings
+		if = {
+			limit = {
+				game_start_date >= 1066.1.1
+				game_start_date < 1178.10.1
+			}
+			every_province = {
+				limit = {
+					has_holding = yes
+				}
+				generate_building = yes
+				brewery_counter_start_effect = yes
+			}
+			every_domicile = {
+				limit = { exists = owner }
+				switch = {
+					trigger = is_domicile_type
+					estate = {
+						if = {
+							limit = {
+								NOT = { has_domicile_building_or_higher = estate_main_02 }
+								owner.culture ?= { has_innovation = innovation_city_planning }
+							}
+							add_domicile_building = estate_main_02
+							add_random_internal_estate_building = yes
+						}
+						fill_external_estate_building_effect = yes
+					}
+					japanese_manor = {
+						if = {
+							limit = {
+								NOT = { has_domicile_building_or_higher = japanese_manor_main_02 }
+								owner.culture ?= { has_innovation = innovation_city_planning }
+							}
+							add_domicile_building = japanese_manor_main_02
+							add_random_internal_japanese_manor_building = yes
+						}
+						fill_external_japanese_manor_building_effect = yes
+					}
+					east_asian_estate = {
+						if = {
+							limit = {
+								NOT = { has_domicile_building_or_higher = east_asian_estate_main_02 }
+								owner.culture ?= { has_innovation = innovation_city_planning }
+							}
+							add_domicile_building = east_asian_estate_main_02
+							add_random_internal_east_asian_estate_building = yes
+						}
+						fill_external_east_asian_estate_building_effect = yes
+					}
+				}
+			}
+		}
+		# 1178 Buildings
+		else_if = {
+			limit = {
+				game_start_date >= 1178.10.1
+			}
+			every_province = {
+				limit = {
+					has_holding = yes
+				}
+				generate_building = yes
+				generate_building = yes
+				generate_building = yes
+				generate_building = yes
+				generate_building = yes
+				generate_building = yes
+				if = {
+					limit = {
+						county.development_level >= 8
+					}
+					generate_building = yes
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 10
+					}
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 12
+					}
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 14
+					}
+					generate_building = yes
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 16
+					}
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 18
+					}
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 20
+					}
+					generate_building = yes
+				}
+				if = {
+					limit = {
+						county.development_level >= 25
+					}
+					generate_building = yes
+					generate_building = yes
+					generate_building = yes
+				}
+				brewery_counter_start_effect = yes
+			}
+			every_domicile = {
+				#if = { # Left in if we want adventurers to spawn with stuff
+				#	limit = {
+				#		is_domicile_type = camp
+				#	}
+				#	add_domicile_building = camp_main_02
+				#	add_domicile_building = camp_main_03
+				#	random_list = {
+				#		10 = {
+				#			add_domicile_building = supply_tent_01
+				#			add_domicile_building = supply_tent_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = supply_tent_sutler
+				#				}
+				#				10 = {
+				#					add_domicile_building = supply_tent_mender
+				#				}
+				#				10 = {
+				#					add_domicile_building = supply_tent_smithy
+				#				}
+				#				10 = {
+				#					add_domicile_building = supply_tent_arsenal
+				#				}
+				#			}
+				#		}
+				#		10 = {
+				#			add_domicile_building = barber_tent_01
+				#			add_domicile_building = barber_tent_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = barber_tent_surgeons_tools
+				#				}
+				#				10 = {
+				#					add_domicile_building = barber_tent_dentists_tools
+				#				}
+				#				10 = {
+				#					add_domicile_building = barber_tent_torturers_tools
+				#				}
+				#			}
+				#		}
+				#		10 = {
+				#			add_domicile_building = baggage_train_01
+				#			add_domicile_building = baggage_train_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = baggage_train_ample_steeds
+				#				}
+				#				10 = {
+				#					add_domicile_building = baggage_train_porters
+				#				}
+				#				10 = {
+				#					add_domicile_building = baggage_train_trackers
+				#				}
+				#				10 = {
+				#					add_domicile_building = baggage_train_kennel
+				#				}
+				#			}
+				#		}
+				#	}
+				#	random_list = {
+				#		10 = {
+				#			add_domicile_building = mess_tent_01
+				#			add_domicile_building = mess_tent_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = mess_tent_herbalists
+				#				}
+				#				10 = {
+				#					add_domicile_building = mess_tent_brewers
+				#				}
+				#				10 = {
+				#					add_domicile_building = mess_tent_curers
+				#				}
+				#				10 = {
+				#					add_domicile_building = mess_tent_bakers
+				#				}
+				#				10 = {
+				#					add_domicile_building = mess_tent_cooks
+				#				}
+				#			}
+				#		}
+				#		10 = {
+				#			add_domicile_building = camp_fire_01
+				#			add_domicile_building = camp_fire_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = camp_fire_trailing_musicians
+				#				}
+				#				10 = {
+				#					add_domicile_building = camp_fire_wandering_poets
+				#				}
+				#				10 = {
+				#					add_domicile_building = camp_fire_capering_fools
+				#				}
+				#				10 = {
+				#					add_domicile_building = camp_fire_libations_for_the_lost
+				#				}
+				#			}
+				#		}
+				#	}
+				#	random_list = {
+				#		10 = {
+				#			add_domicile_building = camp_perimeter_01
+				#			add_domicile_building = camp_perimeter_02
+				#			random_list = {
+				#				10 = {
+				#					add_domicile_building = camp_perimeter_good_siting
+				#				}
+				#				10 = {
+				#					add_domicile_building = camp_perimeter_fixed_layout
+				#				}
+				#			}
+				#		}
+				#		10 = {
+				#			add_domicile_building = proving_grounds_01
+				#			add_domicile_building = proving_grounds_02
+				#		}
+				#	}
+				#}
+				every_domicile = {
+					limit = { exists = owner }
+					switch = {
+						trigger = is_domicile_type
+						estate = {
+							if = {
+								limit = {
+									NOT = { has_domicile_building_or_higher = estate_main_02 }
+									owner.culture ?= { has_innovation = innovation_city_planning }
+								}
+								add_domicile_building = estate_main_02
+								add_random_internal_estate_building = yes
+							}
+							if = {
+								limit = {
+									has_domicile_building = estate_main_02
+									NOT = { has_domicile_building_or_higher = estate_main_03 }
+									owner.culture ?= { has_innovation = innovation_manorialism }
+								}
+								add_domicile_building = estate_main_03
+								while = {
+									count = 2
+									add_random_internal_estate_building = yes
+								}
+							}
+							fill_external_estate_building_effect = yes
+						}
+						japanese_manor = {
+							if = {
+								limit = {
+									NOT = { has_domicile_building_or_higher = japanese_manor_main_02 }
+									owner.culture ?= { has_innovation = innovation_city_planning }
+								}
+								add_domicile_building = japanese_manor_main_02
+								add_random_internal_japanese_manor_building = yes
+							}
+							if = {
+								limit = {
+									has_domicile_building = japanese_manor_main_02
+									NOT = { has_domicile_building_or_higher = japanese_manor_main_03 }
+									owner.culture ?= { has_innovation = innovation_manorialism }
+								}
+								add_domicile_building = japanese_manor_main_03
+								while = {
+									count = 2
+									add_random_internal_japanese_manor_building = yes
+								}
+							}
+							fill_external_japanese_manor_building_effect = yes
+						}
+						east_asian_estate = {
+							if = {
+								limit = {
+									NOT = { has_domicile_building_or_higher = east_asian_estate_main_02 }
+									owner.culture ?= { has_innovation = innovation_city_planning }
+								}
+								add_domicile_building = east_asian_estate_main_02
+								add_random_internal_east_asian_estate_building = yes
+							}
+							if = {
+								limit = {
+									has_domicile_building = east_asian_estate_main_02
+									NOT = { has_domicile_building_or_higher = east_asian_estate_main_03 }
+									owner.culture ?= { has_innovation = innovation_manorialism }
+								}
+								add_domicile_building = east_asian_estate_main_03
+								while = {
+									count = 2
+									add_random_internal_east_asian_estate_building = yes
+								}
+							}
+							fill_external_east_asian_estate_building_effect = yes
+						}
+					}
+				}
+			}
+		}
+		# Purge family titles if Admin isn't enabled
+		if = {
+			limit = {
+				NOT = { has_dlc_feature = roads_to_power }
+			}
+			every_ruler = {
+				save_temporary_scope_as = this_ruler
+				every_held_title = {
+					limit = {
+						is_noble_family_title = yes
+						title_domicile ?= {
+							is_domicile_type = estate
+						}
+					}
+					scope:this_ruler = {
+						destroy_title = prev
+					}
+				}
+			}
+		}
+
+		
+
+		every_county_in_region = {
+			region = world_steppe
+			limit = {
+				uses_county_fertility = yes
+			}
+
+			if = {
+				limit = {
+					holder = {
+						government_has_flag = government_is_nomadic
+					}
+					county_fertility > 20
+					county_fertility <= 90
+				}
+				switch = {
+					trigger = holder.primary_title.tier
+					tier_empire = {
+						change_county_fertility = { 16 32 }
+					}
+					tier_kingdom = {
+						change_county_fertility = { 12 16 }
+					}
+					tier_duchy = {
+						change_county_fertility = { 8 12 }
+					}
+					tier_county = {
+						change_county_fertility = { 2 8 }
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					holder = {
+						government_has_flag = government_is_herder
+					}
+				}
+				change_county_fertility = { 44 64 }
+ 			}
+		}
+
+		
+
+		every_player = {
+			limit = {
+				is_landed = yes
+			}
+			while = {
+				count = 7
+				limit = {
+					any_courtier = {
+						count < 7
+						is_adult = yes
+					}
+				}
+				save_scope_as = player_scope
+				random_list = {
+					1 = {
+						create_character = {
+							employer = scope:player_scope
+							age = { 20 30 }
+							random_traits = yes
+							gender_female_chance = scope:player_scope.marriage_gender_adjusted_female_chance
+							culture = scope:player_scope.culture
+							faith = scope:player_scope.faith
+							after_creation = {
+								random_list = {
+									200 = {
+										# Character is of average weight, nothing happens
+									}
+									25 = {
+										change_current_weight = -25
+									}
+									25 = {
+										change_current_weight = -75
+									}
+									25 = {
+										change_current_weight = 25
+									}
+									25 = {
+										change_current_weight = 75
+									}
+									5 = {
+										change_current_weight = 150
+									}
+								}
+							}
+						}
+					}
+					4 = {
+						create_character = {
+							employer = scope:player_scope
+							age = { 20 40 }
+							random_traits = yes
+							gender_female_chance = 15
+							culture = scope:player_scope.culture
+							faith = scope:player_scope.faith
+							after_creation = {
+								random_list = {
+									200 = {
+										# Character is of average weight, nothing happens
+									}
+									25 = {
+										change_current_weight = -25
+									}
+									25 = {
+										change_current_weight = -75
+									}
+									25 = {
+										change_current_weight = 25
+									}
+									25 = {
+										change_current_weight = 75
+									}
+									5 = {
+										change_current_weight = 150
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		# Sanity check the setup if in debug mode
+		if = {
+        	limit = {
+        		debug_only = yes
+        	}
+	        run_setup_tests_effect = yes
+    	}
+		set_global_variable = game_has_started
+
+		every_independent_ruler = {
+			# Treasury setup for any government using treasury
+			tgp_treasury_setup_effect = yes
+		}
+
+		# TGP China education track switch
+
+		if = {
+			limit = {
+				exists = title:h_china.holder
+			}
+			title:h_china.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+		if = {
+			limit = {
+				exists = title:e_goryeo.holder
+			}
+			title:e_goryeo.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+		if = {
+			limit = {
+				exists = title:k_dali.holder
+			}
+			title:k_dali.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+		if = {
+			limit = {
+				exists = title:k_viet.holder
+			}
+			title:k_viet.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+		if = {
+			limit = {
+				exists = title:k_xia.holder
+			}
+			title:k_xia.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+		if = {
+			limit = {
+				exists = title:e_andong.holder
+			}
+			title:e_andong.holder = {
+				add_to_list = realm_potential_education_flip_list
+			}
+		}
+
+		every_in_list = {
+			list = realm_potential_education_flip_list
+			every_vassal_or_below = {
+				limit = {
+					is_ai = yes
+					OR = {
+						is_governor = yes
+						tgp_is_any_minister = yes
+					}
+					trigger_if = {
+						limit = { has_trait_with_flag = civilian_province }
+						OR = {
+							vassal_contract_has_flag = celestial_military_appointment
+							vassal_contract_has_flag = meritocratic_military_appointment
+						}
+					}
+					trigger_else = {
+						OR = {
+							vassal_contract_has_flag = celestial_civil_appointment
+							vassal_contract_has_flag = meritocratic_civil_appointment
+						}
+					}
+				}
+				if = {
+					limit = { has_trait_with_flag = civilian_province }
+					set_variable = {
+						name = appointment_trait_override
+						value = trait:education_martial_1
+					}
+				}
+				else = {
+					set_variable = {
+						name = appointment_trait_override
+						value = trait:education_stewardship_1
+					}
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_game_rule = no_easteregg_characters
+			}
+			# needed for error suppression as all characters are added to the list in the history
+			if = {
+				limit = {
+					always = no
+				}
+				add_to_global_variable_list = {
+					name = easteregg_characters_list
+					target = this
+				}
+			}
+			every_in_global_list = {
+				variable = easteregg_characters_list
+				limit = {
+					is_ai = yes
+				}
+				death = {
+					death_reason = death_vanished
+				}
+			}
+			clear_global_variable_list = easteregg_characters_list
+		}
+		
+		enable_and_run_succession_calculation = yes
+	}
+
+	events = {
+		
+		historical_artifacts.0023			# Historical Artifacts Generator
+		coronation_events.0302 # ACH crown giveaway
+	}
+}

@@ -1,0 +1,219 @@
+k_gyalrong={
+	890.1.1 = { liege = 0 }
+}
+d_chakla={
+	740.1.1 = { holder = bodpa0151 }
+	800.1.1 = { holder = bodpa0152 }
+	820.1.1 = { holder = bodpa0153 }
+	840.1.1 = { holder = bodpa0154 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = bodpa0155 }
+	880.1.1 = { holder = bodpa0156 }
+}
+d_gainlho={
+	740.1.1 = { holder = bodpa0001 }
+	800.1.1 = { holder = bodpa0002 }
+	820.1.1 = { holder = bodpa0003 }
+	840.1.1 = { holder = bodpa0004 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = bodpa0005 }
+	880.1.1 = { holder = bodpa0006 }
+}
+d_golog={
+	740.1.1 = { holder = bodpa0091 }
+	800.1.1 = { holder = bodpa0092 }
+	820.1.1 = { holder = bodpa0093 }
+	840.1.1 = { holder = bodpa0094 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = bodpa0095 }
+	880.1.1 = { holder = bodpa0096 }
+}
+d_gyalrong={
+	740.1.1 = { holder = bodpa0211 }
+	800.1.1 = { holder = bodpa0212 }
+	820.1.1 = { holder = bodpa0213 }
+	840.1.1 = { holder = bodpa0214 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = bodpa0215 }
+	880.1.1 = { holder = bodpa0216 }
+}
+d_malho={
+	740.1.1 = { holder = bodpa0061 }
+	800.1.1 = { holder = bodpa0062 }
+	820.1.1 = { holder = bodpa0063 }
+	840.1.1 = { holder = bodpa0064 }
+	842.1.1 = { liege = 0 }
+	860.1.1 = { holder = bodpa0065 }
+	880.1.1 = { holder = bodpa0066 }
+}
+c_baima={
+	740.1.1 = { holder = bodpa0091 liege = "d_golog" }
+	800.1.1 = { holder = bodpa0092 }
+	820.1.1 = { holder = bodpa0093 }
+	840.1.1 = { holder = bodpa0094 }
+	860.1.1 = { holder = bodpa0095 }
+	880.1.1 = { holder = bodpa0096 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_barkam={
+	740.1.1 = { holder = bodpa0211 liege = "d_gyalrong" }
+	800.1.1 = { holder = bodpa0212 }
+	820.1.1 = { holder = bodpa0213 }
+	840.1.1 = { holder = bodpa0214 }
+	860.1.1 = { holder = bodpa0215 }
+	880.1.1 = { holder = bodpa0216 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_chakla={
+	740.1.1 = { holder = bodpa0151 liege = "d_chakla" }
+	800.1.1 = { holder = bodpa0152 }
+	820.1.1 = { holder = bodpa0153 }
+	840.1.1 = { holder = bodpa0154 }
+	860.1.1 = { holder = bodpa0155 }
+	880.1.1 = { holder = bodpa0156 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_dawu={
+	740.1.1 = { holder = bodpa0151 liege = "d_chakla" }
+	800.1.1 = { holder = bodpa0152 }
+	820.1.1 = { holder = bodpa0153 }
+	840.1.1 = { holder = bodpa0154 }
+	860.1.1 = { holder = bodpa0155 }
+	880.1.1 = { holder = bodpa0156 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_jone={
+	740.1.1 = { holder = bodpa0001 liege = "d_gainlho" }
+	800.1.1 = { holder = bodpa0002 }
+	820.1.1 = { holder = bodpa0003 }
+	840.1.1 = { holder = bodpa0004 }
+	860.1.1 = { holder = bodpa0005 }
+	880.1.1 = { holder = bodpa0006 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_lhagang={
+	740.1.1 = { holder = bodpa0151 liege = "d_chakla" }
+	800.1.1 = { holder = bodpa0152 }
+	820.1.1 = { holder = bodpa0153 }
+	840.1.1 = { holder = bodpa0154 }
+	860.1.1 = { holder = bodpa0155 }
+	880.1.1 = { holder = bodpa0156 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_madoi={
+	740.1.1 = { holder = 305796 }
+	800.1.1 = { holder = 305797 }
+	820.1.1 = { holder = 305798 }
+	840.1.1 = { holder = 305799 }
+	860.1.1 = { holder = 305800 }
+	880.1.1 = { holder = 305801 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_mangra={
+	740.1.1 = { holder = bodpa0061 liege = "d_malho" }
+	800.1.1 = { holder = bodpa0062 }
+	820.1.1 = { holder = bodpa0063 }
+	840.1.1 = { holder = bodpa0064 }
+	860.1.1 = { holder = bodpa0065 }
+	880.1.1 = { holder = bodpa0066 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_maqen={
+	740.1.1 = { holder = bodpa0091 liege = "d_golog" }
+	800.1.1 = { holder = bodpa0092 }
+	820.1.1 = { holder = bodpa0093 }
+	840.1.1 = { holder = bodpa0094 }
+	860.1.1 = { holder = bodpa0095 }
+	880.1.1 = { holder = bodpa0096 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_maqu={
+	740.1.1 = { holder = bodpa0061 liege = "d_malho" }
+	800.1.1 = { holder = bodpa0062 }
+	820.1.1 = { holder = bodpa0063 }
+	840.1.1 = { holder = bodpa0064 }
+	860.1.1 = { holder = bodpa0065 }
+	880.1.1 = { holder = bodpa0066 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_ngawa={
+	740.1.1 = { holder = bodpa0181 liege = "d_gyalrong" }
+	800.1.1 = { holder = bodpa0182 }
+	820.1.1 = { holder = bodpa0183 }
+	840.1.1 = { holder = bodpa0184 }
+	860.1.1 = { holder = bodpa0185 }
+	880.1.1 = { holder = bodpa0186 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_quqen={
+	740.1.1 = { holder = bodpa0211 liege = "d_gyalrong" }
+	800.1.1 = { holder = bodpa0212 }
+	820.1.1 = { holder = bodpa0213 }
+	840.1.1 = { holder = bodpa0214 }
+	860.1.1 = { holder = bodpa0215 }
+	880.1.1 = { holder = bodpa0216 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_rebgong={
+	740.1.1 = { holder = bodpa0031 liege = "d_xining" }
+	800.1.1 = { holder = bodpa0032 }
+	820.1.1 = { holder = bodpa0033 }
+	840.1.1 = { holder = bodpa0034 }
+	860.1.1 = { holder = bodpa0035 }
+	880.1.1 = { holder = bodpa0036 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_sangqu={
+	740.1.1 = { holder = bodpa0001 liege = "d_gainlho" }
+	800.1.1 = { holder = bodpa0002 }
+	820.1.1 = { holder = bodpa0003 }
+	840.1.1 = { holder = bodpa0004 }
+	860.1.1 = { holder = bodpa0005 }
+	880.1.1 = { holder = bodpa0006 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_sertar={
+	740.1.1 = { holder = bodpa0121 liege = "d_chakla" }
+	800.1.1 = { holder = bodpa0122 }
+	820.1.1 = { holder = bodpa0123 }
+	840.1.1 = { holder = bodpa0124 }
+	860.1.1 = { holder = bodpa0125 }
+	880.1.1 = { holder = bodpa0126 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_sungqu={
+	740.1.1 = { holder = bodpa0181 liege = "d_gyalrong" }
+	800.1.1 = { holder = bodpa0182 }
+	820.1.1 = { holder = bodpa0183 }
+	840.1.1 = { holder = bodpa0184 }
+	860.1.1 = { holder = bodpa0185 }
+	880.1.1 = { holder = bodpa0186 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_tewo={
+	740.1.1 = { holder = bodpa0001 liege = "d_gainlho" }
+	800.1.1 = { holder = bodpa0002 }
+	820.1.1 = { holder = bodpa0003 }
+	840.1.1 = { holder = bodpa0004 }
+	860.1.1 = { holder = bodpa0005 }
+	880.1.1 = { holder = bodpa0006 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_zekog={
+	740.1.1 = { holder = bodpa0061 liege = "d_malho" }
+	800.1.1 = { holder = bodpa0062 }
+	820.1.1 = { holder = bodpa0063 }
+	840.1.1 = { holder = bodpa0064 }
+	860.1.1 = { holder = bodpa0065 }
+	880.1.1 = { holder = bodpa0066 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_zoige={
+	740.1.1 = { holder = bodpa0181 liege = "d_gyalrong" }
+	800.1.1 = { holder = bodpa0182 }
+	820.1.1 = { holder = bodpa0183 }
+	840.1.1 = { holder = bodpa0184 }
+	860.1.1 = { holder = bodpa0185 }
+	880.1.1 = { holder = bodpa0186 }
+	890.1.1 = { change_development_level = 5 }
+}

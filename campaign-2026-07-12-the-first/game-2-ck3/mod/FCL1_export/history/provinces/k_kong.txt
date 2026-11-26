@@ -1,0 +1,151 @@
+6951={
+	holding = none
+}
+6952={
+	holding = none
+}
+6953={
+	holding = none
+}
+6954={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6955={
+	holding = none
+}
+6956={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6959={
+	holding = none
+}
+6960={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6972={
+	holding = none
+}
+6973={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6974={
+	holding = none
+}
+6975={
+	holding = none
+}
+6976={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6977={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6978={
+	holding = none
+}
+6979={
+	holding = none
+}
+6980={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6981={
+	holding = none
+}
+6982={
+	holding = none
+}
+6983={
+	holding = none
+}
+6984={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+6985={
+	holding = none
+}
+6986={
+	holding = none
+}
+6987={
+	holding = none
+}
+6989={
+	holding = none
+}
+8126={
+	holding = none
+}
+8127={
+	holding = none
+}
+8128={
+	holding = none
+}
+8129={
+	holding = none
+}
+8130={
+	holding = none
+}
+8131={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8132={
+	holding = none
+}
+8134={
+	holding = none
+}
+8139={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+8140={
+	holding = none
+}
+8141={
+	holding = none
+}
+8142={
+	holding = none
+}
+8143={
+	holding = none
+}
+8146={
+	holding = none
+}
+8147={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+8148={
+	holding = none
+}
+8149={
+	holding = none
+}
+8155={
+	holding = none
+}

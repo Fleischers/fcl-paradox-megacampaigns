@@ -1,0 +1,126 @@
+k_volga_bulgaria={
+	890.1.1 = { liege = 0 }
+}
+d_bugurslan={
+	890.1.1 = { holder = IRToCK3_c_salavat_holder government = tribal_government liege = 0 }
+}
+d_jalmat={
+	890.1.1 = { holder = IRToCK3_c_jalmat_holder government = tribal_government liege = 0 }
+}
+d_kazan={
+	890.1.1 = { holder = IRToCK3_c_kazan_holder government = tribal_government liege = 0 }
+}
+d_martyuba={
+	890.1.1 = { holder = IRToCK3_c_martyuba_holder government = tribal_government liege = 0 }
+}
+d_volga_bulgaria={
+	20.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_bolghar_holder government = tribal_government liege = 0 }
+}
+c_ashli={
+	453.10.16 = { liege = 0 holder = imperator241865 }
+	476.1.7 = { change_development_level = 13 }
+	528.4.10 = { holder = irtock3_imperator241865_successor_0 }
+	564.4.10 = { holder = irtock3_imperator241865_successor_1 }
+	604.4.10 = { holder = irtock3_imperator241865_successor_2 }
+	656.4.10 = { holder = irtock3_imperator241865_successor_3 }
+	702.4.10 = { holder = irtock3_imperator241865_successor_4 }
+	736.4.10 = { holder = irtock3_imperator241865_successor_5 }
+	785.4.10 = { holder = irtock3_imperator241865_successor_6 }
+	832.4.10 = { holder = irtock3_imperator241865_successor_7 }
+}
+c_belebey={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	855.1.2 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_jalmat_holder }
+}
+c_bolghar={
+	20.1.1 = { government = tribal_government }
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	890.1.1 = { holder = IRToCK3_c_bolghar_holder liege = d_volga_bulgaria }
+}
+c_bugurslan={
+	452.8.15 = { liege = 0 holder = imperator234474 }
+	476.1.7 = { change_development_level = 3 }
+	498.3.28 = { holder = irtock3_imperator234474_successor_0 }
+	532.3.28 = { holder = irtock3_imperator234474_successor_1 }
+	567.3.28 = { holder = irtock3_imperator234474_successor_2 }
+	603.3.28 = { holder = irtock3_imperator234474_successor_3 }
+	634.3.28 = { holder = irtock3_imperator234474_successor_4 }
+	686.3.28 = { holder = irtock3_imperator234474_successor_5 }
+	724.3.28 = { holder = irtock3_imperator234474_successor_6 }
+	760.3.28 = { holder = irtock3_imperator234474_successor_7 }
+	816.3.28 = { holder = irtock3_imperator234474_successor_8 }
+	869.3.28 = { holder = irtock3_imperator234474_successor_9 }
+}
+c_cykma={
+	476.1.7 = { liege = 0 change_development_level = 13 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_martyuba_holder }
+}
+c_elabuga={
+	476.1.7 = { liege = 0 change_development_level = 12 }
+	768.1.1 = { government = tribal_government }
+	860.1.1 = { holder = 159734 }
+	890.1.1 = { holder = IRToCK3_c_kazan_holder }
+}
+c_jalmat={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	865.1.2 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_jalmat_holder liege = 0 }
+}
+c_karabolam={
+	20.1.1 = { government = tribal_government }
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	890.1.1 = { holder = IRToCK3_c_bolghar_holder liege = d_volga_bulgaria }
+}
+c_kazan={
+	476.1.7 = { liege = 0 change_development_level = 13 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kazan_holder liege = 0 }
+}
+c_kumertau={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	855.1.2 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_salavat_holder }
+}
+c_mamadych={
+	476.1.7 = { liege = 0 change_development_level = 12 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kazan_holder }
+}
+c_mari-turek={
+	476.1.7 = { liege = 0 change_development_level = 12 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kazan_holder }
+}
+c_martyuba={
+	476.1.7 = { liege = 0 change_development_level = 12 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_martyuba_holder liege = 0 }
+}
+c_salavat={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	855.1.2 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_salavat_holder liege = 0 }
+}
+c_samar_VB={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	863.1.2 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_bolghar_holder }
+}
+c_siun={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	855.1.2 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_jalmat_holder }
+}
+c_yar-calli={
+	476.1.7 = { liege = 0 change_development_level = 0 }
+	865.1.2 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_bolghar_holder }
+}
+c_yoshkar-ola={
+	476.1.7 = { liege = 0 change_development_level = 12 }
+	750.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_kazan_holder }
+}

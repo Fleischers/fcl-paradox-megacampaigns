@@ -1,0 +1,98 @@
+4342={
+	holding = city_holding
+}
+4343={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4344={
+	holding = church_holding
+}
+4345={
+	holding = none
+}
+4346={
+	holding = castle_holding
+}
+4489={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = castle_holding
+}
+4490={
+	holding = none
+}
+4491={
+	holding = none
+}
+4492={
+	holding = none
+}
+4493={
+	holding = city_holding
+}
+4494={
+	holding = church_holding
+}
+4495={
+	holding = none
+}
+4496={
+	holding = none
+}
+4498={
+	holding = castle_holding
+}
+4499={
+	culture = hunnic
+	faith = tengri_pagan
+	holding = castle_holding
+}
+4500={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4501={
+	holding = none
+}
+4502={
+	holding = castle_holding
+}
+4503={
+	holding = city_holding
+}
+4504={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4505={
+	holding = none
+}
+4506={
+	holding = none
+}
+4507={
+	culture = hunnic
+	faith = nestorian
+	holding = castle_holding
+}
+4508={
+	holding = city_holding
+}
+4509={
+	holding = none
+}
+4514={
+	holding = city_holding
+}
+4515={
+	culture = scythian
+	faith = khurmazta
+	holding = castle_holding
+}
+4516={
+	holding = city_holding
+}

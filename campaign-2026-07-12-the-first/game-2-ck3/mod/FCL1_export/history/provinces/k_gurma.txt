@@ -1,0 +1,140 @@
+6582={
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = none
+	1150.1.1 = { culture = songhai religion = ashari }
+}
+6674={
+	holding = none
+}
+6675={
+	culture = marka
+	religion = west_african_pagan
+	holding = none
+}
+6676={
+	holding = none
+}
+6677={
+	holding = none
+}
+6678={
+	holding = none
+}
+6679={
+	holding = none
+}
+6680={
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = none
+	1150.1.1 = { culture = songhai }
+}
+6681={
+	holding = none
+}
+6682={
+	holding = none
+}
+6683={
+	holding = none
+}
+6684={
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = none
+	1150.1.1 = { culture = songhai }
+}
+6685={
+	culture = marka
+	religion = west_african_pagan
+	holding = none
+}
+6686={
+	holding = none
+}
+6687={
+	holding = none
+}
+6688={
+	culture = sorko
+	religion = west_african_bidu_pagan
+	holding = none
+	1250.1.1 = { culture = mossi }
+}
+6689={
+	culture = gur
+	religion = west_african_pagan
+	holding = none
+	1340.1.1 = { culture = mossi }
+}
+6690={
+	holding = none
+}
+6691={
+	holding = none
+}
+6692={
+	holding = none
+}
+6693={
+	holding = none
+}
+6694={
+	culture = gur
+	religion = west_african_pagan
+	holding = none
+	1340.1.1 = { culture = mossi }
+}
+6695={
+	holding = none
+}
+6696={
+	holding = none
+}
+6697={
+	holding = none
+}
+6698={
+	holding = none
+}
+6701={
+	holding = none
+}
+6702={
+	holding = none
+}
+6703={
+	holding = none
+}
+6704={
+	holding = none
+}
+6705={
+	culture = marka
+	religion = west_african_pagan
+	holding = none
+}
+6706={
+	culture = marka
+	religion = west_african_pagan
+	holding = none
+}
+6707={
+	holding = none
+}
+6713={
+	holding = none
+}
+6719={
+	holding = none
+}
+6720={
+	holding = none
+}
+6721={
+	culture = gur
+	religion = west_african_pagan
+	holding = none
+	1280.1.1 = { culture = mossi }
+}

@@ -1,0 +1,238 @@
+483={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+484={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+486={
+	culture = brythonic
+	faith = manichean
+	holding = city_holding
+}
+487={
+	culture = brythonic
+	faith = orthodox
+	holding = city_holding
+}
+488={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+489={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+490={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+491={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+492={
+	culture = lemnian
+	faith = orthodox
+	holding = castle_holding
+}
+495={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+496={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+497={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+744={
+	culture = non_indo_european_iberian
+	faith = orthodox
+	holding = castle_holding
+}
+3554={
+	holding = city_holding
+}
+3570={
+	holding = city_holding
+}
+3740={
+	holding = city_holding
+}
+3741={
+	holding = none
+}
+3742={
+	holding = none
+}
+3748={
+	holding = city_holding
+}
+3749={
+	holding = city_holding
+}
+3750={
+	holding = castle_holding
+}
+3751={
+	holding = city_holding
+}
+3752={
+	holding = castle_holding
+}
+3753={
+	holding = none
+}
+3754={
+	holding = church_holding
+}
+3755={
+	holding = none
+}
+3756={
+	holding = church_holding
+}
+3757={
+	holding = none
+}
+3758={
+	holding = none
+}
+3759={
+	holding = none
+}
+3760={
+	holding = city_holding
+}
+3761={
+	holding = none
+}
+3762={
+	holding = none
+}
+3763={
+	holding = castle_holding
+}
+3764={
+	holding = city_holding
+}
+3765={
+	holding = none
+}
+3766={
+	holding = city_holding
+}
+3767={
+	holding = city_holding
+}
+3768={
+	holding = castle_holding
+}
+3769={
+	holding = none
+}
+3770={
+	holding = none
+}
+3771={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3772={
+	holding = city_holding
+}
+3773={
+	holding = city_holding
+}
+3774={
+	holding = none
+}
+3775={
+	holding = none
+}
+3776={
+	holding = none
+}
+3777={
+	holding = city_holding
+}
+3778={
+	holding = none
+}
+3779={
+	holding = none
+}
+3780={
+	holding = none
+}
+3781={
+	holding = none
+}
+3782={
+	holding = castle_holding
+}
+3783={
+	holding = none
+}
+3784={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}
+3785={
+	holding = none
+}
+3786={
+	holding = city_holding
+}
+3787={
+	holding = none
+}
+3788={
+	holding = castle_holding
+}
+3789={
+	holding = none
+}
+3790={
+	holding = none
+}
+3791={
+	holding = none
+}
+3792={
+	holding = castle_holding
+}
+3793={
+	culture = lemnian
+	faith = orthodox
+	holding = castle_holding
+}
+3794={
+	holding = castle_holding
+}
+3795={
+	holding = none
+}
+3796={
+	holding = none
+}
+3797={
+	culture = macedonian
+	faith = orthodox
+	holding = castle_holding
+}

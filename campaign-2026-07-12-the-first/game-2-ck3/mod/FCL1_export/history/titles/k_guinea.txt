@@ -1,0 +1,108 @@
+k_guinea={
+	890.1.1 = { liege = 0 }
+}
+d_bassa={
+	890.1.1 = { liege = 0 }
+}
+d_kono={
+	890.1.1 = { liege = 0 }
+}
+d_kru={
+	890.1.1 = { liege = 0 }
+}
+d_sapi={
+	890.1.1 = { liege = 0 }
+}
+d_toro={
+	890.1.1 = { liege = 0 }
+}
+d_wenyon={
+	890.1.1 = { liege = 0 }
+}
+c_bassa={
+	860.1.1 = { holder = kru0071 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_boubo={
+	860.1.1 = { holder = kru0031 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_dibri={
+	860.1.1 = { holder = kru0081 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_gola={
+	860.1.1 = { holder = mel0011 government = tribal_government }
+	890.1.1 = { holder = mel0012 change_development_level = 1 }
+}
+c_grebo={
+	860.1.1 = { holder = kru0061 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kabarasana={
+	860.1.1 = { holder = malinke0061 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kono={
+	860.1.1 = { holder = mel0021 government = tribal_government }
+	890.1.1 = { holder = mel0022 change_development_level = 1 }
+}
+c_konyan={
+	860.1.1 = { holder = malinke0031 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kru={
+	860.1.1 = { holder = kru0041 government = tribal_government }
+	889.1.1 = { holder = kru0042 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_lobo={
+	860.1.1 = { holder = kru0041 government = tribal_government }
+	889.1.1 = { holder = kru0042 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_man={
+	860.1.1 = { holder = kru0051 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_mau={
+	860.1.1 = { holder = malinke0021 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_nalu={
+	850.1.1 = { holder = mel0051 government = tribal_government }
+	880.1.1 = { holder = mel0052 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_nuon={
+	860.1.1 = { holder = kru0091 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sanda={
+	860.1.1 = { holder = mel0031 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sherbro={
+	860.1.1 = { holder = mel0081 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_tamiso={
+	850.1.1 = { holder = mel0041 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_temne={
+	850.1.1 = { holder = mel0041 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_toma={
+	860.1.1 = { holder = mel0001 government = tribal_government }
+	890.1.1 = { holder = mel0002 change_development_level = 0 }
+}
+c_toro={
+	860.1.1 = { holder = malinke0031 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_wenyon={
+	860.1.1 = { holder = kru0051 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}

@@ -1,0 +1,199 @@
+9219={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9220={
+	holding = none
+}
+9221={
+	holding = none
+}
+9223={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9224={
+	holding = none
+}
+9225={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9226={
+	holding = none
+}
+9227={
+	holding = none
+}
+9228={
+	holding = none
+}
+9229={
+	holding = none
+}
+9230={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9231={
+	holding = church_holding
+}
+9232={
+	holding = none
+}
+9233={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9234={
+	holding = none
+}
+9235={
+	culture = sumpa
+	faith = old_bon
+	holding = tribal_holding
+}
+9236={
+	holding = none
+}
+9237={
+	holding = castle_holding
+}
+9238={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9239={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9240={
+	holding = none
+}
+9241={
+	holding = none
+}
+9242={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9243={
+	holding = none
+}
+9244={
+	holding = none
+}
+9245={
+	holding = none
+}
+9246={
+	holding = none
+}
+9247={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9248={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9249={
+	holding = none
+}
+9250={
+	holding = none
+}
+9251={
+	holding = none
+}
+9252={
+	holding = none
+}
+9253={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9254={
+	holding = none
+}
+9255={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9256={
+	holding = none
+}
+9257={
+	holding = none
+}
+9258={
+	holding = none
+}
+9259={
+	holding = none
+}
+9260={
+	holding = none
+}
+9261={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9262={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9263={
+	holding = none
+}
+9264={
+	holding = none
+}
+9265={
+	holding = none
+}
+9266={
+	holding = none
+}
+9267={
+	holding = none
+}
+9268={
+	holding = none
+}
+9269={
+	holding = none
+}
+9270={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9363={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9365={
+	holding = none
+}
+9366={
+	holding = none
+}
+9367={
+	holding = none
+}

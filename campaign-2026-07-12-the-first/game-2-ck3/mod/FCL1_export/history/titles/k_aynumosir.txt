@@ -1,0 +1,54 @@
+k_aynumosir={
+	890.1.1 = { liege = 0 }
+}
+d_menas={
+	890.1.1 = { holder = IRToCK3_c_simenas_holder government = tribal_government liege = 0 }
+}
+d_sahaliyan={
+	890.1.1 = { holder = IRToCK3_c_kusunkotan_holder government = tribal_government liege = 0 }
+}
+d_sum={
+	890.1.1 = { holder = IRToCK3_c_uskes_holder government = tribal_government liege = 0 }
+}
+c_chupka={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_simenas_holder change_development_level = 1 }
+}
+c_ioci={
+	867.1.1 = { holder = ainu_ioci_1 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_iskar={
+	867.1.1 = { holder = ainu_iskar_1 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_kusunkotan={
+	890.1.1 = { holder = IRToCK3_c_kusunkotan_holder liege = 0 change_development_level = 2 }
+}
+c_menas={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_simenas_holder change_development_level = 2 }
+}
+c_pogibi={
+	867.1.1 = { holder = nivkh_pogibi_1 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_simenas={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_simenas_holder liege = 0 change_development_level = 2 }
+}
+c_soya={
+	867.1.1 = { holder = ainu_repunmosir_1 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_sum={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_uskes_holder change_development_level = 2 }
+}
+c_tarayka={
+	890.1.1 = { holder = IRToCK3_c_kusunkotan_holder change_development_level = 0 }
+}
+c_uskes={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_uskes_holder liege = 0 change_development_level = 2 }
+}

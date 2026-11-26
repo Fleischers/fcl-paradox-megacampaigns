@@ -1,0 +1,202 @@
+﻿assyrian = {
+	color = rgb { 209 212 135 }
+	heritage = heritage_syriac
+	language = language_aramaic
+	traditions = { tradition_zealous_people tradition_loyal_soldiers tradition_philosopher_culture tradition_caravaneers }
+	name_list = name_list_assyrian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		100 = arab
+	}
+}
+hurrian_culture = {
+	color = rgb { 89 92 209 }
+	heritage = heritage_syriac
+	language = language_hurrian
+	traditions = { tradition_storytellers tradition_metal_craftsmanship }
+	name_list = name_list_hurrian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	dlc_tradition = {
+		trait = tradition_music_theory
+		requires_dlc_flag = hybridize_culture
+	}
+	ethos = ethos_bellicose
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+aramaic = {
+	color = rgb { 13 255 128 }
+	heritage = heritage_syriac
+	language = language_aramaic
+	traditions = { tradition_warriors_of_the_dry tradition_dryland_dwellers tradition_poetry tradition_culture_blending }
+	name_list = name_list_aramaic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_bureaucratic
+	ethnicities = {
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+babylonian = {
+	color = rgb { 172 166 196 }
+	heritage = heritage_syriac
+	language = language_babylonian
+	traditions = { tradition_city_keepers tradition_medicinal_plants tradition_storytellers tradition_philosopher_culture tradition_legalistic }
+	name_list = name_list_babylonian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_spiritual
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+sumerian = {
+	color = rgb { 45 13 0 }
+	heritage = heritage_syriac
+	language = language_sumerian
+	traditions = { tradition_parochialism tradition_eye_for_an_eye tradition_storytellers tradition_wetlanders tradition_legalistic }
+	name_list = name_list_sumerian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_spiritual
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+eblaite = {
+	color = rgb { 12 77 199 }
+	heritage = heritage_syriac
+	language = language_eblaite
+	traditions = { tradition_city_keepers tradition_medicinal_plants tradition_storytellers tradition_philosopher_culture tradition_legalistic }
+	name_list = name_list_babylonian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_spiritual
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}
+bazramani = {
+	color = rgb { 102 153 0 }
+	parents = { roman persian }
+	heritage = heritage_syriac
+	language = language_latin
+	traditions = { tradition_warriors_of_the_dry tradition_hereditary_hierarchy }
+	name_list = name_list_roman
+	name_list = name_list_persian
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_bellicose
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+}
+judajca = {
+	color = rgb { 0 76 153 }
+	parents = { roman hebrew }
+	heritage = heritage_syriac
+	language = language_latin
+	traditions = { tradition_warriors_of_the_dry tradition_hereditary_hierarchy }
+	name_list = name_list_roman
+	name_list = name_list_hebrew
+	created = 20.1.1
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_communal
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { israelite_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+}
+gutian = {
+	color = rgb { 140 9 33 }
+	heritage = heritage_syriac
+	language = language_gutian
+	traditions = { tradition_quarrelsome tradition_hill_dwellers tradition_warrior_culture tradition_eye_for_an_eye }
+	name_list = name_list_gutian
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_15
+	house_coa_mask_offset = { 0.0 -0.03 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethos = ethos_bellicose
+	ethnicities = {
+		10 = arab
+		10 = mediterranean_byzantine
+	}
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+}

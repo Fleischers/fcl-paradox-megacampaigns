@@ -1,0 +1,193 @@
+6845={
+	holding = none
+}
+6846={
+	culture = sao
+	religion = west_african_bori_pagan
+	holding = none
+}
+6847={
+	holding = none
+}
+6848={
+	holding = none
+}
+6849={
+	holding = none
+}
+6850={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6851={
+	holding = none
+}
+6852={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6853={
+	holding = none
+}
+6854={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6855={
+	holding = none
+}
+6856={
+	holding = none
+}
+6860={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6861={
+	holding = none
+}
+6862={
+	holding = none
+}
+6863={
+	culture = zaghawa
+	religion = west_african_bori_pagan
+	holding = none
+	1150.1.1 = { religion = ashari }
+}
+6864={
+	holding = none
+}
+6865={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6866={
+	holding = none
+}
+6867={
+	holding = none
+}
+6868={
+	holding = none
+}
+6869={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6870={
+	holding = none
+}
+6871={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6872={
+	holding = none
+}
+6873={
+	holding = none
+}
+6874={
+	holding = none
+}
+6875={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+	1150.1.1 = { religion = ashari }
+}
+6876={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6877={
+	holding = none
+}
+6878={
+	holding = none
+}
+6879={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6880={
+	holding = none
+}
+6881={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6882={
+	holding = none
+}
+6883={
+	culture = nubian
+	faith = egyptian_pagan
+	holding = none
+}
+6884={
+	holding = none
+}
+6885={
+	holding = none
+}
+6886={
+	holding = none
+}
+6887={
+	holding = none
+}
+6888={
+	holding = none
+}
+6889={
+	holding = castle_holding
+}
+6890={
+	holding = none
+}
+6891={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6892={
+	holding = none
+}
+6893={
+	holding = none
+}
+6894={
+	holding = none
+}
+6895={
+	holding = none
+}
+6897={
+	holding = none
+}
+6898={
+	culture = daju
+	religion = kushitism_pagan
+	holding = none
+}
+6899={
+	holding = none
+}
+6900={
+	holding = none
+}
+6901={
+	holding = none
+}

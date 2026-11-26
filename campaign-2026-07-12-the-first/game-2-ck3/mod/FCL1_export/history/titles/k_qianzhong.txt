@@ -1,0 +1,95 @@
+k_qianzhong={
+	890.1.1 = { liege = 0 }
+}
+d_luodian={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_luodian_holder government = tribal_government liege = 0 }
+}
+d_luoshi={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sie_holder government = tribal_government liege = 0 }
+}
+d_shimen={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_jingzhou_2_holder government = tribal_government liege = 0 }
+}
+d_xiyuan={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_siyuan_holder government = tribal_government liege = 0 }
+}
+d_zangke={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder government = tribal_government liege = 0 }
+}
+c_guile={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_siyuan_holder change_development_level = 4 }
+}
+c_guzhou={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder change_development_level = 4 }
+}
+c_huangzhou_1={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder change_development_level = 4 }
+}
+c_jingzhou_2={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_jingzhou_2_holder liege = 0 change_development_level = 4 }
+}
+c_juzhou={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder liege = 0 change_development_level = 4 }
+}
+c_luodian={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_luodian_holder liege = 0 change_development_level = 4 }
+}
+c_nanping={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder change_development_level = 4 }
+}
+c_quzhou_1={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_jingzhou_2_holder change_development_level = 4 }
+}
+c_shaoqing={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sie_holder change_development_level = 4 }
+}
+c_shunzhou={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sie_holder change_development_level = 4 }
+}
+c_sie={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sie_holder liege = 0 change_development_level = 4 }
+}
+c_siyuan={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_siyuan_holder liege = 0 change_development_level = 4 }
+}
+c_wulong={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_siyuan_holder change_development_level = 4 }
+}
+c_yanchuan={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_luodian_holder change_development_level = 4 }
+}
+c_yanzhou_3={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_luodian_holder change_development_level = 4 }
+}
+c_yingzhou_4={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_juzhou_holder change_development_level = 4 }
+}
+c_yinzhou_1={
+	867.1.1 = { holder = tribal_rongnan_rongnan government = tribal_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_zongzhou={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sie_holder change_development_level = 4 }
+}

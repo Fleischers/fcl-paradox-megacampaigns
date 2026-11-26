@@ -1,0 +1,145 @@
+10518={
+	culture = japanese
+	religion = pundarika
+	holding = castle_holding
+}
+10520={
+	holding = none
+	1178.1.1 = { holding = city_holding }
+}
+10522={
+	holding = none
+}
+10523={
+	holding = none
+}
+10524={
+	holding = none
+}
+10525={
+	culture = japanese
+	religion = shugendo
+	holding = castle_holding
+}
+10526={
+	holding = none
+}
+10527={
+	holding = church_holding
+}
+10528={
+	culture = japanese
+	religion = shinto
+	holding = castle_holding
+	special_building_slot = dazaifu_01
+	663.1.1 = { special_building = dazaifu_01 }
+}
+10529={
+	holding = city_holding
+	special_building_slot = hakata_port_01
+	757.1.1 = { special_building = hakata_port_01 }
+}
+10530={
+	holding = church_holding
+}
+10531={
+	holding = none
+}
+10532={
+	holding = none
+}
+10533={
+	culture = japanese
+	religion = shinto
+	holding = castle_holding
+}
+10534={
+	culture = japanese
+	religion = pundarika
+	holding = castle_holding
+}
+10536={
+	holding = city_holding
+}
+10538={
+	holding = none
+}
+10539={
+	holding = none
+}
+10540={
+	culture = japanese
+	religion = shinto
+	holding = castle_holding
+}
+10541={
+	holding = none
+}
+10542={
+	holding = none
+}
+10543={
+	holding = city_holding
+}
+10544={
+	holding = none
+}
+10545={
+	holding = none
+}
+10546={
+	holding = none
+}
+10547={
+	culture = japanese
+	religion = utaki
+	holding = castle_holding
+	1066.1.1 = { religion = shinto }
+}
+10550={
+	culture = japanese
+	religion = shinto
+	holding = castle_holding
+}
+10551={
+	holding = none
+	1178.1.1 = { holding = castle_holding }
+}
+10552={
+	holding = church_holding
+}
+10554={
+	holding = none
+}
+10555={
+	holding = none
+}
+10556={
+	holding = none
+}
+10557={
+	holding = none
+	1178.1.1 = { holding = castle_holding }
+}
+10558={
+	holding = none
+}
+10559={
+	culture = japanese
+	religion = utaki
+	holding = castle_holding
+	1066.1.1 = { religion = shinto }
+}
+10560={
+	holding = none
+}
+10561={
+	holding = city_holding
+}
+10563={
+	culture = japanese
+	religion = shinto
+	holding = castle_holding
+	special_building_slot = tsushima_mines_01
+	700.1.1 = { special_building = tsushima_mines_01 }
+}

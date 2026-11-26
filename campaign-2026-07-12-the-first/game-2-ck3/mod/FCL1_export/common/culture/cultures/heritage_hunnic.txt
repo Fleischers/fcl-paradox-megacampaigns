@@ -1,0 +1,20 @@
+﻿hunnic = {
+	color = rgb { 254 204 50 }
+	heritage = heritage_hunnic
+	language = language_hunnic
+	traditions = { tradition_horse_breeder tradition_pastoralists tradition_devoted_horsemanship tradition_quarrelsome }
+	name_list = name_list_hunnic
+	head_determination = head_determination_herd
+	house_coa_frame = house_frame_14
+	ethnicities = {
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+	}
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	martial_custom = martial_custom_male_only
+	ethos = ethos_bellicose
+}

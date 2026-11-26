@@ -1,0 +1,148 @@
+9002={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9003={
+	holding = none
+}
+9004={
+	holding = castle_holding
+}
+9005={
+	holding = none
+}
+9006={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9007={
+	holding = city_holding
+}
+9008={
+	holding = city_holding
+}
+9009={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9010={
+	holding = city_holding
+}
+9011={
+	holding = city_holding
+}
+9012={
+	holding = none
+}
+9013={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9014={
+	holding = castle_holding
+}
+9015={
+	holding = castle_holding
+}
+9016={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9017={
+	holding = none
+}
+9018={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9019={
+	holding = castle_holding
+}
+9020={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9021={
+	holding = none
+}
+9022={
+	holding = none
+}
+9023={
+	holding = none
+}
+9026={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9027={
+	holding = none
+}
+9028={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9029={
+	holding = city_holding
+}
+9030={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9031={
+	holding = none
+}
+9032={
+	holding = none
+}
+9033={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9034={
+	holding = none
+}
+9035={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9036={
+	holding = none
+}
+9037={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+9038={
+	holding = none
+}
+9039={
+	holding = none
+}
+9040={
+	holding = none
+}
+9041={
+	culture = sumpa
+	faith = scythian_pagan
+	holding = none
+}
+9042={
+	holding = none
+}
+9043={
+	holding = none
+}

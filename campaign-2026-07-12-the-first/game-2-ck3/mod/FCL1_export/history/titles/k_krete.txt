@@ -1,0 +1,32 @@
+k_krete={
+	890.1.1 = { liege = 0 }
+}
+d_krete={
+	890.1.1 = { liege = 0 }
+}
+c_chandax={
+	452.10.30 = { liege = 0 holder = imperator232195 }
+	476.1.7 = { change_development_level = 17 }
+	481.10.14 = { holder = irtock3_imperator232195_successor_0 }
+	517.10.14 = { holder = irtock3_imperator232195_successor_1 }
+	553.10.14 = { holder = irtock3_imperator232195_successor_2 }
+	602.10.14 = { holder = irtock3_imperator232195_successor_3 }
+	643.10.14 = { holder = irtock3_imperator232195_successor_4 }
+	703.10.14 = { holder = irtock3_imperator232195_successor_5 }
+	749.10.14 = { holder = irtock3_imperator232195_successor_6 }
+	802.10.14 = { holder = irtock3_imperator232195_successor_7 }
+	849.10.14 = { holder = irtock3_imperator232195_successor_8 }
+}
+c_chania={
+	452.10.30 = { liege = 0 holder = imperator232195 }
+	476.1.7 = { change_development_level = 19 }
+	481.10.14 = { holder = irtock3_imperator232195_successor_0 }
+	517.10.14 = { holder = irtock3_imperator232195_successor_1 }
+	553.10.14 = { holder = irtock3_imperator232195_successor_2 }
+	602.10.14 = { holder = irtock3_imperator232195_successor_3 }
+	643.10.14 = { holder = irtock3_imperator232195_successor_4 }
+	703.10.14 = { holder = irtock3_imperator232195_successor_5 }
+	749.10.14 = { holder = irtock3_imperator232195_successor_6 }
+	802.10.14 = { holder = irtock3_imperator232195_successor_7 }
+	849.10.14 = { holder = irtock3_imperator232195_successor_8 }
+}

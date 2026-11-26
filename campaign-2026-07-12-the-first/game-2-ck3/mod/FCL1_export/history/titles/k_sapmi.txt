@@ -1,0 +1,143 @@
+k_sapmi={
+	890.1.1 = { liege = 0 }
+}
+d_aarjetje={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sjeltie_holder government = tribal_government liege = 0 }
+}
+d_duortnoseatnu={
+	890.1.1 = { liege = 0 }
+}
+d_giemajohka={
+	890.1.1 = { holder = IRToCK3_c_peaccam_holder government = tribal_government liege = 0 }
+}
+d_guoldat={
+	890.1.1 = { liege = 0 }
+}
+d_vuovdisamieana={
+	890.1.1 = { holder = IRToCK3_c_biton_holder government = tribal_government liege = 0 }
+}
+c_akkel={
+	867.1.1 = { holder = sami_000011 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_aviovara={
+	760.1.1 = { government = tribal_government }
+	867.1.1 = { holder = 186001 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_biton={
+	760.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_biton_holder liege = d_aarjetje change_development_level = 0 }
+}
+c_east_kiilt={
+	755.1.1 = { holder = 170333 government = tribal_government }
+	776.1.1 = { holder = 170334 }
+	803.1.1 = { holder = 170335 }
+	818.1.1 = { holder = 170336 }
+	836.1.1 = { holder = 170337 }
+	866.1.1 = { holder = 170146 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_inari={
+	867.1.1 = { holder = sami_000009 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_jahkamakke={
+	760.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sjeltie_holder liege = d_aarjetje change_development_level = 0 }
+}
+c_jovvkuj={
+	755.1.1 = { holder = 170333 government = tribal_government }
+	776.1.1 = { holder = 170334 }
+	803.1.1 = { holder = 170335 }
+	818.1.1 = { holder = 170336 }
+	836.1.1 = { holder = 170337 }
+	866.1.1 = { holder = 170146 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_julevadno={
+	867.1.1 = { holder = sami_000013 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_karasjohka={
+	760.1.1 = { government = tribal_government }
+	867.1.1 = { holder = 186001 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kintus={
+	755.1.1 = { holder = 170333 government = tribal_government }
+	776.1.1 = { holder = 170334 }
+	803.1.1 = { holder = 170335 }
+	818.1.1 = { holder = 170336 }
+	836.1.1 = { holder = 170337 }
+	866.1.1 = { holder = 170146 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kitka={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_peaccam_holder change_development_level = 0 }
+}
+c_kittila={
+	867.1.1 = { holder = sami_000015 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_koutajoki={
+	747.1.1 = { holder = 170324 government = tribal_government liege = "d_karelia" }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_peaccam={
+	867.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_peaccam_holder liege = 0 change_development_level = 0 }
+}
+c_pite={
+	760.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sjeltie_holder liege = d_aarjetje change_development_level = 0 }
+}
+c_rounala={
+	760.1.1 = { government = tribal_government }
+	867.1.1 = { holder = 186001 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_siggevara={
+	867.1.1 = { holder = sami_000003 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sjeltie={
+	760.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sjeltie_holder liege = 0 change_development_level = 0 }
+}
+c_skolt={
+	867.1.1 = { holder = sami_000009 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sombio={
+	867.1.1 = { holder = sami_000011 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_suondavara={
+	867.1.1 = { holder = sami_000003 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ter={
+	755.1.1 = { holder = 170333 government = tribal_government }
+	776.1.1 = { holder = 170334 }
+	803.1.1 = { holder = 170335 }
+	818.1.1 = { holder = 170336 }
+	836.1.1 = { holder = 170337 }
+	866.1.1 = { holder = 170146 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_torne={
+	867.1.1 = { holder = sami_000013 government = tribal_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ubmejeiednuo={
+	760.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sjeltie_holder liege = d_aarjetje change_development_level = 0 }
+}

@@ -1,0 +1,200 @@
+10066={
+	holding = city_holding
+}
+10067={
+	holding = church_holding
+}
+10068={
+	culture = shatuo
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10069={
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+	980.1.1 = { culture = han religion = sukhavati }
+}
+10070={
+	holding = city_holding
+}
+10071={
+	holding = none
+}
+10072={
+	holding = church_holding
+}
+10073={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+10074={
+	holding = none
+}
+10075={
+	holding = church_holding
+}
+10076={
+	holding = city_holding
+}
+10077={
+	holding = none
+}
+10078={
+	holding = city_holding
+}
+10079={
+	culture = shatuo
+	religion = sukhavati
+	holding = castle_holding
+	special_building_slot = pagoda_of_fogong_temple_01
+	1056.1.1 = { special_building = pagoda_of_fogong_temple_01 }
+}
+10080={
+	culture = shatuo
+	religion = yogacara
+	holding = castle_holding
+	960.1.1 = { religion = sukhavati }
+}
+10081={
+	holding = church_holding
+}
+10156={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10157={
+	holding = church_holding
+}
+10158={
+	holding = city_holding
+}
+10160={
+	holding = city_holding
+}
+10161={
+	holding = church_holding
+}
+10162={
+	holding = none
+}
+10163={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+}
+10164={
+	holding = church_holding
+}
+10165={
+	holding = city_holding
+}
+10166={
+	holding = none
+}
+10167={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+}
+10168={
+	holding = city_holding
+}
+10169={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+	1000.1.1 = { religion = mantrayana }
+}
+10170={
+	holding = city_holding
+}
+10171={
+	holding = church_holding
+}
+10172={
+	holding = city_holding
+}
+10173={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10174={
+	holding = city_holding
+}
+10175={
+	holding = church_holding
+}
+10176={
+	holding = church_holding
+}
+10177={
+	holding = none
+}
+10303={
+	holding = city_holding
+}
+10304={
+	holding = church_holding
+}
+10305={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10306={
+	holding = city_holding
+}
+10307={
+	holding = none
+}
+10308={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+10309={
+	holding = none
+}
+10402={
+	holding = city_holding
+}
+10403={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+10404={
+	holding = church_holding
+}
+12247={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+13040={
+	holding = church_holding
+}
+13041={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+13046={
+	holding = city_holding
+}
+13047={
+	holding = none
+}
+13069={
+	holding = none
+}
+13070={
+	holding = none
+}

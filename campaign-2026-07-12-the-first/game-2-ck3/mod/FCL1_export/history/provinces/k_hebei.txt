@@ -1,0 +1,166 @@
+8872={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+8873={
+	holding = church_holding
+}
+8891={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10086={
+	holding = castle_holding
+}
+10087={
+	holding = city_holding
+}
+10159={
+	holding = city_holding
+}
+10178={
+	holding = church_holding
+}
+10179={
+	holding = church_holding
+}
+10180={
+	holding = city_holding
+	special_building = hanxing_mines_01
+}
+10181={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10182={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10183={
+	holding = city_holding
+}
+10184={
+	holding = church_holding
+}
+10185={
+	holding = none
+}
+10187={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { religion = yogacara }
+}
+10298={
+	holding = city_holding
+}
+10299={
+	holding = church_holding
+}
+10300={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10301={
+	holding = city_holding
+}
+10302={
+	holding = city_holding
+}
+10310={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10311={
+	holding = city_holding
+}
+10312={
+	holding = castle_holding
+}
+10313={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	special_building_slot = lize_academy_01
+	1150.1.1 = { religion = dhyana special_building = lize_academy_01 }
+}
+10314={
+	holding = church_holding
+}
+10315={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10352={
+	holding = castle_holding
+}
+10353={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10354={
+	holding = city_holding
+}
+10355={
+	holding = city_holding
+}
+10356={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+10357={
+	holding = city_holding
+}
+10358={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10359={
+	holding = castle_holding
+}
+10360={
+	holding = church_holding
+}
+10361={
+	culture = han
+	religion = maitreya
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+10362={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10363={
+	holding = castle_holding
+}
+10364={
+	holding = church_holding
+}
+10405={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10417={
+	holding = church_holding
+}
