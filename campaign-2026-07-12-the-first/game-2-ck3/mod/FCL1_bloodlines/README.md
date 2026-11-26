@@ -1,6 +1,6 @@
 # FCL1 Bloodlines
 
-This is a companion CK3 mod for the `Converted - FCL1_export_test` export mod.
+This is a companion CK3 mod for the `Converted - FCL1_export` export mod.
 Enable both mods, with FCL1 Bloodlines after the export mod.
 
 The mod contains the bloodline traits, English localization, flag and crown

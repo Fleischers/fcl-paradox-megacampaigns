@@ -31,7 +31,7 @@ Tuscia's dynasty also receives `blood_of_the_winner` at game start.
 
 ## Implementation
 
-Bloodlines are packaged as the separate companion mod `campaign-2026-07-12-the-first/game-2-ck3/mod/FCL1_bloodlines`, which depends on and should load after `Converted - FCL1_export_test`.
+Bloodlines are packaged as the separate companion mod `campaign-2026-07-12-the-first/game-2-ck3/mod/FCL1_bloodlines`, which depends on and should load after `Converted - FCL1_export`.
 
 - Trait definitions and inheritance settings: `common/traits/00_bloodlines.txt`
 - English names and descriptions: `localization/english/bloodlines_l_english.yml`
