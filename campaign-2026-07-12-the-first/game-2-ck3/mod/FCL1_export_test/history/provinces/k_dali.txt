@@ -1,0 +1,180 @@
+10437={
+	holding = city_holding
+}
+10444={
+	holding = city_holding
+}
+10445={
+	holding = church_holding
+}
+10448={
+	holding = church_holding
+}
+10450={
+	culture = yi
+	religion = acharya
+	holding = castle_holding
+}
+10467={
+	holding = church_holding
+}
+10863={
+	culture = bai
+	religion = bimoism
+	holding = castle_holding
+}
+10864={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+10865={
+	culture = bai
+	religion = bimoism
+	holding = castle_holding
+}
+10866={
+	holding = church_holding
+}
+10867={
+	holding = city_holding
+}
+10868={
+	culture = yi
+	religion = acharya
+	holding = castle_holding
+}
+10869={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+10870={
+	holding = church_holding
+}
+10871={
+	holding = church_holding
+}
+10872={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+10873={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+10874={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+10875={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+10876={
+	holding = city_holding
+}
+10877={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+10881={
+	holding = city_holding
+}
+10883={
+	holding = city_holding
+}
+10884={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+10885={
+	holding = city_holding
+}
+10886={
+	holding = church_holding
+}
+10887={
+	holding = church_holding
+}
+10888={
+	holding = city_holding
+}
+10889={
+	holding = church_holding
+}
+10890={
+	holding = church_holding
+}
+10891={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+10902={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+10903={
+	holding = city_holding
+}
+10904={
+	culture = bai
+	religion = acharya
+	holding = tribal_holding
+	1066.1.1 = { holding = castle_holding }
+}
+10905={
+	holding = church_holding
+}
+10906={
+	holding = none
+}
+10907={
+	holding = city_holding
+}
+11474={
+	holding = city_holding
+}
+11475={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+11476={
+	culture = bai
+	religion = acharya
+	holding = castle_holding
+}
+11477={
+	holding = none
+}
+11478={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+11487={
+	holding = church_holding
+}
+11488={
+	holding = city_holding
+}
+11489={
+	holding = city_holding
+}
+11490={
+	holding = church_holding
+}
+12508={
+	holding = city_holding
+}
+12863={
+	holding = city_holding
+}

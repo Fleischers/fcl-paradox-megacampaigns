@@ -1,5 +1,5 @@
 k_thessalonika={
-	465.9.3 = { succession_laws = { high_partition_succession_law } }
+	465.9.3 = { succession_laws = { partition_succession_law } }
 	890.1.1 = { liege = 0 }
 }
 d_aegean_islands={
@@ -31,7 +31,7 @@ c_abydos={
 	823.8.11 = { holder = irtock3_imperator229749_successor_8 }
 }
 c_brysis={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 17 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }
@@ -45,7 +45,7 @@ c_brysis={
 	853.1.8 = { holder = irtock3_imperator233513_successor_9 }
 }
 c_byzantion={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 18 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }
@@ -97,7 +97,7 @@ c_demetrias={
 	844.10.9 = { holder = irtock3_imperator227039_successor_9 }
 }
 c_kalliopolis={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 18 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }

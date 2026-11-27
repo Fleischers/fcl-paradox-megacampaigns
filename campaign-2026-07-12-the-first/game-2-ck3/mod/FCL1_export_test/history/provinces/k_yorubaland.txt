@@ -1,0 +1,155 @@
+6910={
+	holding = none
+}
+6911={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+6912={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+6913={
+	holding = none
+}
+6923={
+	holding = none
+}
+8040={
+	culture = ewe
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8041={
+	holding = none
+}
+8050={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8051={
+	culture = ewe
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8052={
+	holding = none
+}
+8053={
+	holding = none
+}
+8054={
+	holding = none
+}
+8055={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8056={
+	holding = none
+}
+8057={
+	holding = none
+}
+8058={
+	holding = none
+}
+8059={
+	holding = none
+}
+8060={
+	holding = none
+}
+8061={
+	holding = none
+}
+8062={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8063={
+	holding = none
+}
+8064={
+	holding = none
+}
+8065={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8066={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8067={
+	holding = none
+}
+8068={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8069={
+	holding = none
+}
+8070={
+	holding = none
+}
+8071={
+	holding = none
+}
+8072={
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = none
+	867.1.1 = { special_building_slot = walls_of_benin_01 }
+}
+8073={
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8074={
+	holding = none
+}
+8075={
+	holding = none
+}
+8076={
+	holding = none
+}
+8079={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8080={
+	holding = none
+}
+8081={
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8082={
+	holding = none
+}
+8083={
+	holding = none
+}
+8084={
+	holding = none
+}
+8086={
+	holding = none
+}
+8088={
+	holding = none
+}

@@ -1,0 +1,38 @@
+9846={
+	culture = amis
+	religion = hantuism
+	holding = tribal_holding
+}
+9847={
+	culture = amis
+	religion = hantuism
+	holding = tribal_holding
+}
+9848={
+	holding = none
+}
+9849={
+	holding = none
+}
+9850={
+	holding = none
+}
+9851={
+	holding = none
+}
+10463={
+	culture = amis
+	religion = hantuism
+	holding = tribal_holding
+	special_building_slot = fengtian_mines_01
+	1179.1.1 = { special_building = fengtian_mines_01 }
+}
+10465={
+	holding = none
+}
+10466={
+	holding = none
+}
+10473={
+	holding = none
+}

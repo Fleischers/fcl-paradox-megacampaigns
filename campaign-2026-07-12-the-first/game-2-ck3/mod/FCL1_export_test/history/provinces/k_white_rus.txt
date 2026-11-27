@@ -1,0 +1,187 @@
+161={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+164={
+	holding = none
+}
+548={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+550={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+551={
+	holding = none
+}
+568={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+569={
+	holding = none
+}
+587={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+933={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+934={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5043={
+	holding = none
+}
+5044={
+	culture = sarmatian
+	faith = vaishnavism
+	holding = castle_holding
+}
+5045={
+	holding = none
+}
+5046={
+	holding = none
+}
+5112={
+	holding = none
+}
+5113={
+	holding = none
+}
+5114={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5115={
+	holding = castle_holding
+}
+5116={
+	holding = none
+}
+5117={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5118={
+	holding = none
+}
+5119={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5120={
+	holding = none
+}
+5121={
+	holding = none
+}
+5122={
+	holding = none
+}
+5123={
+	holding = none
+}
+5124={
+	holding = none
+}
+5125={
+	holding = none
+}
+5126={
+	holding = city_holding
+}
+5127={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5128={
+	holding = church_holding
+}
+5129={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5130={
+	holding = city_holding
+}
+5131={
+	holding = none
+}
+5132={
+	holding = castle_holding
+}
+5133={
+	holding = none
+}
+5134={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5135={
+	holding = none
+}
+5136={
+	culture = sarmatian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5170={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5171={
+	holding = none
+}
+5172={
+	holding = none
+}
+5219={
+	holding = none
+}
+5220={
+	holding = none
+}
+5221={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5222={
+	holding = none
+}
+5223={
+	holding = castle_holding
+}
+5224={
+	holding = none
+}
+5225={
+	holding = none
+}
+5226={
+	holding = none
+}
+5227={
+	holding = none
+}

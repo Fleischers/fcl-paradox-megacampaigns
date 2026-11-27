@@ -63,7 +63,7 @@ c_avalois={
 }
 c_beaumont={
 	458.5.27 = { holder = imperator244271 }
-	466.6.12 = { liege = d_IRTOCK3_EBS }
+	466.6.12 = { liege = d_IR_Eburonia }
 	476.1.7 = { change_development_level = 21 }
 	482.10.28 = { holder = irtock3_imperator244271_successor_0 }
 	523.10.28 = { holder = irtock3_imperator244271_successor_1 }

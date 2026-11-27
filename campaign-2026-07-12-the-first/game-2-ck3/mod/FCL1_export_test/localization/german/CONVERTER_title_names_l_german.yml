@@ -1,0 +1,11 @@
+﻿l_german:
+# Pharaoh
+ king_feudal_male_ancient_egyptian: "Pharao"
+ king_feudal_female_ancient_egyptian: "Pharao"
+ emperor_feudal_male_ancient_egyptian: "Pharao"
+ emperor_feudal_female_ancient_egyptian: "Pharao"
+
+# Carthage
+ duke_republic_male_carthaginian: "Sufet"
+ king_republic_male_carthaginian: "Sufet"
+ emperor_republic_male_carthaginian: "Sufet"

@@ -1,0 +1,187 @@
+2151={
+	holding = none
+}
+2152={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2153={
+	holding = castle_holding
+}
+2154={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2155={
+	holding = none
+}
+2156={
+	culture = sarmatian
+	faith = catholic
+	holding = castle_holding
+}
+2157={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2158={
+	holding = none
+}
+2159={
+	holding = none
+}
+2160={
+	holding = city_holding
+}
+2161={
+	holding = city_holding
+}
+2162={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2163={
+	holding = city_holding
+}
+2164={
+	holding = castle_holding
+}
+2165={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2166={
+	holding = city_holding
+}
+2167={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2168={
+	holding = none
+}
+2169={
+	holding = none
+}
+2170={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2171={
+	holding = none
+}
+2172={
+	holding = none
+}
+2173={
+	holding = castle_holding
+}
+2174={
+	culture = belgae
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2175={
+	holding = city_holding
+}
+2176={
+	holding = none
+}
+2177={
+	holding = castle_holding
+}
+2178={
+	culture = belgae
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2179={
+	culture = belgae
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2180={
+	holding = none
+}
+2182={
+	holding = none
+}
+2260={
+	holding = none
+}
+2261={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2262={
+	holding = none
+}
+2263={
+	holding = none
+}
+2264={
+	culture = etruscan
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2265={
+	holding = city_holding
+}
+2266={
+	holding = none
+}
+2267={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2268={
+	holding = none
+}
+2269={
+	holding = city_holding
+}
+2270={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2271={
+	holding = none
+}
+2272={
+	holding = none
+}
+2282={
+	holding = none
+}
+2325={
+	culture = etruscan
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2326={
+	holding = city_holding
+}
+2327={
+	holding = none
+}
+2328={
+	holding = none
+}
+2329={
+	culture = breton
+	faith = gallic_celtic
+	holding = castle_holding
+}
+2330={
+	holding = none
+}

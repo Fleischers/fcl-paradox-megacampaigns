@@ -1,0 +1,131 @@
+k_shiwei={
+	890.1.1 = { liege = 0 }
+}
+d_SW_dashiweiguo={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder government = tribal_government liege = 0 }
+}
+d_SW_heicheziguo={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_zhongcheziguo_holder government = tribal_government liege = 0 }
+}
+d_SW_lingxiguo={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_lingxiguo_holder government = tribal_government liege = 0 }
+}
+d_SW_puyudao={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_puyuzhou_holder government = tribal_government liege = 0 }
+}
+d_SW_qingxingan={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder government = tribal_government liege = 0 }
+}
+d_SW_ruzheguo={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_jiqin_hari_holder government = tribal_government liege = 0 }
+}
+d_SW_sushenguo={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder government = tribal_government liege = 0 }
+}
+c_SW_damoguo={
+	890.1.1 = { holder = IRToCK3_c_SW_puyuzhou_holder change_development_level = 0 }
+}
+c_SW_dongcheziguo={
+	890.1.1 = { holder = IRToCK3_c_SW_zhongcheziguo_holder change_development_level = 0 }
+}
+c_SW_dongruzhe={
+	890.1.1 = { holder = IRToCK3_c_SW_jiqin_hari_holder change_development_level = 0 }
+}
+c_SW_ergunia={
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder change_development_level = 0 }
+}
+c_SW_fancao={
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder change_development_level = 0 }
+}
+c_SW_gonghejiang={
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder change_development_level = 0 }
+}
+c_SW_hailar={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder change_development_level = 0 }
+}
+c_SW_heiergun={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder change_development_level = 0 }
+}
+c_SW_heiheguo={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_lingxiguo_holder change_development_level = 0 }
+}
+c_SW_heilonghean={
+	867.1.1 = { holder = shiwei_herder_16 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_SW_heilonglin={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder change_development_level = 0 }
+}
+c_SW_hongxingan={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_zhongcheziguo_holder change_development_level = 0 }
+}
+c_SW_huangtouguo={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder liege = 0 change_development_level = 0 }
+}
+c_SW_hulunbuir={
+	867.1.1 = { holder = mongol_herder_24 government = herder_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_SW_jiqin_hari={
+	890.1.1 = { holder = IRToCK3_c_SW_jiqin_hari_holder liege = 0 change_development_level = 0 }
+}
+c_SW_lingxiguo={
+	890.1.1 = { holder = IRToCK3_c_SW_lingxiguo_holder liege = 0 change_development_level = 0 }
+}
+c_SW_luotuoguo={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder change_development_level = 0 }
+}
+c_SW_lupingyuan={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder change_development_level = 0 }
+}
+c_SW_mengwuo={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder change_development_level = 0 }
+}
+c_SW_nabeiguo={
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder change_development_level = 0 }
+}
+c_SW_pibeihe={
+	890.1.1 = { holder = IRToCK3_c_SW_pibeihe_holder liege = 0 change_development_level = 0 }
+}
+c_SW_powoguo={
+	890.1.1 = { holder = IRToCK3_c_SW_lingxiguo_holder change_development_level = 0 }
+}
+c_SW_puyuzhou={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_puyuzhou_holder liege = 0 change_development_level = 0 }
+}
+c_SW_ruzhejiang={
+	890.1.1 = { holder = IRToCK3_c_SW_jiqin_hari_holder change_development_level = 0 }
+}
+c_SW_shanbeiguo={
+	890.1.1 = { holder = IRToCK3_c_SW_puyuzhou_holder change_development_level = 0 }
+}
+c_SW_suihua={
+	890.1.1 = { holder = IRToCK3_c_SW_suihua_holder liege = 0 change_development_level = 0 }
+}
+c_SW_xinghuangtou={
+	867.1.1 = { government = herder_government }
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder change_development_level = 0 }
+}
+c_SW_xingnabei={
+	890.1.1 = { holder = IRToCK3_c_SW_huangtouguo_holder change_development_level = 0 }
+}
+c_SW_zhongcheziguo={
+	890.1.1 = { holder = IRToCK3_c_SW_zhongcheziguo_holder liege = 0 change_development_level = 0 }
+}

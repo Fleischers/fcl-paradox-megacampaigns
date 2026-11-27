@@ -1,0 +1,21 @@
+﻿l_english:
+
+ select_personal_deity_venetic_decision: "Pick a Patron Deity"
+ select_personal_deity_venetic_decision_tooltip: "Deciding on a Deity"
+ select_personal_deity_venetic_decision_tt: "Deciding on a Deity"
+ select_personal_deity_venetic_decision_desc: "[ROOT.Char.GetFaith.PantheonTerm|U] are many and inscrutable, yet I cannot say that there are not some who hold a level of special appeal for me. Were I to dedicate myself openly to the express worship of primarily one such deity, I would doubtless draw like-minded souls to my side.\n\nWhatever the blessings my patron provides, being with similar [ROOT.Char.GetFaith.GetAdherentNamePluralNoTooltip] can only bring me health, wealth, and glory."
+ select_personal_deity_venetic_decision.select_reitia: "Reitia, the healer, teacher and Bringer of Wisdom!"
+ select_personal_deity_venetic_decision.select_tumusiates: "Trumusiates, powerful and glorious!"
+ select_personal_deity_venetic_decision.select_bouleno: "Bouleno, the sly and cunning Warrior!"
+ select_personal_deity_venetic_decision.select_vetusa: "Vetusa, keeper of nature and master of the lands!"
+ select_personal_deity_venetic_decision_confirm: "My choise is most wise"
+
+ written_offering_decision: "Make a Written Offering"
+ written_offering_decision_tooltip: "Inscribing a Prayer"
+ written_offering_decision_tt: "Inscribing a Prayer"
+ written_offering_decision_desc: "The gods would look kindly upon me and my people, were I to give them a gift and write my thanks to them."
+ written_offering_decision_confirm: "Time to pick up my stylus!"
+
+ doctrine_parameter_ritual_writing_active: "Allows #ERitual Inscriptions as gifts in exchange for piety"
+
+ ritual_writing_vassals: "Pleased Faithful"

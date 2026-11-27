@@ -1,0 +1,102 @@
+808={
+	holding = none
+}
+809={
+	holding = none
+}
+810={
+	culture = assamese
+	faith = vaishnavism
+	holding = castle_holding
+}
+811={
+	holding = none
+}
+812={
+	holding = city_holding
+}
+813={
+	holding = church_holding
+}
+814={
+	holding = none
+}
+815={
+	holding = none
+}
+816={
+	holding = city_holding
+}
+817={
+	holding = church_holding
+}
+818={
+	holding = city_holding
+}
+819={
+	holding = none
+}
+820={
+	holding = church_holding
+}
+821={
+	holding = none
+}
+822={
+	holding = city_holding
+}
+823={
+	holding = none
+}
+824={
+	holding = none
+}
+825={
+	holding = none
+}
+826={
+	culture = bengali
+	faith = sedism
+	holding = none
+}
+827={
+	holding = city_holding
+}
+1177={
+	culture = assamese
+	faith = vaishnavism
+	holding = castle_holding
+}
+1244={
+	culture = bengali
+	faith = vaishnavism
+	holding = castle_holding
+}
+1245={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1246={
+	culture = brythonic
+	faith = scythian_pagan
+	holding = castle_holding
+}
+1296={
+	culture = assamese
+	faith = vaishnavism
+	holding = castle_holding
+}
+1321={
+	culture = assamese
+	faith = vaishnavism
+	holding = castle_holding
+}
+1418={
+	culture = assamese
+	faith = vaishnavism
+	holding = castle_holding
+}
+10488={
+	holding = none
+}

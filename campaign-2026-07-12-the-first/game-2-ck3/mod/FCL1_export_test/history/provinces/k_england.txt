@@ -1,0 +1,515 @@
+1499={
+	holding = none
+}
+1500={
+	holding = city_holding
+}
+1502={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1503={
+	holding = city_holding
+}
+1504={
+	holding = city_holding
+}
+1505={
+	holding = city_holding
+}
+1506={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1507={
+	holding = city_holding
+}
+1508={
+	holding = city_holding
+}
+1509={
+	holding = city_holding
+}
+1510={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1511={
+	holding = city_holding
+}
+1512={
+	holding = church_holding
+}
+1513={
+	holding = church_holding
+}
+1514={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1515={
+	holding = city_holding
+}
+1516={
+	holding = church_holding
+}
+1517={
+	holding = city_holding
+}
+1518={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1519={
+	holding = city_holding
+}
+1520={
+	holding = castle_holding
+}
+1521={
+	holding = city_holding
+}
+1522={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1523={
+	holding = city_holding
+}
+1524={
+	holding = city_holding
+}
+1525={
+	holding = city_holding
+}
+1526={
+	holding = church_holding
+}
+1527={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1528={
+	holding = city_holding
+}
+1529={
+	holding = city_holding
+}
+1530={
+	holding = city_holding
+}
+1531={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1532={
+	holding = city_holding
+}
+1533={
+	holding = city_holding
+}
+1534={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1535={
+	holding = city_holding
+}
+1536={
+	holding = city_holding
+}
+1537={
+	holding = city_holding
+}
+1538={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1539={
+	holding = city_holding
+}
+1540={
+	holding = city_holding
+}
+1541={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1542={
+	holding = city_holding
+}
+1543={
+	holding = city_holding
+}
+1544={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1545={
+	holding = city_holding
+}
+1546={
+	holding = city_holding
+}
+1547={
+	holding = city_holding
+}
+1548={
+	holding = none
+}
+1549={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1551={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1552={
+	holding = city_holding
+}
+1553={
+	holding = city_holding
+}
+1554={
+	holding = city_holding
+}
+1555={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1556={
+	holding = city_holding
+}
+1557={
+	holding = none
+}
+1558={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+	special_building_slot = generic_university
+}
+1559={
+	holding = city_holding
+}
+1560={
+	holding = city_holding
+}
+1561={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+	special_building = stonehenge_01
+}
+1562={
+	holding = church_holding
+}
+1563={
+	holding = city_holding
+}
+1564={
+	holding = none
+}
+1565={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1566={
+	holding = none
+}
+1567={
+	holding = city_holding
+}
+1568={
+	holding = none
+}
+1569={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1570={
+	holding = church_holding
+}
+1571={
+	holding = city_holding
+}
+1572={
+	holding = none
+}
+1573={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1574={
+	holding = city_holding
+}
+1575={
+	holding = city_holding
+}
+1576={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1577={
+	holding = church_holding
+}
+1578={
+	holding = city_holding
+}
+1579={
+	holding = none
+}
+1580={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1581={
+	holding = none
+}
+1582={
+	holding = city_holding
+}
+1583={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1584={
+	holding = city_holding
+}
+1585={
+	holding = city_holding
+}
+1586={
+	holding = city_holding
+}
+1587={
+	holding = city_holding
+}
+1588={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1589={
+	holding = none
+}
+1590={
+	holding = none
+}
+1591={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1592={
+	holding = none
+}
+1593={
+	holding = city_holding
+}
+1594={
+	holding = city_holding
+}
+1595={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1596={
+	holding = city_holding
+}
+1597={
+	holding = city_holding
+}
+1598={
+	holding = city_holding
+}
+1599={
+	holding = none
+}
+1600={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1601={
+	holding = city_holding
+}
+1602={
+	holding = city_holding
+}
+1603={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1604={
+	holding = city_holding
+}
+1605={
+	holding = none
+}
+1606={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1607={
+	holding = none
+}
+1608={
+	holding = city_holding
+}
+1609={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+1610={
+	holding = church_holding
+}
+1611={
+	holding = castle_holding
+}
+1612={
+	holding = castle_holding
+}
+1613={
+	holding = city_holding
+}
+1615={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1616={
+	holding = city_holding
+}
+1617={
+	holding = city_holding
+}
+1618={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1619={
+	holding = none
+}
+1620={
+	holding = none
+}
+1621={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1622={
+	holding = city_holding
+}
+1623={
+	holding = none
+}
+1624={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1625={
+	holding = none
+}
+1626={
+	holding = city_holding
+}
+1627={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1628={
+	holding = city_holding
+}
+1629={
+	holding = city_holding
+}
+1635={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+1636={
+	holding = none
+}
+1637={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1638={
+	holding = city_holding
+}
+1639={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1640={
+	holding = city_holding
+}
+1641={
+	holding = city_holding
+}
+1642={
+	holding = city_holding
+}
+1643={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1644={
+	holding = city_holding
+}
+1645={
+	holding = none
+}
+1646={
+	culture = brythonic
+	faith = briton_paganism
+	holding = castle_holding
+}
+1647={
+	holding = none
+}
+1648={
+	holding = none
+}
+8780={
+	holding = city_holding
+}
+12826={
+	holding = castle_holding
+	767.1.1 = { special_building = dean_mines_01 }
+}

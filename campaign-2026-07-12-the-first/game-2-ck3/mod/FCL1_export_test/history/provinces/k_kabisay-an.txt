@@ -1,0 +1,189 @@
+11047={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11048={
+	holding = none
+}
+11049={
+	holding = none
+}
+11050={
+	holding = none
+}
+11051={
+	holding = none
+}
+11052={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11053={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11054={
+	holding = none
+}
+11055={
+	holding = none
+}
+11056={
+	holding = none
+}
+11057={
+	holding = none
+}
+11058={
+	holding = none
+}
+11059={
+	holding = none
+}
+11060={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11061={
+	holding = none
+}
+11062={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	special_building_slot = generic_university
+	1050.1.1 = { special_building = generic_university }
+}
+11063={
+	holding = none
+}
+11064={
+	holding = none
+}
+11065={
+	holding = none
+}
+11066={
+	holding = none
+}
+11067={
+	culture = bisayan
+	religion = vajrayana
+	holding = tribal_holding
+}
+11068={
+	holding = none
+}
+11069={
+	holding = none
+	980.1.1 = { holding = city_holding }
+}
+11070={
+	holding = none
+}
+11071={
+	holding = none
+}
+11072={
+	holding = none
+}
+11073={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	special_building_slot = mount_apo_01
+	special_building = mount_apo_01
+}
+11074={
+	holding = none
+}
+11075={
+	culture = bisayan
+	religion = shaivism
+	holding = tribal_holding
+	980.1.1 = { holding = tribal_holding }
+}
+11076={
+	holding = none
+}
+11077={
+	holding = none
+}
+11078={
+	holding = none
+}
+11079={
+	holding = none
+}
+11080={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11081={
+	holding = none
+}
+11082={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	900.1.1 = { holding = tribal_holding }
+	1000.1.1 = { religion = shaivism }
+}
+11083={
+	holding = none
+	900.1.1 = { holding = city_holding }
+}
+11084={
+	holding = none
+}
+11085={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	1000.1.1 = { religion = shaivism }
+}
+11086={
+	holding = none
+}
+11087={
+	holding = none
+}
+11088={
+	holding = none
+}
+11089={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+	1000.1.1 = { religion = shaivism }
+}
+11090={
+	holding = none
+}
+11091={
+	holding = none
+}
+11092={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11094={
+	culture = bisayan
+	religion = dayawism
+	holding = tribal_holding
+}
+11095={
+	holding = none
+}
+11096={
+	holding = none
+}
+11097={
+	holding = none
+}

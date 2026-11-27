@@ -1,0 +1,243 @@
+10489={
+	holding = none
+}
+10490={
+	holding = none
+}
+10491={
+	holding = none
+}
+10492={
+	holding = none
+}
+10493={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+10494={
+	holding = none
+}
+10495={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+10496={
+	holding = none
+}
+10497={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+10499={
+	holding = none
+}
+10500={
+	holding = none
+}
+11866={
+	holding = none
+}
+11867={
+	holding = none
+}
+11877={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11878={
+	holding = none
+}
+11879={
+	holding = none
+}
+11880={
+	holding = none
+}
+11881={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+11882={
+	holding = none
+}
+11883={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+11884={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+11885={
+	holding = none
+}
+11886={
+	holding = none
+}
+11887={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+11888={
+	holding = none
+}
+11891={
+	holding = none
+}
+11892={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11893={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11894={
+	holding = none
+}
+12432={
+	holding = none
+}
+12433={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+12434={
+	holding = none
+}
+12435={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+12436={
+	holding = none
+}
+12437={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+12438={
+	holding = none
+}
+12439={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+12455={
+	holding = none
+}
+12456={
+	holding = none
+}
+12457={
+	holding = none
+}
+12458={
+	holding = none
+}
+12459={
+	holding = none
+}
+12460={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12461={
+	holding = none
+}
+12462={
+	holding = none
+}
+12463={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12464={
+	holding = none
+}
+12465={
+	holding = none
+}
+12466={
+	holding = none
+}
+12467={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12468={
+	holding = none
+}
+12469={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12470={
+	holding = none
+}
+12471={
+	holding = none
+}
+12472={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12473={
+	holding = none
+}
+12474={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12475={
+	holding = none
+}
+12476={
+	holding = none
+}
+12477={
+	holding = none
+}
+12478={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12479={
+	holding = none
+}
+12480={
+	holding = none
+}
+12481={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+}
+12482={
+	holding = none
+}

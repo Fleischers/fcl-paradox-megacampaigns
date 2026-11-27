@@ -1,0 +1,195 @@
+588={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+589={
+	culture = merya
+	faith = finnish_pagan
+	holding = none
+}
+591={
+	holding = none
+}
+609={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+610={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+611={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+613={
+	holding = none
+}
+614={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+5393={
+	holding = none
+}
+5394={
+	holding = none
+}
+5395={
+	holding = none
+}
+5396={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+5397={
+	holding = none
+}
+5398={
+	holding = none
+}
+5399={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+5400={
+	holding = none
+}
+5401={
+	holding = none
+}
+5402={
+	holding = none
+}
+5403={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+5404={
+	holding = none
+}
+5405={
+	holding = none
+}
+5406={
+	holding = none
+}
+5407={
+	holding = none
+}
+5408={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5409={
+	holding = none
+}
+5411={
+	holding = castle_holding
+}
+5412={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5413={
+	holding = none
+}
+5414={
+	holding = none
+}
+5415={
+	holding = none
+}
+5416={
+	holding = none
+}
+5417={
+	holding = none
+}
+5418={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5419={
+	holding = none
+}
+5420={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5421={
+	holding = none
+}
+5422={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5423={
+	holding = none
+}
+5424={
+	holding = none
+}
+5425={
+	holding = none
+}
+5426={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = none
+}
+5427={
+	holding = none
+}
+5428={
+	holding = none
+}
+5429={
+	holding = none
+}
+5430={
+	holding = none
+}
+5431={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5432={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5433={
+	holding = none
+}
+5470={
+	culture = mordvin
+	faith = finnish_pagan
+	holding = none
+}
+5471={
+	holding = none
+}
+5472={
+	holding = none
+}
+5473={
+	holding = none
+}
+5474={
+	holding = none
+}

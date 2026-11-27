@@ -1,0 +1,193 @@
+9={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+10={
+	holding = church_holding
+}
+11={
+	holding = none
+}
+12={
+	holding = none
+}
+13={
+	holding = city_holding
+}
+14={
+	holding = none
+}
+15={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+16={
+	holding = none
+}
+17={
+	holding = church_holding
+}
+18={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+19={
+	holding = none
+}
+20={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+21={
+	holding = none
+}
+22={
+	holding = none
+}
+23={
+	holding = city_holding
+}
+24={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+25={
+	holding = none
+}
+26={
+	holding = none
+}
+27={
+	holding = none
+}
+28={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+29={
+	holding = none
+}
+30={
+	holding = city_holding
+}
+31={
+	holding = none
+}
+32={
+	holding = none
+}
+33={
+	holding = none
+}
+34={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+36={
+	holding = none
+}
+37={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+38={
+	holding = none
+}
+39={
+	holding = none
+}
+40={
+	holding = none
+}
+41={
+	holding = city_holding
+}
+42={
+	holding = city_holding
+}
+43={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+44={
+	holding = castle_holding
+}
+45={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+46={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+47={
+	holding = none
+}
+48={
+	holding = none
+}
+49={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+50={
+	holding = none
+}
+51={
+	holding = castle_holding
+}
+52={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+53={
+	holding = city_holding
+}
+54={
+	holding = none
+}
+8741={
+	holding = castle_holding
+}
+8742={
+	holding = none
+}
+8743={
+	holding = none
+}
+8744={
+	holding = none
+}
+8745={
+	culture = brythonic
+	faith = gaelic_paganism
+	holding = castle_holding
+}
+8746={
+	holding = city_holding
+}
+8747={
+	holding = castle_holding
+}
+8748={
+	holding = none
+}
+8749={
+	holding = city_holding
+}
+8750={
+	holding = none
+}

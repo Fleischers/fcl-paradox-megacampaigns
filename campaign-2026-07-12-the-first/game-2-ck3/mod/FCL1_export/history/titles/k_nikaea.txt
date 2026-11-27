@@ -1,5 +1,5 @@
 k_nikaea={
-	452.9.27 = { succession_laws = { high_partition_succession_law } }
+	452.9.27 = { succession_laws = { partition_succession_law } }
 	890.1.1 = { liege = 0 }
 }
 d_bucellaria={
@@ -31,7 +31,7 @@ c_aeolis={
 	823.8.11 = { holder = irtock3_imperator229749_successor_8 }
 }
 c_bithynia={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 14 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -44,7 +44,7 @@ c_bithynia={
 	836.9.30 = { holder = irtock3_imperator233457_successor_8 }
 }
 c_chonae={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 14 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -58,7 +58,7 @@ c_chonae={
 	838.7.1 = { holder = irtock3_imperator228741_successor_9 }
 }
 c_galatia={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 22 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -98,7 +98,7 @@ c_hadrianopolis={
 	827.10.31 = { holder = irtock3_imperator229822_successor_9 }
 }
 c_honorias={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 19 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -111,7 +111,7 @@ c_honorias={
 	836.9.30 = { holder = irtock3_imperator233457_successor_8 }
 }
 c_ionia={
-	462.10.20 = { liege = d_IRTOCK3_AAB holder = imperator233512 }
+	462.10.20 = { liege = d_IR_Kition holder = imperator233512 }
 	476.1.7 = { change_development_level = 15 }
 	484.3.21 = { holder = irtock3_imperator233512_successor_0 }
 	536.3.21 = { holder = irtock3_imperator233512_successor_1 }
@@ -124,7 +124,7 @@ c_ionia={
 	838.3.21 = { holder = irtock3_imperator233512_successor_8 }
 }
 c_lydia={
-	462.10.20 = { liege = d_IRTOCK3_AAB holder = imperator233512 }
+	462.10.20 = { liege = d_IR_Kition holder = imperator233512 }
 	476.1.7 = { change_development_level = 16 }
 	484.3.21 = { holder = irtock3_imperator233512_successor_0 }
 	536.3.21 = { holder = irtock3_imperator233512_successor_1 }
@@ -149,7 +149,7 @@ c_mysia={
 	845.5.2 = { holder = irtock3_imperator250926_successor_8 }
 }
 c_nikaea={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 18 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -162,7 +162,7 @@ c_nikaea={
 	836.9.30 = { holder = irtock3_imperator233457_successor_8 }
 }
 c_phrygia={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 16 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -189,7 +189,7 @@ c_prusa={
 	833.1.8 = { holder = irtock3_imperator223771_successor_9 }
 }
 c_tarsos={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 12 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -202,7 +202,7 @@ c_tarsos={
 	836.9.30 = { holder = irtock3_imperator233457_successor_8 }
 }
 c_thyatira={
-	462.10.20 = { liege = d_IRTOCK3_AAB holder = imperator233512 }
+	462.10.20 = { liege = d_IR_Kition holder = imperator233512 }
 	476.1.7 = { change_development_level = 13 }
 	484.3.21 = { holder = irtock3_imperator233512_successor_0 }
 	536.3.21 = { holder = irtock3_imperator233512_successor_1 }

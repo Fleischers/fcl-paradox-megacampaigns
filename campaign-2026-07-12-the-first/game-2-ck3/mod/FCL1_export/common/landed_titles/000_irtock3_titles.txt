@@ -269,7 +269,9 @@ e_roman_prefecture_galliarum = {
 		}
 	}
 
-	can_create = { always = no } # Still figuring out exactly how Praetorian Prefectures should be handled; for now, copying TFE which prevents them being created normally
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
 }
 
 e_roman_prefecture_italiae = {
@@ -295,7 +297,9 @@ e_roman_prefecture_italiae = {
 		}
 	}
 
-	can_create = { always = no } # Still figuring out exactly how Praetorian Prefectures should be handled; for now, copying TFE which prevents them being created normally
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
 }
 
 e_roman_prefecture_orientis = {
@@ -610,14 +614,14 @@ e_roman_prefecture_arabia = {
 	can_create = { always = no } # Still figuring out exactly how Praetorian Prefectures should be handled; for now, copying TFE which prevents them being created normally
 }
 
-e_roman_prefecture_persia = {
-	color = { 57 194 184 }
+e_greater_armenia = {
+	color = { 172 30 27 }
 
-	capital = c_baghdad # Around where the capitals of the Sassanids & Seleucids were
+	capital = c_vanand
 	ruler_uses_title_name = no
 	can_be_named_after_dynasty = no
-	de_jure_drift_disabled = yes
-	definite_form = yes
+	de_jure_drift_disabled = no
+	definite_form = no
 
 	ai_primary_priority = {
 		if = {
@@ -633,7 +637,9 @@ e_roman_prefecture_persia = {
 		}
 	}
 
-	can_create = { always = no } # Still figuring out exactly how Praetorian Prefectures should be handled; for now, copying TFE which prevents them being created normally
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
 }
 
 e_roman_prefecture_sarmatia = {

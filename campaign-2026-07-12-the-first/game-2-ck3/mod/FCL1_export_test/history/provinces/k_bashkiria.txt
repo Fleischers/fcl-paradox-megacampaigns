@@ -1,0 +1,151 @@
+615={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5475={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	915.1.2 = { religion = ashari }
+	1063.1.2 = { holding = herder_holding }
+	1178.1.1 = { holding = nomad_holding }
+	1240.1.2 = { culture = mongol }
+}
+5476={
+	holding = none
+}
+5477={
+	holding = none
+}
+5478={
+	holding = none
+}
+5479={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5480={
+	holding = none
+}
+5481={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5482={
+	holding = none
+}
+5483={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+5484={
+	holding = none
+}
+5485={
+	holding = none
+}
+5486={
+	holding = none
+}
+5487={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	865.1.2 = { holding = herder_holding }
+	902.1.2 = { holding = nomad_holding }
+	915.1.2 = { religion = ashari }
+	1166.1.1 = { holding = herder_holding }
+	1236.1.2 = { holding = nomad_holding }
+	1240.1.2 = { culture = mongol }
+}
+5488={
+	holding = none
+}
+5489={
+	holding = none
+}
+5490={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	915.1.2 = { religion = ashari }
+	1166.1.1 = { holding = herder_holding }
+	1240.1.2 = { culture = mongol }
+}
+5491={
+	holding = none
+}
+5492={
+	holding = none
+}
+5493={
+	holding = none
+}
+5494={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	915.1.2 = { religion = ashari }
+	1166.1.1 = { holding = herder_holding }
+	1240.1.2 = { culture = mongol }
+}
+5495={
+	holding = none
+}
+5496={
+	holding = none
+}
+5497={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	915.1.2 = { religion = ashari }
+	1166.1.1 = { holding = herder_holding }
+	1240.1.2 = { culture = mongol }
+}
+5519={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	1240.1.2 = { culture = mongol }
+}
+5520={
+	holding = none
+}
+5521={
+	holding = none
+}
+5522={
+	holding = none
+}
+5523={
+	holding = none
+}
+5524={
+	holding = none
+}
+5525={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = nomad_holding
+	853.1.2 = { holding = herder_holding }
+	1066.1.1 = { holding = nomad_holding }
+	1240.1.2 = { culture = mongol }
+}
+5526={
+	culture = bashkir
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { holding = nomad_holding }
+	1240.1.2 = { culture = mongol }
+}
+5527={
+	holding = none
+}
+5528={
+	holding = none
+}

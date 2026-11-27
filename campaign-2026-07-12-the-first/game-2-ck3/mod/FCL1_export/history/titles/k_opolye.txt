@@ -1,5 +1,5 @@
 k_opolye={
-	475.5.22 = { government = feudal_government holder = imperator245954 liege = e_IRTOCK3_AHD succession_laws = { high_partition_succession_law } }
+	475.5.22 = { government = feudal_government holder = imperator245954 liege = e_IR_Iassorum succession_laws = { partition_succession_law } }
 	506.12.16 = { holder = irtock3_imperator245954_successor_0 }
 	558.12.16 = { holder = irtock3_imperator245954_successor_1 }
 	605.12.16 = { holder = irtock3_imperator245954_successor_2 }

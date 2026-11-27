@@ -1,0 +1,372 @@
+4007={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4008={
+	holding = castle_holding
+}
+4009={
+	holding = castle_holding
+}
+4010={
+	holding = none
+}
+4011={
+	holding = none
+}
+4012={
+	culture = bactrian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+4013={
+	holding = none
+}
+4014={
+	holding = none
+}
+4015={
+	holding = none
+}
+4016={
+	holding = none
+}
+4017={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+4018={
+	holding = none
+}
+4019={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4020={
+	holding = castle_holding
+}
+4021={
+	holding = none
+}
+4022={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4023={
+	holding = none
+}
+4024={
+	holding = none
+}
+4025={
+	holding = none
+}
+4026={
+	culture = getian
+	faith = nestorian
+	holding = castle_holding
+}
+4027={
+	holding = city_holding
+}
+4036={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4037={
+	holding = city_holding
+}
+4038={
+	holding = none
+}
+4039={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4040={
+	holding = none
+}
+4041={
+	holding = city_holding
+}
+4042={
+	holding = none
+}
+4043={
+	holding = none
+}
+4044={
+	culture = bactrian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+4062={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4063={
+	holding = none
+}
+4064={
+	holding = none
+}
+4065={
+	holding = none
+}
+4066={
+	holding = none
+}
+4067={
+	holding = none
+}
+4068={
+	culture = persian
+	faith = mazdayasna
+	holding = none
+}
+4069={
+	holding = none
+}
+4070={
+	holding = none
+}
+4071={
+	holding = none
+}
+4201={
+	culture = bactrian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+4202={
+	holding = none
+}
+4203={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4204={
+	culture = bactrian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+4205={
+	holding = castle_holding
+}
+4206={
+	holding = none
+}
+4207={
+	holding = castle_holding
+}
+4208={
+	holding = none
+}
+4209={
+	holding = none
+}
+4210={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4211={
+	holding = none
+}
+4212={
+	culture = brythonic
+	faith = nestorian
+	holding = castle_holding
+}
+4213={
+	holding = city_holding
+}
+4214={
+	holding = none
+}
+4215={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4216={
+	holding = none
+}
+4217={
+	holding = city_holding
+}
+4218={
+	holding = none
+}
+4219={
+	holding = none
+}
+4220={
+	holding = none
+}
+4221={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4222={
+	holding = city_holding
+}
+4223={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4224={
+	holding = none
+}
+4225={
+	culture = bactrian
+	faith = celtic_pagan
+	holding = castle_holding
+	special_building_slot = minarets_and_remains_of_jam_01
+}
+4226={
+	holding = none
+}
+4227={
+	holding = none
+}
+4228={
+	holding = none
+}
+4229={
+	holding = none
+}
+4230={
+	holding = none
+}
+4231={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4232={
+	holding = none
+}
+4233={
+	holding = none
+}
+4234={
+	holding = none
+}
+4235={
+	holding = city_holding
+}
+4236={
+	holding = none
+}
+4237={
+	holding = none
+}
+4238={
+	culture = bactrian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+4239={
+	holding = none
+}
+4240={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+4241={
+	holding = church_holding
+}
+4245={
+	holding = none
+}
+4246={
+	holding = none
+}
+4247={
+	culture = sogdian
+	faith = nestorian
+	holding = castle_holding
+}
+4249={
+	holding = none
+}
+4250={
+	holding = none
+}
+4251={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4252={
+	holding = none
+}
+4253={
+	holding = castle_holding
+}
+4254={
+	holding = none
+}
+4300={
+	holding = city_holding
+}
+4334={
+	holding = none
+}
+4335={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+4336={
+	holding = none
+}
+4337={
+	holding = none
+}
+4338={
+	holding = castle_holding
+}
+4339={
+	holding = church_holding
+}
+4340={
+	holding = none
+}
+4341={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4347={
+	holding = none
+}
+4348={
+	holding = city_holding
+}
+4349={
+	holding = none
+}
+4350={
+	holding = none
+}
+4351={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4352={
+	holding = none
+}

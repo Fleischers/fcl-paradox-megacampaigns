@@ -1,0 +1,38 @@
+﻿khasi = {
+	color = rgb { 106 91 140 }
+	heritage = heritage_palaungic
+	language = language_palaungic
+	traditions = { tradition_female_only_inheritance tradition_monogamous tradition_mountain_homes tradition_tribe_unity }
+	name_list = name_list_palaungic
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_18
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		30 = asian
+		10 = indian
+	}
+}
+palaungic = {
+	color = rgb { 217 189 104 }
+	heritage = heritage_palaungic
+	language = language_palaungic
+	traditions = { tradition_zealous_people tradition_hill_dwellers tradition_collective_lands }
+	name_list = name_list_palaungic
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_18
+	coa_gfx = { burman_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		30 = asian
+		10 = indian
+	}
+}

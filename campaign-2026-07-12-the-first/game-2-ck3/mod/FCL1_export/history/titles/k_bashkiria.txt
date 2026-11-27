@@ -1,5 +1,5 @@
 k_bashkiria={
-	472.5.1 = { succession_laws = { high_partition_succession_law } }
+	472.5.1 = { succession_laws = { partition_succession_law } }
 	890.1.1 = { liege = 0 }
 }
 d_bashkiria={

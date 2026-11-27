@@ -1,0 +1,78 @@
+k_dali={
+	890.1.1 = { liege = 0 }
+}
+d_dali={
+	890.1.1 = { holder = IRToCK3_c_dali_holder government = feudal_government liege = 0 }
+}
+d_huichuan={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_huichuan_holder government = feudal_government liege = 0 }
+}
+d_jianchuan={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_jianchuan_holder government = feudal_government liege = 0 }
+}
+d_tonghai={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_tonghai_holder government = feudal_government liege = 0 }
+}
+d_tuodong={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_shanchan_holder government = feudal_government liege = 0 }
+}
+d_yinsheng={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_yinsheng_holder government = feudal_government liege = 0 }
+}
+c_buri={
+	867.1.1 = { holder = tai_moenglong_01_fic liege = 0 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_chengji={
+	890.1.1 = { holder = IRToCK3_c_jianchuan_holder change_development_level = 3 }
+}
+c_dali={
+	890.1.1 = { holder = IRToCK3_c_dali_holder liege = 0 change_development_level = 11 }
+}
+c_dongchuan={
+	890.1.1 = { holder = IRToCK3_c_shanchan_holder change_development_level = 4 }
+}
+c_huichuan={
+	890.1.1 = { holder = IRToCK3_c_huichuan_holder liege = 0 change_development_level = 5 }
+}
+c_jianchang_1={
+	890.1.1 = { holder = IRToCK3_c_huichuan_holder change_development_level = 5 }
+}
+c_jianchuan={
+	890.1.1 = { holder = IRToCK3_c_jianchuan_holder liege = 0 change_development_level = 5 }
+}
+c_muze={
+	890.1.1 = { holder = IRToCK3_c_tonghai_holder change_development_level = 4 }
+}
+c_nongdong={
+	890.1.1 = { holder = IRToCK3_c_dali_holder change_development_level = 5 }
+}
+c_shanchan={
+	890.1.1 = { holder = IRToCK3_c_shanchan_holder liege = 0 change_development_level = 5 }
+}
+c_shicheng={
+	890.1.1 = { holder = IRToCK3_c_shanchan_holder change_development_level = 7 }
+}
+c_tonghai={
+	890.1.1 = { holder = IRToCK3_c_tonghai_holder liege = 0 change_development_level = 5 }
+}
+c_weichu={
+	890.1.1 = { holder = IRToCK3_c_dali_holder change_development_level = 5 }
+}
+c_weiyuan={
+	890.1.1 = { holder = IRToCK3_c_yinsheng_holder change_development_level = 2 }
+}
+c_xiangcheng={
+	890.1.1 = { holder = IRToCK3_c_jianchuan_holder change_development_level = 3 }
+}
+c_yinsheng={
+	890.1.1 = { holder = IRToCK3_c_yinsheng_holder liege = 0 change_development_level = 5 }
+}
+c_zuining={
+	890.1.1 = { holder = IRToCK3_c_tonghai_holder change_development_level = 5 }
+}

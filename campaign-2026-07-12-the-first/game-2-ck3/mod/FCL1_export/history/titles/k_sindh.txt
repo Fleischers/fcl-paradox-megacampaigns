@@ -1,5 +1,5 @@
 k_sindh={
-	435.10.5 = { government = feudal_government holder = imperator236491 liege = e_spain succession_laws = { high_partition_succession_law } }
+	435.10.5 = { government = feudal_government holder = imperator236491 liege = e_spain succession_laws = { partition_succession_law } }
 	481.7.9 = { holder = irtock3_imperator236491_successor_0 }
 	515.7.9 = { holder = irtock3_imperator236491_successor_1 }
 	553.7.9 = { holder = irtock3_imperator236491_successor_2 }
@@ -18,7 +18,7 @@ d_sauvira={
 	890.1.1 = { liege = 0 }
 }
 c_aror={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 19 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -31,7 +31,7 @@ c_aror={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_bhakkar={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 15 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -57,7 +57,7 @@ c_debul={
 	829.8.3 = { holder = irtock3_imperator229389_successor_8 }
 }
 c_mansura={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 15 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -70,7 +70,7 @@ c_mansura={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_rajanpur={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 14 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -83,7 +83,7 @@ c_rajanpur={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_ranikot={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 18 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -96,7 +96,7 @@ c_ranikot={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_sibi={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 7 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -109,7 +109,7 @@ c_sibi={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_siwistan={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 17 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -122,7 +122,7 @@ c_siwistan={
 	838.11.24 = { holder = irtock3_imperator231444_successor_8 }
 }
 c_sonda={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 16 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }

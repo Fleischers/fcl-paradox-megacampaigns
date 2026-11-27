@@ -849,6 +849,24 @@ irtock3_setup_governments = {
 			clear_saved_scope = ruler_scope
 			clear_saved_scope = top_liege_scope
 		}
+
+		## Converted realms should start with the requested default realm succession laws.
+		if = {
+			limit = { has_government = tribal_government }
+
+			if = { limit = { has_realm_law = single_heir_succession_law } remove_realm_law = single_heir_succession_law }
+			if = { limit = { has_realm_law = partition_succession_law } remove_realm_law = partition_succession_law }
+			if = { limit = { has_realm_law = high_partition_succession_law } remove_realm_law = high_partition_succession_law }
+			if = { limit = { NOT = { has_realm_law = confederate_partition_succession_law } } add_realm_law_skip_effects = confederate_partition_succession_law }
+		}
+		else_if = {
+			limit = { has_government = feudal_government }
+
+			if = { limit = { has_realm_law = single_heir_succession_law } remove_realm_law = single_heir_succession_law }
+			if = { limit = { has_realm_law = confederate_partition_succession_law } remove_realm_law = confederate_partition_succession_law }
+			if = { limit = { has_realm_law = high_partition_succession_law } remove_realm_law = high_partition_succession_law }
+			if = { limit = { NOT = { has_realm_law = partition_succession_law } } add_realm_law_skip_effects = partition_succession_law }
+		}
 	}
 
 	######################

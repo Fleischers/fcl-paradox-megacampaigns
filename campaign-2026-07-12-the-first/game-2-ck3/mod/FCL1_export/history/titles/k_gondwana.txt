@@ -34,7 +34,7 @@ c_chauragarh={
 	827.7.18 = { holder = irtock3_imperator241516_successor_8 }
 }
 c_ratanpur={
-	473.1.4 = { liege = d_IRTOCK3_AAA holder = imperator232930 }
+	473.1.4 = { liege = d_IR_Lapethos holder = imperator232930 }
 	476.1.7 = { change_development_level = 23 }
 	500.10.11 = { holder = irtock3_imperator232930_successor_0 }
 	552.10.11 = { holder = irtock3_imperator232930_successor_1 }
@@ -60,7 +60,7 @@ c_tripuri={
 	827.7.18 = { holder = irtock3_imperator241516_successor_8 }
 }
 c_tummana={
-	473.1.4 = { liege = d_IRTOCK3_AAA holder = imperator232930 }
+	473.1.4 = { liege = d_IR_Lapethos holder = imperator232930 }
 	476.1.7 = { change_development_level = 19 }
 	500.10.11 = { holder = irtock3_imperator232930_successor_0 }
 	552.10.11 = { holder = irtock3_imperator232930_successor_1 }

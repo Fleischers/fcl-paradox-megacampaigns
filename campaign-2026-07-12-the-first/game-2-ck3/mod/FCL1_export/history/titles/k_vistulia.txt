@@ -95,7 +95,7 @@ c_gostyninska={
 	828.10.27 = { holder = irtock3_imperator236129_successor_8 }
 }
 c_halych={
-	469.8.18 = { liege = d_IRTOCK3_AQ4 holder = imperator237065 }
+	469.8.18 = { liege = d_IR_Medja holder = imperator237065 }
 	476.1.7 = { change_development_level = 8 }
 	493.7.4 = { holder = irtock3_imperator237065_successor_0 }
 	552.7.4 = { holder = irtock3_imperator237065_successor_1 }
@@ -160,7 +160,7 @@ c_lviv={
 	828.10.27 = { holder = irtock3_imperator236129_successor_8 }
 }
 c_peremyshl={
-	469.8.18 = { liege = d_IRTOCK3_AQ4 holder = imperator237065 }
+	469.8.18 = { liege = d_IR_Medja holder = imperator237065 }
 	476.1.7 = { change_development_level = 16 }
 	493.7.4 = { holder = irtock3_imperator237065_successor_0 }
 	552.7.4 = { holder = irtock3_imperator237065_successor_1 }

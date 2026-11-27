@@ -1,0 +1,143 @@
+167={
+	holding = none
+}
+168={
+	holding = none
+}
+169={
+	culture = estonian
+	faith = finnish_pagan
+	holding = none
+}
+170={
+	holding = none
+}
+5137={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5138={
+	holding = none
+}
+5139={
+	holding = none
+}
+5140={
+	holding = none
+}
+5141={
+	holding = none
+}
+5142={
+	holding = castle_holding
+}
+5143={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5144={
+	holding = none
+}
+5145={
+	holding = none
+}
+5146={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5147={
+	holding = none
+}
+5148={
+	holding = none
+}
+5149={
+	holding = none
+}
+5150={
+	culture = sarmatian
+	faith = finnish_pagan
+	holding = castle_holding
+}
+5151={
+	holding = none
+}
+5152={
+	holding = none
+}
+5153={
+	culture = vepsian
+	faith = finnish_pagan
+	holding = none
+}
+5154={
+	holding = none
+}
+5155={
+	holding = none
+}
+5156={
+	culture = vepsian
+	religion = finnish_pagan
+	holding = tribal_holding
+}
+5157={
+	holding = none
+}
+5158={
+	holding = none
+}
+5159={
+	culture = vepsian
+	religion = finnish_pagan
+	holding = tribal_holding
+	1150.1.1 = { religion = orthodox }
+}
+5160={
+	holding = none
+}
+5161={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5162={
+	holding = none
+}
+5163={
+	holding = none
+}
+5164={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5165={
+	holding = none
+}
+5166={
+	holding = none
+}
+5167={
+	holding = none
+}
+5168={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5169={
+	holding = none
+}
+5177={
+	holding = none
+}
+5254={
+	holding = none
+}
+5255={
+	holding = none
+}

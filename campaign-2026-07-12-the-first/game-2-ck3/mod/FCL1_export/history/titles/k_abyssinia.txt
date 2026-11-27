@@ -2,7 +2,7 @@ k_abyssinia={
 	890.1.1 = { liege = 0 }
 }
 d_aksum={
-	471.2.26 = { government = feudal_government holder = imperator241714 liege = k_IRTOCK3_A2D succession_laws = { high_partition_succession_law } }
+	471.2.26 = { government = feudal_government holder = imperator241714 liege = k_IR_Curse_of_Maat succession_laws = { high_partition_succession_law } }
 	512.11.13 = { holder = irtock3_imperator241714_successor_0 }
 	562.11.13 = { holder = irtock3_imperator241714_successor_1 }
 	596.11.13 = { holder = irtock3_imperator241714_successor_2 }

@@ -1,0 +1,85 @@
+3266={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3267={
+	holding = none
+}
+3268={
+	holding = none
+}
+3269={
+	holding = none
+}
+3270={
+	holding = city_holding
+}
+3271={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3272={
+	holding = castle_holding
+}
+3273={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3274={
+	holding = castle_holding
+}
+3275={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3276={
+	holding = city_holding
+}
+3277={
+	holding = none
+}
+3278={
+	holding = none
+}
+3279={
+	holding = none
+}
+3280={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3281={
+	holding = none
+}
+3282={
+	holding = none
+}
+3283={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3284={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}
+3285={
+	holding = city_holding
+}
+3286={
+	holding = none
+}
+3287={
+	holding = none
+}
+3288={
+	culture = bengali
+	faith = iberian_pagan
+	holding = castle_holding
+}

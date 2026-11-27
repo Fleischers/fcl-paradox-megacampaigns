@@ -1,5 +1,5 @@
 k_kosala={
-	435.10.5 = { government = feudal_government holder = imperator236490 liege = e_spain succession_laws = { high_partition_succession_law } }
+	435.10.5 = { government = feudal_government holder = imperator236490 liege = e_spain succession_laws = { partition_succession_law } }
 	476.1.8 = { holder = irtock3_imperator236490_successor_0 }
 	520.1.8 = { holder = irtock3_imperator236490_successor_1 }
 	581.1.8 = { holder = irtock3_imperator236490_successor_2 }
@@ -33,7 +33,7 @@ c_asni={
 	842.1.8 = { holder = irtock3_imperator236490_successor_8 }
 }
 c_ayodhya={
-	466.5.21 = { liege = d_IRTOCK3_AAA holder = imperator236171 }
+	466.5.21 = { liege = d_IR_Lapethos holder = imperator236171 }
 	476.1.7 = { change_development_level = 20 }
 	490.11.13 = { holder = irtock3_imperator236171_successor_0 }
 	543.11.13 = { holder = irtock3_imperator236171_successor_1 }
@@ -111,7 +111,7 @@ c_kanyakubja={
 	842.1.8 = { holder = irtock3_imperator236490_successor_8 }
 }
 c_lakhnau={
-	466.5.21 = { liege = d_IRTOCK3_AAA holder = imperator236171 }
+	466.5.21 = { liege = d_IR_Lapethos holder = imperator236171 }
 	476.1.7 = { change_development_level = 22 }
 	490.11.13 = { holder = irtock3_imperator236171_successor_0 }
 	543.11.13 = { holder = irtock3_imperator236171_successor_1 }
@@ -179,7 +179,7 @@ c_prayaga={
 	854.7.19 = { holder = irtock3_imperator237389_successor_9 }
 }
 c_sravasti={
-	466.5.21 = { liege = d_IRTOCK3_AAA holder = imperator236171 }
+	466.5.21 = { liege = d_IR_Lapethos holder = imperator236171 }
 	476.1.7 = { change_development_level = 18 }
 	490.11.13 = { holder = irtock3_imperator236171_successor_0 }
 	543.11.13 = { holder = irtock3_imperator236171_successor_1 }

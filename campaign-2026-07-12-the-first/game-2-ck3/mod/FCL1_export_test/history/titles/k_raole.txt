@@ -1,0 +1,68 @@
+k_raole={
+	890.1.1 = { liege = 0 }
+}
+d_LIAO_zhongjing={
+	890.1.1 = { liege = 0 }
+}
+d_liaoxi={
+	890.1.1 = { holder = IRToCK3_c_LIAO_liaozhou_holder government = tribal_government liege = 0 }
+}
+d_yanyun_yuyi={
+	867.1.1 = { holder = nn_yelu_shulan government = nomad_government }
+}
+c_LIAO_chaoyang={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_LIAO_dading={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_liao_fengzhou={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_LIAO_jinzhou={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_LIAO_liaozhou={
+	867.1.1 = { government = nomad_government }
+	890.1.1 = { holder = IRToCK3_c_LIAO_liaozhou_holder liege = 0 change_development_level = 8 }
+}
+c_LIAO_xianzhou={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_lnj_liaoxi={
+	867.1.1 = { holder = nn_shulu_pogu government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lnj_liaoxibei={
+	867.1.1 = { holder = nn_shulu_pogu government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lxj_huanzhou={
+	867.1.1 = { holder = nn_yelu_shulan government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lxj_yangchengzhou={
+	867.1.1 = { holder = nn_yelu_shulan government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lxj_yuyidong={
+	867.1.1 = { holder = nn_yelu_shulan government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lzj_chengde={
+	867.1.1 = { holder = nn_shulu_pogu government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_lzj_chengdexi={
+	867.1.1 = { holder = nn_yelu_shulan government = nomad_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_woye={
+	867.1.1 = { holder = nn_yelu_saladi government = tribal_government }
+	890.1.1 = { change_development_level = 4 }
+}

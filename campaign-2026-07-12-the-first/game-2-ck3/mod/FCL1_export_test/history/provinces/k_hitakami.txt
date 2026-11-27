@@ -1,0 +1,107 @@
+10692={
+	holding = none
+}
+10693={
+	holding = none
+}
+10694={
+	holding = none
+}
+10697={
+	culture = emishi
+	religion = kamuyism_pagan
+	holding = castle_holding
+	special_building_slot = chinjufu_01
+	800.1.1 = { special_building = chinjufu_01 }
+	1178.1.1 = { culture = japanese religion = pundarika }
+}
+10698={
+	holding = none
+}
+10699={
+	culture = emishi
+	religion = kamuyism_pagan
+	holding = castle_holding
+	special_building_slot = koganeyama_mines_01
+	700.1.1 = { special_building = koganeyama_mines_01 }
+	1066.1.1 = { culture = japanese religion = shinto }
+}
+10700={
+	culture = emishi
+	religion = kamuyism_pagan
+	holding = tribal_holding
+	1178.1.1 = { holding = castle_holding }
+}
+10701={
+	holding = none
+}
+10702={
+	holding = none
+}
+10703={
+	holding = none
+}
+10704={
+	holding = none
+}
+10705={
+	culture = emishi
+	religion = kamuyism_pagan
+	holding = castle_holding
+	1178.1.1 = { culture = japanese religion = shugendo }
+}
+10706={
+	holding = none
+}
+10707={
+	holding = none
+}
+10708={
+	holding = none
+	1178.1.1 = { holding = city_holding }
+}
+10709={
+	holding = church_holding
+}
+10710={
+	holding = none
+}
+10711={
+	culture = emishi
+	religion = kamuyism_pagan
+	holding = castle_holding
+	1066.1.1 = { culture = japanese religion = shugendo }
+}
+10712={
+	holding = none
+}
+10714={
+	holding = church_holding
+}
+10716={
+	culture = japanese
+	religion = yogacara
+	holding = castle_holding
+}
+10717={
+	holding = none
+}
+10718={
+	holding = none
+}
+10719={
+	culture = japanese
+	religion = pundarika
+	holding = none
+}
+10720={
+	holding = none
+	1066.1.1 = { holding = city_holding }
+}
+10770={
+	holding = none
+}
+10773={
+	holding = none
+	1178.1.1 = { holding = city_holding }
+}

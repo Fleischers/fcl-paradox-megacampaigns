@@ -1,0 +1,45 @@
+k_gur={
+	890.1.1 = { liege = 0 }
+}
+d_dagomba={
+	890.1.1 = { liege = 0 }
+}
+d_mamprusi={
+	890.1.1 = { liege = 0 }
+}
+d_wagadugu={
+	890.1.1 = { liege = 0 }
+}
+c_daboya={
+	860.1.1 = { holder = guan0031 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_dagomba={
+	860.1.1 = { holder = guan0021 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_gonja={
+	860.1.1 = { holder = guan0031 government = tribal_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_kuisugu={
+	850.1.1 = { holder = gur0093 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_mamprusi={
+	850.1.1 = { holder = gur0093 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_pendjari={
+	850.1.1 = { holder = 942069 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_po={
+	850.1.1 = { holder = guan0041 government = tribal_government }
+	890.1.1 = { holder = guan0042 change_development_level = 1 }
+}
+c_wagadugu={
+	860.1.1 = { holder = marka0013 government = tribal_government liege = 0 }
+	888.1.1 = { holder = marka0014 }
+	890.1.1 = { change_development_level = 3 }
+}

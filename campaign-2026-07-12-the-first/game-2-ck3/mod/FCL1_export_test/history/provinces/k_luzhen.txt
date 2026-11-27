@@ -1,0 +1,207 @@
+11691={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11692={
+	holding = none
+}
+11693={
+	holding = none
+}
+11694={
+	holding = none
+}
+11695={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11696={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11697={
+	holding = none
+}
+11815={
+	holding = none
+}
+11816={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11851={
+	holding = none
+}
+11854={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11855={
+	holding = none
+}
+11856={
+	holding = none
+}
+11857={
+	holding = none
+}
+11858={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11859={
+	holding = none
+}
+11860={
+	holding = none
+}
+11861={
+	holding = none
+}
+11862={
+	holding = none
+}
+11863={
+	holding = none
+}
+11864={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11865={
+	holding = none
+}
+11868={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11869={
+	holding = none
+}
+11870={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11871={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11872={
+	holding = none
+}
+11873={
+	holding = none
+}
+11874={
+	holding = none
+}
+11875={
+	holding = none
+}
+11876={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11889={
+	holding = none
+}
+11890={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11895={
+	holding = none
+}
+11896={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11897={
+	holding = none
+}
+11898={
+	holding = none
+}
+11899={
+	culture = mohe
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11900={
+	holding = none
+}
+11901={
+	holding = none
+}
+11902={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11903={
+	holding = none
+}
+11904={
+	holding = none
+}
+11905={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11906={
+	holding = none
+}
+11907={
+	holding = none
+}
+11908={
+	holding = none
+}
+11909={
+	holding = none
+}
+11910={
+	holding = none
+}
+11911={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11912={
+	holding = none
+}
+11913={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11914={
+	holding = none
+}

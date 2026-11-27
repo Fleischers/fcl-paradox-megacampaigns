@@ -3,7 +3,7 @@
 }
 fcl1_bloodlines_on_game_start_after_lobby = {
 	effect = {
-		title:k_IRTOCK3_ICE.holder ?= {
+		title:k_IR_Albion.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -19,7 +19,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:k_IRTOCK3_RMI.holder ?= {
+		title:k_IR_Belgia.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -27,7 +27,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:k_IRTOCK3_AHL.holder ?= {
+		title:k_IR_Dacia.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -35,7 +35,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:k_IRTOCK3_MAC.holder ?= {
+		title:k_IR_Macedon.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -67,7 +67,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:k_IRTOCK3_MAU.holder ?= {
+		title:k_IR_Numidia.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -75,7 +75,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:k_IRTOCK3_A3O.holder ?= {
+		title:e_IR_Scythia.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -83,7 +83,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:e_IRTOCK3_A64.holder ?= {
+		title:e_IR_Tuscia.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }

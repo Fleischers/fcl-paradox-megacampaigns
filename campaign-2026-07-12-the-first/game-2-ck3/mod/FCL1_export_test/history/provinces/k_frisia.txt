@@ -1,0 +1,148 @@
+2103={
+	holding = none
+}
+2112={
+	culture = belgae
+	faith = catholic
+	holding = castle_holding
+}
+2113={
+	holding = none
+}
+2401={
+	holding = none
+}
+2402={
+	holding = none
+}
+2403={
+	holding = none
+}
+2404={
+	holding = none
+}
+2405={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2406={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2407={
+	holding = castle_holding
+}
+2408={
+	holding = castle_holding
+}
+2409={
+	holding = castle_holding
+}
+2410={
+	holding = none
+}
+2411={
+	holding = none
+}
+2412={
+	holding = castle_holding
+}
+2413={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2414={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2415={
+	holding = none
+}
+2416={
+	holding = none
+}
+2417={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2418={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2419={
+	holding = none
+}
+2420={
+	holding = none
+	1258.1.1 = { holding = church_holding }
+}
+2421={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2422={
+	holding = none
+}
+2423={
+	holding = none
+}
+2424={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2425={
+	holding = none
+}
+2426={
+	holding = none
+}
+2427={
+	holding = none
+}
+2428={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2429={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2431={
+	holding = none
+}
+2432={
+	holding = none
+}
+2434={
+	holding = none
+}
+2437={
+	holding = castle_holding
+}
+2450={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2451={
+	holding = none
+}
+2452={
+	holding = none
+}
+2453={
+	holding = none
+}
+2454={
+	holding = none
+}

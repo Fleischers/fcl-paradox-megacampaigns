@@ -1,0 +1,96 @@
+k_funan={
+	890.1.1 = { liege = 0 }
+}
+d_angkor={
+	657.1.1 = { government = mandala_government }
+	681.1.1 = { holder = 0 }
+	802.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_holder government = tribal_government liege = 0 }
+}
+d_angkor_borey={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_borey_holder government = tribal_government liege = 0 }
+}
+d_baigaur={
+	867.1.1 = { holder = 0 government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_ca_mau_holder government = tribal_government liege = 0 }
+}
+d_ratanakiri={
+	867.1.1 = { holder = 0 government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_stung_treng_holder government = tribal_government liege = 0 }
+}
+d_vyadhapura={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_vyadhapura_holder government = tribal_government liege = 0 }
+}
+c_angkor={
+	890.1.1 = { holder = IRToCK3_c_angkor_holder liege = d_angkor change_development_level = 13 }
+}
+c_angkor_borey={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_borey_holder liege = d_angkor_borey change_development_level = 7 }
+}
+c_baigaur={
+	867.1.1 = { holder = khmer_baigaur_01_fic government = mandala_government }
+	890.1.1 = { change_development_level = 8 }
+}
+c_binh_dai={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_ca_mau_holder liege = d_angkor_borey change_development_level = 3 }
+}
+c_binh_long={
+	867.1.1 = { holder = khmer_baigaur_01_fic government = mandala_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_botum_sakor={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_borey_holder change_development_level = 3 }
+}
+c_ca_mau={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_ca_mau_holder liege = d_angkor_borey change_development_level = 2 }
+}
+c_dong_si_mahosot={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_holder change_development_level = 5 }
+}
+c_koh_ker={
+	867.1.1 = { holder = khmer_bhavapura_01_fic government = mandala_government }
+	890.1.1 = { liege = d_angkor change_development_level = 8 }
+}
+c_kracheh_nokor={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_vyadhapura_holder liege = d_vyadhapura change_development_level = 4 }
+}
+c_mueang_phra_rot={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_borey_holder change_development_level = 4 }
+}
+c_pleiku={
+	867.1.1 = { holder = khmer_tributary_01 government = mandala_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_prea_vihear={
+	867.1.1 = { holder = khmer_bhavapura_01_fic government = mandala_government }
+	890.1.1 = { liege = d_angkor change_development_level = 4 }
+}
+c_pursat={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_angkor_borey_holder change_development_level = 4 }
+}
+c_ratanakiri={
+	867.1.1 = { holder = khmer_tributary_01 government = mandala_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_sambhupura={
+	867.1.1 = { holder = khmer_bhavapura_01_fic government = mandala_government }
+	890.1.1 = { liege = d_angkor change_development_level = 6 }
+}
+c_stung_treng={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_stung_treng_holder liege = 0 change_development_level = 3 }
+}
+c_vyadhapura={
+	867.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_vyadhapura_holder liege = d_vyadhapura change_development_level = 6 }
+}

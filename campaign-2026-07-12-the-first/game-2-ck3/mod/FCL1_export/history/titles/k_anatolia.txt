@@ -17,7 +17,7 @@ d_cilicia={
 	890.1.1 = { liege = 0 }
 }
 c_cappadocia={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 19 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -43,7 +43,7 @@ c_caria={
 	838.9.30 = { holder = irtock3_imperator235389_successor_8 }
 }
 c_charsianon={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 16 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -56,7 +56,7 @@ c_charsianon={
 	835.1.8 = { holder = irtock3_imperator229888_successor_8 }
 }
 c_cilicia={
-	472.5.28 = { liege = d_IRTOCK3_ISU holder = imperator245527 }
+	472.5.28 = { liege = d_IR_Cilicia holder = imperator245527 }
 	476.1.7 = { change_development_level = 20 }
 	505.11.29 = { holder = irtock3_imperator245527_successor_0 }
 	548.11.29 = { holder = irtock3_imperator245527_successor_1 }
@@ -70,7 +70,7 @@ c_cilicia={
 	857.11.29 = { holder = irtock3_imperator245527_successor_9 }
 }
 c_galatia_salutaris={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 21 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -97,7 +97,7 @@ c_isauria={
 	834.1.8 = { holder = irtock3_imperator223388_successor_8 }
 }
 c_kaisereia={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 15 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -110,7 +110,7 @@ c_kaisereia={
 	835.1.8 = { holder = irtock3_imperator229888_successor_8 }
 }
 c_kyzistra={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 18 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -123,7 +123,7 @@ c_kyzistra={
 	835.1.8 = { holder = irtock3_imperator229888_successor_8 }
 }
 c_lower_galatia={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 19 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -136,7 +136,7 @@ c_lower_galatia={
 	835.1.8 = { holder = irtock3_imperator229888_successor_8 }
 }
 c_lycandus={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 16 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -149,7 +149,7 @@ c_lycandus={
 	835.1.8 = { holder = irtock3_imperator229888_successor_8 }
 }
 c_lycaonia={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 19 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -176,7 +176,7 @@ c_lycia={
 	838.9.30 = { holder = irtock3_imperator235389_successor_8 }
 }
 c_pacatiana={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 16 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -203,7 +203,7 @@ c_pamphylia={
 	834.1.8 = { holder = irtock3_imperator223388_successor_8 }
 }
 c_philomelium={
-	475.10.3 = { liege = d_IRTOCK3_AA9 holder = imperator228741 }
+	475.10.3 = { liege = d_IR_Salamis_AA9 holder = imperator228741 }
 	476.1.7 = { change_development_level = 14 }
 	479.7.1 = { holder = irtock3_imperator228741_successor_0 }
 	511.7.1 = { holder = irtock3_imperator228741_successor_1 }
@@ -231,7 +231,7 @@ c_pisidia={
 	854.8.14 = { holder = irtock3_imperator239329_successor_9 }
 }
 c_seleucia={
-	472.5.28 = { liege = d_IRTOCK3_ISU holder = imperator245527 }
+	472.5.28 = { liege = d_IR_Cilicia holder = imperator245527 }
 	476.1.7 = { change_development_level = 22 }
 	505.11.29 = { holder = irtock3_imperator245527_successor_0 }
 	548.11.29 = { holder = irtock3_imperator245527_successor_1 }

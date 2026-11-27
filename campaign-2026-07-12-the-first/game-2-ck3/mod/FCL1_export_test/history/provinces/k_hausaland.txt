@@ -1,0 +1,111 @@
+6517={
+	holding = none
+}
+6518={
+	holding = none
+}
+6519={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6520={
+	holding = none
+}
+6529={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6536={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+	867.1.1 = { holding = tribal_holding buildings = { longhouses_01 war_camps_01 } }
+}
+6537={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6538={
+	holding = none
+}
+6539={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6540={
+	holding = none
+}
+6541={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6542={
+	holding = none
+}
+6543={
+	holding = none
+}
+6544={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6545={
+	holding = none
+}
+6550={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6551={
+	holding = none
+}
+6552={
+	holding = none
+}
+6553={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6554={
+	holding = none
+}
+6555={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6556={
+	holding = none
+}
+6557={
+	culture = mossi
+	religion = west_african_bidu_pagan
+	holding = none
+	1250.1.1 = { culture = butr religion = ashari }
+}
+6558={
+	holding = none
+}
+6559={
+	holding = none
+}
+6905={
+	holding = none
+}
+8996={
+	holding = none
+}
+8997={
+	holding = none
+}
+8998={
+	holding = none
+}

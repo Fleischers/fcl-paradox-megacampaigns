@@ -1,0 +1,237 @@
+2037={
+	holding = none
+}
+2046={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2047={
+	holding = none
+}
+2048={
+	holding = none
+}
+2049={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2050={
+	holding = none
+}
+2051={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2052={
+	holding = city_holding
+}
+2053={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2054={
+	holding = city_holding
+}
+2055={
+	culture = gallic
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2074={
+	holding = none
+}
+2460={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2461={
+	holding = none
+}
+2775={
+	holding = castle_holding
+}
+2776={
+	holding = none
+}
+2777={
+	culture = norse
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2778={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2779={
+	holding = none
+}
+2780={
+	holding = none
+}
+2781={
+	holding = none
+}
+2782={
+	culture = norse
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2783={
+	culture = norse
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2784={
+	holding = none
+}
+2785={
+	holding = castle_holding
+}
+2786={
+	culture = norse
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2787={
+	holding = city_holding
+}
+2788={
+	holding = city_holding
+}
+2789={
+	holding = none
+}
+2790={
+	holding = none
+}
+2950={
+	culture = rhaetian
+	faith = dacian_pagan
+	holding = castle_holding
+	special_building_slot = schwaz_mines_01
+}
+2951={
+	holding = church_holding
+}
+2952={
+	holding = church_holding
+}
+2953={
+	holding = church_holding
+}
+2954={
+	holding = none
+}
+2955={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3083={
+	holding = none
+}
+3092={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3099={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3103={
+	holding = none
+}
+3105={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3106={
+	holding = city_holding
+}
+3107={
+	holding = none
+}
+3108={
+	holding = none
+}
+3109={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3110={
+	holding = none
+}
+3111={
+	holding = none
+}
+3112={
+	holding = none
+}
+3113={
+	holding = none
+}
+3114={
+	holding = none
+}
+3115={
+	holding = none
+}
+3116={
+	holding = none
+}
+3117={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3118={
+	holding = none
+}
+3119={
+	holding = none
+}
+3120={
+	holding = none
+}
+3121={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3125={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3126={
+	holding = none
+}
+3127={
+	holding = none
+}
+3128={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3129={
+	holding = none
+}
+3134={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+3137={
+	holding = church_holding
+}

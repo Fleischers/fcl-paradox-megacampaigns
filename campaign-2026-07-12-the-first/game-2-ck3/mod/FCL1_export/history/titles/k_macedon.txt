@@ -17,7 +17,7 @@ d_vidin={
 	890.1.1 = { liege = 0 }
 }
 c_adrianopolis={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 20 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }
@@ -31,7 +31,7 @@ c_adrianopolis={
 	853.1.8 = { holder = irtock3_imperator233513_successor_9 }
 }
 c_aytos={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 21 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }
@@ -70,7 +70,7 @@ c_branicevo={
 	866.10.27 = { holder = irtock3_imperator249259_successor_8 }
 }
 c_burgas={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 16 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }
@@ -123,7 +123,7 @@ c_kran={
 	834.3.8 = { holder = irtock3_imperator238383_successor_7 }
 }
 c_mesembria={
-	469.8.10 = { liege = d_IRTOCK3_AAB holder = imperator233513 }
+	469.8.10 = { liege = d_IR_Kition holder = imperator233513 }
 	476.1.7 = { change_development_level = 27 }
 	476.1.8 = { holder = irtock3_imperator233513_successor_0 }
 	514.1.8 = { holder = irtock3_imperator233513_successor_1 }

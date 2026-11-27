@@ -1,0 +1,89 @@
+﻿croatian = {
+	color = rgb { 102 51 51 }
+	heritage = heritage_south_slavic
+	language = language_south_slavic
+	traditions = { tradition_hussar tradition_astute_diplomats tradition_hereditary_hierarchy }
+	name_list = name_list_croatian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}
+serbian = {
+	color = rgb { 92 26 10 }
+	heritage = heritage_south_slavic
+	language = language_south_slavic
+	traditions = { tradition_hussar tradition_religious_patronage tradition_stalwart_defenders }
+	name_list = name_list_serbian
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}
+bosnian = {
+	color = rgb { 76 26 26 }
+	parents = { croatian serbian }
+	heritage = heritage_south_slavic
+	language = language_south_slavic
+	traditions = { tradition_mendicant_mystics tradition_monastic_communities tradition_isolationist }
+	name_list = name_list_bosnian
+	created = 800.1.1
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}
+bulgarian = {
+	color = rgb { 178 128 128 }
+	parents = { bolghar croatian }
+	heritage = heritage_south_slavic
+	language = language_slavonic
+	traditions = { tradition_ruling_caste tradition_stand_and_fight tradition_hussar tradition_merciful_blindings }
+	name_list = name_list_bulgarian
+	created = 850.1.1
+	history_loc_override = bulgarian_history_loc
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	house_coa_frame = house_frame_02
+	house_coa_mask_offset = { 0.0 0.055 }
+	house_coa_mask_scale = { 0.9 0.9 }
+	ethnicities = {
+		100 = mediterranean_byzantine
+	}
+}

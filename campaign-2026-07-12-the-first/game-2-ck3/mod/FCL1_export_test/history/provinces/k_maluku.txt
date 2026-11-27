@@ -1,0 +1,176 @@
+11216={
+	holding = none
+}
+11217={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11218={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11219={
+	holding = none
+}
+11220={
+	holding = none
+}
+11221={
+	holding = none
+}
+11222={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11223={
+	holding = none
+}
+11224={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11225={
+	holding = none
+}
+11226={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11227={
+	holding = none
+}
+11228={
+	holding = none
+}
+11229={
+	culture = maluku
+	religion = tolotang
+	holding = tribal_holding
+}
+11230={
+	holding = none
+}
+11231={
+	holding = none
+}
+11370={
+	holding = none
+}
+11371={
+	holding = none
+}
+11372={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11373={
+	holding = none
+}
+11374={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11375={
+	holding = none
+}
+11376={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11377={
+	holding = none
+}
+11378={
+	holding = none
+}
+11379={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11380={
+	holding = none
+}
+11381={
+	holding = none
+}
+11382={
+	holding = none
+}
+11383={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11384={
+	holding = none
+}
+11385={
+	holding = none
+}
+11386={
+	holding = none
+}
+11387={
+	holding = none
+}
+11388={
+	culture = maluku
+	religion = hantuism
+	holding = tribal_holding
+}
+11389={
+	holding = none
+}
+12835={
+	culture = papuan
+	religion = tolotang
+	holding = tribal_holding
+}
+12836={
+	holding = none
+}
+12837={
+	holding = none
+}
+12838={
+	culture = papuan
+	religion = tolotang
+	holding = tribal_holding
+}
+12839={
+	holding = none
+}
+12840={
+	holding = none
+}
+12841={
+	culture = papuan
+	religion = tolotang
+	holding = tribal_holding
+}
+12842={
+	culture = papuan
+	religion = tolotang
+	holding = tribal_holding
+}
+12843={
+	holding = none
+}
+12844={
+	holding = none
+}
+12845={
+	holding = none
+}
+12847={
+	holding = none
+}

@@ -1,0 +1,146 @@
+1434={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7286={
+	holding = none
+}
+7287={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1032.1.1 = { holding = herder_holding }
+}
+7289={
+	holding = none
+}
+7290={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	1170.1.1 = { holding = herder_holding }
+}
+7291={
+	holding = none
+}
+7292={
+	holding = none
+}
+7293={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	862.1.1 = { holding = herder_holding }
+}
+7294={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	865.1.1 = { holding = herder_holding }
+}
+7295={
+	holding = none
+}
+7296={
+	holding = none
+}
+7297={
+	culture = kimek
+	religion = tengri_pagan
+	holding = nomad_holding
+	857.1.1 = { holding = herder_holding }
+	1148.1.1 = { holding = nomad_holding }
+}
+7298={
+	holding = none
+}
+7299={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1178.1.1 = { holding = herder_holding }
+}
+7300={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1178.1.1 = { holding = herder_holding }
+}
+7301={
+	holding = none
+}
+7302={
+	holding = none
+}
+7303={
+	holding = none
+}
+7304={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1032.1.1 = { holding = herder_holding }
+}
+7305={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+}
+7306={
+	holding = none
+}
+7307={
+	holding = none
+}
+7308={
+	holding = none
+}
+7309={
+	holding = none
+}
+7310={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7311={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	856.1.1 = { holding = herder_holding }
+	1000.1.1 = { culture = kimek }
+	1032.1.1 = { holding = nomad_holding }
+}
+7312={
+	holding = none
+}
+7313={
+	holding = none
+}
+7314={
+	culture = kipchak
+	religion = tengri_pagan
+	holding = nomad_holding
+	1000.1.1 = { culture = kimek }
+	1177.1.1 = { holding = herder_holding }
+}
+7315={
+	holding = none
+}
+7316={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7317={
+	holding = none
+}
+7318={
+	holding = none
+}

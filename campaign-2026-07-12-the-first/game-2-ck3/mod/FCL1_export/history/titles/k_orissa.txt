@@ -1,5 +1,5 @@
 k_orissa={
-	436.9.30 = { government = feudal_government holder = imperator236786 liege = e_spain succession_laws = { high_partition_succession_law } }
+	436.9.30 = { government = feudal_government holder = imperator236786 liege = e_spain succession_laws = { partition_succession_law } }
 	498.7.22 = { holder = irtock3_imperator236786_successor_0 }
 	538.7.22 = { holder = irtock3_imperator236786_successor_1 }
 	569.7.22 = { holder = irtock3_imperator236786_successor_2 }
@@ -143,7 +143,7 @@ c_puri={
 	837.7.22 = { holder = irtock3_imperator239830_successor_8 }
 }
 c_rayapura={
-	473.1.4 = { liege = d_IRTOCK3_AAA holder = imperator232930 }
+	473.1.4 = { liege = d_IR_Lapethos holder = imperator232930 }
 	476.1.7 = { change_development_level = 17 }
 	500.10.11 = { holder = irtock3_imperator232930_successor_0 }
 	552.10.11 = { holder = irtock3_imperator232930_successor_1 }
@@ -169,7 +169,7 @@ c_sambalpur={
 	830.7.22 = { holder = irtock3_imperator236786_successor_8 }
 }
 c_sripuri={
-	473.1.4 = { liege = d_IRTOCK3_AAA holder = imperator232930 }
+	473.1.4 = { liege = d_IR_Lapethos holder = imperator232930 }
 	476.1.7 = { change_development_level = 13 }
 	500.10.11 = { holder = irtock3_imperator232930_successor_0 }
 	552.10.11 = { holder = irtock3_imperator232930_successor_1 }

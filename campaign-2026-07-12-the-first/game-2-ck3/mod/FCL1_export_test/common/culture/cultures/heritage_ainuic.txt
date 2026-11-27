@@ -1,0 +1,42 @@
+﻿emishi = {
+	color = rgb { 185 122 87 }
+	heritage = heritage_ainuic
+	language = language_japonic
+	traditions = { tradition_hunters tradition_isolationist tradition_forest_fighters tradition_sacred_hunts }
+	name_list = name_list_emishi
+	name_order_convention = japanese
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	dlc_tradition = {
+		trait = tradition_tgp_defiant_ambushers
+		requires_dlc_flag = all_under_heaven
+	}
+	coa_gfx = { japanese_coa_gfx }
+	building_gfx = { emishi_building_gfx japanese_building_gfx }
+	clothing_gfx = { emishi_clothing_gfx ainu_clothing_gfx }
+	unit_gfx = { emishi_unit_gfx japanese_unit_gfx }
+	house_coa_frame = house_japan
+	ethnicities = {
+		10 = asian_emishi_ainu
+	}
+}
+ainu = {
+	color = rgb { 70 45 20 }
+	heritage = heritage_ainuic
+	language = language_ainu
+	traditions = { tradition_wetlanders tradition_mystical_ancestors tradition_fishermen tradition_forest_fighters tradition_hunters }
+	name_list = name_list_ainu
+	name_order_convention = japanese
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { amuric_building_gfx steppe_building_gfx }
+	clothing_gfx = { emishi_clothing_gfx ainu_clothing_gfx }
+	unit_gfx = { emishi_unit_gfx japanese_unit_gfx }
+	house_coa_frame = house_japan
+	ethnicities = {
+		10 = asian_emishi_ainu
+	}
+}

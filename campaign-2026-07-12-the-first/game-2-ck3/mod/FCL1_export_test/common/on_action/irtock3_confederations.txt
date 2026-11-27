@@ -1,0 +1,118 @@
+﻿on_game_start_after_lobby = {
+	on_actions = {
+		irtock3_confederation_setup
+	}
+}
+
+irtock3_confederation_setup = {
+	effect = {
+		## Beginning of new confederation/league setup
+		title:k_IRTOCK3_AGO.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AGZ.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AJ5.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:d_IRTOCK3_GRV.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AKE.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:k_IRTOCK3_AKH.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:d_IRTOCK3_ADQ.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:d_IRTOCK3_A4U.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AAG.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:k_IRTOCK3_AK1.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AL5.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:d_IRTOCK3_DAN.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:d_IRTOCK3_VDL.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:d_IRTOCK3_TIT.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AKZ.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:k_IRTOCK3_AGT.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_ALC.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AKT.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_AG9.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+		## Beginning of new confederation/league setup
+		title:k_IRTOCK3_AK4.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		title:k_IRTOCK3_RMI.holder = {
+			add_to_list = irtock3_confederation_members
+		}
+		irtock3_confederation_setup_effect = yes
+		## End of this confederation/league setup
+
+
+	}
+}

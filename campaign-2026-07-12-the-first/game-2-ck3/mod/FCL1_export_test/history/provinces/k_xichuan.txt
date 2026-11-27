@@ -1,0 +1,131 @@
+9713={
+	culture = qiang
+	religion = rrmeaism
+	holding = castle_holding
+}
+9714={
+	holding = city_holding
+}
+9715={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+9716={
+	holding = church_holding
+}
+9721={
+	holding = city_holding
+}
+9726={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+	1150.1.1 = { religion = dhyana }
+}
+9727={
+	holding = city_holding
+}
+10198={
+	holding = church_holding
+}
+10199={
+	culture = qiang
+	religion = rrmeaism
+	holding = castle_holding
+}
+10210={
+	holding = city_holding
+}
+10211={
+	holding = church_holding
+}
+10212={
+	culture = han
+	religion = zhengyi
+	holding = castle_holding
+	1000.1.1 = { religion = mantrayana }
+}
+10213={
+	holding = city_holding
+}
+10214={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+10215={
+	holding = city_holding
+}
+10216={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10217={
+	holding = church_holding
+}
+10218={
+	holding = city_holding
+}
+10219={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10220={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+10221={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+10222={
+	holding = none
+}
+10223={
+	holding = church_holding
+	special_building_slot = leshan_giant_buddha_01
+	803.1.1 = { special_building = leshan_giant_buddha_01 }
+}
+10224={
+	holding = city_holding
+}
+10225={
+	holding = church_holding
+}
+10317={
+	holding = city_holding
+}
+10318={
+	holding = city_holding
+}
+10319={
+	culture = han
+	religion = vinaya
+	holding = castle_holding
+	960.1.1 = { religion = dhyana }
+	1050.1.1 = { religion = daoxue }
+}
+10320={
+	holding = church_holding
+}
+10321={
+	holding = city_holding
+}
+10322={
+	holding = church_holding
+}
+10438={
+	holding = city_holding
+}
+12958={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+	1150.1.1 = { religion = yogacara }
+}

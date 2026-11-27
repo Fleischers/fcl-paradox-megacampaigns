@@ -1,0 +1,536 @@
+2056={
+	holding = castle_holding
+}
+2057={
+	culture = belgae
+	faith = catholic
+	holding = castle_holding
+}
+2058={
+	holding = none
+}
+2078={
+	holding = none
+}
+2079={
+	holding = none
+}
+2080={
+	holding = none
+}
+2081={
+	holding = none
+}
+2083={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2085={
+	holding = none
+}
+2192={
+	holding = none
+}
+2384={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2387={
+	culture = belgae
+	faith = catholic
+	holding = castle_holding
+}
+2388={
+	culture = belgae
+	faith = catholic
+	holding = castle_holding
+}
+2395={
+	holding = none
+}
+2692={
+	holding = church_holding
+}
+2693={
+	holding = church_holding
+}
+2694={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2695={
+	holding = none
+}
+2698={
+	holding = none
+}
+2700={
+	holding = none
+}
+2701={
+	holding = none
+}
+2703={
+	holding = castle_holding
+}
+2704={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2705={
+	holding = none
+}
+2706={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2707={
+	holding = none
+}
+2708={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2709={
+	culture = belgae
+	faith = catholic
+	holding = castle_holding
+}
+2710={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2711={
+	holding = none
+}
+2712={
+	holding = none
+}
+2713={
+	holding = none
+}
+2714={
+	holding = none
+}
+2715={
+	holding = none
+}
+2717={
+	culture = rhaetian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2719={
+	holding = none
+}
+2720={
+	holding = none
+}
+2721={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2722={
+	holding = none
+}
+2723={
+	holding = none
+}
+2724={
+	holding = none
+}
+2725={
+	holding = none
+}
+2726={
+	holding = none
+}
+2727={
+	holding = none
+}
+2728={
+	holding = none
+}
+2729={
+	culture = frankish
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2730={
+	holding = none
+}
+2731={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2732={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2733={
+	holding = city_holding
+}
+2735={
+	holding = castle_holding
+}
+2736={
+	holding = castle_holding
+}
+2737={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2738={
+	holding = castle_holding
+}
+2739={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2741={
+	holding = none
+}
+2742={
+	holding = city_holding
+}
+2743={
+	holding = none
+}
+2744={
+	holding = city_holding
+}
+2745={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2746={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2747={
+	holding = none
+}
+2748={
+	culture = rhaetian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2749={
+	holding = none
+}
+2750={
+	holding = none
+}
+2751={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2752={
+	holding = none
+}
+2753={
+	holding = none
+}
+2755={
+	holding = none
+}
+2756={
+	holding = none
+}
+2757={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2758={
+	holding = none
+}
+2759={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2760={
+	holding = none
+}
+2761={
+	holding = none
+}
+2762={
+	holding = none
+}
+2763={
+	culture = rhaetian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2764={
+	holding = castle_holding
+}
+2765={
+	holding = none
+}
+2766={
+	holding = none
+}
+2767={
+	holding = none
+}
+2768={
+	culture = rhaetian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2769={
+	holding = none
+}
+2770={
+	holding = none
+}
+2771={
+	holding = none
+}
+2772={
+	holding = none
+}
+2773={
+	culture = norse
+	faith = dacian_pagan
+	holding = castle_holding
+}
+2774={
+	holding = castle_holding
+}
+2851={
+	holding = none
+}
+2852={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2853={
+	holding = none
+}
+2854={
+	holding = church_holding
+}
+2855={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2856={
+	holding = none
+}
+2857={
+	holding = none
+}
+2858={
+	holding = none
+}
+2859={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2860={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2861={
+	holding = none
+}
+2862={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2863={
+	holding = none
+}
+2864={
+	holding = none
+}
+2865={
+	holding = none
+}
+2866={
+	holding = none
+}
+2867={
+	holding = none
+}
+2868={
+	holding = none
+}
+2869={
+	holding = none
+}
+2870={
+	culture = frankish
+	faith = catholic
+	holding = castle_holding
+}
+2871={
+	holding = castle_holding
+}
+2872={
+	holding = none
+}
+2873={
+	holding = none
+}
+2874={
+	culture = frankish
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2875={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2876={
+	holding = none
+}
+2877={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2880={
+	holding = none
+}
+2885={
+	holding = none
+}
+2886={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2887={
+	holding = none
+}
+2888={
+	holding = none
+}
+2889={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2890={
+	holding = none
+}
+2891={
+	holding = none
+}
+2892={
+	holding = none
+}
+2915={
+	holding = none
+}
+2918={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2919={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}
+2920={
+	holding = none
+}
+2921={
+	holding = none
+}
+2922={
+	holding = none
+}
+2923={
+	holding = none
+}
+2924={
+	culture = frankish
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2925={
+	holding = none
+}
+2926={
+	holding = castle_holding
+}
+2927={
+	culture = frankish
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2928={
+	holding = none
+}
+2992={
+	holding = none
+}
+2995={
+	holding = none
+}
+2998={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+2999={
+	holding = none
+}
+3000={
+	holding = castle_holding
+}
+3003={
+	culture = frankish
+	faith = germanic_pagan
+	holding = castle_holding
+}
+3005={
+	culture = norse
+	faith = germanic_pagan
+	holding = castle_holding
+}
+3006={
+	holding = none
+}
+3007={
+	holding = none
+}
+3008={
+	holding = none
+}
+3009={
+	holding = none
+}
+3010={
+	culture = norse
+	faith = catholic
+	holding = castle_holding
+}

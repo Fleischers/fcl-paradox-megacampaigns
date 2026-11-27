@@ -1,0 +1,208 @@
+9754={
+	holding = city_holding
+}
+9755={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+9756={
+	holding = church_holding
+}
+9758={
+	holding = church_holding
+}
+9759={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+9760={
+	holding = city_holding
+}
+9761={
+	holding = church_holding
+}
+9763={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+9764={
+	holding = none
+}
+9826={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+9827={
+	holding = city_holding
+}
+9828={
+	culture = hmong
+	religion = dab_qhuas
+	holding = castle_holding
+}
+9830={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+9831={
+	holding = none
+}
+9832={
+	holding = none
+}
+9833={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+9834={
+	holding = none
+}
+9835={
+	holding = none
+}
+9836={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+9841={
+	holding = none
+}
+9852={
+	culture = hmong
+	religion = dab_qhuas
+	holding = castle_holding
+}
+9857={
+	holding = church_holding
+}
+9996={
+	holding = city_holding
+}
+9997={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+9998={
+	holding = none
+}
+9999={
+	holding = none
+}
+10000={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+10001={
+	holding = none
+}
+10002={
+	holding = none
+}
+10003={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+10004={
+	holding = none
+}
+10005={
+	holding = none
+}
+10006={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10007={
+	holding = church_holding
+}
+10008={
+	holding = city_holding
+}
+10009={
+	holding = none
+}
+10010={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+10011={
+	holding = none
+}
+10012={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+10013={
+	holding = none
+}
+10407={
+	holding = none
+}
+10409={
+	holding = none
+}
+10414={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+10416={
+	holding = none
+}
+10440={
+	holding = city_holding
+}
+10447={
+	holding = none
+}
+12955={
+	holding = none
+}
+13023={
+	holding = city_holding
+}
+13024={
+	holding = none
+}
+13050={
+	holding = church_holding
+}
+13051={
+	holding = none
+}
+13083={
+	holding = none
+}
+13145={
+	culture = hmong
+	religion = dab_qhuas
+	holding = tribal_holding
+}
+13146={
+	holding = none
+}
+13147={
+	holding = none
+}
+13148={
+	holding = none
+}
+13149={
+	holding = none
+}
+13155={
+	holding = church_holding
+}

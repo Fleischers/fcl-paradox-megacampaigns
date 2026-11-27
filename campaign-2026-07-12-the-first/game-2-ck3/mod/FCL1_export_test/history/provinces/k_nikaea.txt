@@ -1,0 +1,228 @@
+740={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+741={
+	holding = city_holding
+}
+742={
+	culture = anatolian
+	faith = orthodox
+	holding = castle_holding
+}
+743={
+	holding = city_holding
+}
+745={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+746={
+	holding = city_holding
+}
+747={
+	holding = castle_holding
+}
+748={
+	holding = city_holding
+}
+749={
+	holding = city_holding
+}
+750={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+753={
+	culture = phrygian
+	faith = orthodox
+	holding = castle_holding
+}
+3747={
+	holding = none
+}
+5529={
+	holding = city_holding
+}
+5530={
+	holding = castle_holding
+}
+5531={
+	culture = non_indo_european_iberian
+	faith = orthodox
+	holding = castle_holding
+}
+5532={
+	holding = city_holding
+}
+5533={
+	holding = city_holding
+}
+5534={
+	holding = none
+}
+5535={
+	holding = none
+}
+5536={
+	culture = non_indo_european_iberian
+	faith = orthodox
+	holding = castle_holding
+}
+5537={
+	holding = none
+}
+5538={
+	holding = none
+}
+5539={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+5540={
+	holding = none
+}
+5541={
+	holding = city_holding
+}
+5542={
+	holding = city_holding
+}
+5543={
+	holding = city_holding
+}
+5544={
+	holding = none
+}
+5545={
+	holding = city_holding
+}
+5546={
+	culture = brythonic
+	faith = orthodox
+	holding = castle_holding
+}
+5547={
+	holding = city_holding
+}
+5548={
+	culture = cilician
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5549={
+	holding = city_holding
+}
+5550={
+	holding = none
+}
+5551={
+	holding = castle_holding
+}
+5552={
+	culture = non_indo_european_iberian
+	faith = orthodox
+	holding = castle_holding
+}
+5553={
+	holding = none
+}
+5554={
+	holding = none
+}
+5555={
+	holding = none
+}
+5556={
+	holding = none
+}
+5557={
+	holding = none
+}
+5558={
+	holding = none
+}
+5559={
+	holding = castle_holding
+}
+5560={
+	holding = none
+}
+5561={
+	culture = phrygian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5562={
+	holding = none
+}
+5563={
+	holding = none
+}
+5564={
+	holding = none
+}
+5565={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5566={
+	holding = none
+}
+5567={
+	holding = none
+}
+5568={
+	holding = city_holding
+}
+5569={
+	culture = getian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+5570={
+	holding = none
+}
+5571={
+	holding = castle_holding
+}
+5572={
+	holding = church_holding
+}
+5573={
+	holding = none
+}
+5574={
+	culture = getian
+	faith = orthodox
+	holding = castle_holding
+}
+5575={
+	holding = city_holding
+}
+5576={
+	holding = none
+}
+5577={
+	holding = none
+}
+5578={
+	holding = none
+}
+5579={
+	holding = none
+}
+5580={
+	holding = city_holding
+}
+5683={
+	holding = none
+}
+5684={
+	holding = castle_holding
+}

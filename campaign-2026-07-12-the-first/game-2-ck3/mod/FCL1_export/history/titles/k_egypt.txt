@@ -1,7 +1,7 @@
 k_egypt={
 	476.1.7 = { effect = {
 set_variable = { name = imperator_tag value = flag:EGY }
-} succession_laws = { equal_law single_heir_succession_law } }
+} succession_laws = { equal_law partition_succession_law } }
 	890.1.1 = { liege = 0 }
 }
 d_al-said={
@@ -29,7 +29,7 @@ d_sinai={
 	890.1.1 = { liege = 0 }
 }
 c_al-buhaira={
-	469.1.6 = { liege = d_IRTOCK3_AAA holder = imperator228699 }
+	469.1.6 = { liege = d_IR_Lapethos holder = imperator228699 }
 	476.1.7 = { change_development_level = 24 }
 	491.5.26 = { holder = irtock3_imperator228699_successor_0 }
 	527.5.26 = { holder = irtock3_imperator228699_successor_1 }
@@ -214,7 +214,7 @@ c_farafra={
 	844.1.8 = { holder = irtock3_imperator241283_successor_8 }
 }
 c_farama={
-	469.1.6 = { liege = d_IRTOCK3_AAA holder = imperator228699 }
+	469.1.6 = { liege = d_IR_Lapethos holder = imperator228699 }
 	476.1.7 = { change_development_level = 18 }
 	491.5.26 = { holder = irtock3_imperator228699_successor_0 }
 	527.5.26 = { holder = irtock3_imperator228699_successor_1 }
@@ -241,7 +241,7 @@ c_fayyum={
 	864.11.23 = { holder = irtock3_imperator235448_successor_8 }
 }
 c_firaun={
-	469.1.6 = { liege = d_IRTOCK3_AAA holder = imperator228699 }
+	469.1.6 = { liege = d_IR_Lapethos holder = imperator228699 }
 	476.1.7 = { change_development_level = 18 }
 	491.5.26 = { holder = irtock3_imperator228699_successor_0 }
 	527.5.26 = { holder = irtock3_imperator228699_successor_1 }
@@ -337,7 +337,7 @@ c_sharkiya={
 	864.11.23 = { holder = irtock3_imperator235448_successor_8 }
 }
 c_sinai={
-	469.1.6 = { liege = d_IRTOCK3_AAA holder = imperator228699 }
+	469.1.6 = { liege = d_IR_Lapethos holder = imperator228699 }
 	476.1.7 = { change_development_level = 13 }
 	491.5.26 = { holder = irtock3_imperator228699_successor_0 }
 	527.5.26 = { holder = irtock3_imperator228699_successor_1 }

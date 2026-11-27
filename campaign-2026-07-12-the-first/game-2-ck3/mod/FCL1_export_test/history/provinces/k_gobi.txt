@@ -1,0 +1,183 @@
+11529={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11530={
+	holding = none
+}
+11531={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11532={
+	holding = none
+}
+11533={
+	holding = none
+}
+11534={
+	holding = none
+}
+11535={
+	holding = none
+}
+11536={
+	holding = none
+}
+11539={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11540={
+	holding = none
+}
+11541={
+	holding = none
+}
+11542={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11543={
+	holding = none
+}
+11544={
+	holding = none
+}
+11545={
+	culture = mongol
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11559={
+	holding = none
+}
+11560={
+	holding = none
+}
+11561={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11562={
+	holding = none
+}
+11563={
+	holding = none
+}
+11564={
+	holding = none
+}
+11565={
+	holding = none
+}
+11566={
+	holding = none
+}
+11567={
+	holding = none
+}
+11568={
+	culture = mongol
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11569={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11578={
+	holding = none
+}
+11582={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11583={
+	holding = none
+}
+11584={
+	holding = none
+}
+12552={
+	holding = none
+}
+12553={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+12554={
+	holding = none
+}
+12555={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+12556={
+	culture = mongol
+	religion = tengri_pagan
+	holding = herder_holding
+}
+12557={
+	holding = none
+}
+12558={
+	holding = none
+}
+12559={
+	holding = none
+}
+12560={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+12564={
+	culture = kerait
+	religion = nestorian
+	holding = nomad_holding
+}
+12565={
+	holding = none
+}
+12566={
+	culture = kerait
+	religion = nestorian
+	holding = nomad_holding
+}
+12567={
+	holding = none
+}
+12568={
+	culture = mongol
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+12569={
+	holding = none
+}
+12570={
+	culture = mongol
+	religion = tengri_pagan
+	holding = herder_holding
+}
+12571={
+	holding = none
+}
+12572={
+	culture = khitan
+	religion = dhyana
+	holding = herder_holding
+}
+12573={
+	holding = none
+}

@@ -1,5 +1,5 @@
 k_khorasan={
-	457.7.28 = { government = feudal_government holder = imperator235277 liege = e_armenia succession_laws = { high_partition_succession_law } }
+	457.7.28 = { government = feudal_government holder = imperator235277 liege = e_armenia succession_laws = { partition_succession_law } }
 	502.6.12 = { holder = irtock3_imperator235277_successor_0 }
 	538.6.12 = { holder = irtock3_imperator235277_successor_1 }
 	581.6.12 = { holder = irtock3_imperator235277_successor_2 }
@@ -32,7 +32,7 @@ d_nishapur={
 	890.1.1 = { liege = 0 }
 }
 c_abivard={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 19 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -57,7 +57,7 @@ c_amol={
 	857.3.19 = { holder = irtock3_imperator245432_successor_8 }
 }
 c_badghis={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 16 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -69,7 +69,7 @@ c_badghis={
 	854.12.16 = { holder = irtock3_imperator247637_successor_7 }
 }
 c_baihaq={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 17 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -81,7 +81,7 @@ c_baihaq={
 	854.12.16 = { holder = irtock3_imperator247637_successor_7 }
 }
 c_bakharz={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 13 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -121,7 +121,7 @@ c_damghan={
 	859.3.12 = { holder = irtock3_imperator236320_successor_9 }
 }
 c_darmashan={
-	460.4.15 = { liege = d_IRTOCK3_AA9 holder = imperator244982 }
+	460.4.15 = { liege = d_IR_Salamis_AA9 holder = imperator244982 }
 	476.1.7 = { change_development_level = 6 }
 	504.3.24 = { holder = irtock3_imperator244982_successor_0 }
 	547.3.24 = { holder = irtock3_imperator244982_successor_1 }
@@ -147,7 +147,7 @@ c_east-tokharestan={
 	835.6.3 = { holder = irtock3_imperator240183_successor_9 }
 }
 c_farava={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 24 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -159,7 +159,7 @@ c_farava={
 	854.12.16 = { holder = irtock3_imperator247637_successor_7 }
 }
 c_ghur={
-	460.4.15 = { liege = d_IRTOCK3_AA9 holder = imperator244982 }
+	460.4.15 = { liege = d_IR_Salamis_AA9 holder = imperator244982 }
 	476.1.7 = { change_development_level = 14 }
 	504.3.24 = { holder = irtock3_imperator244982_successor_0 }
 	547.3.24 = { holder = irtock3_imperator244982_successor_1 }
@@ -186,7 +186,7 @@ c_guzgan={
 	871.12.28 = { holder = irtock3_imperator234733_successor_10 }
 }
 c_herat={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 19 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -212,7 +212,7 @@ c_juwain={
 	859.3.12 = { holder = irtock3_imperator236320_successor_9 }
 }
 c_marvarrud={
-	440.4.25 = { liege = d_IRTOCK3_AA9 holder = imperator233938 }
+	440.4.25 = { liege = d_IR_Salamis_AA9 holder = imperator233938 }
 	476.1.7 = { change_development_level = 9 }
 	476.1.8 = { holder = irtock3_imperator233938_successor_0 }
 	522.1.8 = { holder = irtock3_imperator233938_successor_1 }
@@ -224,7 +224,7 @@ c_marvarrud={
 	838.1.8 = { holder = irtock3_imperator233938_successor_7 }
 }
 c_merv={
-	440.4.25 = { liege = d_IRTOCK3_AA9 holder = imperator233938 }
+	440.4.25 = { liege = d_IR_Salamis_AA9 holder = imperator233938 }
 	476.1.7 = { change_development_level = 19 }
 	476.1.8 = { holder = irtock3_imperator233938_successor_0 }
 	522.1.8 = { holder = irtock3_imperator233938_successor_1 }
@@ -236,7 +236,7 @@ c_merv={
 	838.1.8 = { holder = irtock3_imperator233938_successor_7 }
 }
 c_nishapur={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 13 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -261,7 +261,7 @@ c_qain={
 	828.10.12 = { holder = irtock3_imperator227405_successor_8 }
 }
 c_rivsharan={
-	440.4.25 = { liege = d_IRTOCK3_AA9 holder = imperator233938 }
+	440.4.25 = { liege = d_IR_Salamis_AA9 holder = imperator233938 }
 	476.1.7 = { change_development_level = 15 }
 	476.1.8 = { holder = irtock3_imperator233938_successor_0 }
 	522.1.8 = { holder = irtock3_imperator233938_successor_1 }
@@ -286,7 +286,7 @@ c_sabzevar={
 	828.10.12 = { holder = irtock3_imperator227405_successor_8 }
 }
 c_samaiqan={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 15 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -298,7 +298,7 @@ c_samaiqan={
 	854.12.16 = { holder = irtock3_imperator247637_successor_7 }
 }
 c_sarakhs={
-	440.4.25 = { liege = d_IRTOCK3_AA9 holder = imperator233938 }
+	440.4.25 = { liege = d_IR_Salamis_AA9 holder = imperator233938 }
 	476.1.7 = { change_development_level = 8 }
 	476.1.8 = { holder = irtock3_imperator233938_successor_0 }
 	522.1.8 = { holder = irtock3_imperator233938_successor_1 }
@@ -310,7 +310,7 @@ c_sarakhs={
 	838.1.8 = { holder = irtock3_imperator233938_successor_7 }
 }
 c_tun={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 3 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -322,7 +322,7 @@ c_tun={
 	854.12.16 = { holder = irtock3_imperator247637_successor_7 }
 }
 c_tus={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 15 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }

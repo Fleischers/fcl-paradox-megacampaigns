@@ -1,0 +1,97 @@
+k_akan={
+	890.1.1 = { liege = 0 }
+}
+d_adiukru={
+	890.1.1 = { liege = 0 }
+}
+d_ashanti={
+	890.1.1 = { liege = 0 }
+}
+d_brong={
+	890.1.1 = { liege = 0 }
+}
+d_eweland={
+	860.1.1 = { holder = guan0011 government = tribal_government }
+}
+d_gyaman={
+	890.1.1 = { liege = 0 }
+}
+c_adanse={
+	850.1.1 = { holder = akan0048 government = tribal_government }
+	873.1.1 = { holder = akan0049 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_afram={
+	860.1.1 = { holder = guan0011 government = tribal_government liege = d_eweland }
+	890.1.1 = { change_development_level = 4 }
+}
+c_aowin={
+	850.1.1 = { holder = akan0074 liege = 0 }
+	860.1.1 = { government = tribal_government }
+	865.1.1 = { holder = akan0075 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_attie={
+	860.1.1 = { holder = kru0021 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_begho={
+	840.1.1 = { holder = akan0012 government = tribal_government }
+	879.1.1 = { holder = akan0015 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_bonduku={
+	840.1.1 = { holder = akan0012 government = tribal_government }
+	866.1.1 = { holder = akan0013 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_bono={
+	860.1.1 = { holder = akan0001 government = tribal_government }
+	889.1.1 = { holder = akan0003 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_bonoso={
+	840.1.1 = { holder = akan0012 government = tribal_government }
+	879.1.1 = { holder = akan0015 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_dabou={
+	860.1.1 = { holder = kru0001 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ewe={
+	860.1.1 = { holder = ewe0001 government = tribal_government liege = d_eweland }
+	890.1.1 = { holder = ewe0002 change_development_level = 0 }
+}
+c_fante={
+	860.1.1 = { holder = akan0064 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_kumasi={
+	850.1.1 = { holder = akan0048 government = tribal_government }
+	873.1.1 = { holder = akan0049 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_kwahu-akyem={
+	860.1.1 = { holder = guan0001 government = tribal_government liege = d_eweland }
+	890.1.1 = { change_development_level = 1 }
+}
+c_nanumba={
+	860.1.1 = { holder = guan0021 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ndenye={
+	860.1.1 = { holder = akan0040 government = tribal_government }
+	888.1.1 = { holder = akan0041 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_upper_bono={
+	861.1.1 = { holder = akan0001 government = tribal_government }
+	889.1.1 = { holder = akan0003 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_wassa={
+	860.1.1 = { holder = akan0056 government = tribal_government }
+	888.1.1 = { holder = akan0057 }
+	890.1.1 = { change_development_level = 1 }
+}

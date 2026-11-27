@@ -14,7 +14,7 @@ d_saurashtra={
 	890.1.1 = { liege = 0 }
 }
 c_bhumilka={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 19 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }
@@ -134,7 +134,7 @@ c_sarasvata_mandala={
 	824.1.7 = { holder = irtock3_imperator232306_successor_8 }
 }
 c_somnath={
-	472.11.23 = { liege = d_IRTOCK3_AAA holder = imperator231444 }
+	472.11.23 = { liege = d_IR_Lapethos holder = imperator231444 }
 	476.1.7 = { change_development_level = 17 }
 	482.11.24 = { holder = irtock3_imperator231444_successor_0 }
 	522.11.24 = { holder = irtock3_imperator231444_successor_1 }

@@ -1,0 +1,83 @@
+k_henan={
+	890.1.1 = { liege = 0 }
+}
+d_biansong={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder government = feudal_government liege = 0 }
+}
+d_chenxu={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_yingchuan_holder government = feudal_government liege = 0 }
+}
+d_dongji={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_henan_holder government = feudal_government liege = 0 }
+}
+d_shanguo={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_shanzhou_2_holder government = feudal_government liege = 0 }
+}
+d_zhenghua={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_huazhou_holder government = feudal_government liege = 0 }
+}
+c_bianzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder liege = d_biansong change_development_level = 14 }
+}
+c_bozhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder liege = d_biansong change_development_level = 10 }
+}
+c_caizhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_yingchuan_holder liege = d_chenxu change_development_level = 12 }
+}
+c_guozhou={
+	867.1.1 = { holder = han_3460 government = celestial_government }
+	890.1.1 = { liege = d_shanguo change_development_level = 16 }
+}
+c_henan={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_henan_holder liege = d_dongji change_development_level = 16 }
+}
+c_huaining={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_yingchuan_holder liege = d_chenxu change_development_level = 12 }
+}
+c_huazhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_huazhou_holder liege = d_zhenghua change_development_level = 14 }
+}
+c_ruzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_henan_holder liege = d_dongji change_development_level = 12 }
+}
+c_shanzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder liege = d_biansong change_development_level = 12 }
+}
+c_shanzhou_2={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_shanzhou_2_holder liege = d_shanguo change_development_level = 16 }
+}
+c_shenzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_yingchuan_holder liege = d_chenxu change_development_level = 8 }
+}
+c_songzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder liege = d_biansong change_development_level = 12 }
+}
+c_yingchuan={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_yingchuan_holder liege = d_chenxu change_development_level = 12 }
+}
+c_yingzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_bianzhou_holder liege = d_biansong change_development_level = 10 }
+}
+c_zhengzhou={
+	867.1.1 = { government = celestial_government }
+	890.1.1 = { holder = IRToCK3_c_huazhou_holder liege = d_zhenghua change_development_level = 14 }
+}

@@ -229,9 +229,9 @@ fp1_major_decisions.0011 = {
 			NOT = { capital_county = title:c_kiev }
 		}
 
-		#We try to use the player's current capital, but if they've moved it outside of e_russia, then we go with the default set in the standard decision entry.
+		#We try to use the player's current capital, but if they've moved it outside of e_rus, then we go with the default set in the standard decision entry.
 		if = {
-			limit = { capital_county.empire = title:e_russia }
+			limit = { capital_county.empire = title:e_rus }
 			#Formatted a little inefficiently for readability.
 			capital_county = { save_scope_as = new_rus_capital }
 		}

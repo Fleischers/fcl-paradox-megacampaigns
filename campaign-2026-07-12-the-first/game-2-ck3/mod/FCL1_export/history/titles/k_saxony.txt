@@ -1,5 +1,5 @@
 k_saxony={
-	475.8.29 = { liege = e_germany holder = imperator242579 government = feudal_government succession_laws = { high_partition_succession_law } }
+	475.8.29 = { liege = e_germany holder = imperator242579 government = feudal_government succession_laws = { partition_succession_law } }
 	517.4.25 = { holder = irtock3_imperator242579_successor_0 }
 	561.4.25 = { holder = irtock3_imperator242579_successor_1 }
 	610.4.25 = { holder = irtock3_imperator242579_successor_2 }

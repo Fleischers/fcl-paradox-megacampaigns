@@ -1,0 +1,344 @@
+11736={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11741={
+	holding = none
+}
+11742={
+	holding = none
+}
+11743={
+	holding = none
+}
+11744={
+	holding = none
+}
+11745={
+	holding = none
+}
+11746={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11747={
+	holding = none
+}
+11748={
+	holding = none
+}
+11749={
+	holding = none
+}
+11750={
+	holding = none
+}
+11751={
+	holding = none
+}
+11752={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = khitan religion = dhyana holding = nomad_holding }
+}
+11777={
+	holding = none
+}
+11778={
+	holding = none
+}
+11779={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = khitan religion = dhyana holding = nomad_holding }
+}
+11780={
+	holding = none
+}
+11781={
+	holding = none
+}
+11782={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = khitan religion = dhyana }
+}
+11783={
+	holding = none
+}
+11784={
+	holding = none
+}
+11785={
+	culture = khitan
+	religion = tengri_pagan
+	holding = castle_holding
+	1066.1.1 = { religion = dhyana }
+}
+11786={
+	holding = none
+}
+11787={
+	holding = none
+}
+11788={
+	holding = none
+}
+11789={
+	holding = none
+}
+11790={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = balhae }
+	1178.1.1 = { culture = khitan religion = dhyana }
+}
+11791={
+	holding = none
+}
+11792={
+	holding = none
+}
+11793={
+	holding = none
+}
+11794={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	special_building_slot = xiuyan_mines_01
+	867.1.1 = { special_building = xiuyan_mines_01 }
+	1066.1.1 = { culture = balhae }
+	1178.1.1 = { culture = khitan religion = dhyana }
+}
+11795={
+	holding = none
+}
+11796={
+	holding = none
+}
+11797={
+	holding = none
+}
+11798={
+	holding = none
+}
+11799={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1178.1.1 = { culture = khitan religion = dhyana }
+}
+11800={
+	holding = none
+}
+11801={
+	holding = none
+}
+11802={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11803={
+	holding = none
+}
+11804={
+	holding = none
+}
+11805={
+	holding = none
+}
+11806={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11807={
+	holding = none
+}
+11808={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = khitan religion = dhyana holding = nomad_holding }
+}
+11809={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = khitan religion = dhyana holding = nomad_holding }
+}
+11810={
+	holding = none
+}
+11811={
+	holding = none
+}
+11812={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11813={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11814={
+	holding = none
+}
+11817={
+	culture = jurchen
+	religion = shamanism
+	holding = nomad_holding
+}
+11818={
+	holding = church_holding
+}
+11819={
+	holding = none
+}
+11820={
+	holding = none
+}
+11821={
+	culture = mohe
+	religion = shamanism
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen holding = nomad_holding }
+}
+11822={
+	holding = none
+}
+11823={
+	holding = none
+}
+11824={
+	holding = none
+}
+11825={
+	holding = none
+}
+11826={
+	holding = none
+}
+11827={
+	holding = city_holding
+}
+11828={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11829={
+	holding = none
+}
+11830={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11831={
+	holding = none
+}
+11832={
+	holding = none
+}
+11833={
+	holding = none
+}
+11834={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism }
+}
+11835={
+	holding = none
+}
+11836={
+	holding = church_holding
+	special_building_slot = mount_baekdu_01
+	special_building = mount_baekdu_01
+}
+11837={
+	holding = none
+}
+11838={
+	holding = none
+}
+11839={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11840={
+	holding = none
+}
+11841={
+	holding = none
+}
+11842={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11843={
+	holding = none
+}
+11844={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11845={
+	holding = none
+}
+11846={
+	holding = none
+}
+11847={
+	holding = none
+}
+11848={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11849={
+	culture = balhae
+	religion = vinaya
+	holding = castle_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11850={
+	holding = none
+}
+11852={
+	holding = none
+}
+11853={
+	holding = none
+}
+11929={
+	holding = none
+}

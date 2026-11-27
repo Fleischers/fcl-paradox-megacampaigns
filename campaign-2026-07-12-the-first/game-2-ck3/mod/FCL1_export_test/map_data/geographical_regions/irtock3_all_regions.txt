@@ -1,0 +1,2083 @@
+﻿global_flood_region = {
+	regions = { yellow_river_region yangtze_river_region pearl_river_region tigris_river_region irrawaddy_river_region mekong_river_region amur_river_region nile_river_region niger_river_region po_river_region rhine_river_region elbe_river_region rhone_river_region garonne_river_region seine_river_region loire_river_region vistula_river_region danube_river_region dniester_river_region dnieper_river_region daugava_river_region lovat_river_region volga_river_region don_river_region guadiana_river_region guadalquivir_river_region ganges_river_region indus_river_region kaveri_river_region godavari_river_region mahanadi_river_region tapti_river_region }
+}
+yellow_river_region = {
+	counties = { c_dizhou c_dezhou c_bozhou_1 c_weizhou c_xiangzhou c_weizhou_1 c_huaizhou c_hezhong c_tongzhou c_guozhou c_shanzhou_2 c_henan c_zhengzhou c_huazhou c_puzhou_2 c_yunzhou c_qizhou c_zichuan c_qingzhou }
+}
+yangtze_river_region = {
+	counties = { c_taizhou_1 c_yangzhou c_chuzhou_2 c_liyang_2 c_lujiang c_shuzhou c_qizhou_1 c_huangzhou c_hanyang c_fuzhou_3 c_jiangling c_xiazhou_1 c_liyang c_langzhou c_tanzhou c_yuezhou_1 c_ezhou c_yunyang c_hongzhou c_raozhou c_nankang c_chizhou c_xuanzhou c_jiangning c_runzhou c_changzhou }
+}
+pearl_river_region = {
+	counties = { c_guangzhou_1 c_duanzhou c_kangzhou c_wuzhou_1 c_zhaozhou_1 c_gongzhou c_tengzhou c_shuangzhou c_xinzhou_1 }
+}
+tigris_river_region = {
+	counties = { c_baghdad c_iskaf c_wasit c_batiha c_rusafa c_akhadid c_ubulla c_abbadan c_basra }
+}
+irrawaddy_river_region = {
+	counties = { c_dagon c_kusumi c_hinthada c_sriksetra c_pegu c_magwe c_minbu c_yamethin c_pagan c_ava c_sagaing c_madaya c_takon }
+}
+mekong_river_region = {
+	counties = { c_ca_mau c_binh_dai c_vyadhapura c_angkor_borey c_sambhupura c_kracheh_nokor c_stung_treng c_koh_ker c_prea_vihear c_ubon_ratchathani c_sanasomboon c_luang_prabang }
+}
+amur_river_region = {
+	counties = { c_SW_heiergun c_SW_heiheguo c_SW_heilonghean c_SW_heilonglin c_BAL_dazhou c_eman_boli c_eman_mohean c_eman_choripi c_eman_molihewen c_eman_tudali c_eman_kerin c_eman_beihean c_eman_nurgan c_eman_amgun }
+}
+nile_river_region = {
+	counties = { c_kalabsha c_aswan c_qus c_asyut c_ushmun c_bahnasa c_cairo c_giza c_sharkiya c_al-gharbiya c_al-buhaira c_damietta }
+}
+niger_river_region = {
+	counties = { c_dodugu c_massina c_bindugu c_jenne c_kurmina c_kouga c_tirakka c_upper_gurma c_gao c_ansongo c_oudalan c_kukiya c_bura c_say c_dyamare c_zarma c_dendi c_ilo c_yauri c_nupe c_bussa c_ilorin c_igbomina c_kyadya c_opanda c_igala c_edo c_igbo c_ijaw }
+}
+po_river_region = {
+	counties = { c_pavia c_tortona c_cremona c_mantua c_verona c_polesine c_ferrara c_parma c_bologna }
+}
+rhine_river_region = {
+	counties = { c_koblenz c_sayn c_cologne c_bergh c_cleves c_dortmund c_zutphen c_guelders c_antwerpen c_holland c_maastricht c_zeeland }
+}
+elbe_river_region = {
+	counties = { c_dessau c_magdeburg c_stendal c_brandenburg c_havelberg c_dannenberg c_mecklenburg c_luneburg c_hamburg c_stade c_ditmarschen }
+}
+rhone_river_region = {
+	counties = { c_montpellier c_uses c_viviers c_lyon c_viennois c_valentinois c_venaissin }
+}
+garonne_river_region = {
+	counties = { c_agenais c_armagnac c_marsan c_albret c_bordeaux c_saintonge c_toulouse }
+}
+seine_river_region = {
+	counties = { c_eu c_rouen c_evreux c_beaumont c_ile_de_france }
+}
+loire_river_region = {
+	counties = { c_nantes c_anjou c_saumur c_tourraine }
+}
+vistula_river_region = {
+	counties = { c_radomska c_stezycka c_czerska c_zakroczymska c_gostyninska c_plocka c_kujawy c_dobrzynska c_torun c_berent c_malbork c_danzig }
+}
+danube_river_region = {
+	counties = { c_poszony c_gyor c_komarom c_esztergom c_visegrad c_hont c_szekesfehervar c_tolna c_bodrog c_baranya c_bacs c_vukovar c_szerem c_keve c_beograd c_branicevo c_krasso c_severin c_vidin c_calafat c_vratsa c_craiova c_nikopolis c_giurgiu c_turnovo c_dorostorum c_calarasi c_constanta c_braila c_galati c_tigheci c_chilia }
+}
+dniester_river_region = {
+	counties = { c_odessa c_cetatea_alba c_lapusna c_orhei c_ladyzyn c_soroca c_ushytsia c_hotin c_terebovl c_halych c_lviv }
+}
+dnieper_river_region = {
+	counties = { c_kherson c_oleshye c_lower_dniepr c_khortytsia c_dnipro c_samar c_hradyzk c_cherkassy c_voin c_kiev c_pereyaslavl c_chornobyl c_chernigov c_babruysk c_roslavl c_orsha c_smolensk c_gnezdovo }
+}
+daugava_river_region = {
+	counties = { c_vitebsk c_lukoml c_polotsk c_braslau c_jersika c_selpils c_kokenois c_zemigalians c_vidzeme }
+}
+lovat_river_region = {
+	counties = { c_sebezh c_luki c_rusa c_novgorod c_tikhvin }
+}
+volga_river_region = {
+	counties = { c_valdai c_toropets c_mozhaysk c_tver c_yaroslavl c_suzdal c_vologda c_plyos c_manturovo c_nizhny_novgorod c_murom c_rakcha c_cykma c_lachyk-uba c_yoshkar-ola c_cheboksary c_mari-turek c_kazan c_ashli c_bolghar c_karabolam c_samar_VB c_saratov c_jambalar c_ukek c_sarysyn c_itil c_beksima c_astrakhan c_saqsin }
+}
+don_river_region = {
+	counties = { c_voronezh c_khursa c_karatayak c_oskol c_khopyor c_kazanskaya c_golden_hills c_sarkel c_tana c_azov }
+}
+guadiana_river_region = {
+	counties = { c_faro c_beja c_elvas c_caceres c_merida c_medellin c_badajoz c_moura c_niebla }
+}
+guadalquivir_river_region = {
+	counties = { c_cadiz c_sevilla c_cabra c_cordoba c_andujar }
+}
+ganges_river_region = {
+	counties = { c_manikpur c_asni c_prayaga c_chunar c_varanasi c_jaunpur c_sasaram c_kusinagara c_magadha c_mithila c_bangaon c_mudgagiri c_laksmanavati c_gauda c_madhupur c_bikrampur c_candradvipa c_samatata c_nabadwipa c_saptagrama c_tamralipti }
+}
+indus_river_region = {
+	counties = { c_debul c_ranikot c_sonda c_mansura c_siwistan c_bhakkar c_aror c_vijnot c_rajanpur c_uch c_multan c_kafirkot c_karor c_bannu c_nandana }
+}
+kaveri_river_region = {
+	counties = { c_navasarika c_thalner c_mandapika c_burhanpur }
+}
+godavari_river_region = {
+	counties = { c_vengipura c_mosala c_barasuru c_katukuru c_mahur c_balkonda }
+}
+mahanadi_river_region = {
+	counties = { c_suvarnapura c_kodalaka_mandala c_khinjali_mandala c_kataka c_viraja }
+}
+tapti_river_region = {
+	counties = { c_cholamandalam c_uraiyur c_tagadur c_kongu }
+}
+himalaya_earthquake_region = {
+	duchies = { d_kasmira d_pamir d_ladakh d_zanskar d_baltiyul d_aksai_chin d_kinnaur d_purang d_kurmanchal d_khasa d_nepal d_limbuwan d_xigaze d_sagya d_ngamring d_yarlung d_lhasa d_bumthang d_paro d_monyul d_lhoyul d_dzayul d_nyingchi d_boyul }
+	counties = { c_tsaparang c_kyunglung c_gar c_gegyai c_rutog c_kangra }
+}
+sichuan_myanmar_earthquake_region = {
+	duchies = { d_sutiya d_kamarupanagara d_para_lauhitya d_pagan d_tagaung d_sriksetra d_arakan d_ramannadesa d_tengchong d_yongchang d_mongnai d_sipsongpanna d_batang d_litang d_dege d_chakla d_yinsheng d_dali d_jianchuan d_huichuan d_qiongnan }
+	counties = { c_suvarnagram c_samatata c_karmanta c_harikela c_tonghai c_shanchan c_dongchuan c_chengdu c_hanzhou c_pengzhou c_maozhou c_mianzhou c_longzhou c_jianzhou_1 }
+}
+north_china_earthquake_region = {
+	duchies = { d_yanmen d_zelu d_yunshuo d_youzhou d_yideng d_yingmo d_heyang d_xingming d_chengde d_zhenghua d_shanguo d_yongxing d_fengxiang d_LIAO_dongjing d_gansu d_hexi }
+	counties = { c_taiyuan c_liaozhou c_fenzhou c_pingyang c_jiangzhou_2 c_hezhong c_weizhou_4 c_qingzhou c_haizhou c_mizhou c_langya c_xuzhou_1 c_suzhou c_huaiyang c_bianzhou c_caozhou c_puzhou_2 c_henan c_jiangning c_runzhou c_changzhou c_weizhou_2 c_qinzhou_1 c_lanzhou_1 c_hezhou_2 c_huizhou c_wulan c_xiongzhou c_lingzhou }
+}
+south_china_coastaline_earthquake_region = {
+	duchies = { d_weiwu d_pinghai d_gaoliang }
+	counties = { c_chaozhou c_lidong c_yazhou }
+}
+mongolia_baikal_earthquake_region = {
+	duchies = { d_tsagaanbaigal d_dauria d_bargujin_tukum d_baigaluuls d_selenga_valley d_orkhon d_khovsgol d_gobi_altai d_ovorkhangai d_khovd d_katu_yaryk }
+	counties = { c_kitoi c_monkh_saridag c_kropot c_khar_us c_western_tannu c_tapsa c_altay c_burqin }
+}
+central_asian_earthquake_region = {
+	duchies = { d_charkliq d_khotan d_kashgar d_beshbalik d_kara_khoja d_tarbagatai d_ili-alatau d_badakhshan d_khuttal d_ferghana d_soghd d_osrushana d_talas_alatau }
+	counties = { c_luntai c_kucha c_almaty c_qayaliq c_kopathal c_kaskelen }
+}
+north_pacific_earthquake_region = {
+	regions = { world_asia_japan world_asia_sakhalin_hokkaido }
+}
+world_asia_southeast_islands_weak_earthquake_region = {
+	duchies = { d_BOR_tanjungpura d_BOR_santubong d_BOR_nan_sarunai d_BOR_kutai d_PHI_sandao }
+	counties = { c_BOR_lahad_datu c_BOR_menjelutung c_BOR_nabawan c_BOR_kudat }
+}
+world_asia_north_east_and_korea_weak_earthquake_region = {
+	duchies = { d_gyoju d_gaeseong d_haeju d_yukju d_bukgye d_chungju d_gwangju d_jeonju d_naju d_tamna d_BAL_moe_su d_BAL_buyeo d_BAL_amnok_jangryeong d_BAL_cheolli d_BAL_hoewon d_eman_boli d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya d_SW_lingxiguo d_SW_qingxingan d_SW_puyudao d_SW_ruzheguo d_SW_sushenguo }
+}
+world_asia_north_east_and_korea = {
+	regions = { world_asia_korea world_asia_north_east }
+}
+world_europe_west_britannia = {
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_gwynedd d_powys d_deheubarth d_cornwall d_albany d_the_isles d_galloway d_western_isles d_lothian d_moray d_meath d_ulster d_connacht d_leinster d_munster }
+}
+world_europe_west_germania = {
+	duchies = { d_anhalt d_angria d_westfalen d_ostfalen d_meissen d_lausitz d_holstein d_thuringia d_holland d_gelre d_utrecht d_frisia d_flanders d_luxembourg d_brabant d_julich d_upper_lorraine d_lower_lorraine d_bavaria d_nordgau d_salzburg d_augsburg d_steyermark d_osterreich d_tyrol d_carinthia d_west_franconia d_east_franconia d_hesse d_currezia d_alsace d_swabia d_bohemia d_moravia d_pommerania d_nordmark d_pomerelia d_ostmark }
+}
+world_europe_west_francia = {
+	duchies = { d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_brittany d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania }
+}
+world_europe_west_iberia = {
+	duchies = { d_castilla d_aragon d_barcelona d_valencia d_mallorca d_navarra d_asturias d_leon d_galicia d_porto d_beja d_algarve d_cordoba d_murcia d_granada d_sevilla d_badajoz d_toledo d_coimbra d_cantabria d_viscaya }
+}
+world_europe_west = {
+	regions = { world_europe_west_iberia world_europe_west_francia world_europe_west_germania world_europe_west_britannia }
+}
+world_europe_north = {
+	duchies = { d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland d_bergslagen d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_iceland d_northern_isles d_jamtland d_karelia d_finland d_savo d_pohjanmaa d_skane d_sjaelland d_jylland d_slesvig d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat d_vuovdisamieana }
+}
+world_europe_south_east = {
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly d_dyrrachion d_cephalonia d_epirus d_athens d_achaia d_krete d_cyprus d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_rashka d_macva d_slavonia d_croatia d_dalmatia d_usora d_bosna d_lower_bosna d_krain d_istria d_ragusa d_duklja d_oltenia d_muntenia d_transylvanian_alps }
+}
+world_europe_south_italy = {
+	duchies = { d_verona d_lombardia d_genoa d_emilia d_romagna d_toscana d_pisa d_ancona d_spoleto d_latium d_corsica d_sardinia d_venice d_piedmonte d_friuli d_benevento d_capua d_apulia d_salerno d_calabria d_sicily }
+}
+world_europe_south = {
+	regions = { world_europe_south_east world_europe_south_italy }
+}
+world_europe_east = {
+	duchies = { d_mazovia d_upper_silesia d_lower_silesia d_lesser_poland d_wielkopolska d_kuyavia d_livonia d_prussia d_masuria d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_lithuanians d_courland d_latgalians d_samogitia d_novgorod d_vepsia d_luki d_kiev d_karachev d_novosil d_opolye d_nizhny_novgorod d_turov d_chernigov d_ryazan d_pereyaslavl d_biarmia d_vologda d_chudia d_ustyug d_volhynia d_halych d_cherven_cities d_moldova d_bugeac d_bukovina d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_esthonia }
+}
+world_asia_minor = {
+	duchies = { d_aegean_islands d_ephese d_opsikion d_cilicia d_cibyrrhaeot d_anatolia d_thracesia d_optimatoi d_bucellaria d_paphlagonia d_armeniac d_sebasteia d_charsianon d_cappadocia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia d_shirvan }
+}
+world_middle_east_jerusalem = {
+	duchies = { d_damascus d_aleppo d_antioch d_edessa d_homs d_lebanon d_palmyra d_oultrejourdain d_palestine d_urdunn }
+}
+world_middle_east_arabia = {
+	duchies = { d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa d_sinai }
+}
+world_middle_east_persia = {
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_daylam d_tabaristan d_gurgan d_azerbaijan d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy d_jabal_kufs d_makran d_sistan d_kabul d_zabulistan }
+}
+world_india_deccan = {
+	duchies = { d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_chola_nadu d_pandya_nadu d_chera_nadu d_tondai_nadu d_vengi d_udayagiri d_warangal d_racakonda d_dakhina_desa d_ruhunu d_sinhala }
+}
+world_india_bengal = {
+	duchies = { d_dahala d_ratanpur d_vanga d_varendra d_gauda d_nadia d_suhma d_kamarupanagara d_para_lauhitya d_sutiya d_daksina_kosala d_tosali d_kalinga d_dandakaranya d_tirabhukti d_kasi d_jharkand d_magadha }
+}
+world_india_rajastan = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_gurjara_mandala d_anartta d_saurashtra d_lata d_maru d_jangladesh d_stravani d_medapata d_ajmer d_dadhipadra d_akara_dasarna d_anupa d_kanyakubja d_saryupara d_jejakabhukti d_kurmanchal d_khasa d_nepal d_limbuwan d_kasmira }
+}
+custom_lanka = {
+	duchies = { d_dakhina_desa d_ruhunu d_sinhala }
+}
+world_africa_north_west = {
+	duchies = { d_marrakesh d_fes d_tlemcen d_alger d_tunis d_gabes d_tahert d_rif d_sous d_tafilalt d_bejaia d_mzab d_kroumerie d_kairouan d_jerid d_zab d_canarias }
+}
+world_africa_north_east = {
+	duchies = { d_tripolitania d_cyrenaica d_alexandria d_delta d_cairo d_al-said d_eastern_desert d_al-wahat d_syrte }
+}
+world_africa_sahara = {
+	duchies = { d_zammour d_adrar d_touat d_taghaza d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan }
+}
+world_africa_north = {
+	regions = { world_africa_north_west world_africa_north_east }
+}
+world_africa_west = {
+	duchies = { d_kawkaw d_timbuktu d_dendi d_lower_gurma d_upper_gurma d_yatenga d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_manding d_bambuk d_futa_jalon d_takrur d_silla d_djolof d_jenne d_bobo d_kaabu d_wuli d_kasa d_sapi d_kono d_bassa d_toro d_loma d_worodugu d_kong d_lobi d_wenyon d_kru d_adiukru d_gyaman d_brong d_ashanti d_eweland d_dagomba d_wagadugu d_mamprusi d_borgu d_savalu d_ibadan d_oyo d_ife d_benin d_igboland d_nupe d_kwararafa d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_kano d_katsina d_kebbi d_gobir d_darfur d_west_darfur d_wadai d_kordofan }
+}
+world_africa_east = {
+	duchies = { d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin d_damot d_kaffa d_sharka d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag d_hafun d_mogadishu d_west_ajuraan d_shabelle d_bali d_samalo d_pate d_mombasa d_zanzibar d_bonde_la_ufa }
+}
+world_africa = {
+	regions = { world_africa_north world_africa_west world_africa_east world_africa_sahara }
+}
+world_steppe_tarim = {
+	duchies = { d_kashgar d_khotan d_karashar d_charkliq d_loulan }
+}
+world_steppe_west = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg d_volga_bulgaria d_kazan d_bashkiria d_sakmara d_voronezh d_mordvinia d_saran d_chuvashia d_khopyor d_tambov d_ural d_udmurtia d_martyuba d_uraltau d_aqtobe d_jalmat d_bugurslan d_vogulia d_perm }
+}
+world_steppe_central = {
+	duchies = { d_altay d_akaltay d_kara_khoja d_beshbalik d_gurbantunggut d_naiman_gobi d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen }
+}
+world_steppe_east = {
+	duchies = { d_orkhon d_ogrash d_selenga_valley d_ovorkhangai d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_uda_valley d_EM_onon d_EM_yujuelu d_EM_wajiezi d_SW_heicheziguo d_SW_dashiweiguo d_em_tataria d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi d_LIAO_linhuang d_LIAO_shangjing }
+}
+world_siberia = {
+	duchies = { d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_salair d_aley d_altaishan d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_khakass_hollow d_blue_khakassia d_shoria d_kargassia d_eastern_sayan d_bargujin_tukum d_dauria d_baigaluuls d_tsagaanbaigal d_yenisei_kan d_chuna_valley d_lena d_angara }
+}
+world_tibet = {
+	duchies = { d_yarlung d_lhasa d_nagchu d_conyi d_xigaze d_sagya d_ngamring d_nyima d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_aksay d_gyalrong d_chakla d_golog d_malho d_gainlho d_ngari d_kinnaur d_purang d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog d_bumthang d_paro d_monyul d_lhoyul d_dzayul d_pamir }
+}
+world_himalaya = {
+	duchies = { d_kasmira d_pamir d_ladakh d_zanskar d_baltiyul d_aksai_chin d_kinnaur d_kurmanchal d_khasa d_nepal d_limbuwan d_xigaze d_sagya d_ngamring d_yarlung d_lhasa d_bumthang d_paro d_monyul d_lhoyul d_dzayul d_nyingchi d_boyul }
+	counties = { c_tsaparang c_kyunglung c_gar c_purang c_cuonaco c_zhongba c_manthang }
+}
+world_burma = {
+	duchies = { d_pagan d_tagaung d_sriksetra d_arakan d_ramannadesa d_tengchong }
+}
+world_asia = {
+	regions = { world_asia_east world_asia_north_east world_asia_southeast }
+}
+world_asia_east = {
+	regions = { world_asia_china world_asia_sakhalin_hokkaido world_asia_japan world_asia_korea }
+}
+world_asia_shiwei_steppe = {
+	duchies = { d_SW_heicheziguo d_SW_dashiweiguo d_SW_lingxiguo d_SW_qingxingan d_SW_puyudao d_SW_ruzheguo d_SW_sushenguo }
+}
+world_asia_khitan_steppe = {
+	duchies = { d_LIAO_zhongjing d_LIAO_dongjing d_liaoxi d_yanyun_yuyi d_em_tataria d_em_wuguguo d_gobi_dadaels d_gobi_shatuoguo d_gobi_ongi }
+}
+world_asia_north_east = {
+	duchies = { d_LIAO_zhongjing d_LIAO_dongjing d_liaoxi d_yanyun_yuyi d_BAL_parhae d_BAL_moe_su d_BAL_buyeo d_BAL_amnok_jangryeong d_BAL_southern_balhae d_BAL_cheolli d_BAL_hoewon d_BAL_dongpyeong d_BAL_yeojintang d_BAL_anwon d_eman_boli d_eman_sikhotebei d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya d_SW_lingxiguo d_SW_qingxingan d_SW_puyudao d_SW_ruzheguo d_SW_sushenguo }
+}
+world_asia_sakhalin_hokkaido = {
+	duchies = { d_menas d_sum d_sahaliyan }
+}
+world_asia_japan = {
+	duchies = { d_north_saikaido d_south_saikaido d_kinai d_nankaido d_east_sanindo d_west_sanindo d_west_sanyodo d_east_sanyodo d_east_bando d_west_bando d_tokaido d_tosando d_hokurikudo d_hitakami d_nushiro d_ruucuu }
+}
+world_asia_korea = {
+	duchies = { d_donggye d_gyoju d_gaeseong d_haeju d_yukju d_bukgye d_chungju d_gwangju d_jeonju d_naju d_jinju d_gyeongju d_tamna }
+}
+world_asia_southeast = {
+	regions = { world_asia_southeast_mainland world_asia_southeast_islands }
+}
+world_asia_southeast_mainland = {
+	regions = { world_asia_thailand world_asia_cambodia world_asia_vietnam world_asia_malaysia }
+}
+world_asia_vietnam = {
+	duchies = { d_hai_dong d_thang_long d_lam_tay d_nghe_an d_indrapura d_vijaya d_baigaur }
+}
+world_asia_cambodia = {
+	duchies = { d_angkor d_vyadhapura d_ratanakiri d_angkor_borey }
+}
+world_asia_thailand = {
+	duchies = { d_mongnai d_sipsongpanna d_haripunjaya d_lop_buri d_sukhothai d_mukdahan d_muang_sua d_yongchang d_phonsavan }
+}
+world_asia_malaysia = {
+	duchies = { d_MAL_langkasuka d_MAL_pahang d_tun_sun }
+}
+world_asia_southeast_islands = {
+	regions = { world_asia_philippines world_asia_borneo world_asia_sulawesi_maluku world_asia_indonesia }
+}
+world_asia_philippines = {
+	duchies = { d_PHI_tondo d_PHI_ilocana d_PHI_cagayan d_PHI_sandao d_PHI_visayas d_PHI_maguindanao d_PHI_butuan d_liuqiu }
+}
+world_asia_borneo = {
+	duchies = { d_BOR_tanjungpura d_BOR_barune d_BOR_santubong d_BOR_nan_sarunai d_BOR_kutai }
+}
+world_asia_sulawesi_maluku = {
+	duchies = { d_SuMa_luwu d_SuMa_konawe d_SuMa_minahasa d_SuMa_tompotika d_SuMa_halmahera d_SuMa_maluku }
+}
+world_asia_indonesia = {
+	duchies = { d_SUM_palembang d_SUM_jambi d_SUM_riau d_SUM_aceh d_SUM_minangkabau d_JAV_mataram d_JAV_taruma d_IDO_bali d_IDO_lesser_sunda d_IDO_timor d_nias d_papua d_handumans }
+}
+world_asia_china = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao d_weibo d_xingming d_chengde d_cangjing d_heyang d_hedong d_yanmen d_hezhong d_zelu d_youzhou d_yideng d_yingmo d_yunshuo d_sanggan d_xinan d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_hexi d_longyou d_qilian d_gansu d_guasha d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_jiangdong d_xuanshe d_zhexi d_zhedong d_weiwu d_pinghai d_jianning d_huainan d_huaixi d_jiangxi d_dingjiang d_zhaoxin d_xiangdeng d_jingnan d_eyue d_hunan d_lingling d_xichuan d_qiongnan d_xingyuan d_lilang d_baqu d_dongchuan d_wuxin d_kuizhong d_qianzhong d_wuxi d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai }
+}
+world_asia_and_india = {
+	regions = { world_asia world_india }
+}
+custom_brunei_region = {
+	duchies = { d_BOR_barune d_BOR_santubong }
+	counties = { c_BOR_berau }
+}
+custom_panda_region = {
+	duchies = { d_xichuan d_qiongnan d_xingyuan d_lilang d_baqu }
+}
+custom_tai_migration_origin = {
+	counties = { c_hsenwi c_mongnai c_moeng_laem c_chiang_rung c_chiang_khaeng c_ngoenyang c_moeng_long c_luang_prabang c_nan_asia }
+}
+custom_tai_migration_target = {
+	counties = { c_sukhothai c_phetchabun c_chakangrao c_lop_buri c_nakhon_pathom c_khu_bua c_haripunjaya c_mae_hong_son c_hlaingbwe c_mueang_phra_rot c_THAI_phetchaburi c_THAI_tenasserim c_dong_si_mahosot c_canasha c_muang_fa_daet c_ubon_ratchathani c_mukdahan c_ku_kaeo c_sanasomboon c_vien_chan c_salo_tai }
+}
+custom_dynastic_cycle = {
+	regions = { world_asia_china }
+}
+custom_arakan_mountains = {
+	counties = { c_thabeik_taung c_kale c_hanlan }
+}
+world_steppe = {
+	regions = { world_steppe_west world_steppe_central world_steppe_east world_steppe_tarim }
+	generate_modifiers = yes
+}
+world_europe = {
+	regions = { world_europe_west world_europe_south world_europe_east world_europe_north }
+}
+world_middle_east = {
+	regions = { world_middle_east_arabia world_middle_east_jerusalem world_middle_east_persia }
+}
+world_india = {
+	regions = { world_india_deccan world_india_bengal world_india_rajastan }
+}
+material_wood_elm = {
+	regions = { world_europe_west_britannia world_europe_west_germania world_europe_west_francia world_europe_north world_europe_south_east world_europe_east world_himalaya }
+	duchies = { d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_kanyakubja d_saryupara d_jejakabhukti }
+}
+material_wood_walnut = {
+	regions = { world_europe_west_germania world_europe_west_iberia world_europe_south world_europe_east world_middle_east_persia world_asia_minor world_himalaya world_europe_west_francia world_asia_north_east }
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_gwynedd d_powys d_deheubarth d_cornwall }
+}
+material_wood_maple = {
+	regions = { world_europe_west_germania world_europe_west_iberia world_europe_south world_europe_east world_asia_minor world_transoxiana world_himalaya world_asia_north_east }
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_gwynedd d_powys d_deheubarth d_cornwall d_merv d_herat d_ghur d_balkh d_kabul d_zabulistan d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_crimea d_khazaria d_azov d_alania d_ciscaucasia d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_kanyakubja d_saryupara d_jejakabhukti }
+}
+material_woods_pine_and_fir = {
+	regions = { world_europe_west_iberia world_europe_north world_europe_south world_europe_east world_asia_minor world_steppe_tarim world_steppe_west world_steppe_central world_steppe_east world_europe_west_francia world_siberia world_asia_north_east }
+	duchies = { d_western_isles d_galloway d_bavaria d_nordgau d_salzburg d_augsburg d_steyermark d_osterreich d_tyrol d_carinthia d_bohemia d_moravia }
+}
+material_woods_subsaharan = {
+	regions = { world_africa_west world_africa_east world_africa_sahara }
+}
+material_woods_padauk = {
+	regions = { material_woods_subsaharan world_india world_burma }
+}
+material_woods_india = {
+	regions = { world_india_deccan world_india_bengal world_india_rajastan }
+	duchies = { d_arakan }
+}
+material_woods_india_burma = {
+	regions = { world_india world_burma }
+}
+material_woods_ebony = {
+	regions = { material_woods_sri_lanka }
+	duchies = { d_igboland d_benin d_ife d_oyo d_nupe d_kwararafa }
+}
+material_woods_yew = {
+	regions = { world_europe_south_east }
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_gwynedd d_powys d_deheubarth d_cornwall d_skane d_smaland d_viken d_agder d_vestlandi d_svealand d_mazovia d_masuria d_prussia d_kuyavia d_wielkopolska d_pomerelia d_upper_silesia d_lower_silesia d_lesser_poland d_provence d_savoie d_piedmonte d_genoa d_transjurania d_currezia d_tyrol d_carinthia d_salzburg d_abkhazia d_tao-klarjeti d_georgia d_antioch }
+}
+material_woods_bamboo = {
+	regions = { world_burma world_india world_tibet }
+	duchies = { d_LIAO_dongjing d_BAL_amnok_jangryeong d_BAL_parhae d_BAL_southern_balhae d_BAL_yeojintang }
+}
+material_woods_cherry = {
+	regions = { world_burma world_india world_tibet }
+}
+material_woods_dogwood = {
+	regions = { world_europe world_asia_minor world_steppe_west world_steppe_central world_siberia }
+}
+material_woods_hazel = {
+	regions = { world_europe world_asia_minor world_steppe_west world_steppe_central world_siberia }
+}
+material_woods_hickory = {
+	regions = { world_burma world_steppe_east world_tibet }
+}
+material_woods_palm = {
+	regions = { world_africa_north world_asia_minor world_middle_east }
+}
+material_woods_mulberry = {
+	regions = { world_africa_north world_asia_minor world_europe_south world_india world_middle_east }
+}
+material_woods_mediterranean = {
+	regions = { world_africa_north world_europe_west_iberia world_europe_south world_asia_minor world_middle_east_jerusalem }
+	duchies = { d_provence d_languedoc d_sinai }
+}
+material_woods_sri_lanka = {
+	regions = { world_india_deccan }
+}
+material_woods_asia_east = {
+	regions = { world_asia_east }
+}
+material_woods_asia_southeast = {
+	regions = { world_asia_southeast }
+}
+material_woods_asia_northeast = {
+	regions = { world_asia_north_east }
+}
+material_cloth_no_silk = {
+	regions = { world_africa_west world_africa_east world_asia_korea world_asia_china world_asia_japan world_asia_southeast_mainland world_asia_indonesia }
+}
+material_cloth_linen = {
+	regions = { world_europe_west world_europe_north world_europe_south world_europe_east }
+}
+material_cloth_cotton = {
+	regions = { world_africa_north_east world_africa_east world_asia_china world_asia_southeast }
+}
+material_metal_wootz = {
+	regions = { world_india_deccan world_india_bengal world_india_rajastan world_burma world_asia_china world_asia_southeast_mainland }
+}
+material_metal_damascus = {
+	regions = { world_middle_east world_asia_minor world_africa_north_east world_asia_china }
+}
+material_metal_bulat = {
+	regions = { world_europe_east world_steppe_tarim world_steppe_west world_steppe_central world_steppe_east world_siberia }
+}
+material_hsb_camel_bone = {
+	regions = { world_middle_east world_africa_north world_africa_west world_africa_east world_africa_sahara world_india_rajastan world_steppe_tarim }
+}
+material_hsb_deer_antler = {
+	regions = { world_europe_west world_europe_north world_europe_south world_europe_east world_asia_minor world_middle_east_jerusalem world_middle_east_persia world_india_deccan world_india_bengal world_india_rajastan world_steppe_tarim world_steppe_west world_steppe_central world_steppe_east world_siberia world_tibet world_burma world_mesopotamia world_jazira world_asia_north_east world_asia_korea world_asia_japan }
+	duchies = { d_kermanshah }
+}
+material_hsb_boar_tusk = {
+	regions = { world_europe_west world_europe_north world_europe_south world_europe_east world_asia_minor world_middle_east_jerusalem world_middle_east_persia world_india_deccan world_india_bengal world_india_rajastan world_steppe_west world_steppe_central world_steppe_east world_siberia world_africa_north world_steppe_tarim world_burma world_mesopotamia world_jazira world_asia_north_east world_asia_southeast_islands }
+	duchies = { d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_sinai d_kermanshah }
+}
+material_hsb_ivory_imported = {
+	regions = { world_europe_west world_europe_south world_asia_minor world_middle_east world_steppe_west world_steppe_central world_steppe_east world_siberia world_steppe_tarim world_africa_north world_tibet world_asia_china world_asia_japan }
+}
+material_hsb_ivory_native = {
+	regions = { world_india_deccan world_india_bengal world_india_rajastan world_africa_west world_africa_east world_burma world_asia_southeast_mainland world_asia_indonesia }
+}
+material_hsb_mother_of_pearl = {
+	regions = { world_africa_north world_europe_south_italy world_india_deccan world_burma world_middle_east_arabia world_africa_east world_europe_west_iberia world_asia_southeast world_asia_korea world_asia_china world_asia_japan }
+}
+material_hsb_tortoiseshell = {
+	regions = { world_africa_north world_europe_south_italy world_asia_minor world_asia_korea world_asia_china world_asia_japan }
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly d_epirus d_dyrrachion d_cephalonia d_athens d_achaia d_cyprus d_mallorca d_krete }
+}
+material_hsb_seashell = {
+	regions = { world_africa_north world_africa_east world_europe_south_italy world_europe_west_iberia world_europe_west_francia world_burma world_middle_east world_india world_asia_minor world_asia_korea world_asia_china world_asia_japan }
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly d_epirus d_dyrrachion d_cephalonia d_athens d_achaia d_cyprus d_krete }
+}
+world_persian_empire = {
+	regions = { world_persia world_khorasan world_daylam world_transoxiana world_makran world_kabulistan world_mesopotamia world_jazira }
+	duchies = { d_shirvan }
+	generate_modifiers = yes
+}
+custom_eastern_baltic = {
+	duchies = { d_karelia d_finland d_savo d_pohjanmaa d_esthonia d_livonia d_prussia d_masuria d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_lithuanians d_courland d_latgalians d_samogitia }
+}
+custom_frisia = {
+	duchies = { d_holland d_gelre d_brabant d_flanders d_utrecht }
+}
+custom_latvia = {
+	duchies = { d_latgalians d_courland d_livonia }
+}
+custom_lotharingia = {
+	duchies = { d_luxembourg d_brabant d_julich d_upper_lorraine d_lower_lorraine }
+}
+custom_bavaria = {
+	duchies = { d_bavaria d_nordgau d_salzburg d_augsburg d_steyermark d_osterreich d_tyrol d_carinthia d_krain d_istria }
+}
+custom_germany = {
+	duchies = { d_east_franconia d_west_franconia d_hesse d_currezia d_alsace d_swabia }
+}
+custom_rhineland = {
+	duchies = { d_luxembourg d_brabant d_julich d_upper_lorraine d_lower_lorraine d_alsace d_west_franconia d_swabia }
+}
+custom_northern_italy = {
+	duchies = { d_friuli d_verona d_piedmonte d_lombardia d_genoa d_emilia d_pisa d_toscana d_romagna d_ancona d_spoleto d_corsica }
+}
+custom_netherlands = {
+	duchies = { d_holland d_frisia d_utrecht d_gelre }
+}
+custom_england = {
+	duchies = { d_northumberland d_lancaster d_york d_norfolk d_bedford d_hereford d_gloucester d_canterbury d_somerset }
+}
+custom_wales = {
+	duchies = { d_gwynedd d_powys d_deheubarth d_cornwall }
+}
+custom_castilian = {
+	duchies = { d_castilla d_cantabria }
+}
+custom_asturleonese = {
+	duchies = { d_asturias d_leon }
+}
+custom_aragonese = {
+	duchies = { d_aragon }
+}
+custom_ryukyu = {
+	duchies = { d_ruucuu }
+}
+custom_navarra = {
+	duchies = { d_navarra d_viscaya }
+}
+custom_catalan = {
+	duchies = { d_barcelona d_valencia d_mallorca }
+}
+custom_portuguese = {
+	duchies = { d_galicia d_porto d_beja d_algarve d_coimbra }
+}
+custom_occitan = {
+	duchies = { d_languedoc d_toulouse d_armagnac d_gascogne d_aquitaine d_auvergne d_provence d_poitou }
+}
+custom_andalusian = {
+	duchies = { d_cordoba d_murcia d_granada d_sevilla d_badajoz d_toledo }
+}
+custom_swedish = {
+	duchies = { d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland }
+}
+custom_danish = {
+	duchies = { d_skane d_sjaelland d_slesvig d_holstein d_jylland }
+}
+custom_norwegian = {
+	duchies = { d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_iceland d_northern_isles d_jamtland }
+}
+custom_scotland = {
+	duchies = { d_the_isles d_galloway d_western_isles d_lothian d_albany d_moray }
+}
+custom_burgundy = {
+	duchies = { d_burgundy d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania }
+}
+custom_roman_empire = {
+	duchies = { d_latium d_corsica d_venice d_romagna d_sicily d_genoa d_capua d_apulia d_thrace d_strymon d_antioch d_palestine d_alexandria d_athens d_tunis d_croatia d_thessalonika d_thessaly }
+}
+custom_roman_syria_palestina = {
+	duchies = { d_aleppo d_antioch d_homs d_damascus d_lebanon d_oultrejourdain d_palestine d_urdunn }
+}
+custom_roman_aegyptus = {
+	duchies = { d_alexandria d_delta d_cairo d_al-said d_sinai }
+}
+custom_roman_cyrenaica = {
+	duchies = { d_cyrenaica d_syrte }
+}
+custom_roman_africa = {
+	duchies = { d_tunis d_kairouan d_kroumerie d_jerid d_tripolitania }
+}
+custom_roman_illyricum = {
+	duchies = { d_carinthia d_rashka d_macva d_duklja d_ragusa d_bosna d_usora d_istria d_krain d_slavonia d_croatia d_dalmatia d_friuli d_tyrol d_lower_bosna }
+}
+custom_roman_hispania = {
+	duchies = { d_castilla d_cantabria d_aragon d_barcelona d_valencia d_mallorca d_navarra d_viscaya d_leon d_asturias d_galicia d_porto d_coimbra d_beja d_algarve d_cordoba d_murcia d_granada d_sevilla d_badajoz d_toledo }
+}
+custom_roman_mauretania = {
+	duchies = { d_tlemcen d_tahert d_alger d_bejaia d_zab d_mzab d_marrakesh d_sous d_tafilalt d_fes d_rif }
+}
+custom_roman_mesopotamia = {
+	duchies = { d_mesopotamia d_edessa d_kermanshah d_basra d_baghdad }
+}
+custom_roman_caledonia = {
+	duchies = { d_the_isles d_galloway d_western_isles d_lothian d_albany d_moray }
+}
+custom_roman_hibernia = {
+	duchies = { d_ulster d_connacht d_meath d_leinster d_munster }
+}
+custom_roman_full_borders = {
+	regions = { world_europe_west_iberia world_europe_west_francia custom_england custom_wales world_africa_north world_middle_east_jerusalem world_europe_south world_asia_minor }
+}
+custom_eastern_roman_empire = {
+	regions = { world_middle_east_jerusalem world_europe_south world_asia_minor }
+}
+custom_theodosian_ere = {
+	regions = { custom_roman_syria_palestina custom_roman_aegyptus custom_roman_cyrenaica ghw_region_greece ghw_region_thessalonika ghw_region_anatolia }
+	duchies = { d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_krete d_cyprus d_edessa d_diyarmudar d_palmyra d_amman d_shammar d_al-wahat d_eastern_desert }
+}
+custom_eastern_balkans = {
+	duchies = { d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_transylvanian_alps d_muntenia d_oltenia d_bukovina d_moldova d_bugeac }
+}
+custom_outremer = {
+	duchies = { d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa d_sinai d_damascus d_aleppo d_antioch d_edessa d_homs d_lebanon d_palmyra d_oultrejourdain d_palestine d_urdunn }
+}
+custom_sicily = {
+	duchies = { d_benevento d_capua d_apulia d_salerno d_calabria d_sicily }
+}
+custom_hungary = {
+	duchies = { d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia }
+}
+custom_carpathia = {
+	duchies = { d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_transylvanian_alps d_muntenia d_oltenia d_bukovina d_moldova d_bugeac }
+}
+custom_europe_western_germany = {
+	duchies = { d_luxembourg d_brabant d_julich d_upper_lorraine d_lower_lorraine d_westfalen d_angria d_ostfalen d_anhalt d_west_franconia d_east_franconia d_hesse d_thuringia d_currezia d_alsace d_swabia d_nordgau d_bavaria d_augsburg d_salzburg d_tyrol }
+}
+custom_europe_eastern_germany = {
+	duchies = { d_pommerania d_nordmark d_pomerelia d_ostmark d_anhalt d_angria d_westfalen d_ostfalen d_meissen d_lausitz d_holstein d_thuringia d_bohemia d_moravia }
+}
+custom_ganges_plain = {
+	duchies = { d_vodamayutja d_kuru d_mathura d_kanyakubja d_kasi d_tirabhukti d_magadha d_gauda d_nadia d_suhma d_varendra d_vanga d_jharkand d_ajmer d_jejakabhukti d_haritanaka }
+}
+custom_bactria = {
+	duchies = { d_nishapur d_kohestan d_herat d_ghur d_merv d_balkh d_nasa d_khuttal d_badakhshan d_soghd d_osrushana d_ferghana }
+}
+custom_west_francia_minus_mediterranean = {
+	duchies = { d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_bar d_brittany }
+}
+custom_south_francia = {
+	duchies = { d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_poitou d_auvergne d_bourbon }
+}
+custom_southern_england = {
+	duchies = { d_norfolk d_bedford d_gloucester d_canterbury d_somerset d_cornwall }
+}
+custom_northern_england = {
+	duchies = { d_northumberland d_york d_lancaster d_hereford d_norfolk d_bedford }
+}
+custom_slavia = {
+	duchies = { d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_pommerania d_nordmark d_pomerelia d_ostmark d_bohemia d_moravia d_dalmatia d_croatia d_slavonia d_ragusa d_bosna d_lower_bosna d_usora d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_transylvanian_alps d_muntenia d_oltenia d_bukovina d_moldova d_bugeac d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_opolye d_volhynia d_halych d_cherven_cities d_kiev d_turov d_pereyaslavl d_chernigov d_ryazan d_karachev d_novosil d_novgorod d_vepsia d_luki d_lausitz d_meissen d_istria d_krain d_steyermark }
+}
+custom_viet_lands = {
+	duchies = { d_hai_dong d_thang_long d_lam_tay d_nghe_an d_indrapura d_vijaya d_baigaur }
+}
+custom_majapahit = {
+	duchies = { d_SUM_palembang d_JAV_taruma d_JAV_mataram }
+	counties = { c_JAV_madura }
+}
+custom_west_slavia = {
+	duchies = { d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_pommerania d_nordmark d_pomerelia d_ostmark d_bohemia d_moravia d_lausitz d_meissen d_anhalt d_thuringia }
+}
+custom_south_slavia = {
+	duchies = { d_dalmatia d_croatia d_slavonia d_ragusa d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_transylvanian_alps d_muntenia d_oltenia d_bukovina d_moldova d_bugeac d_bosna d_lower_bosna d_usora }
+}
+custom_greater_armenia = {
+	duchies = { d_vaspurakan d_mesopotamia d_greater_armenia d_shirvan d_georgia d_azerbaijan d_diyarbakr d_kurdistan d_cilicia d_edessa d_antioch }
+}
+custom_normandy_and_adjacent = {
+	duchies = { d_normandy d_brittany d_flanders d_anjou d_orleans d_valois }
+}
+custom_ireland = {
+	duchies = { d_ulster d_connacht d_meath d_leinster d_munster }
+	generate_modifiers = yes
+}
+custom_k_epirus = {
+	duchies = { d_dyrrachion d_epirus d_cephalonia }
+}
+custom_k_thessalonika = {
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly d_aegean_islands }
+}
+custom_k_hellas = {
+	duchies = { d_athens d_achaia }
+}
+custom_sahara_proper = {
+	duchies = { d_tafilalt d_mzab d_jerid d_syrte d_zammour d_adrar d_touat d_taghaza d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan d_al-wahat }
+	counties = { c_draa c_tinmallal c_muluya c_wajda c_figuig c_biskra c_awjila c_derna c_tobruk c_sullum c_siwa c_wadi_el-milk c_arawan c_tagant c_dhraina }
+	provinces = { 4558 4559 4560 4567 4569 4607 4645 4646 4660 4661 4662 4663 4673 4696 4697 4698 4707 4708 4711 4712 4714 4722 4730 4732 4748 4758 6094 6102 6116 6350 6488 6501 6515 6518 6559 6611 6630 6631 6761 6762 6785 6850 6851 6852 6887 6892 6893 }
+}
+custom_sahel_proper = {
+	duchies = { d_takrur d_silla d_djolof d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_kawkaw d_timbuktu d_dendi d_kano d_katsina d_kebbi d_gobir d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_darfur d_west_darfur d_wadai d_kordofan d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin }
+}
+custom_sub_saharan_africa_immediate = {
+	duchies = { d_kaabu d_wuli d_kasa d_manding d_bambuk d_futa_jalon d_toro d_loma d_sapi d_kono d_bassa d_jenne d_bobo d_worodugu d_kong d_lobi d_wenyon d_kru d_adiukru d_lower_gurma d_upper_gurma d_yatenga d_dagomba d_wagadugu d_mamprusi d_gyaman d_brong d_ashanti d_eweland d_borgu d_savalu d_ibadan d_oyo d_ife d_benin d_igboland d_nupe d_kwararafa d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_damot d_kaffa d_sharka }
+}
+custom_carolingian_francia = {
+	duchies = { d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania }
+}
+custom_carolingian_iberia = {
+	duchies = { d_aragon d_barcelona d_navarra d_viscaya }
+}
+custom_carolingian_germany = {
+	duchies = { d_east_franconia d_west_franconia d_hesse d_currezia d_alsace d_swabia d_westfalen d_angria d_ostfalen d_thuringia d_holstein }
+}
+custom_core_switzerland = {
+	duchies = { d_currezia d_transjurania }
+}
+custom_core_austria = {
+	duchies = { d_osterreich d_steyermark }
+}
+custom_stretch_austria = {
+	duchies = { d_carinthia d_krain d_istria }
+}
+custom_fennoscandia = {
+	duchies = { d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland d_bergslagen d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_jamtland d_northern_isles d_karelia d_finland d_savo d_pohjanmaa d_skane d_sjaelland d_jylland d_slesvig d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat }
+}
+custom_iceland = {
+	duchies = { d_iceland }
+}
+custom_gotland = {
+	duchies = { d_gotland }
+}
+custom_polabia = {
+	duchies = { d_anhalt d_meissen d_lausitz d_thuringia }
+}
+custom_beth_nahrain = {
+	duchies = { d_damascus d_aleppo d_antioch d_edessa d_homs d_lebanon d_palmyra d_oultrejourdain d_palestine d_urdunn d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa }
+}
+custom_carthaginian_empire = {
+	regions = { custom_carthage custom_tripolitania custom_mauretania custom_carthago_nova }
+	generate_modifiers = yes
+}
+custom_carthage = {
+	duchies = { d_tunis d_gabes d_kairouan d_kroumerie d_jerid d_sicily d_sardinia }
+}
+custom_tripolitania = {
+	duchies = { d_tripolitania d_syrte }
+}
+custom_mauretania = {
+	duchies = { d_bejaia d_zab d_alger d_tlemcen d_rif }
+}
+custom_carthago_nova = {
+	duchies = { d_sevilla d_granada d_murcia d_valencia }
+}
+custom_cumbria = {
+	duchies = { d_galloway }
+	counties = { c_westmorland c_cumberland c_lanarkshire }
+	generate_modifiers = yes
+}
+graphical_western = {
+	regions = { custom_west_francia_minus_mediterranean world_europe_west_germania world_europe_west_britannia world_europe_east world_europe_north }
+	graphical = yes
+	color = { 255 0 0 }
+}
+graphical_mena = {
+	regions = { world_africa world_middle_east }
+	graphical = yes
+	color = { 255 255 0 }
+}
+graphical_india = {
+	regions = { world_india world_tibet world_burma world_asia_southeast_islands world_asia_thailand world_asia_cambodia world_asia_malaysia }
+	graphical = yes
+	color = { 0 255 0 }
+}
+graphical_mediterranean = {
+	regions = { world_europe_west_iberia world_europe_south custom_south_francia custom_burgundy world_asia_minor }
+	graphical = yes
+	color = { 0 0 255 }
+}
+graphical_steppe = {
+	regions = { world_steppe_tarim world_steppe_west world_steppe_central }
+	graphical = yes
+	color = { 0 255 255 }
+}
+graphical_siberia = {
+	regions = { world_siberia }
+	graphical = yes
+	color = { 0 255 155 }
+}
+graphical_east_asia = {
+	regions = { world_asia_north_east world_asia_korea world_asia_china world_asia_sakhalin_hokkaido world_asia_japan world_steppe_east world_asia_vietnam }
+	graphical = yes
+	color = { 155 255 155 }
+}
+world_innovation_elephants = {
+	regions = { world_india dlc_tgp_mainland_southeast_asia_region }
+	generate_modifiers = yes
+}
+world_innovation_camels = {
+	regions = { world_middle_east world_africa_east world_africa_sahara world_africa_north }
+	generate_modifiers = yes
+}
+world_horse_buildings_in_hills_and_mountains = {
+	regions = { world_africa_north world_africa_sahara world_steppe_east world_steppe_tarim world_middle_east_persia world_middle_east_arabia world_europe_west_iberia }
+	duchies = { d_ephese d_opsikion d_cilicia d_cibyrrhaeot d_anatolia d_thracesia d_optimatoi d_bucellaria d_paphlagonia d_armeniac d_sebasteia d_charsianon d_cappadocia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_maru d_jangladesh d_stravani d_ajmer d_gurjara_mandala d_anartta d_saurashtra d_lata d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_salair d_aley d_altaishan d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen d_kawkaw d_timbuktu d_dendi d_lower_gurma d_upper_gurma d_yatenga d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_jenne d_bobo d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_kano d_katsina d_kebbi d_gobir d_darfur d_west_darfur d_wadai d_kordofan d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin d_volhynia d_halych d_cherven_cities d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_dalmatia d_croatia d_slavonia d_ragusa d_bosna d_usora d_lower_bosna d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_oltenia d_muntenia d_transylvanian_alps d_moldova d_bugeac d_bukovina d_medapata d_edessa d_oultrejourdain }
+}
+world_persia = {
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah }
+}
+world_khorasan = {
+	duchies = { d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan }
+}
+world_daylam = {
+	duchies = { d_daylam d_tabaristan d_gurgan d_azerbaijan }
+}
+world_transoxiana = {
+	duchies = { d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy }
+}
+world_makran = {
+	duchies = { d_jabal_kufs d_makran d_sistan }
+}
+world_kabulistan = {
+	duchies = { d_kabul d_zabulistan }
+}
+world_mesopotamia = {
+	duchies = { d_samarra d_kurdistan d_wasit d_kufa d_basra d_baghdad }
+}
+world_jazira = {
+	duchies = { d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates }
+}
+special_mongol_empire_start_region = {
+	duchies = { d_orkhon d_ogrash d_selenga_valley d_EM_onon d_EM_wajiezi d_EM_yujuelu d_ovorkhangai d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_uda_valley d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_em_tataria d_gobi_ongi d_gobi_shatuoguo d_gobi_dadaels d_em_wuguguo d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_khakass_hollow d_blue_khakassia d_shoria d_kargassia d_eastern_sayan d_yenisei_kan d_chuna_valley d_lena d_angara d_SW_qingxingan d_SW_lingxiguo d_SW_ruzheguo d_SW_puyudao d_SW_sushenguo d_SW_heicheziguo d_SW_dashiweiguo }
+}
+special_mongol_empire_conquest_region_prio_1_alpha = {
+	duchies = { d_LIAO_linhuang d_LIAO_shangjing d_LIAO_dongjing d_LIAO_zhongjing d_liaoxi d_yanyun_yuyi d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_hexi d_longyou d_qilian d_gansu d_guasha d_kara_khoja d_beshbalik d_altay d_akaltay d_gurbantunggut d_naiman_gobi d_semey d_jinghiz d_degelen d_kentarlau d_zhetysu d_alakol d_tarbagatai d_ili-alatau d_salair d_aley d_altaishan d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe }
+}
+special_mongol_empire_conquest_region_prio_1 = {
+	duchies = { d_syr_darya d_chah d_muyunkum d_talas_alatau d_khotan d_kashgar d_karashar d_charkliq d_loulan d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_BAL_parhae d_BAL_moe_su d_BAL_buyeo d_BAL_amnok_jangryeong d_BAL_southern_balhae d_yunshuo d_sanggan d_xinan d_hedong d_yanmen d_hezhong d_zelu d_weibo d_xingming d_chengde d_cangjing d_heyang d_youzhou d_yideng d_yingmo }
+}
+special_mongol_empire_conquest_region_prio_2 = {
+	duchies = { d_BAL_dongpyeong d_BAL_cheolli d_BAL_hoewon d_BAL_yeojintang d_BAL_anwon d_eman_boli d_eman_sikhotebei d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya d_sibir d_ishim d_tara d_lanikaz d_karkaraly d_tokumbay d_karabas d_betpa d_turgay d_kokturgay d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kurgan d_kush-murun d_tobol-ishim d_ostyaki d_konda d_pelym d_kazym d_bashkiria d_sakmara d_uraltau d_vogulia d_itil d_pecheneg d_mugodzhar_hills d_aqtobe d_atyrau d_manatau d_transcaspiana d_garabogazkol d_jemba d_aral_il d_barsuki d_aral_karakum d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_kabul d_zabulistan }
+}
+special_mongol_empire_conquest_region_prio_3 = {
+	duchies = { d_perm d_ural d_udmurtia d_volga_bulgaria d_kazan d_jalmat d_bugurslan d_martyuba d_daylam d_tabaristan d_gurgan d_azerbaijan d_shirvan d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao d_gaeseong d_haeju d_gyoju d_yukju d_bukgye d_gwangju }
+}
+special_mongol_empire_conquest_region_prio_4 = {
+	duchies = { d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia d_makran d_jabal_kufs d_sistan d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_samarra d_wasit d_kufa d_basra d_baghdad d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_kurdistan d_khazaria d_azov d_alania d_ciscaucasia d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_crimea d_mordvinia d_saran d_voronezh d_chuvashia d_khopyor d_tambov d_bukovina d_moldova d_bugeac d_multan d_lahore d_gandhara d_kasmira d_pamir d_xichuan d_qiongnan d_dongchuan d_wuxin d_kuizhong d_qianzhong d_wuxi d_xiangdeng d_jingnan d_eyue d_xingyuan d_lilang d_baqu d_gyeongju d_jinju d_donggye d_chungju d_naju d_jeonju }
+}
+special_mongol_empire_conquest_region_prio_5 = {
+	duchies = { d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil d_transylvanian_alps d_muntenia d_oltenia d_volhynia d_halych d_cherven_cities d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_novgorod d_vepsia d_luki d_opolye d_ryazan d_nizhny_novgorod d_cilicia d_cibyrrhaeot d_anatolia d_cappadocia d_charsianon d_paphlagonia d_armeniac d_sebasteia d_chaldia d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan d_jiangdong d_xuanshe d_zhexi d_zhedong d_weiwu d_pinghai d_jianning d_jiangxi d_dingjiang d_zhaoxin d_hunan d_lingling d_huainan d_huaixi d_yarlung d_lhasa d_nagchu d_conyi d_xigaze d_sagya d_ngamring d_nyima d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_aksay d_gyalrong d_chakla d_golog d_malho d_gainlho d_ngari d_kinnaur d_purang d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog }
+}
+special_mongol_empire_conquest_region_bonus = {
+	duchies = { d_lithuanians d_prussia d_masuria d_courland d_samogitia d_latgalians d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis d_rashka d_macva d_duklja d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_aleppo d_edessa d_homs d_antioch d_lebanon d_damascus d_palmyra d_kuru d_haritanaka d_mathura d_vodamayutja d_sauvira d_bhakkar d_hai_dong d_nghe_an d_lam_tay d_thang_long d_indrapura d_vijaya d_pagan d_tagaung d_sriksetra d_arakan d_ramannadesa d_mongnai d_yongchang d_tengchong d_north_saikaido d_south_saikaido d_tamna }
+}
+special_mongol_empire_conquest_all_regions = {
+	regions = { special_mongol_empire_start_region special_mongol_empire_conquest_region_prio_1_alpha special_mongol_empire_conquest_region_prio_1 special_mongol_empire_conquest_region_prio_2 special_mongol_empire_conquest_region_prio_3 special_mongol_empire_conquest_region_prio_4 special_mongol_empire_conquest_region_prio_5 special_mongol_empire_conquest_region_bonus }
+}
+special_mongol_empire_ilkhanate_region = {
+	regions = { world_asia_minor world_middle_east_jerusalem world_middle_east_arabia }
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_daylam d_tabaristan d_gurgan d_azerbaijan d_uzboy d_jabal_kufs d_makran d_sistan d_kabul d_zabulistan }
+}
+ilkhanate_de_jure_region = {
+	duchies = { d_daylam d_tabaristan d_gurgan d_azerbaijan d_shirvan d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia }
+}
+special_mongol_empire_chagatai_region = {
+	duchies = { d_zhetysu d_tarbagatai d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_osrushana d_soghd d_khuttal d_badakhshan d_ferghana d_altay d_akaltay d_kara_khoja d_beshbalik d_gurbantunggut d_naiman_gobi d_khotan d_kashgar d_karashar d_charkliq d_loulan }
+}
+chagatai_de_jure_region = {
+	duchies = { d_zhetysu d_tarbagatai d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_osrushana d_soghd d_khuttal d_badakhshan d_ferghana d_altay d_akaltay d_kara_khoja d_beshbalik d_gurbantunggut d_naiman_gobi d_khotan d_kashgar d_karashar d_charkliq d_loulan }
+}
+special_mongol_empire_golden_horde_region = {
+	duchies = { d_transcaspiana d_garabogazkol d_jemba d_barsuki d_aral_karakum d_aral_il d_khorezm d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_salair d_aley d_altaishan d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_novgorod d_vepsia d_luki d_kiev d_karachev d_novosil d_opolye d_nizhny_novgorod d_turov d_chernigov d_ryazan d_pereyaslavl d_smolensk d_polotsk d_minsk d_pinsk d_biarmia d_vologda d_chudia d_ustyug d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg d_volga_bulgaria d_kazan d_bashkiria d_sakmara d_voronezh d_mordvinia d_saran d_chuvashia d_khopyor d_tambov d_ural d_udmurtia d_martyuba d_uraltau d_aqtobe d_jalmat d_bugurslan d_vogulia d_perm d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen d_lithuanians d_prussia d_masuria d_courland d_samogitia d_latgalians d_esthonia d_livonia }
+}
+golden_horde_de_jure_region = {
+	duchies = { d_transcaspiana d_garabogazkol d_jemba d_barsuki d_aral_karakum d_aral_il d_khorezm d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen }
+}
+special_mongol_empire_red_horde_region = {
+	regions = { world_india world_burma }
+}
+red_horde_de_jure_region = {
+	regions = { world_india_rajastan }
+}
+special_mongol_empire_white_horde_region = {
+	regions = { world_europe_west_germania world_europe_south_east }
+	duchies = { d_mazovia d_upper_silesia d_lower_silesia d_lesser_poland d_wielkopolska d_kuyavia d_volhynia d_halych d_cherven_cities d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_bukovina d_moldova d_bugeac }
+}
+white_horde_de_jure_region = {
+	duchies = { d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_oltenia d_muntenia d_transylvanian_alps d_moldova d_bugeac d_bukovina d_croatia d_slavonia d_lower_bosna d_bosna d_dalmatia d_usora d_ragusa }
+}
+special_mongol_empire_aarlud_khanate_region = {
+	regions = { world_europe_west_britannia world_europe_north }
+}
+aarlud_khanate_de_jure_region = {
+	regions = { world_europe_north }
+}
+special_mongol_empire_togskol_khanate_region = {
+	regions = { world_europe_south_italy world_europe_west_francia world_europe_west_iberia }
+}
+togskol_khanatede_jure_region = {
+	regions = { world_europe_south_italy }
+}
+special_mongol_empire_baruun_khanate_region = {
+	regions = { world_africa }
+}
+baruun_khanate_de_jure_region = {
+	duchies = { d_cyrenaica d_alexandria d_delta d_cairo d_al-wahat d_al-said d_eastern_desert d_sinai d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin }
+}
+special_mongol_empire_great_yuan_region = {
+	regions = { world_asia_china world_asia_north_east world_asia_korea world_tibet }
+	duchies = { d_hai_dong d_nghe_an d_lam_tay d_thang_long d_indrapura d_vijaya d_muang_sua d_sipsongpanna d_yongchang d_mongnai d_tengchong }
+}
+great_yuan_de_jure_region = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao d_weibo d_xingming d_chengde d_cangjing d_heyang d_hedong d_yanmen d_hezhong d_zelu d_youzhou d_yideng d_yingmo d_yunshuo d_sanggan d_xinan }
+}
+special_mongol_empire_blue_horde_region = {
+	regions = { world_asia_japan world_asia_sakhalin_hokkaido }
+}
+blue_horde_de_jure_region = {
+	regions = { world_asia_japan }
+}
+special_mongol_empire_omnod_dalai_khanate_region = {
+	regions = { world_asia_southeast_islands }
+	duchies = { d_ratanakiri d_haripunjaya d_lop_buri d_sukhothai d_mukdahan d_baigaur d_vyadhapura d_angkor d_angkor_borey d_phonsavan d_MAL_langkasuka d_MAL_pahang d_tun_sun }
+}
+omnod_dalai_khanate_de_jure_region = {
+	duchies = { d_angkor_borey d_angkor d_vyadhapura d_ratanakiri d_baigaur d_mukdahan d_phonsavan d_indrapura d_vijaya }
+}
+special_sicilian_culture_region = {
+	duchies = { d_benevento d_capua d_apulia d_salerno d_calabria d_sicily }
+}
+special_cagot_region = {
+	duchies = { d_navarra d_gascogne d_armagnac d_aragon d_viscaya d_cantabria d_asturias d_castilla d_leon }
+}
+ghw_region_northern_italy = {
+	duchies = { d_friuli d_verona d_piedmonte d_lombardia d_genoa d_emilia d_pisa d_toscana d_romagna d_ancona d_spoleto d_latium d_venice }
+}
+ghw_region_thessalonika = {
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly }
+}
+ghw_region_france = {
+	duchies = { d_valois d_berry d_anjou d_normandy d_orleans d_champagne d_burgundy d_bar d_flanders d_gascogne d_aquitaine d_toulouse d_languedoc d_armagnac d_poitou d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania }
+}
+ghw_region_germany = {
+	duchies = { d_anhalt d_angria d_westfalen d_ostfalen d_meissen d_lausitz d_holstein d_thuringia d_west_franconia d_east_franconia d_hesse d_currezia d_alsace d_swabia d_bavaria d_nordgau d_salzburg d_augsburg d_steyermark d_osterreich d_tyrol d_carinthia d_krain d_istria }
+}
+ghw_region_greece = {
+	duchies = { d_epirus d_dyrrachion d_cephalonia d_athens d_achaia }
+}
+ghw_region_england = {
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_cornwall }
+}
+ghw_region_caucasus = {
+	duchies = { d_tao-klarjeti d_abkhazia d_georgia d_mesopotamia d_vaspurakan d_greater_armenia d_shirvan d_azerbaijan d_daylam d_khazaria d_azov d_alania d_ciscaucasia }
+}
+ghw_region_anatolia = {
+	duchies = { d_opsikion d_ephese d_thracesia d_optimatoi d_bucellaria d_cilicia d_cibyrrhaeot d_anatolia d_cappadocia d_paphlagonia d_armeniac d_sebasteia d_charsianon d_chaldia }
+}
+ghw_region_near_east = {
+	duchies = { d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_samarra d_kurdistan d_wasit d_kufa d_basra d_baghdad d_aleppo d_edessa d_homs d_antioch d_palmyra }
+}
+ghw_region_mediterranean = {
+	duchies = { d_sardinia d_corsica d_sicily d_benevento d_capua d_apulia d_salerno d_calabria d_cyprus d_mallorca d_krete }
+}
+ghw_region_balkans = {
+	duchies = { d_dalmatia d_croatia d_slavonia d_ragusa d_bosna d_usora d_lower_bosna d_rashka d_macva d_duklja d_vidin d_turnovo d_dobrudja d_bulgaria d_philippopolis }
+}
+ghw_region_holy_land = {
+	duchies = { d_oultrejourdain d_palestine d_urdunn d_lebanon d_damascus }
+}
+ghw_region_jerusalem = {
+	duchies = { d_oultrejourdain d_palestine d_urdunn }
+}
+ghw_region_iberia = {
+	duchies = { d_galicia d_porto d_coimbra d_leon d_asturias d_castilla d_cantabria d_navarra d_viscaya d_aragon d_barcelona d_beja d_badajoz d_algarve d_cordoba d_granada d_sevilla d_toledo d_valencia d_mallorca d_murcia }
+}
+ghw_region_celtic = {
+	duchies = { d_brittany d_gwynedd d_powys d_deheubarth d_meath d_ulster d_connacht d_leinster d_munster d_albany d_the_isles d_galloway d_western_isles d_lothian d_moray d_northern_isles }
+}
+ghw_region_germanic = {
+	duchies = { d_holland d_gelre d_utrecht d_frisia d_luxembourg d_brabant d_julich d_upper_lorraine d_lower_lorraine }
+}
+ghw_region_central_european = {
+	duchies = { d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_bukovina d_moldova d_bugeac d_transylvanian_alps d_muntenia d_oltenia d_bohemia d_moravia d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_pommerania d_nordmark d_pomerelia d_ostmark }
+}
+ghw_region_baltic = {
+	duchies = { d_lithuanians d_latgalians d_courland d_samogitia d_prussia d_masuria d_esthonia d_livonia d_pommerania d_nordmark d_pomerelia d_ostmark }
+}
+ghw_region_arabia = {
+	duchies = { d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra }
+}
+ghw_region_egypt = {
+	duchies = { d_cyrenaica d_alexandria d_delta d_cairo d_al-wahat d_al-said d_eastern_desert d_sinai }
+}
+ghw_region_egypt_et_al = {
+	regions = { ghw_region_egypt }
+	duchies = { d_nobatia d_makuria d_shamir d_naqis d_bazin }
+}
+ghw_region_persia = {
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_tabaristan d_gurgan d_nasa d_nishapur d_kohestan }
+}
+ghw_region_kurdistan = {
+	duchies = { d_daylam d_tabaristan d_gurgan d_azerbaijan d_shirvan }
+}
+ghw_region_southern_middle_east = {
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa }
+}
+ghw_region_eastern_middle_east = {
+	duchies = { d_nishapur d_merv d_ghur d_herat d_balkh d_nasa d_kohestan d_makran d_jabal_kufs d_sistan d_kabul d_zabulistan }
+}
+ghw_region_caspian_steppe = {
+	duchies = { d_syr_darya d_chah d_muyunkum d_talas_alatau d_transcaspiana d_garabogazkol d_jemba d_aral_il d_barsuki d_aral_karakum d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy }
+}
+ghw_region_north_africa = {
+	duchies = { d_kairouan d_tunis d_kroumerie d_gabes d_jerid d_tripolitania d_syrte d_tlemcen d_tahert d_alger d_bejaia d_zab d_mzab d_marrakesh d_sous d_tafilalt d_fes d_rif d_canarias }
+}
+ghw_region_sicily = {
+	duchies = { d_sicily d_benevento d_capua d_apulia d_salerno d_calabria }
+}
+ghw_region_afghanistan = {
+	duchies = { d_merv d_herat d_ghur d_balkh d_makran d_jabal_kufs d_sistan d_kabul d_zabulistan }
+}
+ghw_region_ethiopia = {
+	duchies = { d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_alwa d_sennar d_baqlin d_damot d_kaffa d_sharka d_kordofan }
+}
+ghw_region_horn_of_africa = {
+	duchies = { d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag d_hafun d_mogadishu d_west_ajuraan d_shabelle d_bali d_samalo }
+}
+ghw_region_the_sahel = {
+	duchies = { d_kawkaw d_timbuktu d_dendi d_lower_gurma d_upper_gurma d_yatenga d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_manding d_bambuk d_futa_jalon d_takrur d_silla d_djolof d_jenne d_bobo d_kaabu d_wuli d_kasa }
+}
+ghw_region_north_african_interior = {
+	duchies = { d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_kano d_katsina d_kebbi d_gobir d_darfur d_west_darfur d_wadai }
+}
+ghw_region_subsahelian_africa = {
+	duchies = { d_sapi d_kono d_bassa d_toro d_loma d_worodugu d_kong d_lobi d_wenyon d_kru d_adiukru d_gyaman d_brong d_ashanti d_eweland d_dagomba d_wagadugu d_mamprusi d_borgu d_savalu d_ibadan d_oyo d_ife d_benin d_igboland d_nupe d_kwararafa }
+}
+ghw_region_western_sahara = {
+	duchies = { d_zammour d_adrar d_touat d_taghaza d_tadmekka }
+}
+ghw_region_eastern_sahara = {
+	duchies = { d_ghat d_air d_kawar d_tibesti d_fezzan }
+}
+ghw_region_western_india = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_maru d_jangladesh d_stravani d_ajmer d_gurjara_mandala d_anartta d_saurashtra d_lata }
+}
+ghw_region_southern_france = {
+	duchies = { d_gascogne d_aquitaine d_toulouse d_languedoc d_armagnac d_poitou d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania }
+}
+ghw_region_mongolia = {
+	duchies = { d_yenisei_kan d_chuna_valley d_lena d_angara d_khakass_hollow d_blue_khakassia d_shoria d_kargassia d_eastern_sayan d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_kara_khoja d_beshbalik d_altay d_akaltay d_gurbantunggut d_naiman_gobi d_orkhon d_ogrash d_selenga_valley d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_uda_valley d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal }
+}
+ghw_region_scandinavia = {
+	duchies = { d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_jamtland d_sjaelland d_skane d_jylland d_slesvig d_svealand d_vastergotland d_ostergotland d_smaland d_norrland d_gotland d_aarjetje d_duortnoseatnu }
+}
+ghw_region_britannia = {
+	duchies = { d_bedford d_northumberland d_lancaster d_york d_norfolk d_hereford d_gloucester d_canterbury d_somerset d_cornwall d_gwynedd d_powys d_deheubarth d_meath d_ulster d_connacht d_leinster d_munster d_albany d_the_isles d_galloway d_western_isles d_lothian d_moray d_northern_isles }
+}
+ghw_region_saxony = {
+	duchies = { d_anhalt d_angria d_westfalen d_ostfalen d_meissen d_lausitz d_holstein d_thuringia }
+}
+ghw_region_russia = {
+	duchies = { d_novgorod d_vepsia d_luki d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_volhynia d_halych d_cherven_cities d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil d_opolye d_ryazan d_nizhny_novgorod }
+}
+ghw_region_poland = {
+	duchies = { d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia }
+}
+ghw_region_steppe = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_crimea d_mordvinia d_saran d_voronezh d_chuvashia d_khopyor d_tambov d_volga_bulgaria d_kazan d_jalmat d_bugurslan d_martyuba d_perm d_ural d_udmurtia d_itil d_pecheneg }
+}
+ghw_region_hungary = {
+	duchies = { d_visegrad d_somogy d_nyitra d_ungvar d_transcarpathia d_transylvania d_bihar d_temes d_bacs d_gyor d_syrmia d_bukovina d_moldova d_bugeac d_transylvanian_alps d_muntenia d_oltenia }
+}
+ghw_region_wendish_lands = {
+	duchies = { d_bohemia d_moravia d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_pommerania d_nordmark d_pomerelia d_ostmark }
+}
+ghw_region_mainland_greece = {
+	duchies = { d_thrace d_strymon d_thessalonika d_thessaly d_epirus d_dyrrachion d_cephalonia d_athens d_achaia }
+}
+ghw_region_italy = {
+	duchies = { d_friuli d_verona d_piedmonte d_lombardia d_genoa d_emilia d_pisa d_toscana d_romagna d_ancona d_spoleto d_latium d_sicily d_benevento d_capua d_apulia d_salerno d_calabria d_venice }
+}
+ghw_region_finland_&_estonia = {
+	duchies = { d_finland d_savo d_pohjanmaa d_karelia d_esthonia d_livonia d_biarmia d_chudia d_vologda d_ustyug d_giemajohka d_guoldat }
+}
+ghw_region_northern_russia = {
+	duchies = { d_novgorod d_vepsia d_luki d_opolye d_ryazan d_nizhny_novgorod }
+}
+ghw_region_southern_russia = {
+	duchies = { d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_volhynia d_halych d_cherven_cities d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil }
+}
+ghw_region_siberia = {
+	duchies = { d_mugodzhar_hills d_aqtobe d_atyrau d_manatau d_bashkiria d_sakmara d_uraltau d_vogulia d_ostyaki d_konda d_pelym d_kazym d_sibir d_ishim d_tara d_lanikaz d_turgay d_kokturgay d_kurgan d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_salair d_aley d_altaishan d_ala_tau d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_semey d_jinghiz d_degelen d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_zhetysu d_alakol d_tarbagatai d_ili-alatau }
+}
+ghw_region_transoxiana = {
+	duchies = { d_transcaspiana d_garabogazkol d_jemba d_aral_il d_barsuki d_aral_karakum d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy d_syr_darya d_chah d_muyunkum d_talas_alatau }
+}
+ghw_region_tibet = {
+	duchies = { d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_gyalrong d_chakla d_golog d_malho d_gainlho d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_xigaze d_sagya d_ngamring d_nyima d_yarlung d_lhasa d_nagchu d_conyi d_ngari d_kinnaur d_purang d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog d_bumthang d_paro d_monyul d_lhoyul d_dzayul d_kurmanchal d_khasa d_nepal d_limbuwan }
+}
+ghw_region_crimea = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_crimea d_khazaria d_azov d_alania d_ciscaucasia }
+}
+ghw_region_poland_bohemia_bavaria = {
+	duchies = { d_bohemia d_moravia d_lesser_poland d_wielkopolska d_mazovia d_upper_silesia d_lower_silesia d_kuyavia d_bavaria d_nordgau d_salzburg d_augsburg d_steyermark d_osterreich d_tyrol d_carinthia d_krain d_istria }
+}
+ghw_region_northern_india = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_maru d_jangladesh d_stravani d_ajmer d_gurjara_mandala d_anartta d_saurashtra d_lata d_dadhipadra d_akara_dasarna d_anupa d_kanyakubja d_saryupara d_jejakabhukti d_dahala d_ratanpur d_tirabhukti d_kasi d_jharkand d_magadha d_vanga d_varendra d_gauda d_nadia d_suhma d_kamarupanagara d_sutiya }
+}
+ghw_region_khotan = {
+	duchies = { d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_khotan d_kashgar d_karashar d_charkliq d_loulan }
+}
+ghw_region_southern_india = {
+	duchies = { d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_daksina_kosala d_kalinga d_dandakaranya d_warangal d_racakonda d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_vengi d_udayagiri d_chola_nadu d_pandya_nadu d_chera_nadu d_tondai_nadu d_dakhina_desa d_ruhunu d_sinhala }
+}
+ghw_region_southwestern_india = {
+	duchies = { d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_pandya_nadu d_chera_nadu }
+}
+ghw_region_the_ganges = {
+	duchies = { d_kanyakubja d_saryupara d_jejakabhukti d_tirabhukti d_kasi d_jharkand d_magadha d_vanga d_varendra d_gauda d_nadia d_suhma }
+}
+ghw_region_non_ganges_india = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_maru d_jangladesh d_stravani d_ajmer d_gurjara_mandala d_anartta d_saurashtra d_lata d_dadhipadra d_akara_dasarna d_anupa d_dahala d_ratanpur d_kamarupanagara d_sutiya d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_daksina_kosala d_kalinga d_dandakaranya d_warangal d_racakonda d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_vengi d_udayagiri d_chola_nadu d_pandya_nadu d_chera_nadu d_tondai_nadu d_dakhina_desa d_ruhunu d_sinhala }
+}
+ghw_region_gujarat_&_rajputana = {
+	duchies = { d_maru d_jangladesh d_stravani d_ajmer d_gurjara_mandala d_anartta d_saurashtra d_lata }
+}
+ghw_region_non_gujarat_or_rajputana_india = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_dadhipadra d_akara_dasarna d_anupa d_kanyakubja d_saryupara d_jejakabhukti d_dahala d_ratanpur d_tirabhukti d_kasi d_jharkand d_magadha d_vanga d_varendra d_gauda d_nadia d_suhma d_kamarupanagara d_sutiya d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_daksina_kosala d_kalinga d_dandakaranya d_warangal d_racakonda d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_vengi d_udayagiri d_chola_nadu d_pandya_nadu d_chera_nadu d_tondai_nadu d_dakhina_desa d_ruhunu d_sinhala }
+}
+ghw_region_lanka_&_bengal = {
+	duchies = { d_vanga d_varendra d_gauda d_nadia d_suhma d_kamarupanagara d_sutiya d_dakhina_desa d_ruhunu d_sinhala }
+}
+ghw_region_middle_india = {
+	duchies = { d_dadhipadra d_akara_dasarna d_anupa d_kanyakubja d_saryupara d_jejakabhukti d_dahala d_ratanpur d_tirabhukti d_kasi d_jharkand d_magadha d_vidharba d_konkana d_nasikya d_devagiri d_rattapadi d_daksina_kosala d_kalinga d_dandakaranya d_warangal d_racakonda d_kalyani d_gangavadi d_nulambavadi d_raichur_doab d_vengi d_udayagiri d_chola_nadu d_pandya_nadu d_chera_nadu d_tondai_nadu }
+}
+ghw_region_north_eastern_india = {
+	duchies = { d_kanyakubja d_saryupara d_jejakabhukti d_dahala d_ratanpur d_tirabhukti d_kasi d_jharkand d_magadha d_vanga d_varendra d_gauda d_nadia d_suhma d_kamarupanagara d_sutiya d_daksina_kosala d_kalinga d_dandakaranya }
+}
+islamic_heartlands = {
+	duchies = { d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_oultrejourdain d_palestine d_urdunn d_lebanon d_damascus d_diyarrabia d_euphrates d_samarra d_kurdistan d_wasit d_kufa d_basra d_baghdad d_aleppo d_homs d_antioch d_palmyra d_cyrenaica d_alexandria d_delta d_cairo d_al-wahat d_al-said d_eastern_desert d_sinai d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_tabaristan d_gurgan d_nasa d_nishapur d_kohestan d_kairouan d_tunis d_kroumerie d_gabes d_jerid d_tripolitania d_syrte d_tlemcen d_tahert d_alger d_bejaia d_zab d_mzab d_marrakesh d_sous d_tafilalt d_fes d_rif d_canarias }
+}
+dlc_fp1_region_core_north_sea = {
+	duchies = { d_viken d_agder d_vestlandi d_trandalog d_york d_norfolk d_bedford d_canterbury d_sjaelland d_slesvig d_jylland }
+	counties = { c_huntingdonshire c_northamptonshire c_leicestershire c_nottinghamshire }
+}
+dlc_fp1_region_mysterious_stranger_locations = {
+	regions = { world_europe_north }
+	duchies = { d_nordmark d_ostmark d_pommerania d_pomerelia d_mazovia d_upper_silesia d_lower_silesia d_lesser_poland d_wielkopolska d_kuyavia d_volhynia d_halych d_cherven_cities d_lithuanians d_courland d_latgalians d_samogitia d_prussia d_masuria d_esthonia d_livonia d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_novgorod d_vepsia d_luki d_opolye d_ryazan d_nizhny_novgorod d_biarmia d_vologda d_chudia d_ustyug }
+}
+dlc_fp1_region_western_adventure_targets_iceland_isles = {
+	duchies = { d_iceland d_northern_isles }
+}
+dlc_fp1_region_western_adventure_targets_scotland_isles = {
+	duchies = { d_the_isles d_galloway d_western_isles d_moray }
+}
+dlc_fp1_region_western_adventure_targets_ireland = {
+	duchies = { d_meath d_ulster d_connacht d_leinster d_munster }
+}
+dlc_fp1_region_western_adventure_targets_northern_england = {
+	duchies = { d_northumberland d_lancaster d_york d_norfolk d_hereford }
+}
+dlc_fp1_region_western_adventure_targets_northern_france_brittany = {
+	duchies = { d_normandy d_flanders d_brittany }
+}
+dlc_fp1_region_western_adventure_targets_pomerania_prussia = {
+	duchies = { d_pomerelia d_pommerania d_prussia }
+}
+dlc_fp1_region_western_adventure_targets_frisia = {
+	duchies = { d_holland d_gelre d_utrecht d_frisia d_flanders }
+}
+dlc_fp1_region_eastern_adventure_targets_novgorod = {
+	duchies = { d_novgorod d_vepsia d_luki }
+}
+dlc_fp1_region_eastern_adventure_targets_white_rus = {
+	duchies = { d_grodno d_pinsk d_minsk d_polotsk d_smolensk }
+}
+dlc_fp1_region_eastern_adventure_targets_vladimir = {
+	duchies = { d_opolye d_ryazan d_nizhny_novgorod }
+}
+dlc_fp1_region_eastern_adventure_targets_ruthenia = {
+	duchies = { d_kiev d_turov d_pereyaslavl d_chernigov d_ryazan d_karachev d_novosil }
+}
+dlc_fp1_region_eastern_adventure_targets_estonia = {
+	duchies = { d_esthonia d_livonia }
+}
+dlc_fp1_region_eastern_adventure_targets_zaporizhia = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_crimea }
+}
+dlc_fp1_region_western_scandinavia_pool = {
+	duchies = { d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_iceland d_northern_isles d_jamtland d_skane d_sjaelland d_jylland d_slesvig }
+}
+dlc_fp1_region_eastern_scandinavia_pool = {
+	duchies = { d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland d_bergslagen }
+}
+dlc_fp1_region_russian_steppe = {
+	regions = { world_steppe_west world_steppe_central world_steppe_east }
+	duchies = { d_opolye d_ryazan d_nizhny_novgorod d_novgorod d_vepsia d_luki d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil }
+}
+dlc_fp1_region_core_mainland_scandinavia = {
+	duchies = { d_viken d_agder d_vestlandi d_trandalog d_dalir d_halogaland d_jamtland d_skane d_sjaelland d_jylland d_slesvig d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland d_bergslagen }
+}
+dlc_fp1_region_non_scandinavian_southern_baltic = {
+	counties = { c_mecklenburg c_rostock c_rugen c_wolgast c_stettin c_kolobrzeg c_cammin c_slupsk c_danzig c_malbork c_wormditt c_natangia c_konigsberg c_scalovia c_memel c_palanga c_grobin c_vanemane c_zemigalians c_vidzeme c_livs c_wiek c_osel c_reval c_narva c_vodi c_viipuri c_kakisalmi c_nyland c_finland c_satakunta c_mustasaari c_pedersore c_oulu }
+}
+dlc_fp1_region_colonial_eastern_europe = {
+	duchies = { d_mazovia d_upper_silesia d_lower_silesia d_lesser_poland d_wielkopolska d_kuyavia d_livonia d_prussia d_masuria d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_lithuanians d_courland d_latgalians d_samogitia d_pommerania d_nordmark d_pomerelia d_ostmark d_novgorod d_vepsia d_luki d_kiev d_karachev d_novosil d_opolye d_nizhny_novgorod d_turov d_chernigov d_ryazan d_pereyaslavl d_biarmia d_vologda d_chudia d_ustyug d_volhynia d_halych d_cherven_cities }
+}
+dlc_fp1_achievement_far_from_home = {
+	duchies = { d_dakhina_desa d_ruhunu d_sinhala d_socotra }
+	counties = { c_maldives c_kutch }
+}
+dlc_fp1_achievement_king_of_all_the_isles = {
+	duchies = { d_iceland d_northern_isles d_sjaelland d_gotland d_western_isles d_the_isles d_canarias d_mallorca d_sardinia d_corsica d_sicily d_venice d_cephalonia d_krete d_cyprus }
+	counties = { c_bornholm c_aland c_oland c_osel c_anglesey c_isle_of_wight c_chios c_lesbos c_naxos c_rhodos }
+}
+dlc_fp1_achievement_vladimirs_second_choice = {
+	duchies = { d_volhynia d_halych d_cherven_cities d_kiev d_turov d_pereyaslavl d_chernigov d_karachev d_novosil d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_novgorod d_vepsia d_luki d_opolye d_ryazan d_nizhny_novgorod d_biarmia d_vologda d_chudia d_ustyug }
+}
+dlc_fp2_old_vasconia = {
+	duchies = { d_viscaya d_navarra d_armagnac }
+	counties = { c_labourd c_albret c_marsan c_alto_aragon c_foix c_urgell c_lleida c_fraga c_puigcerda c_huesca c_sobrarbe c_pallas c_zaragoza }
+}
+dlc_fp2_old_vasconia_pushed = {
+	duchies = { d_viscaya d_navarra d_gascogne d_armagnac d_aragon d_barcelona }
+}
+dlc_fp2_mediterranean_shoreline = {
+	regions = { world_europe_south_italy }
+	duchies = { d_mallorca d_sevilla d_granada d_murcia d_valencia d_barcelona d_languedoc d_istria d_croatia d_dalmatia d_usora d_ragusa d_duklja d_dyrrachion d_cephalonia d_epirus d_achaia d_krete d_aegean_islands d_athens d_thessaly d_thessalonika d_strymon d_thrace d_ephese d_cibyrrhaeot d_cilicia d_antioch d_lebanon d_cyprus d_urdunn d_palestine d_sinai d_delta d_alexandria d_cyrenaica d_syrte d_tripolitania d_gabes d_tunis d_kroumerie d_bejaia d_alger d_tlemcen d_rif }
+}
+dlc_fp2_caucasian_iberia = {
+	counties = { c_tao c_klarjeti c_vanand c_hayk c_kartli c_tbilisi c_kakheti c_lori c_hereti }
+}
+dlc_fp2_form_aragon_region = {
+	duchies = { d_viscaya d_navarra d_aragon d_valencia d_mallorca d_gascogne d_toulouse d_armagnac d_languedoc d_barcelona }
+}
+dlc_fp2_lyonese_monk_region = {
+	regions = { world_europe_west_iberia }
+	duchies = { d_gascogne d_aquitaine d_toulouse d_languedoc d_armagnac d_poitou d_auvergne d_bourbon }
+}
+dlc_fp3_eastern_persian_frontier_regions = {
+	regions = { world_khorasan world_transoxiana world_makran world_kabulistan }
+}
+dlc_fp3_greater_persian_frontier_regions = {
+	regions = { world_khorasan world_transoxiana world_makran world_kabulistan world_mesopotamia world_asia_minor world_jazira }
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_syr_darya d_chah d_muyunkum d_talas_alatau d_transcaspiana d_garabogazkol d_jemba d_aral_il d_barsuki d_aral_karakum d_daylam d_tabaristan d_gurgan d_azerbaijan }
+}
+dlc_fp3_seljuk_birth_region = {
+	duchies = { d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_jemba d_aral_il d_syr_darya d_uzboy d_khorezm d_atyrau d_manatau }
+}
+dlc_ep1_achievement_rise_of_the_ghurids = {
+	duchies = { d_sauvira d_bhakkar d_multan d_lahore d_gandhara d_kuru d_haritanaka d_mathura d_vodamayutja d_maru d_jangladesh d_stravani d_ajmer d_kanyakubja d_saryupara d_tirabhukti d_kasi d_magadha d_vanga d_varendra d_gauda d_nadia d_suhma d_kabul d_zabulistan d_herat d_ghur d_merv d_balkh d_jabal_kufs d_makran d_sistan d_kirman }
+	counties = { c_nishapur c_tus }
+}
+dlc_ep1_region_south_east_europe = {
+	duchies = { d_istria d_krain d_carinthia d_steyermark d_salzburg d_osterreich d_bavaria d_augsburg d_nordgau d_tyrol d_croatia d_slavonia d_lower_bosna d_bosna d_dalmatia d_usora d_ragusa d_somogy d_gyor d_nyitra d_ungvar d_visegrad d_bacs d_bihar d_temes d_transcarpathia d_transylvania d_bohemia d_moravia d_duklja d_rashka d_macva d_syrmia d_verona d_lombardia d_genoa d_emilia d_romagna d_toscana d_pisa d_ancona d_spoleto d_latium d_corsica d_sardinia d_venice d_piedmonte d_friuli }
+}
+dlc_ep1_hansa_trade_region = {
+	regions = { world_europe_west_britannia world_europe_west_germania world_europe_north }
+}
+dlc_ep1_dutch_trade_region = {
+	regions = { world_europe_west_britannia world_europe_west_francia }
+}
+dlc_ep1_russia_trade_region = {
+	regions = { world_europe_west_germania world_europe_north world_europe_east }
+}
+dlc_ep1_varangian_trade_region = {
+	regions = { world_europe_east world_steppe_west }
+}
+dlc_ep1_mongol_trade_region = {
+	regions = { world_steppe_west world_steppe_central world_steppe_east world_steppe_tarim }
+}
+dlc_ep1_iberia_trade_region = {
+	regions = { world_europe_west_iberia }
+}
+dlc_ep1_italian_trade_region = {
+	regions = { world_europe_south world_asia_minor }
+}
+dlc_ep1_levant_trade_region = {
+	regions = { world_middle_east_jerusalem }
+}
+dlc_ep1_arab_trade_region = {
+	regions = { world_africa_north_east world_middle_east_arabia }
+}
+dlc_ep1_persian_trade_region = {
+	regions = { world_middle_east_persia }
+}
+dlc_ep1_north_africa_trade_region = {
+	regions = { world_africa_north_west }
+}
+dlc_ep1_east_africa_trade_region = {
+	regions = { world_africa_east }
+}
+dlc_ep1_west_africa_trade_region = {
+	regions = { world_africa_west world_africa_sahara }
+}
+dlc_ep1_indian_trade_region = {
+	regions = { world_india_deccan world_india_bengal world_india_rajastan }
+}
+dlc_ep1_southwest_silk_road_trade_region = {
+	regions = { world_burma world_tibet }
+}
+dlc_ep1_arthurian_heartlands_region = {
+	duchies = { d_somerset d_cornwall d_deheubarth d_powys d_gwynedd }
+}
+dlc_mpo_867_herders = {
+	counties = { c_airyuk c_akkityk c_altay c_anja c_atyrau c_azov c_azas c_baibalik c_bakhmut c_bekdas c_betpa c_burqin c_burugu_aallar c_chadrinsk c_chumkar_kia c_chuya c_emil c_tomsk c_guzkol c_ikh_bogd c_ilga c_iliq c_pavlodar c_kherson c_jamantau c_jangyztau c_jerjul c_jinsko c_kada c_karasu c_karauda c_katu_yaryk c_kazanskaya c_khentii c_kopathal c_korgon c_kos-buwak c_ku_jeku c_kulunda c_krasnoyarsk c_manaka c_murun_tomis c_olkhon c_qyzylustyurt c_qyzylyaitsk c_ryty c_sabakyul c_sagiz c_saqsin c_saratov c_sartlan c_sayanchu c_sharga c_siun c_sorok c_taskyl c_tengerge c_terekli c_togotai c_tsambagarau c_ubins c_uch_katyn c_uiska c_uliastai c_uliuty c_urgamal c_uulynkhol c_vitim c_yaitsk c_yenisei c_zichia c_chuna }
+}
+dlc_mpo_1066_herders = {
+	counties = { c_achu c_agairik c_akkityk c_astana c_aksuyek c_almaty c_altay c_astrakhanka c_atamansku c_barnaul c_ufa c_besinada c_bratsk c_shchuchinsk c_burqin c_buzachi c_birsk c_durovka c_ebi-nor c_gatsuurgazar c_igaran c_ilga c_jaksybai c_jilali c_jinghiz c_jinsko c_julym c_kandygatai c_karabaigal c_karauda c_kash c_katu_yaryk c_kbumak c_khasagt_khairkhan c_khentii c_khokhoo c_kojuk c_kolyvan c_kostanay c_kulan_utmas c_kumertau c_lower_dniepr c_lozova c_narim c_naushki c_ob c_otrar c_pecheneg c_qoshagyl c_qyzylyaitsk c_samar c_shishina c_sighnaq c_songuu_aallar c_stoyanka c_prigoro_tabynsk c_tagul c_tapsa c_taskyl c_teke c_tengiz c_terektai c_tesiin_gol c_tokumbay c_torangy_kul c_turgay c_tomorbulag c_uch_katyn c_ulu_jitanjik c_uman c_vargashi c_western_tannu c_yaitsk }
+}
+dlc_mpo_1178_herders = {
+	counties = { c_achu c_agairik c_ak-taylak c_arzhan c_astrakhan c_atamansku c_atkarsk c_baigaluuls c_basagha c_bazarka c_boro_burgasu c_bulat c_shchuchinsk c_duvan c_tomsk c_ghulja c_ilek c_jasky_kart c_jend c_jerjul c_jinghiz c_kafa c_kainar c_kantegir c_kara_khol c_karabash c_karatsagaan c_katu_yaryk c_khanjargalant c_khasagt_khairkhan c_kos_uba c_kosh_kurbay c_ku_jeku c_kulan_utmas c_kurgan c_kuzeytorg c_kymyl_tey c_lozova c_mana c_mugodzhar_hills c_mushun c_orenburg c_oskol c_ryty c_sayanchu c_sorok c_millerovo c_stoyanka c_sutkend c_tana c_tapsa c_taraz c_tekar c_telmen c_tesiin_gol c_torangy_kul c_tsambagarau c_ubins c_uchkul c_uiska c_ukek c_uliuty c_uraltau c_urgamal c_uvs_nuur }
+}
+dlc_mpo_867_nomads = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_azov d_bashkiria d_sakmara d_uraltau d_aqtobe d_bugurslan d_vogulia d_itil d_pecheneg d_jalmat d_chuvashia d_volga_bulgaria d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_syr_darya d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen d_altay d_akaltay d_beshbalik d_gurbantunggut d_naiman_gobi d_altaishan d_orkhon d_ogrash d_selenga_valley d_ovorkhangai d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_uda_valley d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_lena d_angara d_eastern_sayan d_chuna_valley d_kargassia d_blue_khakassia d_shoria d_khakass_hollow d_yenisei_kan d_lanikaz d_kulyndy_steppe d_baraba_steppe d_ala_tau d_salair d_aley }
+	counties = { c_perekop c_kalos_limen }
+}
+dlc_mpo_1066_nomads = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_bashkiria d_sakmara d_uraltau d_aqtobe d_bugurslan d_vogulia d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_syr_darya d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen d_altay d_akaltay d_beshbalik d_gurbantunggut d_naiman_gobi d_altaishan d_orkhon d_ogrash d_selenga_valley d_ovorkhangai d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_uda_valley d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_lena d_angara d_eastern_sayan d_chuna_valley d_kargassia d_blue_khakassia d_shoria d_khakass_hollow d_yenisei_kan d_lanikaz d_kulyndy_steppe d_baraba_steppe d_ala_tau d_salair d_aley }
+	counties = { c_yaitsk c_qyzylyaitsk c_itil c_saqsin c_khumar c_azov c_perekop c_kalos_limen }
+}
+dlc_mpo_1178_nomads = {
+	duchies = { d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_bashkiria d_sakmara d_uraltau d_aqtobe d_bugurslan d_vogulia d_itil d_aral_karakum d_zhetysu d_tarbagatai d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_syr_darya d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen d_altay d_akaltay d_beshbalik d_gurbantunggut d_naiman_gobi d_altaishan d_orkhon d_ogrash d_selenga_valley d_ovorkhangai d_arkhangai d_khovsgol d_gobi_altai d_ubsunur_hollow d_zavkhan d_khovd d_togina d_tannu_ola d_western_sayan d_katu_yaryk d_uda_valley d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_lena d_angara d_eastern_sayan d_chuna_valley d_kargassia d_blue_khakassia d_shoria d_khakass_hollow d_yenisei_kan d_lanikaz d_kulyndy_steppe d_baraba_steppe d_ala_tau d_salair d_aley d_chah }
+	counties = { c_khumar c_azov c_perekop c_kalos_limen c_samiran c_anket c_pecheneg c_qyzylyaitsk c_yaitsk c_tengiz c_churuk c_kos-buwak c_akkityk c_namastau }
+}
+kirghiz_homelands = {
+	duchies = { d_aley d_salair d_ala_tau d_blue_khakassia d_khakass_hollow d_shoria }
+}
+dlc_mpo_steppe_east_buryatia_addon = {
+	duchies = { d_dauria d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_lena d_angara d_eastern_sayan d_chuna_valley d_yenisei_kan d_kargassia d_blue_khakassia d_khakass_hollow d_shoria }
+}
+dlc_mpo_steppe_east_andong_addon = {
+	regions = { world_asia_sakhalin_hokkaido }
+	duchies = { d_LIAO_zhongjing d_liaoxi d_yanyun_yuyi d_LIAO_shangjing d_LIAO_linhuang d_SW_heicheziguo d_SW_dashiweiguo d_SW_lingxiguo d_SW_qingxingan d_SW_puyudao d_SW_ruzheguo d_SW_sushenguo d_BAL_moe_su d_BAL_buyeo d_BAL_cheolli d_BAL_hoewon d_BAL_dongpyeong d_BAL_anwon d_LIAO_dongjing d_BAL_amnok_jangryeong d_BAL_parhae d_BAL_southern_balhae d_BAL_yeojintang d_eman_boli d_eman_sikhotebei d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya }
+}
+dlc_mpo_steppe_east_china_addon = {
+	duchies = { d_tiande d_langshan d_xiutu d_juyan d_sanggan d_xinan }
+}
+dlc_mpo_steppe_central_siberia_addon = {
+	duchies = { d_altaishan d_aley d_salair d_ala_tau d_kulyndy_steppe d_lanikaz d_baraba_steppe }
+}
+dlc_mpo_steppe_caucasus_expansion = {
+	duchies = { d_tao-klarjeti d_abkhazia d_georgia d_mesopotamia d_vaspurakan d_greater_armenia d_shirvan d_azerbaijan }
+}
+dlc_mpo_steppe_persia_expansion = {
+	duchies = { d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_daylam d_tabaristan d_gurgan }
+}
+dlc_mpo_steppe_siberia_further_expansion = {
+	duchies = { d_kazym d_konda d_pelym d_ostyaki d_sibir d_ishim d_tara d_vasyugan_mire }
+}
+dlc_mpo_steppe_e_amur_expansion = {
+	regions = { world_asia_sakhalin_hokkaido }
+	duchies = { d_eman_boli d_eman_sikhotebei d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya }
+}
+dlc_mpo_steppe_hexi_tarim_expansion = {
+	regions = { world_steppe_tarim }
+	duchies = { d_hexi d_longyou d_qilian d_gansu d_guasha }
+}
+dlc_mpo_steppe_north_china_expansion = {
+	duchies = { d_shuofang d_xiasui d_yunshuo d_weibo d_xingming d_chengde d_cangjing d_heyang d_hedong d_yanmen d_hezhong d_zelu d_youzhou d_yideng d_yingmo d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng }
+}
+dlc_mpo_steppe_central_china_expansion = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao }
+}
+heritage_area_pontic_steppe = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_don_valley d_tana d_khazaria d_ciscaucasia d_itil d_crimea d_alania d_azov d_pecheneg }
+}
+heritage_area_volga_bulgaria = {
+	duchies = { d_volga_bulgaria d_kazan d_bashkiria d_sakmara d_voronezh d_mordvinia d_saran d_chuvashia d_khopyor d_tambov d_martyuba d_uraltau d_aqtobe d_jalmat d_bugurslan d_vogulia }
+}
+heritage_area_perm = {
+	duchies = { d_ural d_udmurtia d_perm }
+}
+heritage_area_turkestan = {
+	duchies = { d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau }
+}
+heritage_area_cumania = {
+	duchies = { d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen }
+}
+dlc_tgp_swahili_coast_region = {
+	duchies = { d_pate d_mombasa d_zanzibar }
+}
+dlc_tgp_silk_road_route_region = {
+	regions = { dlc_tgp_silk_road_route_china dlc_tgp_silk_road_route_tibet dlc_tgp_silk_road_route_india dlc_tgp_silk_road_route_central_asia dlc_tgp_silk_road_route_transcaspia dlc_tgp_silk_road_route_occident }
+}
+tgp_silk_road_region = {
+	regions = { tgp_silk_road_china_region tgp_silk_road_tibet_region tgp_silk_road_india_region tgp_silk_road_central_asia_region tgp_silk_road_transcaspia_region tgp_silk_road_occident_region }
+}
+dlc_tgp_silk_road_route_china = {
+	counties = { c_youzhou c_zhuozhou c_mozhou c_hejian c_jizhou c_beizhou c_bozhou_1 c_weizhou c_puzhou_2 c_huazhou c_bianzhou c_zhengzhou c_henan c_shanzhou_2 c_guozhou c_huayin c_jingzhao c_fengxiang c_longzhou_2 c_qinzhou_1 c_weizhou_2 c_yangzhou_1 c_xingyuan c_lizhou_2 c_jianzhou_1 c_mianzhou c_tongchuan c_hanzhou c_chengdu c_qiongzhou c_meizhou c_yazhou_2 c_qiongbu c_jianyang c_puzhou c_suining c_yuzhou_2 c_fuzhou_4 c_zhongzhou c_wanzhou c_kuizhou c_guizhou c_xiazhou_1 c_liyang c_yuezhou_1 c_tanzhou c_hengzhou c_chenzhou_1 c_lianzhou c_yingde c_guangzhou_1 c_huaining c_songzhou c_bozhou c_yingzhou c_haozhou c_chuzhou_2 c_yangzhou c_jiangning c_runzhou c_changzhou c_suzhou_2 c_dali c_jianchuan }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_china_region = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao d_weibo d_xingming d_chengde d_cangjing d_heyang d_hedong d_yanmen d_hezhong d_zelu d_youzhou d_yideng d_yingmo d_yunshuo d_sanggan d_xinan d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_jiangdong d_xuanshe d_zhexi d_zhedong d_weiwu d_pinghai d_jianning d_huainan d_huaixi d_jiangxi d_dingjiang d_zhaoxin d_xiangdeng d_jingnan d_eyue d_hunan d_lingling d_xichuan d_qiongnan d_xingyuan d_lilang d_baqu d_dongchuan d_wuxin d_kuizhong d_qianzhong d_wuxi d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai d_hai_dong d_nghe_an d_lam_tay d_thang_long }
+}
+dlc_tgp_silk_road_route_tibet = {
+	counties = { c_dawu c_nyagrong c_pelyul c_gonjo c_lhatok c_qamdo c_dengqen c_sog c_lhari c_gyama c_lhunzhub c_lhasa c_nyemo c_gyangze c_xigaze c_sagya c_nyalam c_gyirong c_kyakyaru c_zhongba c_cuonaco c_kyunglung c_tsaparang c_demchok c_leh c_padum c_darcha c_dhankar c_markam c_deqen }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_tibet_region = {
+	duchies = { d_yarlung d_lhasa d_nagchu d_conyi d_xigaze d_sagya d_ngamring d_nyima d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_aksay d_gyalrong d_chakla d_golog d_malho d_gainlho d_ngari d_kinnaur d_purang d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog d_bumthang d_paro d_monyul d_lhoyul d_dzayul }
+}
+dlc_tgp_silk_road_route_india = {
+	counties = { c_kathmandu c_simaramapura c_mithila c_kanyakubja c_asni c_prayaga c_varanasi c_sasaram c_magadha c_mudgagiri c_gauda c_bikrampur c_samatata c_tribandapura c_hisar c_delhi c_mathura c_sripatha c_gwalior c_candhoba c_sarangpur c_ujjayini c_dhara c_dadhipadra c_vadodara c_khetaka c_bamian c_kabul c_purushapura c_nandana c_bhera c_lahur c_dipalpur c_multan c_uch c_vijnot c_aror c_siwistan c_mansura c_debul c_kangra c_trigarta }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_india_region = {
+	regions = { world_india_bengal world_india_rajastan world_makran world_kabulistan }
+}
+dlc_tgp_silk_road_route_central_asia = {
+	counties = { c_merv c_amol c_firabr c_bukhara c_dabusiya c_zarafshan c_samarkand c_oshrusana c_khojand c_nasaiya c_uzgend c_terek_pass c_kashgar c_maralbeshi c_aksu c_kucha c_luntai c_karashar c_kumtag c_dafang c_luobupo c_hehe c_shazhou c_guazhou c_xincheng c_yumen c_yarkand c_karghalik c_khotan c_dondan_oilik c_keriya c_cherchen c_charkliq c_dunhuang c_ganzhou c_fanhe c_liangzhou c_guangwu c_lanzhou_1 }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_central_asia_region = {
+	duchies = { d_hexi d_longyou d_qilian d_gansu d_guasha d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_pamir d_kashgar d_khotan d_karashar d_charkliq d_loulan d_soghd d_ferghana d_osrushana d_badakhshan d_khuttal d_balkh }
+	counties = { c_amol c_guzgan c_merv c_zamm }
+}
+dlc_tgp_silk_road_route_transcaspia = {
+	counties = { c_chah c_otrar c_shavgar c_sighnaq c_jend c_kara-mugai c_raimskoe c_ak-dzulpas c_barsuki c_namastau c_baisary c_kainar c_atyrau c_saqsin c_itil c_beksima c_sarkel c_azov c_khumar c_tmutarakan c_zichia c_maghas c_cabardinia c_svaneti c_kartli c_tbilisi c_hayk c_darghan c_khiva c_zamakhshar c_gurganj c_aralkizil }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_transcaspia_region = {
+	duchies = { d_chah d_syr_darya d_khazaria d_azov d_ciscaucasia d_alania d_atyrau d_aral_il d_aral_karakum d_barsuki d_garabogazkol d_jemba d_transcaspiana d_khorezm d_uzboy }
+	counties = { c_itil c_saqsin }
+}
+dlc_tgp_silk_road_route_occident = {
+	counties = { c_byzantion c_bithynia c_prusa c_phrygia c_galatia c_charsianon c_sebasteia c_satala c_mesopotamia c_theodosiopolis c_turuberan c_bagrewand c_dvin c_cairo c_sharkiya c_damietta c_farama c_ghazza c_jaffa c_acre c_tiberias c_damascus c_juwair c_qaryatan c_homs c_hama c_qinnasrin c_aleppo c_aintab c_edessa c_amida c_melitene c_azysia c_suenik c_tabriz c_maragha c_hamadan c_rayy c_khuwar c_damghan c_baihaq c_nishapur c_bakharz c_herat c_ghur c_upper_ghur c_dausar c_raqqa c_khabur c_hadithat-ana c_anbar c_baghdad c_hulwan c_kermanshah c_dinawar c_antiocheia c_jerusalem }
+	should_remember_counties_order = yes
+}
+tgp_silk_road_occident_region = {
+	duchies = { d_aegean_islands d_ephese d_opsikion d_cilicia d_cibyrrhaeot d_anatolia d_thracesia d_optimatoi d_bucellaria d_paphlagonia d_armeniac d_sebasteia d_charsianon d_cappadocia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_tao-klarjeti d_abkhazia d_georgia d_shirvan d_damascus d_aleppo d_antioch d_edessa d_homs d_lebanon d_palmyra d_palestine d_urdunn d_daylam d_tabaristan d_gurgan d_azerbaijan d_isfahan d_kirman d_yazd d_rayy d_hamadan d_fars d_hormuz d_khuzestan d_kermanshah d_samarra d_kurdistan d_wasit d_kufa d_basra d_baghdad d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_nishapur d_ghur d_herat d_nasa d_kohestan }
+	counties = { c_farama c_damietta c_sharkiya c_cairo c_byzantion c_rivsharan c_sarakhs c_marvarrud }
+}
+tgp_silk_road_asia_minor_minus_georgia = {
+	duchies = { d_aegean_islands d_ephese d_opsikion d_cilicia d_cibyrrhaeot d_anatolia d_thracesia d_optimatoi d_bucellaria d_paphlagonia d_armeniac d_sebasteia d_charsianon d_cappadocia d_chaldia d_mesopotamia d_vaspurakan d_greater_armenia d_shirvan }
+}
+dlc_tgp_mainland_southeast_asia_region = {
+	duchies = { d_hai_dong d_thang_long d_lam_tay d_nghe_an d_indrapura d_vijaya d_baigaur d_phonsavan d_sipsongpanna d_angkor d_vyadhapura d_ratanakiri d_angkor_borey d_haripunjaya d_lop_buri d_sukhothai d_tun_sun d_muang_sua d_mongnai d_ramannadesa d_sriksetra d_pagan d_tagaung d_arakan }
+}
+dlc_tgp_great_wall_shanhai = {
+	provinces = { 12163 12165 12166 12416 12417 12419 12426 12429 }
+}
+dlc_tgp_great_wall_liaodong = {
+	provinces = { 9889 9890 11754 11758 11759 11760 11766 11767 11770 11771 11779 11781 11796 11799 11800 11803 12421 12424 13018 }
+}
+dlc_tgp_grand_canal_region = {
+	regions = { dlc_tgp_grand_canal_1_region dlc_tgp_grand_canal_2_region dlc_tgp_grand_canal_3_region dlc_tgp_grand_canal_4_region }
+}
+dlc_tgp_grand_canal_1_region = {
+	counties = { c_mingzhou_1 c_yuezhou c_hangzhou c_xiuzhou c_suzhou_2 }
+}
+dlc_tgp_grand_canal_2_region = {
+	counties = { c_changzhou c_runzhou c_yangzhou c_chuzhou_1 c_sizhou_2 }
+}
+dlc_tgp_grand_canal_3_region = {
+	counties = { c_suzhou c_xuzhou_1 c_shanzhou c_caozhou c_puzhou_2 }
+}
+dlc_tgp_grand_canal_4_region = {
+	counties = { c_weizhou c_beizhou c_dezhou c_cangzhou c_youzhou }
+}
+divergence_island_regions = {
+	duchies = { d_iceland d_northern_isles d_western_isles d_sardinia d_corsica d_krete d_cyprus d_gotland d_socotra d_venice d_mallorca d_canarias d_the_isles }
+}
+sea_atlantic_ocean = {
+	regions = { sea_north_atlantic sea_south_atlantic }
+}
+sea_north_atlantic = {
+	regions = { sea_baltic_sea sea_north_sea sea_white_sea sea_english_channel sea_irish_sea sea_bay_of_biscay sea_macaronesia sea_mediterranean_sea }
+}
+sea_baltic_sea = {
+	provinces = { 632 633 634 635 637 638 639 640 641 643 644 646 958 997 1002 1003 1004 1005 1006 1007 1008 }
+}
+sea_north_sea = {
+	provinces = { 645 662 663 664 665 666 667 684 685 686 687 688 690 691 692 693 694 960 973 982 986 987 988 989 990 993 994 995 996 999 1000 1001 8613 8614 8615 8616 8617 }
+}
+sea_white_sea = {
+	provinces = { 647 648 649 661 964 985 }
+}
+sea_english_channel = {
+	provinces = { 725 726 727 728 729 965 966 967 1009 1010 }
+}
+sea_irish_sea = {
+	provinces = { 695 696 697 699 700 708 709 710 711 712 713 714 715 722 723 724 968 975 991 1019 }
+}
+sea_bay_of_biscay = {
+	provinces = { 970 974 977 980 981 1014 1015 1016 8618 8619 8620 8623 8624 8625 }
+}
+sea_macaronesia = {
+	provinces = { 953 8621 8622 }
+}
+sea_mediterranean_sea = {
+	regions = { sea_western_mediterranean_sea sea_ionian_sea sea_adriatic_sea sea_aegean_sea sea_black_sea }
+}
+sea_western_mediterranean_sea = {
+	provinces = { 954 1011 1020 1021 1022 1023 1024 1025 1027 1028 1029 1030 1031 1032 1033 8626 8627 8628 8629 8630 8631 8632 8633 8634 8635 8636 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 }
+}
+sea_ionian_sea = {
+	provinces = { 1034 1035 1036 1037 8648 8653 8654 8655 8656 8657 8658 }
+}
+sea_adriatic_sea = {
+	provinces = { 1038 1109 1110 8649 8650 8651 8652 }
+}
+sea_aegean_sea = {
+	provinces = { 936 937 938 939 940 941 942 945 946 947 1017 1111 8659 8660 8661 8662 8663 8664 8665 8666 }
+}
+sea_black_sea = {
+	provinces = { 869 948 949 950 951 8667 8668 8669 8670 8671 8672 }
+}
+sea_south_atlantic = {
+	regions = { sea_gulf_of_guinea }
+}
+sea_gulf_of_guinea = {
+	provinces = { 8692 8693 8694 8695 8696 8697 8698 8699 8700 }
+}
+sea_indian_ocean = {
+	regions = { sea_bay_of_somalia sea_swahili_coast sea_red_sea sea_gulf_of_aden sea_persian_gulf sea_arabian_sea sea_bay_of_bengal }
+}
+sea_bay_of_somalia = {
+	provinces = { 8676 8677 }
+}
+sea_swahili_coast = {
+	provinces = { 12799 12800 12801 }
+}
+sea_red_sea = {
+	provinces = { 1382 1383 1384 1385 8673 }
+}
+sea_gulf_of_aden = {
+	provinces = { 1386 1387 1388 8674 8675 }
+}
+sea_persian_gulf = {
+	provinces = { 1392 1393 1394 1395 8678 8679 }
+}
+sea_arabian_sea = {
+	provinces = { 1389 1390 1391 1396 1397 1398 1399 1400 1401 1412 8680 8681 8682 8683 }
+}
+sea_bay_of_bengal = {
+	provinces = { 1402 1403 1404 1405 1406 1407 1409 1410 1411 8684 8685 8686 8687 8688 8689 }
+}
+sea_inland_steppe_seas = {
+	regions = { sea_caspian_sea sea_aral_sea }
+}
+sea_caspian_sea = {
+	provinces = { 952 1062 1064 }
+}
+sea_aral_sea = {
+	provinces = { 944 }
+}
+hunt_animal_deer_region = {
+	regions = { world_europe world_africa_north_west world_middle_east_jerusalem world_middle_east_persia world_asia_minor world_steppe_east world_steppe_central world_siberia world_steppe_west world_india world_burma world_asia }
+}
+hunt_animal_antelope_region = {
+	regions = { world_africa world_middle_east world_steppe world_tibet world_india world_asia_china world_asia_southeast_mainland world_burma }
+}
+hunt_animal_gazelle_region = {
+	regions = { world_africa world_middle_east world_asia_china }
+}
+hunt_animal_boar_region = {
+	regions = { world_europe_west world_europe_east world_europe_south world_africa_north_west world_asia_minor world_steppe_west world_steppe_central world_steppe_east world_siberia world_middle_east_jerusalem world_middle_east_persia world_india world_burma world_asia }
+	duchies = { d_slesvig d_sjaelland d_jylland d_skane d_smaland d_viken d_vastergotland d_ostergotland d_finland d_savo d_karelia d_bergslagen d_svealand d_diyarmudar d_diyarbakr d_sinai d_cairo d_delta d_al-said d_alexandria d_cyrenaica d_nobatia d_shamir d_makuria }
+}
+hunt_animal_bear_region = {
+	regions = { world_europe_north world_europe_east world_europe_west_iberia world_europe_west_germania world_europe_west_francia world_europe_south world_africa_north_west world_asia_minor world_steppe world_tibet world_asia world_siberia world_india }
+	duchies = { d_kermanshah d_baghdad d_samarra d_kurdistan d_wasit d_diyarrabia d_diyarmudar d_diyarbakr d_euphrates d_isfahan d_rayy d_hamadan d_fars d_khuzestan d_daylam d_tabaristan d_azerbaijan d_edessa }
+}
+hunt_animal_big_cat_region = {
+	regions = { world_africa world_middle_east world_india world_burma world_steppe_east world_tibet world_asia_korea world_asia_china world_asia_sakhalin_hokkaido world_asia_southeast_mainland world_asia_borneo world_asia_sulawesi_maluku world_asia_indonesia }
+}
+hunt_animal_bison_region = {
+	regions = { world_africa_west world_steppe world_europe_west_francia world_europe_west_germania world_europe_east }
+}
+hunt_animal_aurochs_region = {
+	regions = { world_africa_north world_india world_middle_east world_steppe world_asia_korea world_asia_china world_europe_west world_europe_east world_europe_south }
+}
+hunt_animal_reindeer_region = {
+	regions = { ghw_region_siberia ghw_region_mongolia world_asia_north_east world_asia_sakhalin_hokkaido }
+	duchies = { d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat d_vuovdisamieana d_kazan d_udmurtia d_ural d_perm d_nizhny_novgorod d_vologda d_chudia d_ustyug d_biarmia d_vepsia d_karelia d_pohjanmaa d_halogaland }
+}
+hunt_animal_elk_region = {
+	regions = { world_steppe world_asia_north_east world_asia_korea world_asia_china world_asia_sakhalin_hokkaido world_asia_japan }
+	duchies = { d_novgorod d_vepsia d_luki d_opolye d_ryazan d_nizhny_novgorod d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat d_vuovdisamieana d_vologda d_chudia d_ustyug d_biarmia d_halogaland d_savo d_finland d_karelia d_pohjanmaa d_esthonia d_livonia d_prussia d_masuria d_grodno d_pinsk d_minsk d_polotsk d_smolensk d_lithuanians d_courland d_latgalians d_samogitia d_ostergotland d_gotland d_vastergotland d_svealand d_norrland d_smaland d_bergslagen d_viken d_agder d_vestlandi d_trandalog d_dalir d_skane }
+}
+board_game_fidchell_region = {
+	duchies = { d_brittany d_gwynedd d_powys d_deheubarth d_meath d_ulster d_connacht d_leinster d_munster d_albany d_the_isles d_galloway d_western_isles d_lothian d_moray d_northern_isles }
+}
+world_central_asia = {
+	duchies = { d_altay d_akaltay d_kara_khoja d_beshbalik d_gurbantunggut d_naiman_gobi d_transcaspiana d_garabogazkol d_barsuki d_aral_karakum d_zhetysu d_tarbagatai d_jemba d_aral_il d_chah d_syr_darya d_muyunkum d_talas_alatau d_alakol d_ili-alatau d_kurgan d_mugodzhar_hills d_atyrau d_manatau d_turgay d_kokturgay d_kush-murun d_tobol-ishim d_saryarka d_qyzylsaryarka d_kazakh d_atbasar d_kentarlau d_karkaraly d_karabas d_tokumbay d_betpa d_semey d_jinghiz d_degelen }
+}
+world_atlantic = {
+	regions = { world_europe_west_britannia }
+	duchies = { d_galicia d_asturias d_cantabria d_viscaya d_gascogne d_aquitaine d_poitou d_brittany d_normandy }
+}
+troy_region = {
+	counties = { c_abydos }
+}
+israel_region = {
+	regions = { ghw_region_jerusalem }
+	duchies = { d_sinai }
+}
+mediteranean_coast = {
+	duchies = { d_antioch d_lebanon d_urdunn d_palestine d_delta d_alexandria d_cyrenaica d_syrte d_tripolitania d_gabes d_tunis d_kroumerie d_bejaia d_alger d_tlemcen d_rif d_sevilla d_granada d_murcia d_valencia d_barcelona d_languedoc d_provence d_genoa d_pisa d_toscana d_latium d_capua d_salerno d_calabria d_sicily d_corsica d_sardinia d_mallorca d_apulia d_benevento d_spoleto d_ancona d_romagna d_verona d_venice d_friuli d_istria d_dalmatia d_usora d_ragusa d_duklja d_dyrrachion d_cephalonia d_epirus d_achaia d_krete d_aegean_islands d_athens d_thessaly d_thessalonika d_strymon d_thrace d_optimatoi d_opsikion d_ephese d_cibyrrhaeot d_cilicia d_cyprus }
+	counties = { c_farama }
+}
+greek_backwater_modifier_region = {
+	counties = { c_laconia c_messenia c_korinthos c_achaia c_cephalonia c_attica c_boeotia c_aetolia c_naxos c_euboea c_neopatras c_demetrias c_thessaliotis c_thessalia c_epeiros c_buthrotum c_veria c_metzovo c_chalkidike c_thessalonika c_serres c_mosynopolis c_ohrid c_antipatreia c_dyrrachion c_avlonas }
+}
+custom_ep3_restore_rome_eastern_empire = {
+	regions = { world_asia_minor world_middle_east world_africa_east world_india world_steppe world_tibet world_burma world_europe_south_east world_europe_east world_asia world_siberia }
+	duchies = { d_cyrenaica d_alexandria d_delta d_cairo d_al-wahat d_al-said d_eastern_desert }
+}
+black_sea_coast_region = {
+	duchies = { d_crimea d_azov }
+	counties = { c_oleshye c_kherson c_odessa c_cetatea_alba c_chilia c_constanta c_mesembria c_burgas c_brysis c_byzantion c_bithynia c_tarsos c_honorias c_paphlagonia c_sinope c_helenopontus c_cerasus c_trebizond c_acampse c_guria c_odishi c_abkhazia c_zichia c_tana c_khortytsia }
+	generate_modifiers = yes
+}
+seasonal_region_deccan = {
+	regions = { world_india_deccan sea_arabian_sea sea_bay_of_bengal }
+}
+seasonal_region_rajasthan = {
+	regions = { world_india_rajastan }
+}
+seasonal_region_bengal = {
+	regions = { world_india_bengal }
+}
+seasonal_region_peninsular_southeast_asia = {
+	regions = { world_asia_southeast_mainland world_burma }
+}
+seasonal_region_maritime_southeast_asia = {
+	regions = { world_asia_southeast_islands world_asia_malaysia }
+}
+seasonal_region_east_africa = {
+	regions = { world_africa_east sea_bay_of_somalia sea_gulf_of_aden sea_swahili_coast }
+}
+seasonal_region_west_africa = {
+	regions = { world_africa_west sea_south_atlantic sea_macaronesia }
+}
+mpo_region_permafrost = {
+	duchies = { d_bargujin_tukum d_baigaluuls d_tsagaanbaigal d_lena d_chuna_valley d_yenisei_kan d_khakass_hollow d_shoria d_ala_tau d_vasyugan_mire d_baraba_steppe d_tara d_sibir d_kazym d_konda d_pelym d_ostyaki }
+}
+cp4_music_area = {
+	regions = { custom_swedish custom_eastern_baltic }
+	duchies = { d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat d_vuovdisamieana d_kazan d_udmurtia d_ural d_perm d_nizhny_novgorod d_vologda d_chudia d_ustyug d_biarmia d_vepsia d_novgorod d_luki d_opolye d_halogaland d_bergslagen d_trandalog d_jamtland d_dalir d_vestlandi d_agder d_viken d_skane d_martyuba d_ostyaki d_pelym d_konda d_kazym d_sibir d_ishim d_tara d_vasyugan_mire d_baraba_steppe d_kulyndy_steppe d_eman_boli d_eman_sikhotebei d_eman_samagero d_eman_nivkhia d_eman_amar d_eman_bureya d_SW_lingxiguo d_SW_qingxingan d_SW_puyudao d_SW_ruzheguo d_SW_sushenguo }
+}
+sami_nomad_area = {
+	duchies = { d_norrland d_karelia d_pohjanmaa d_savo d_aarjetje d_duortnoseatnu d_giemajohka d_guoldat d_vuovdisamieana d_halogaland d_jamtland d_biarmia }
+}
+karelia_nomad_area = {
+	duchies = { d_karelia d_pohjanmaa d_savo d_biarmia }
+}
+arab_nomad_area = {
+	duchies = { d_kermanshah d_basra d_baghdad d_samarra d_kurdistan d_wasit d_kufa d_jawf d_amman d_shammar d_medina d_mecca d_asir d_najd d_yamama d_al-hasa d_bahrain d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra d_damascus d_aleppo d_antioch d_edessa d_homs d_lebanon d_palmyra d_oultrejourdain d_palestine d_urdunn }
+}
+egypt_nomad_area = {
+	duchies = { d_cyrenaica d_alexandria d_delta d_cairo d_al-wahat d_al-said d_eastern_desert d_sinai }
+}
+sahel_desert_nomad_area = {
+	duchies = { d_tafilalt d_mzab d_jerid d_syrte d_zammour d_adrar d_touat d_taghaza d_tadmekka d_ghat d_air d_kawar d_tibesti d_fezzan }
+}
+sahel_north_africa_nomad_area = {
+	duchies = { d_kairouan d_tunis d_kroumerie d_gabes d_tripolitania d_tlemcen d_tahert d_alger d_bejaia d_zab d_marrakesh d_sous d_fes d_rif }
+}
+sahel_sub_saharan_africa_nomad_area = {
+	duchies = { d_takrur d_silla d_djolof d_wagadu d_mema d_tagant d_diafunu d_kaniaga d_kawkaw d_timbuktu d_dendi d_kano d_katsina d_kebbi d_gobir d_kanem d_bornu d_kagha d_baguirmi d_salamat d_wandala d_darfur d_west_darfur d_wadai d_kordofan d_lower_gurma d_upper_gurma d_yatenga d_jenne d_bobo }
+}
+horn_of_africa_nomad_area = {
+	duchies = { d_dawaro d_adal d_mora d_danakil d_zaila d_sanaag d_hafun d_mogadishu d_west_ajuraan d_shabelle d_bali d_samalo }
+}
+nubia_nomad_area = {
+	duchies = { d_aksum d_dahlaks d_lasta d_gondar d_gojjam d_showa d_damot d_kaffa d_sharka d_kordofan d_nobatia d_makuria d_shamir d_alwa d_sennar d_naqis d_bazin d_baqlin }
+}
+eastern_plateau_nomad_area = {
+	duchies = { d_nagchu d_conyi d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb }
+}
+western_plateau_nomad_area = {
+	duchies = { d_ngamring d_nyima d_ngari d_kinnaur d_ladakh d_zanskar d_baltiyul d_aksai_chin d_rutog }
+}
+river_valley_nomad_area = {
+	duchies = { d_yarlung d_lhasa d_xigaze d_sagya d_purang d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_gyalrong d_chakla d_golog d_malho d_gainlho }
+}
+tgp_china_tributary_region = {
+	duchies = { d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_indrapura d_vijaya d_hai_dong d_nghe_an d_lam_tay d_thang_long d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_yarlung d_lhasa d_nagchu d_conyi d_xigaze d_sagya d_ngamring d_nyima d_khotan d_kashgar d_karashar d_charkliq d_loulan d_bumthang d_paro d_monyul d_lhoyul d_dzayul d_kamarupanagara d_sutiya d_para_lauhitya d_xichuan d_qiongnan d_dongchuan d_wuxin d_xingyuan d_lilang d_baqu d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_xiangdeng d_jingnan d_eyue d_hunan d_lingling d_kuizhong d_qianzhong d_wuxi d_jiangxi d_dingjiang d_zhaoxin d_weiwu d_pinghai d_jianning d_zhexi d_zhedong d_jiangdong d_xuanshe d_huainan d_huaixi d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_hedong d_yanmen d_hezhong d_zelu d_weibo d_xingming d_chengde d_cangjing d_heyang d_ziqing d_yanhai d_xusi d_yuncao d_gyalrong d_chakla d_golog d_malho d_gainlho d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_aksay d_hexi d_longyou d_qilian d_gansu d_guasha d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_yunshuo d_sanggan d_xinan d_youzhou d_yideng d_yingmo d_LIAO_zhongjing d_liaoxi d_yanyun_yuyi d_LIAO_linhuang d_LIAO_shangjing d_gaeseong d_haeju d_gyoju d_yukju d_bukgye d_gwangju d_chungju d_naju d_tamna d_jeonju d_gyeongju d_jinju d_donggye d_ruucuu d_liuqiu d_PHI_tondo d_PHI_ilocana d_PHI_cagayan d_PHI_sandao d_PHI_visayas d_PHI_maguindanao d_PHI_butuan d_BOR_barune d_tengchong }
+}
+paddy_fields_region = {
+	regions = { graphical_east_asia }
+}
+tgp_ba_region = {
+	duchies = { d_dongchuan d_wuxin d_xingyuan d_lilang d_baqu }
+}
+tgp_bao_region = {
+	duchies = { d_khotan d_kashgar d_karashar d_charkliq d_loulan }
+}
+tgp_bi_region = {
+	duchies = { d_yongxing }
+}
+tgp_cai_region = {
+	counties = { c_caizhou }
+}
+tgp_cao_region = {
+	duchies = { d_yuncao }
+}
+tgp_chen_region = {
+	counties = { c_huaining }
+}
+tgp_cheng_region = {
+	duchies = { d_xichuan d_qiongnan d_gyalrong d_chakla d_golog d_malho d_gainlho }
+}
+tgp_chu_region = {
+	duchies = { d_xiangdeng d_jingnan d_eyue d_hunan d_lingling }
+}
+tgp_dai_region = {
+	duchies = { d_yunshuo d_sanggan d_xinan d_yanmen }
+}
+tgp_dao_region = {
+	counties = { c_tangzhou }
+}
+tgp_deng_region = {
+	duchies = { d_xiangdeng }
+}
+tgp_di_region = {
+	duchies = { d_fufang }
+}
+tgp_dian_region = {
+	duchies = { d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai }
+}
+tgp_e_region = {
+	duchies = { d_eyue }
+}
+tgp_gan_region = {
+	duchies = { d_jiangxi d_dingjiang d_zhaoxin }
+}
+tgp_gui_region = {
+	duchies = { d_guiguan d_jingjiang d_rongguan d_yongguan }
+}
+tgp_guo_region = {
+	duchies = { d_shanguo }
+}
+tgp_han_region = {
+	duchies = { d_xingyuan d_lilang d_baqu }
+}
+tgp_han_henan_region = {
+	counties = { c_yingchuan }
+}
+tgp_hua_region = {
+	counties = { c_huazhou }
+}
+tgp_huai_region = {
+	duchies = { d_huainan d_huaixi }
+}
+tgp_huang_region = {
+	duchies = { d_huaixi }
+}
+tgp_huo_region = {
+	counties = { c_pingyang }
+}
+tgp_ji_region = {
+	counties = { c_dengzhou }
+}
+tgp_ji_hebei_region = {
+	duchies = { d_weibo d_xingming d_chengde d_cangjing d_heyang }
+}
+tgp_jiao_region = {
+	duchies = { d_hai_dong d_nghe_an d_lam_tay d_thang_long }
+}
+tgp_jin_region = {
+	duchies = { d_hedong d_yanmen d_hezhong d_zelu }
+}
+tgp_jing_region = {
+	duchies = { d_jingnan }
+}
+tgp_ju_region = {
+	counties = { c_haizhou }
+}
+tgp_kang_region = {
+	duchies = { d_gyalrong d_chakla d_golog d_malho d_gainlho d_qamdo d_boyul d_nyingchi d_nangqen d_lhatok d_lingtsang d_dege d_batang d_litang d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy }
+}
+tgp_lai_region = {
+	counties = { c_laizhou }
+}
+tgp_liang_region = {
+	duchies = { d_biansong }
+}
+tgp_liang_west_region = {
+	duchies = { d_hexi d_longyou d_qilian d_gansu d_guasha d_xining d_tuyuhun d_nagormo d_amdo d_zadoi d_qumarleb d_aksay }
+}
+tgp_liao_region = {
+	duchies = { d_LIAO_zhongjing d_liaoxi d_yanyun_yuyi d_LIAO_linhuang d_LIAO_shangjing }
+}
+tgp_lu_region = {
+	duchies = { d_yanhai }
+}
+tgp_min_region = {
+	duchies = { d_weiwu d_pinghai d_jianning }
+}
+tgp_ou_region = {
+	duchies = { d_zhexi d_zhedong d_qianzhong }
+}
+tgp_peng_region = {
+	counties = { c_jiangzhou_2 }
+}
+tgp_qi_region = {
+	duchies = { d_ziqing }
+	counties = { c_mizhou c_qizhou }
+}
+tgp_qi_guannei_region = {
+	duchies = { d_fengxiang }
+}
+tgp_qian_region = {
+	duchies = { d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_kuizhong d_qianzhong d_wuxi }
+}
+tgp_qin_region = {
+	duchies = { d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_khotan d_kashgar d_karashar d_charkliq d_loulan }
+}
+tgp_qiong_region = {
+	duchies = { d_qiongguan }
+}
+tgp_shang_region = {
+	duchies = { d_jinshang }
+}
+tgp_shen_region = {
+	counties = { c_dengzhou_1 }
+}
+tgp_shu_region = {
+	duchies = { d_xichuan d_qiongnan d_dongchuan d_wuxin }
+}
+tgp_song_region = {
+	counties = { c_songzhou }
+}
+tgp_sui_region = {
+	counties = { c_suizhou_1 }
+}
+tgp_tan_region = {
+	counties = { c_qizhou }
+}
+tgp_tang_region = {
+	duchies = { d_hedong d_yideng }
+	counties = { c_tangzhou }
+}
+tgp_teng_region = {
+	counties = { c_xuzhou_1 }
+}
+tgp_wei_region = {
+	duchies = { d_weibo }
+}
+tgp_wey_region = {
+	duchies = { d_heyang }
+}
+tgp_wu_region = {
+	duchies = { d_jiangdong d_xuanshe d_huainan d_huaixi }
+}
+tgp_xi_region = {
+	counties = { c_shenzhou }
+}
+tgp_xia_region = {
+	duchies = { d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan d_hexi d_longyou d_qilian d_gansu d_guasha }
+}
+tgp_xiang_region = {
+	duchies = { d_hunan d_lingling }
+}
+tgp_xing_region = {
+	duchies = { d_xingming }
+}
+tgp_xu_region = {
+	counties = { c_yingchuan }
+}
+tgp_xu_shandong_region = {
+	duchies = { d_xusi }
+}
+tgp_yan_region = {
+	duchies = { d_youzhou d_yideng d_yingmo }
+}
+tgp_yang_region = {
+	duchies = { d_huainan }
+}
+tgp_yin_region = {
+	duchies = { d_xingming d_heyang d_jianning }
+}
+tgp_ying_region = {
+	counties = { c_ruzhou }
+}
+tgp_yong_region = {
+	duchies = { d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng }
+}
+tgp_you_region = {
+	duchies = { d_youzhou }
+}
+tgp_yu_region = {
+	counties = { c_shanzhou_2 }
+}
+tgp_yuan_ferghana_region = {
+	duchies = { d_soghd d_badakhshan d_khuttal d_osrushana d_ferghana d_khorezm d_uzboy }
+}
+tgp_yue_region = {
+	duchies = { d_zhexi d_zhedong d_lingnan d_huixun d_gaoliang d_qiongguan d_hai_dong d_nghe_an d_lam_tay d_thang_long }
+}
+tgp_yue_2_region = {
+	duchies = { d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan }
+}
+tgp_zhao_region = {
+	duchies = { d_xingming d_chengde d_cangjing }
+}
+tgp_zheng_region = {
+	counties = { c_zhengzhou }
+}
+tgp_zhou_region = {
+	counties = { c_henan }
+}
+tgp_zou_region = {
+	counties = { c_langya }
+}
+tgp_duchy_chinese_naming_region = {
+	duchies = { d_hedong d_yanmen d_hezhong d_zelu d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_weibo d_xingming d_chengde d_cangjing d_heyang d_huainan d_huaixi d_qiongguan }
+}
+tgp_county_chinese_naming_region = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao }
+}
+converter_AUH_out_of_scope_region_hantuist = {
+	duchies = { d_SUM_palembang d_JAV_taruma d_JAV_mataram d_IDO_bali d_IDO_lesser_sunda d_IDO_timor }
+	counties = { c_SUM_jambi c_SUM_karang_brahi c_SUM_riak_nan_berbedur c_SUM_bengkulu c_riau }
+	provinces = { 11278 11279 }
+}
+converter_AUH_out_of_scope_region_tolotang = {
+	duchies = { d_papua d_SuMa_halmahera d_SuMa_maluku }
+	counties = { c_SuMa_butun c_SuMa_moronene c_SuMa_konawe c_SuMa_luwu c_SuMa_ajatappareng c_SuMa_siang }
+}
+converter_AUH_out_of_scope_region_aluk = {
+	duchies = { d_SuMa_tompotika }
+	counties = { c_SuMa_sampaga c_SuMa_tamboeko }
+}
+converter_AUH_out_of_scope_region_kaharingan = {
+	duchies = { d_SuMa_minahasa d_BOR_barune d_BOR_kutai d_BOR_nan_sarunai d_BOR_tanjungpura d_BOR_santubong }
+}
+converter_AUH_out_of_scope_indonesia = {
+	regions = { converter_AUH_out_of_scope_region_kaharingan converter_AUH_out_of_scope_region_aluk converter_AUH_out_of_scope_region_tolotang converter_AUH_out_of_scope_region_hantuist }
+	duchies = { d_PHI_maguindanao d_PHI_butuan }
+	counties = { c_PHI_bool_and_cebu c_PHI_buglas c_PHI_samar c_PHI_tandaya }
+}
+converter_AUH_out_of_scope_region_faith_check = {
+	regions = { world_asia_malaysia omnod_dalai_khanate_de_jure_region }
+	duchies = { d_SUM_aceh d_nias d_SUM_riau d_lop_buri }
+	counties = { c_SUM_indragiri c_SUM_dharmasraya c_SUM_minangkabau }
+}
+irtock3_de_jure_region_e_zhongyuan = {
+	duchies = { d_dongji d_biansong d_shanguo d_zhenghua d_chenxu d_ziqing d_yanhai d_xusi d_yuncao d_weibo d_xingming d_chengde d_cangjing d_heyang d_hedong d_yanmen d_hezhong d_zelu d_youzhou d_yideng d_yingmo d_yunshuo d_sanggan d_xinan }
+}
+irtock3_de_jure_region_e_jingyang = {
+	duchies = { d_jiangdong d_xuanshe d_zhexi d_zhedong d_weiwu d_pinghai d_jianning d_huainan d_huaixi d_jiangxi d_dingjiang d_zhaoxin d_xiangdeng d_jingnan d_eyue d_hunan d_lingling }
+}
+irtock3_de_jure_region_e_liangyi = {
+	duchies = { d_xichuan d_qiongnan d_xingyuan d_lilang d_baqu d_dongchuan d_wuxin d_kuizhong d_qianzhong d_wuxi d_luodian d_luoshi d_shimen d_zangke d_xiyuan d_dali d_jianchuan d_huichuan d_yinsheng d_tuodong d_tonghai }
+}
+irtock3_de_jure_region_e_lingnan = {
+	duchies = { d_lingnan d_huixun d_gaoliang d_qiongguan d_guiguan d_jingjiang d_rongguan d_yongguan d_hai_dong d_nghe_an d_lam_tay d_thang_long }
+}
+irtock3_de_jure_region_h_china = {
+	regions = { irtock3_de_jure_region_e_zhongyuan irtock3_de_jure_region_e_yongliang irtock3_de_jure_region_e_jingyang irtock3_de_jure_region_e_liangyi irtock3_de_jure_region_e_lingnan }
+}
+irtock3_de_jure_region_e_yongliang = {
+	duchies = { d_yongxing d_fengxiang d_jinshang d_binning d_fufang d_jingyuan d_qincheng d_xingfeng d_hexi d_longyou d_qilian d_gansu d_guasha d_shuofang d_xiasui d_tiande d_langshan d_xiutu d_juyan }
+}
+converter_custom_hindustan_region = {
+	duchies = { d_lahore d_multan d_gandhara d_kuru d_vodamayutja d_haritanaka d_mathura }
+}
+irtock3_restore_roman_locations = {
+	duchies = { d_latium d_venice d_romagna d_sicily d_genoa d_capua d_apulia d_thrace d_athens d_thessalonika d_croatia d_antioch d_palestine d_alexandria d_tunis }
+}
+irtock3_key_roman_locations = {
+	regions = { irtock3_restore_roman_locations }
+	counties = { c_algeciras c_cadiz c_ceuta c_tangiers }
+}
+irtock3_rome_empire_division_britannia = {
+	duchies = { d_bedford d_canterbury d_somerset d_gloucester d_norfolk d_hereford d_york d_cornwall d_deheubarth d_lancaster d_powys d_gwynedd d_northumberland d_lothian d_galloway d_ulster d_the_isles d_albany d_western_isles d_moray d_connacht d_meath d_leinster d_munster d_northern_isles d_iceland }
+}
+irtock3_rome_empire_division_galliarum = {
+	duchies = { d_luxembourg d_upper_lorraine d_bar d_julich d_champagne d_brabant d_valois d_burgundy d_flanders d_upper_burgundy d_normandy d_transjurania d_orleans d_anjou d_berry d_savoie d_dauphine d_bourbon d_brittany d_provence d_auvergne d_poitou d_languedoc d_toulouse d_aquitaine d_gascogne d_armagnac d_barcelona d_viscaya d_aragon d_navarra d_valencia d_cantabria d_asturias d_castilla d_leon d_toledo d_murcia d_galicia d_cordoba d_porto d_granada d_badajoz d_coimbra d_sevilla d_beja d_rif d_algarve d_fes d_mallorca d_currezia }
+}
+irtock3_rome_empire_division_germania = {
+	duchies = { d_angria d_westfalen d_frisia d_holstein d_ostfalen d_nordmark d_hesse d_anhalt d_thuringia d_ostmark d_east_franconia d_meissen d_lausitz d_nordgau d_bohemia d_swabia d_moravia d_pommerania d_pomerelia d_wielkopolska d_upper_silesia d_lower_silesia d_gelre d_holland d_utrecht d_lower_lorraine d_west_franconia d_alsace d_kuyavia d_lesser_poland d_bavaria d_augsburg d_salzburg d_osterreich }
+}
+irtock3_rome_empire_division_italiae = {
+	duchies = { d_tyrol d_lombardia d_verona d_emilia d_venice d_friuli d_carinthia d_romagna d_piedmonte d_toscana d_genoa d_istria d_ancona d_pisa d_spoleto d_latium d_capua d_benevento d_apulia d_salerno d_calabria d_sicily d_corsica d_sardinia d_tlemcen d_tahert d_alger d_zab d_bejaia d_kroumerie d_kairouan d_tunis d_gabes d_tripolitania d_syrte }
+}
+irtock3_rome_empire_division_libya_interior = {
+	duchies = { d_marrakesh d_tafilalt d_sous d_zammour d_touat d_taghaza d_tadmekka d_mzab d_timbuktu d_adrar d_ghat d_mema d_kawkaw d_kawar d_jenne d_tagant d_takrur d_upper_gurma d_fezzan d_tibesti d_yatenga d_wagadu d_kaniaga d_diafunu d_silla d_lower_gurma d_bobo d_manding d_bambuk d_djolof d_dendi d_air d_wuli d_futa_jalon d_kaabu d_loma d_kasa d_canarias d_jerid }
+}
+irtock3_rome_empire_division_libya_ulterior = {
+	duchies = { d_kanem d_bornu d_wadai d_baguirmi d_kagha d_wandala d_kano d_kwararafa d_katsina d_salamat d_nupe d_igboland d_gobir d_kebbi d_west_darfur d_darfur d_borgu d_benin d_oyo d_ife d_mamprusi d_ibadan d_savalu d_dagomba d_eweland d_wagadugu d_brong d_lobi d_ashanti d_gyaman d_adiukru d_kong d_worodugu d_kru d_toro d_bassa d_wenyon d_kono d_sapi }
+}
+irtock3_rome_empire_division_aethiopia = {
+	duchies = { d_aksum d_baqlin d_gondar d_lasta d_dahlaks d_danakil d_makuria d_alwa d_bazin d_naqis d_sennar d_gojjam d_showa d_mora d_zaila d_damot d_dawaro d_adal d_nobatia d_sharka d_kordofan d_kaffa d_shabelle d_bali d_sanaag d_west_ajuraan d_hafun d_mogadishu d_samalo d_mombasa d_shamir d_pate d_bonde_la_ufa d_zanzibar }
+}
+irtock3_rome_empire_division_orientis = {
+	duchies = { d_thrace d_optimatoi d_philippopolis d_opsikion d_dobrudja d_turnovo d_aegean_islands d_thracesia d_anatolia d_bucellaria d_ephese d_paphlagonia d_cappadocia d_cibyrrhaeot d_charsianon d_armeniac d_cilicia d_sebasteia d_chaldia d_mesopotamia d_edessa d_antioch d_aleppo d_diyarmudar d_homs d_lebanon d_palmyra d_damascus d_urdunn d_palestine d_oultrejourdain d_sinai d_cairo d_delta d_al-said d_alexandria d_al-wahat d_cyrenaica d_eastern_desert d_cyprus d_strymon }
+}
+irtock3_rome_empire_division_illyrici = {
+	duchies = { d_steyermark d_gyor d_slavonia d_krain d_somogy d_lower_bosna d_croatia d_syrmia d_bosna d_macva d_usora d_dalmatia d_rashka d_vidin d_duklja d_bulgaria d_ragusa d_dyrrachion d_thessalonika d_epirus d_thessaly d_cephalonia d_athens d_achaia d_krete }
+}
+irtock3_rome_empire_division_pannonia = {
+	duchies = { d_transylvanian_alps d_muntenia d_oltenia d_transylvania d_moldova d_bugeac d_bukovina d_bihar d_temes d_transcarpathia d_bacs d_ungvar d_nyitra d_visegrad }
+}
+irtock3_rome_empire_division_vistulia = {
+	duchies = { d_prussia d_masuria d_samogitia d_volhynia d_cherven_cities d_lithuanians d_grodno d_pinsk d_halych d_courland d_turov d_polotsk d_minsk d_smolensk d_karachev d_novosil d_kiev d_chernigov d_pereyaslavl d_mazovia }
+}
+irtock3_rome_empire_division_fennia = {
+	duchies = { d_latgalians d_livonia d_novgorod d_esthonia d_vepsia d_luki d_opolye d_chudia d_vologda d_nizhny_novgorod d_biarmia d_ryazan d_ustyug d_finland d_pohjanmaa d_karelia d_savo }
+}
+irtock3_rome_empire_division_scandia = {
+	duchies = { d_svealand d_bergslagen d_ostergotland d_norrland d_smaland d_vastergotland d_dalir d_jamtland d_viken d_skane d_trandalog d_aarjetje d_vuovdisamieana d_halogaland d_duortnoseatnu d_giemajohka d_sjaelland d_agder d_vestlandi d_guoldat d_slesvig d_jylland d_gotland }
+}
+irtock3_rome_empire_division_arabia = {
+	duchies = { d_kufa d_basra d_jawf d_najd d_bahrain d_yamama d_medina d_al-hasa d_mecca d_asir d_oman d_sanaa d_jawf-al-yamani d_taizz d_hadramawt d_mahra d_socotra d_amman d_shammar }
+}
+irtock3_rome_empire_division_persia = {
+	duchies = { d_vaspurakan d_greater_armenia d_azerbaijan d_kurdistan d_shirvan d_daylam d_kermanshah d_samarra d_euphrates d_rayy d_isfahan d_khuzestan d_baghdad d_tabaristan d_nishapur d_wasit d_yazd d_gurgan d_fars d_kohestan d_kirman d_herat d_nasa d_sistan d_jabal_kufs d_merv d_hormuz d_makran d_ghur d_zabulistan d_balkh d_kabul d_georgia d_abkhazia d_hamadan d_tao-klarjeti d_diyarbakr d_diyarrabia }
+}
+irtock3_rome_empire_division_sarmatia = {
+	duchies = { d_yedisan d_kizilyedisan d_levedia d_red_levedia d_crimea d_tana d_don_valley d_azov d_khazaria d_alania d_itil d_ciscaucasia d_atyrau d_pecheneg d_aqtobe d_mugodzhar_hills d_manatau }
+}
+irtock3_rome_empire_division_uralia_interior = {
+	duchies = { d_volga_bulgaria d_kazan d_jalmat d_chuvashia d_mordvinia d_perm d_bugurslan d_saran d_udmurtia d_ural d_bashkiria d_uraltau d_tambov d_khopyor d_martyuba d_sakmara d_voronezh d_vogulia }
+}
+irtock3_rome_empire_division_uralia_ulterior = {
+	duchies = { d_ostyaki d_kurgan d_ishim d_pelym d_kush-murun d_sibir d_konda d_kazym d_tara d_vasyugan_mire d_kazakh d_lanikaz d_baraba_steppe d_kulyndy_steppe d_ala_tau d_salair d_tobol-ishim d_atbasar d_aley d_altaishan }
+}
+irtock3_rome_empire_division_tartaria = {
+	duchies = { d_zhetysu d_ili-alatau d_alakol d_tarbagatai d_betpa d_kentarlau d_karkaraly d_gurbantunggut d_semey d_altay d_karabas d_kara_khoja d_saryarka d_karashar d_naiman_gobi d_turgay d_jinghiz d_beshbalik d_degelen d_akaltay d_tokumbay d_qyzylsaryarka d_kokturgay d_loulan }
+}
+irtock3_rome_empire_division_parthia = {
+	duchies = { d_kashgar d_badakhshan d_pamir d_ferghana d_khuttal d_chah d_osrushana d_muyunkum d_soghd d_syr_darya d_khorezm d_aral_il d_uzboy d_jemba d_barsuki d_transcaspiana d_talas_alatau d_aral_karakum d_garabogazkol }
+}
+irtock3_rome_empire_division_imoan_montem = {
+	duchies = { d_khotan d_aksai_chin d_ladakh d_rutog d_baltiyul d_zanskar d_kinnaur d_ngari d_nagormo d_charkliq d_purang d_conyi d_amdo d_nyima d_sagya d_ngamring d_qumarleb d_tuyuhun d_nagchu d_zadoi d_nangqen d_golog d_xigaze d_lhasa d_qamdo d_lhatok d_lingtsang d_xining d_malho d_yarlung d_nyingchi d_paro d_dege d_gainlho d_chakla d_gyalrong d_boyul d_monyul d_lhoyul d_batang d_litang d_bumthang d_dzayul d_aksay }
+}
+irtock3_rome_empire_division_india_intra_gangem = {
+	duchies = { d_sauvira d_stravani d_bhakkar d_maru d_jangladesh d_gurjara_mandala d_anartta d_multan d_medapata d_saurashtra d_ajmer d_haritanaka d_dadhipadra d_gandhara d_lahore d_kuru d_mathura d_akara_dasarna d_kanyakubja d_dahala d_vodamayutja d_kurmanchal d_jejakabhukti d_kasmira d_saryupara d_kasi d_ratanpur d_jharkand d_khasa d_tirabhukti d_magadha d_nepal d_suhma d_limbuwan d_gauda d_nadia d_kamarupanagara d_vanga d_varendra d_sutiya d_para_lauhitya }
+}
+irtock3_rome_empire_division_india_extra_gangem = {
+	duchies = { d_sriksetra d_arakan d_tagaung d_pagan d_MAL_langkasuka d_MAL_pahang d_tun_sun d_lop_buri d_sukhothai d_haripunjaya d_angkor_borey d_angkor d_mukdahan d_muang_sua d_mongnai d_phonsavan d_yongchang d_sipsongpanna d_baigaur d_vyadhapura d_ratanakiri d_tengchong d_indrapura d_vijaya d_ramannadesa }
+}
+irtock3_rome_empire_division_magna_taprobana = {
+	duchies = { d_lata d_anupa d_nasikya d_devagiri d_rattapadi d_konkana d_vidharba d_warangal d_kalyani d_racakonda d_daksina_kosala d_vengi d_dandakaranya d_raichur_doab d_udayagiri d_nulambavadi d_chera_nadu d_tondai_nadu d_gangavadi d_kalinga d_pandya_nadu d_tosali d_chola_nadu d_sinhala d_dakhina_desa d_ruhunu }
+}
+irtock3_rome_empire_division_septentrionalis_deserti = {
+	duchies = { d_ovorkhangai d_ogrash d_selenga_valley d_arkhangai d_khovsgol d_uda_valley d_ubsunur_hollow d_tannu_ola d_dauria d_togina d_eastern_sayan d_western_sayan d_gobi_altai d_angara d_kargassia d_khovd d_tsagaanbaigal d_bargujin_tukum d_lena d_baigaluuls d_chuna_valley d_khakass_hollow d_shoria d_yenisei_kan d_orkhon d_zavkhan d_blue_khakassia d_katu_yaryk d_em_tataria d_gobi_ongi d_gobi_dadaels d_EM_onon d_em_wuguguo d_EM_yujuelu d_gobi_shatuoguo d_EM_wajiezi }
+}
+irtock3_rome_empire_division_insulae_remotae = {
+	duchies = { d_JAV_mataram d_JAV_taruma d_IDO_bali d_SUM_palembang d_SUM_minangkabau d_SUM_jambi d_IDO_lesser_sunda d_SUM_riau d_SUM_aceh d_IDO_timor d_nias d_handumans d_PHI_tondo d_PHI_ilocana d_PHI_cagayan d_PHI_sandao d_PHI_visayas d_BOR_barune d_PHI_butuan d_PHI_maguindanao d_BOR_kutai d_BOR_santubong d_BOR_tanjungpura d_BOR_nan_sarunai d_liuqiu d_SuMa_luwu d_SuMa_konawe d_SuMa_tompotika d_SuMa_minahasa d_SuMa_maluku d_SuMa_halmahera d_papua }
+}
+irtock3_rome_empire_division_insulae_solis = {
+	duchies = { d_sahaliyan d_menas d_sum d_hitakami d_nushiro d_hokurikudo d_east_bando d_tosando d_west_bando d_tokaido d_east_sanindo d_kinai d_nankaido d_east_sanyodo d_west_sanindo d_west_sanyodo d_north_saikaido d_south_saikaido d_tamna d_ruucuu }
+}
+irtock3_rome_empire_division_serica_ultima = {
+	duchies = { d_BAL_parhae d_BAL_cheolli d_BAL_moe_su d_BAL_dongpyeong d_BAL_southern_balhae d_BAL_yeojintang d_SW_sushenguo d_BAL_buyeo d_BAL_amnok_jangryeong d_BAL_anwon d_BAL_hoewon d_LIAO_shangjing d_SW_ruzheguo d_yukju d_SW_puyudao d_LIAO_dongjing d_liaoxi d_bukgye d_donggye d_gyoju d_eman_boli d_eman_sikhotebei d_SW_qingxingan d_SW_heicheziguo d_LIAO_linhuang d_gaeseong d_gwangju d_LIAO_zhongjing d_SW_lingxiguo d_haeju d_eman_amar d_eman_samagero d_SW_dashiweiguo d_gyeongju d_chungju d_eman_bureya d_eman_nivkhia d_jinju d_jeonju d_yanyun_yuyi d_naju }
+}
+irtock3_rome_empire_division_serica_meridiana = {
+	duchies = { d_lingnan d_huixun d_gaoliang d_rongguan d_jingjiang d_guiguan d_yongguan d_qiongguan d_hai_dong d_thang_long d_nghe_an d_lam_tay }
+}
+irtock3_rome_empire_division_serica_occidens = {
+	duchies = { d_xichuan d_qiongnan d_dongchuan d_wuxin d_lilang d_shimen d_baqu d_xingyuan d_luoshi d_qianzhong d_huichuan d_kuizhong d_jianchuan d_luodian d_tuodong d_dali d_zangke d_wuxi d_yinsheng d_tonghai d_xiyuan }
+}
+irtock3_rome_empire_division_serica_orientalis = {
+	duchies = { d_jiangdong d_huainan d_xuanshe d_huaixi d_zhexi d_zhedong d_dingjiang d_jiangxi d_eyue d_jianning d_zhaoxin d_weiwu d_hunan d_jingnan d_lingling d_pinghai d_xiangdeng }
+}
+irtock3_rome_empire_division_serica_septentrionalis = {
+	duchies = { d_dongji d_shanguo d_heyang d_zhenghua d_chenxu d_hezhong d_zelu d_biansong d_xingming d_yuncao d_hedong d_weibo d_xusi d_chengde d_yanhai d_yanmen d_cangjing d_yideng d_yingmo d_ziqing d_xinan d_yunshuo d_youzhou d_sanggan }
+}
+irtock3_rome_empire_division_serica_deserti = {
+	duchies = { d_yongxing d_fengxiang d_jinshang d_binning d_xingfeng d_jingyuan d_fufang d_qincheng d_shuofang d_xiasui d_hexi d_longyou d_xiutu d_langshan d_qilian d_tiande d_gansu d_juyan d_guasha }
+}
+island_region_iceland = {
+	duchies = { d_iceland }
+}
+island_region_faereyar = {
+	counties = { c_faereyar }
+}
+island_region_shetland = {
+	counties = { c_shetland }
+}
+island_region_britain = {
+	duchies = { d_moray d_western_isles d_albany d_lothian d_galloway d_the_isles d_northumberland d_york d_lancaster d_gwynedd d_powys d_hereford d_norfolk d_deheubarth d_gloucester d_bedford d_cornwall d_somerset d_canterbury d_ulster d_connacht d_meath d_munster d_leinster }
+	counties = { c_orkney }
+}
+island_region_menorca = {
+	counties = { c_menorca }
+}
+island_region_mallorca = {
+	counties = { c_mallorca }
+}
+island_region_iviza = {
+	counties = { c_iviza }
+}
+island_region_sardinia_corsica = {
+	duchies = { d_sardinia d_corsica }
+}
+island_region_malta = {
+	counties = { c_malta }
+}
+island_region_crete = {
+	duchies = { d_krete }
+}
+island_region_cyprus = {
+	duchies = { d_cyprus }
+}
+island_region_socotra = {
+	counties = { c_socotra }
+}
+island_region_maldives = {
+	counties = { c_maldives }
+}
+island_region_canarias = {
+	counties = { c_canarias c_fuerteventura }
+}
+island_region_madeira = {
+	counties = { c_madeira }
+}
+island_region_venice = {
+	counties = { c_venezia }
+}
+island_region_gutland = {
+	counties = { c_gutland }
+}
+island_region_bornholm = {
+	counties = { c_bornholm }
+}
+island_region_zanzibar = {
+	counties = { c_zanzibar }
+}
+island_region_pemba = {
+	counties = { c_pemba }
+}

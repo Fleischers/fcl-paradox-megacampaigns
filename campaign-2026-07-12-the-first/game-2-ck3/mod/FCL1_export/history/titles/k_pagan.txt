@@ -158,7 +158,7 @@ c_moeng_laem={
 	890.1.1 = { change_development_level = 4 }
 }
 c_momauk={
-	457.5.24 = { liege = d_IRTOCK3_AAA holder = imperator243818 }
+	457.5.24 = { liege = d_IR_Lapethos holder = imperator243818 }
 	476.1.7 = { change_development_level = 12 }
 	500.1.28 = { holder = irtock3_imperator243818_successor_0 }
 	537.1.28 = { holder = irtock3_imperator243818_successor_1 }
@@ -175,7 +175,7 @@ c_mongnai={
 	890.1.1 = { change_development_level = 4 }
 }
 c_monyin={
-	457.5.24 = { liege = d_IRTOCK3_AAA holder = imperator243818 }
+	457.5.24 = { liege = d_IR_Lapethos holder = imperator243818 }
 	476.1.7 = { change_development_level = 13 }
 	500.1.28 = { holder = irtock3_imperator243818_successor_0 }
 	537.1.28 = { holder = irtock3_imperator243818_successor_1 }
@@ -188,7 +188,7 @@ c_monyin={
 	844.1.28 = { holder = irtock3_imperator243818_successor_8 }
 }
 c_myitkyina={
-	457.5.24 = { liege = d_IRTOCK3_AAA holder = imperator243818 }
+	457.5.24 = { liege = d_IR_Lapethos holder = imperator243818 }
 	476.1.7 = { change_development_level = 13 }
 	500.1.28 = { holder = irtock3_imperator243818_successor_0 }
 	537.1.28 = { holder = irtock3_imperator243818_successor_1 }

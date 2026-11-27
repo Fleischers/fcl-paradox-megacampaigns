@@ -1,0 +1,54 @@
+k_hujung_medini={
+	890.1.1 = { liege = 0 }
+}
+d_MAL_langkasuka={
+	859.1.1 = { holder = malay_langkasuka_01_fic government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_kedah_holder government = tribal_government liege = 0 }
+}
+d_MAL_pahang={
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder government = tribal_government liege = 0 }
+}
+c_MAL_gangganegara={
+	850.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder change_development_level = 5 }
+}
+c_MAL_gelanggi={
+	847.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder change_development_level = 4 }
+}
+c_MAL_johor={
+	847.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder change_development_level = 6 }
+}
+c_MAL_kedah={
+	530.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_kedah_holder liege = 0 change_development_level = 7 }
+}
+c_MAL_kelantan={
+	859.1.1 = { holder = malay_langkasuka_01_fic government = mandala_government liege = d_MAL_langkasuka }
+	890.1.1 = { change_development_level = 6 }
+}
+c_MAL_pahang={
+	860.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder liege = 0 change_development_level = 5 }
+}
+c_MAL_patani={
+	859.1.1 = { holder = malay_langkasuka_01_fic government = mandala_government liege = d_MAL_langkasuka }
+	890.1.1 = { change_development_level = 6 }
+}
+c_MAL_semantan={
+	866.1.1 = { holder = malay_semantan_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 4 }
+}
+c_riau={
+	851.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_pahang_holder change_development_level = 5 }
+}
+c_THAI_takua_pa={
+	863.1.1 = { government = mandala_government }
+	890.1.1 = { holder = IRToCK3_c_MAL_kedah_holder change_development_level = 6 }
+}
+c_THAI_tambralinga={
+	866.1.1 = { holder = malay_tambralinga_01_fic government = mandala_government }
+	890.1.1 = { change_development_level = 7 }
+}

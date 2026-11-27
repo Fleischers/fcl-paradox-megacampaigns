@@ -1,5 +1,5 @@
 k_kabulistan={
-	465.5.1 = { government = feudal_government holder = imperator240183 liege = e_IRTOCK3_AFZ succession_laws = { high_partition_succession_law } }
+	465.5.1 = { government = feudal_government holder = imperator240183 liege = e_IR_Qalai succession_laws = { partition_succession_law } }
 	500.6.3 = { holder = irtock3_imperator240183_successor_0 }
 	544.6.3 = { holder = irtock3_imperator240183_successor_1 }
 	578.6.3 = { holder = irtock3_imperator240183_successor_2 }

@@ -1,0 +1,139 @@
+9856={
+	culture = baekje
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { religion = avatamsaka }
+	1105.1.1 = { culture = goryeo }
+}
+9927={
+	holding = city_holding
+}
+9933={
+	culture = baekje
+	religion = avatamsaka
+	holding = castle_holding
+	847.1.1 = { religion = dhyana }
+	1000.1.1 = { culture = goryeo }
+}
+9934={
+	holding = none
+}
+9935={
+	holding = none
+}
+9936={
+	culture = baekje
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9937={
+	culture = baekje
+	religion = avatamsaka
+	holding = castle_holding
+	special_building_slot = gongsanseong_fortress_01
+	475.1.1 = { special_building = gongsanseong_fortress_01 }
+	1000.1.1 = { culture = goryeo }
+}
+9938={
+	holding = city_holding
+}
+9940={
+	holding = none
+}
+9941={
+	holding = none
+}
+9942={
+	holding = city_holding
+}
+9943={
+	culture = baekje
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9944={
+	holding = none
+}
+9949={
+	culture = baekje
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9950={
+	holding = city_holding
+}
+9951={
+	holding = church_holding
+}
+9952={
+	holding = city_holding
+}
+9953={
+	culture = baekje
+	religion = yogacara
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9954={
+	culture = baekje
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9955={
+	holding = none
+}
+9956={
+	holding = city_holding
+}
+9957={
+	holding = none
+}
+9958={
+	culture = baekje
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9959={
+	holding = city_holding
+}
+9960={
+	holding = none
+}
+9961={
+	culture = baekje
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9962={
+	holding = city_holding
+}
+9963={
+	holding = city_holding
+}
+9964={
+	culture = baekje
+	religion = dhyana
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9965={
+	holding = none
+}
+9966={
+	holding = castle_holding
+}
+9967={
+	holding = city_holding
+}
+9969={
+	holding = none
+}
+9983={
+	holding = city_holding
+}

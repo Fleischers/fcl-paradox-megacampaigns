@@ -1,0 +1,69 @@
+10825={
+	culture = cham
+	religion = shaivism
+	holding = temple_citadel_holding
+	special_building_slot = po_klong_garai_01
+	1210.1.1 = { special_building = po_klong_garai_01 }
+}
+10826={
+	culture = cham
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+10827={
+	culture = cham
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+10828={
+	culture = cham
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+10829={
+	holding = none
+}
+10830={
+	culture = cham
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+10831={
+	holding = church_holding
+}
+10832={
+	holding = none
+}
+10833={
+	holding = city_holding
+}
+10834={
+	holding = city_holding
+}
+10836={
+	culture = cham
+	religion = shaivism
+	holding = temple_citadel_holding
+	1168.1.1 = { holding = castle_holding }
+}
+10837={
+	holding = church_holding
+}
+10838={
+	holding = city_holding
+}
+10921={
+	holding = none
+}
+11093={
+	holding = church_holding
+}
+11464={
+	holding = church_holding
+}
+12510={
+	holding = church_holding
+}
+12880={
+	holding = none
+}

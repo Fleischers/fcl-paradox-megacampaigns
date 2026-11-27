@@ -1,0 +1,191 @@
+1462={
+	culture = kirghiz
+	religion = siberian_pagan
+	holding = nomad_holding
+	853.5.19 = { holding = herder_holding }
+	878.2.3 = { holding = nomad_holding }
+	1000.1.2 = { culture = buryat }
+}
+7730={
+	holding = none
+}
+7731={
+	holding = none
+}
+7732={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+}
+7733={
+	holding = none
+}
+7734={
+	holding = none
+}
+7735={
+	holding = none
+}
+7736={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1157.4.30 = { holding = herder_holding }
+	1184.1.16 = { holding = nomad_holding }
+}
+7737={
+	holding = none
+}
+7738={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1041.12.19 = { holding = herder_holding }
+	1083.6.23 = { holding = nomad_holding }
+}
+7739={
+	holding = none
+}
+7740={
+	holding = none
+}
+7741={
+	holding = none
+}
+7742={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+}
+7743={
+	holding = none
+}
+7744={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1058.9.13 = { holding = herder_holding }
+	1081.10.3 = { holding = nomad_holding }
+}
+7745={
+	holding = none
+}
+7746={
+	holding = none
+}
+7747={
+	holding = none
+}
+7748={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	848.8.16 = { holding = herder_holding }
+	889.2.23 = { holding = nomad_holding }
+}
+7749={
+	holding = none
+}
+7750={
+	holding = none
+}
+7751={
+	holding = none
+}
+7752={
+	holding = none
+}
+7753={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1065.7.23 = { holding = herder_holding }
+	1092.5.2 = { holding = nomad_holding }
+}
+7754={
+	holding = none
+}
+7755={
+	culture = buryat
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7756={
+	holding = none
+}
+7757={
+	holding = none
+}
+7758={
+	holding = none
+}
+7759={
+	culture = buryat
+	religion = tengri_pagan
+	holding = nomad_holding
+	1175.4.18 = { holding = herder_holding }
+}
+7760={
+	holding = none
+}
+7761={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+}
+7762={
+	holding = none
+}
+7763={
+	holding = none
+}
+7764={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	856.3.26 = { holding = herder_holding }
+	893.9.22 = { holding = nomad_holding }
+}
+7765={
+	holding = none
+}
+7766={
+	holding = none
+}
+7767={
+	holding = none
+}
+7768={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1066.1.1 = { religion = tengri_pagan }
+}
+7769={
+	holding = none
+}
+7770={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	1065.9.15 = { holding = herder_holding }
+	1092.6.27 = { holding = nomad_holding }
+}
+7771={
+	holding = none
+}
+7772={
+	culture = buryat
+	religion = siberian_pagan
+	holding = nomad_holding
+	865.1.14 = { holding = herder_holding }
+	891.3.26 = { holding = nomad_holding }
+	1066.1.2 = { holding = herder_holding }
+	1092.12.17 = { holding = nomad_holding }
+}
+7773={
+	holding = none
+}
+7774={
+	holding = none
+}

@@ -1,5 +1,6 @@
 k_mesopotamia={
-	429.7.17 = { government = feudal_government holder = imperator234148 liege = e_armenia succession_laws = { high_partition_succession_law } }
+	476.1.7 = { liege = e_persia }
+	429.7.17 = { government = feudal_government holder = imperator234148 liege = e_persia succession_laws = { partition_succession_law } }
 	477.5.8 = { holder = irtock3_imperator234148_successor_0 }
 	513.5.8 = { holder = irtock3_imperator234148_successor_1 }
 	561.5.8 = { holder = irtock3_imperator234148_successor_2 }

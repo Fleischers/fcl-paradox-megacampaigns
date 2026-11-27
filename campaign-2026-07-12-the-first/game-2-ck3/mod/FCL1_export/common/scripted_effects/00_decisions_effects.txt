@@ -1006,8 +1006,8 @@ unite_the_slavs_decision_effects = {
 
 	#Destroy the other three empires if I have them
 	if = {
-		limit = { has_title = title:e_russia }
-		destroy_title = title:e_russia
+		limit = { has_title = title:e_rus }
+		destroy_title = title:e_rus
 	}
 	if = {
 		limit = { has_title = title:e_wendish_empire }

@@ -1,5 +1,5 @@
 k_oghuz_il={
-	474.1.3 = { government = feudal_government holder = imperator245432 liege = e_IRTOCK3_AFZ succession_laws = { high_partition_succession_law } }
+	474.1.3 = { government = feudal_government holder = imperator245432 liege = e_IR_Qalai succession_laws = { partition_succession_law } }
 	510.3.19 = { holder = irtock3_imperator245432_successor_0 }
 	537.3.19 = { holder = irtock3_imperator245432_successor_1 }
 	588.3.19 = { holder = irtock3_imperator245432_successor_2 }

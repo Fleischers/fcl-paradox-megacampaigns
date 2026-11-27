@@ -1,5 +1,5 @@
 k_daylam={
-	452.8.28 = { government = feudal_government holder = imperator239498 liege = e_armenia succession_laws = { high_partition_succession_law } }
+	452.8.28 = { government = feudal_government holder = imperator239498 liege = e_armenia succession_laws = { partition_succession_law } }
 	489.11.19 = { holder = irtock3_imperator239498_successor_0 }
 	538.11.19 = { holder = irtock3_imperator239498_successor_1 }
 	574.11.19 = { holder = irtock3_imperator239498_successor_2 }
@@ -78,7 +78,7 @@ c_bailaqan={
 	849.11.19 = { holder = irtock3_imperator239498_successor_8 }
 }
 c_dihistan={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 11 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }

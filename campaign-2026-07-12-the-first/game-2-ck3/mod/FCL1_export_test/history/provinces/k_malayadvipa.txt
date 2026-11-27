@@ -1,0 +1,311 @@
+1468={
+	holding = none
+}
+9676={
+	holding = none
+}
+11248={
+	culture = nakkavaram
+	religion = bilikuism
+	holding = tribal_holding
+	terrain = jungle
+}
+11251={
+	culture = nakkavaram
+	religion = bilikuism
+	holding = tribal_holding
+}
+11252={
+	holding = none
+}
+11253={
+	holding = city_holding
+}
+11254={
+	culture = acehnese
+	religion = shaivism
+	holding = temple_citadel_holding
+	1178.1.1 = { religion = ashari holding = castle_holding }
+}
+11255={
+	holding = church_holding
+}
+11256={
+	holding = none
+}
+11257={
+	culture = acehnese
+	religion = vajrayana
+	holding = temple_citadel_holding
+	1178.1.1 = { religion = ashari holding = castle_holding }
+}
+11258={
+	holding = none
+}
+11259={
+	holding = city_holding
+}
+11260={
+	holding = none
+}
+11261={
+	holding = city_holding
+}
+11262={
+	holding = none
+}
+11263={
+	culture = malay
+	religion = vajrayana
+	holding = temple_citadel_holding
+}
+11264={
+	holding = none
+}
+11265={
+	holding = none
+}
+11266={
+	holding = none
+}
+11267={
+	culture = malay
+	religion = vajrayana
+	holding = tribal_holding
+	1166.1.1 = { holding = temple_citadel_holding }
+}
+11268={
+	holding = none
+}
+11269={
+	culture = malay
+	religion = vajrayana
+	holding = tribal_holding
+}
+11270={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11271={
+	holding = none
+}
+11272={
+	culture = malay
+	religion = mahayana
+	holding = tribal_holding
+	1166.1.1 = { holding = temple_citadel_holding }
+}
+11273={
+	holding = none
+}
+11274={
+	culture = malay
+	religion = mahayana
+	holding = tribal_holding
+}
+11275={
+	holding = none
+}
+11276={
+	holding = none
+}
+11277={
+	holding = none
+}
+11278={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11279={
+	holding = city_holding
+}
+11280={
+	holding = none
+}
+11281={
+	holding = none
+}
+11282={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11283={
+	holding = none
+}
+11284={
+	holding = castle_holding
+}
+11285={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11286={
+	holding = none
+}
+11287={
+	holding = none
+}
+11288={
+	holding = none
+}
+11289={
+	holding = none
+}
+11290={
+	holding = none
+}
+11291={
+	culture = malay
+	religion = mahayana
+	holding = tribal_holding
+}
+11292={
+	holding = none
+}
+11293={
+	holding = none
+}
+11294={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+	special_building_slot = muaro_jambi_01
+	660.1.1 = { special_building = muaro_jambi_01 }
+}
+11295={
+	holding = city_holding
+}
+11296={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11297={
+	holding = none
+}
+11298={
+	holding = none
+}
+11299={
+	holding = none
+}
+11300={
+	culture = malay
+	religion = shaivism
+	holding = tribal_holding
+}
+11301={
+	holding = none
+}
+11302={
+	holding = church_holding
+	660.1.1 = { special_building = generic_university }
+}
+11303={
+	holding = city_holding
+}
+11304={
+	holding = none
+}
+11305={
+	culture = malay
+	religion = hantuism
+	holding = tribal_holding
+}
+11306={
+	culture = malay
+	religion = shaivism
+	holding = temple_citadel_holding
+}
+11307={
+	holding = church_holding
+}
+11308={
+	holding = city_holding
+	special_building = krakatoa_01
+}
+11309={
+	holding = none
+}
+11310={
+	holding = none
+}
+11311={
+	holding = none
+}
+11312={
+	culture = malay
+	religion = hantuism
+	holding = tribal_holding
+}
+11313={
+	holding = none
+}
+11314={
+	culture = malay
+	religion = hantuism
+	holding = tribal_holding
+}
+11315={
+	culture = malay
+	religion = mahayana
+	holding = tribal_holding
+	1078.1.1 = { holding = temple_citadel_holding }
+}
+11316={
+	holding = none
+}
+11317={
+	holding = none
+}
+11318={
+	culture = acehnese
+	religion = vajrayana
+	holding = temple_citadel_holding
+}
+11319={
+	holding = city_holding
+	special_building_slot = suvarnadvipa_mines_01
+	867.1.1 = { special_building = suvarnadvipa_mines_01 }
+}
+11320={
+	holding = none
+}
+11321={
+	holding = none
+}
+11322={
+	culture = malay
+	religion = mahayana
+	holding = temple_citadel_holding
+}
+11323={
+	holding = none
+}
+11324={
+	holding = city_holding
+}
+12823={
+	holding = none
+}
+12824={
+	culture = nakkavaram
+	religion = bilikuism
+	holding = tribal_holding
+}
+12825={
+	holding = none
+}
+12848={
+	holding = none
+}
+12849={
+	culture = nakkavaram
+	religion = bilikuism
+	holding = tribal_holding
+	terrain = jungle
+}

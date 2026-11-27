@@ -1,0 +1,58 @@
+k_kong={
+	890.1.1 = { liege = 0 }
+}
+d_kong={
+	890.1.1 = { liege = 0 }
+}
+d_lobi={
+	860.1.1 = { holder = bobo0021 government = tribal_government }
+	890.1.1 = { holder = bobo0022 }
+}
+d_worodugu={
+	890.1.1 = { liege = 0 }
+}
+c_boron={
+	860.1.1 = { holder = bobo0081 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_dyulaso={
+	860.1.1 = { holder = bobo0021 government = tribal_government liege = d_lobi }
+	890.1.1 = { holder = bobo0022 change_development_level = 0 }
+}
+c_kong={
+	860.1.1 = { holder = bobo0071 government = tribal_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_leraba={
+	860.1.1 = { holder = bobo0071 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_lobi={
+	860.1.1 = { holder = bobo0021 government = tribal_government liege = d_lobi }
+	890.1.1 = { holder = bobo0022 change_development_level = 1 }
+}
+c_loropeni={
+	850.1.1 = { holder = bobo0041 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_nyene={
+	850.1.1 = { holder = bobo0051 government = tribal_government }
+	880.1.1 = { holder = bobo0052 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_nzi={
+	860.1.1 = { holder = kru0011 government = tribal_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_tyendugu={
+	860.1.1 = { holder = bobo0061 government = tribal_government }
+	890.1.1 = { holder = bobo0062 change_development_level = 1 }
+}
+c_wa={
+	860.1.1 = { holder = bobo0031 government = tribal_government liege = d_lobi }
+	890.1.1 = { change_development_level = 0 }
+}
+c_worodugu={
+	860.1.1 = { holder = bobo0081 government = tribal_government }
+	890.1.1 = { change_development_level = 3 }
+}

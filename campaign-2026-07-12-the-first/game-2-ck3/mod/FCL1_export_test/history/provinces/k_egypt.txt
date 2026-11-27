@@ -1,0 +1,321 @@
+5970={
+	holding = none
+}
+6030={
+	culture = macedonian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+6031={
+	holding = none
+}
+6032={
+	holding = church_holding
+}
+6033={
+	culture = macedonian
+	faith = celtic_pagan
+	holding = castle_holding
+}
+6034={
+	holding = none
+}
+6035={
+	holding = church_holding
+}
+6036={
+	holding = none
+}
+6037={
+	holding = none
+}
+6038={
+	culture = brythonic
+	faith = coptic
+	holding = castle_holding
+}
+6039={
+	holding = city_holding
+}
+6040={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6041={
+	holding = church_holding
+}
+6042={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6043={
+	holding = city_holding
+}
+6044={
+	holding = city_holding
+}
+6045={
+	holding = city_holding
+}
+6046={
+	culture = brythonic
+	faith = coptic
+	holding = city_holding
+}
+6047={
+	holding = city_holding
+}
+6048={
+	holding = city_holding
+}
+6049={
+	holding = city_holding
+}
+6050={
+	holding = church_holding
+}
+6051={
+	culture = norse
+	faith = coptic
+	holding = castle_holding
+}
+6052={
+	culture = norse
+	faith = coptic
+	holding = castle_holding
+}
+6053={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6054={
+	holding = none
+}
+6055={
+	holding = castle_holding
+}
+6056={
+	holding = none
+}
+6057={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+	special_building = the_pyramids_01
+}
+6058={
+	holding = none
+}
+6059={
+	holding = none
+}
+6060={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6061={
+	holding = none
+}
+6062={
+	holding = church_holding
+}
+6063={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6064={
+	holding = none
+}
+6065={
+	holding = city_holding
+}
+6066={
+	holding = castle_holding
+}
+6067={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6068={
+	holding = castle_holding
+}
+6069={
+	holding = none
+}
+6070={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6071={
+	holding = city_holding
+}
+6072={
+	holding = none
+}
+6073={
+	holding = city_holding
+}
+6074={
+	holding = church_holding
+}
+6075={
+	holding = church_holding
+}
+6076={
+	holding = church_holding
+}
+6077={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6078={
+	holding = none
+}
+6079={
+	holding = none
+}
+6080={
+	holding = church_holding
+}
+6081={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6082={
+	holding = none
+}
+6083={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6084={
+	holding = city_holding
+}
+6085={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6086={
+	holding = city_holding
+}
+6087={
+	holding = none
+}
+6088={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6089={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6090={
+	holding = none
+}
+6091={
+	holding = none
+}
+6092={
+	holding = none
+}
+6093={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6094={
+	holding = castle_holding
+}
+6095={
+	holding = none
+}
+6096={
+	holding = castle_holding
+}
+6097={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6098={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6099={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6100={
+	holding = none
+}
+6101={
+	holding = city_holding
+}
+6102={
+	holding = church_holding
+}
+6103={
+	holding = none
+}
+6104={
+	culture = brythonic
+	faith = coptic
+	holding = castle_holding
+}
+6105={
+	holding = city_holding
+}
+6106={
+	culture = baranis
+	faith = canaanite_pagan
+	holding = castle_holding
+}
+6107={
+	holding = none
+}
+6108={
+	holding = none
+}
+6109={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+6116={
+	holding = none
+}
+6117={
+	holding = none
+}
+6118={
+	culture = non_indo_european_iberian
+	faith = coptic
+	holding = castle_holding
+}
+6119={
+	holding = none
+}
+6120={
+	holding = none
+}
+6121={
+	holding = none
+}
+6122={
+	holding = none
+}

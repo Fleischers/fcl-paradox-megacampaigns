@@ -139,7 +139,7 @@ c_juwair={
 	863.5.29 = { holder = irtock3_imperator226522_successor_9 }
 }
 c_marash={
-	464.10.22 = { liege = d_IRTOCK3_AAA holder = imperator224464 }
+	464.10.22 = { liege = d_IR_Lapethos holder = imperator224464 }
 	476.1.7 = { change_development_level = 18 }
 	476.1.8 = { holder = irtock3_imperator224464_successor_0 }
 	506.1.8 = { holder = irtock3_imperator224464_successor_1 }
@@ -192,7 +192,7 @@ c_qinnasrin={
 	829.1.8 = { holder = irtock3_imperator228773_successor_8 }
 }
 c_samosata={
-	464.10.22 = { liege = d_IRTOCK3_AAA holder = imperator224464 }
+	464.10.22 = { liege = d_IR_Lapethos holder = imperator224464 }
 	476.1.7 = { change_development_level = 19 }
 	476.1.8 = { holder = irtock3_imperator224464_successor_0 }
 	506.1.8 = { holder = irtock3_imperator224464_successor_1 }

@@ -1,0 +1,97 @@
+8237={
+	holding = none
+}
+8238={
+	holding = none
+}
+8239={
+	holding = none
+}
+8240={
+	holding = none
+}
+8242={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8243={
+	holding = none
+}
+8244={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8245={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8247={
+	holding = none
+}
+8256={
+	holding = none
+}
+8259={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8260={
+	holding = none
+}
+8261={
+	holding = none
+}
+8262={
+	holding = none
+}
+8263={
+	culture = wolof
+	religion = west_african_roog_pagan
+	holding = none
+}
+8264={
+	holding = none
+}
+8265={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8266={
+	holding = none
+}
+8267={
+	holding = none
+}
+8268={
+	holding = none
+}
+8269={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8270={
+	holding = none
+}
+8271={
+	holding = none
+}
+8272={
+	holding = none
+}
+8274={
+	holding = none
+}
+8276={
+	holding = none
+}
+8277={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}

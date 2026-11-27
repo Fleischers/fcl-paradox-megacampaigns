@@ -3,5 +3,33 @@
 }
 irtock3_on_game_start_after_lobby = {
 	effect = {
+		title:k_armenia ?= { set_de_jure_liege_title = title:e_greater_armenia }
+		title:k_georgia ?= { set_de_jure_liege_title = title:e_greater_armenia }
+		title:k_pontus ?= { set_de_jure_liege_title = title:e_greater_armenia }
+		title:k_caucasus ?= { set_de_jure_liege_title = title:e_IR_Scythia }
+		title:k_mesopotamia ?= { set_de_jure_liege_title = title:e_persia }
+		title:k_jazira ?= { set_de_jure_liege_title = title:e_greater_armenia }
+		title:k_khotan ?= { set_de_jure_liege_title = title:e_IR_Qalai }
+		title:k_oghuz_il ?= { set_de_jure_liege_title = title:e_IR_Qalai }
+		title:k_syr_darya ?= { set_de_jure_liege_title = title:e_IR_Qalai }
+		title:k_transoxiana ?= { set_de_jure_liege_title = title:e_IR_Qalai }
+		every_ruler = {
+			if = {
+				limit = { has_government = tribal_government }
+
+				if = { limit = { has_realm_law = single_heir_succession_law } remove_realm_law = single_heir_succession_law }
+				if = { limit = { has_realm_law = partition_succession_law } remove_realm_law = partition_succession_law }
+				if = { limit = { has_realm_law = high_partition_succession_law } remove_realm_law = high_partition_succession_law }
+				if = { limit = { NOT = { has_realm_law = confederate_partition_succession_law } } add_realm_law_skip_effects = confederate_partition_succession_law }
+			}
+			else_if = {
+				limit = { has_government = feudal_government }
+
+				if = { limit = { has_realm_law = single_heir_succession_law } remove_realm_law = single_heir_succession_law }
+				if = { limit = { has_realm_law = confederate_partition_succession_law } remove_realm_law = confederate_partition_succession_law }
+				if = { limit = { has_realm_law = high_partition_succession_law } remove_realm_law = high_partition_succession_law }
+				if = { limit = { NOT = { has_realm_law = partition_succession_law } } add_realm_law_skip_effects = partition_succession_law }
+			}
+		}
 	}
 }

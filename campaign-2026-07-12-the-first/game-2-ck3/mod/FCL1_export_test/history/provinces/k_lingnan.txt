@@ -1,0 +1,285 @@
+8892={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8893={
+	holding = city_holding
+}
+8894={
+	culture = yao
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+8895={
+	culture = yao
+	religion = dab_qhuas
+	holding = castle_holding
+}
+8896={
+	holding = none
+}
+8897={
+	holding = castle_holding
+}
+8898={
+	culture = yao
+	religion = dab_qhuas
+	holding = castle_holding
+}
+8899={
+	holding = city_holding
+}
+8900={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8901={
+	holding = church_holding
+}
+8902={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8903={
+	holding = city_holding
+}
+8904={
+	holding = church_holding
+}
+8905={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8906={
+	holding = city_holding
+}
+8907={
+	holding = city_holding
+}
+8908={
+	holding = church_holding
+}
+8909={
+	holding = church_holding
+}
+8910={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8911={
+	holding = church_holding
+}
+8912={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8913={
+	holding = none
+}
+8914={
+	holding = city_holding
+}
+8916={
+	holding = city_holding
+}
+8918={
+	holding = city_holding
+}
+8919={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8920={
+	holding = church_holding
+}
+8921={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8922={
+	holding = church_holding
+}
+8923={
+	holding = city_holding
+}
+8924={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8925={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8926={
+	holding = church_holding
+}
+8927={
+	holding = none
+}
+8928={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+8929={
+	holding = city_holding
+}
+8930={
+	holding = none
+}
+9802={
+	holding = city_holding
+}
+9803={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+10293={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10294={
+	holding = none
+}
+10295={
+	culture = bouxcuengh
+	religion = moism
+	holding = castle_holding
+}
+10296={
+	holding = church_holding
+}
+10297={
+	holding = city_holding
+}
+10381={
+	holding = city_holding
+}
+10382={
+	holding = none
+}
+10425={
+	holding = church_holding
+}
+12930={
+	culture = han
+	religion = moism
+	holding = castle_holding
+}
+12931={
+	holding = city_holding
+}
+12932={
+	holding = church_holding
+}
+12933={
+	holding = city_holding
+}
+12934={
+	culture = hlai
+	religion = moism
+	holding = castle_holding
+}
+12935={
+	holding = city_holding
+}
+12936={
+	holding = church_holding
+}
+12937={
+	culture = hlai
+	religion = moism
+	holding = castle_holding
+}
+12938={
+	holding = city_holding
+}
+12939={
+	holding = church_holding
+}
+12940={
+	culture = hlai
+	religion = moism
+	holding = castle_holding
+}
+12941={
+	holding = city_holding
+}
+12942={
+	holding = church_holding
+}
+12943={
+	holding = none
+}
+12944={
+	culture = hlai
+	religion = moism
+	holding = castle_holding
+}
+12970={
+	holding = church_holding
+}
+12971={
+	holding = none
+}
+12972={
+	holding = none
+}
+12979={
+	holding = none
+}
+12980={
+	holding = city_holding
+}
+12981={
+	holding = church_holding
+}
+12982={
+	holding = church_holding
+}
+12983={
+	holding = city_holding
+}
+12997={
+	holding = none
+}
+12998={
+	holding = church_holding
+}
+12999={
+	holding = none
+}
+13000={
+	holding = none
+}
+13116={
+	holding = city_holding
+}
+13117={
+	holding = church_holding
+}
+13118={
+	holding = none
+}
+13130={
+	holding = none
+}
+13131={
+	holding = none
+}
+13132={
+	holding = church_holding
+}

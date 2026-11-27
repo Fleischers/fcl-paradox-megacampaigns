@@ -1,0 +1,122 @@
+1452={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+1459={
+	culture = buryat
+	religion = tengri_pagan
+	holding = nomad_holding
+	1150.1.2 = { culture = oirat }
+	1153.7.15 = { holding = herder_holding }
+}
+7617={
+	holding = none
+}
+7618={
+	holding = none
+}
+7619={
+	culture = buryat
+	religion = tengri_pagan
+	holding = nomad_holding
+	1057.6.28 = { holding = herder_holding }
+	1150.1.2 = { culture = oirat }
+}
+7620={
+	holding = none
+}
+7621={
+	holding = none
+}
+7622={
+	holding = none
+}
+7623={
+	holding = none
+}
+7624={
+	culture = buryat
+	religion = tengri_pagan
+	holding = nomad_holding
+	865.6.18 = { holding = herder_holding }
+	1066.1.1 = { holding = nomad_holding }
+	1150.1.2 = { culture = oirat }
+}
+7625={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	1058.1.1 = { holding = herder_holding }
+	1082.3.22 = { holding = nomad_holding }
+}
+7626={
+	holding = none
+}
+7627={
+	holding = none
+}
+7628={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+7629={
+	holding = none
+}
+7630={
+	holding = none
+}
+7631={
+	holding = none
+}
+7632={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	864.3.3 = { holding = herder_holding }
+}
+7633={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	1161.1.1 = { holding = herder_holding }
+}
+7634={
+	holding = none
+}
+7635={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	1162.1.1 = { holding = herder_holding }
+}
+7636={
+	holding = none
+}
+7637={
+	holding = none
+}
+7638={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	864.3.3 = { holding = herder_holding }
+	1053.1.1 = { holding = nomad_holding }
+	1170.1.1 = { holding = herder_holding }
+}
+7639={
+	culture = uriankhai
+	religion = tengri_pagan
+	holding = nomad_holding
+	1064.1.1 = { holding = herder_holding }
+}
+7640={
+	holding = none
+}
+7641={
+	holding = none
+}
+7642={
+	holding = none
+}

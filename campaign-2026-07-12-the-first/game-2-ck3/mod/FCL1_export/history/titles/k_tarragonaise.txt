@@ -308,7 +308,7 @@ c_soria={
 	829.8.23 = { holder = irtock3_imperator226631_successor_8 }
 }
 c_tarragona={
-	471.7.3 = { liege = d_IRTOCK3_DEI holder = imperator240984 }
+	471.7.3 = { liege = d_IR_Deitania holder = imperator240984 }
 	476.1.7 = { change_development_level = 18 }
 	495.11.30 = { holder = irtock3_imperator240984_successor_0 }
 	521.11.30 = { holder = irtock3_imperator240984_successor_1 }

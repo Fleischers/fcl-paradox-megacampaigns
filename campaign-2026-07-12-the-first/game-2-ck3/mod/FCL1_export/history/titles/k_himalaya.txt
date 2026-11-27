@@ -1,5 +1,5 @@
 k_himalaya={
-	474.12.6 = { government = feudal_government holder = imperator242680 liege = e_IRTOCK3_AFZ succession_laws = { high_partition_succession_law } }
+	474.12.6 = { government = feudal_government holder = imperator242680 liege = e_IR_Qalai succession_laws = { partition_succession_law } }
 	495.11.24 = { holder = irtock3_imperator242680_successor_0 }
 	549.11.24 = { holder = irtock3_imperator242680_successor_1 }
 	596.11.24 = { holder = irtock3_imperator242680_successor_2 }
@@ -50,7 +50,7 @@ c_bhaktapur={
 	868.8.17 = { holder = irtock3_imperator230497_successor_9 }
 }
 c_dang={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 12 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -103,7 +103,7 @@ c_ilam={
 	837.3.18 = { holder = irtock3_imperator242255_successor_9 }
 }
 c_jagatipur={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 3 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -156,7 +156,7 @@ c_kali_kumaon={
 	854.7.19 = { holder = irtock3_imperator237389_successor_9 }
 }
 c_kaski={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 7 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -209,7 +209,7 @@ c_kumaon={
 	829.7.7 = { holder = irtock3_imperator230072_successor_8 }
 }
 c_lumbini={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 11 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }

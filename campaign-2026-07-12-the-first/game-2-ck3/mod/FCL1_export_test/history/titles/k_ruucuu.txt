@@ -1,0 +1,15 @@
+k_ruucuu={
+	890.1.1 = { liege = 0 }
+}
+d_ruucuu={
+	700.1.1 = { liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_ucinaa_holder government = tribal_government liege = 0 }
+}
+c_amami={
+	700.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_ucinaa_holder change_development_level = 3 }
+}
+c_ucinaa={
+	700.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_ucinaa_holder liege = 0 change_development_level = 4 }
+}

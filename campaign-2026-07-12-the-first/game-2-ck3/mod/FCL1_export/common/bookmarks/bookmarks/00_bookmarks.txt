@@ -56,7 +56,7 @@
 		type = male
 		history_id = irtock3_imperator227039_successor_9
 		birth = 827.10.9
-		title = k_IRTOCK3_MAC
+		title = k_IR_Macedon
 		government = feudal_government
 		culture = macedonian
 		religion=orthodox
@@ -71,7 +71,7 @@
 		type = male
 		history_id = irtock3_imperator234508_successor_10
 		birth = 840.5.4
-		title = k_IRTOCK3_ICE
+		title = k_IR_Albion
 		government = feudal_government
 		culture = brythonic
 		religion=briton_paganism
@@ -86,7 +86,7 @@
 		type = male
 		history_id = irtock3_imperator245522_successor_8
 		birth = 800.7.5
-		title = k_IRTOCK3_MAU
+		title = k_IR_Numidia
 		government = feudal_government
 		culture = baranis
 		religion=canaanite_pagan
@@ -101,7 +101,7 @@
 		type = male
 		history_id = irtock3_imperator230049_successor_9
 		birth = 836.6.14
-		title = k_IRTOCK3_RMI
+		title = k_IR_Belgia
 		government = feudal_government
 		culture = belgae
 		religion=catholic
@@ -116,7 +116,7 @@
 		type = male
 		history_id = irtock3_imperator235933_successor_8
 		birth = 811.5.15
-		title = k_IRTOCK3_A3O
+		title = e_IR_Scythia
 		government = feudal_government
 		culture = sarmatian
 		religion=scythian_pagan
@@ -131,7 +131,7 @@
 		type = male
 		history_id = irtock3_imperator233121_successor_9
 		birth = 824.4.5
-		title = e_IRTOCK3_A64
+		title = e_IR_Tuscia
 		government = feudal_government
 		culture = etruscan
 		religion=hellenic_pagan

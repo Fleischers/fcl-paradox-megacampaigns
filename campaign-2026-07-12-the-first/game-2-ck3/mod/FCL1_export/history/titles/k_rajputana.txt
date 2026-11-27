@@ -1,5 +1,5 @@
 k_rajputana={
-	473.4.11 = { government = feudal_government holder = imperator241516 liege = e_spain succession_laws = { high_partition_succession_law } }
+	473.4.11 = { government = feudal_government holder = imperator241516 liege = e_spain succession_laws = { partition_succession_law } }
 	494.7.18 = { holder = irtock3_imperator241516_successor_0 }
 	545.7.18 = { holder = irtock3_imperator241516_successor_1 }
 	580.7.18 = { holder = irtock3_imperator241516_successor_2 }
@@ -198,7 +198,7 @@ c_reni={
 	827.7.18 = { holder = irtock3_imperator241516_successor_8 }
 }
 c_sakarai={
-	466.5.21 = { liege = d_IRTOCK3_AAA holder = imperator236171 }
+	466.5.21 = { liege = d_IR_Lapethos holder = imperator236171 }
 	476.1.7 = { change_development_level = 16 }
 	490.11.13 = { holder = irtock3_imperator236171_successor_0 }
 	543.11.13 = { holder = irtock3_imperator236171_successor_1 }

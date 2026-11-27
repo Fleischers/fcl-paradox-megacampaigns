@@ -1,0 +1,77 @@
+k_saryarka={
+	890.1.1 = { liege = 0 }
+}
+d_betpa={
+	890.1.1 = { holder = IRToCK3_c_betpa_holder government = tribal_government liege = 0 }
+}
+d_karabas={
+	890.1.1 = { holder = IRToCK3_c_jasky_kart_holder government = tribal_government liege = 0 }
+}
+d_karkaraly={
+	867.1.1 = { holder = 0 }
+	890.1.1 = { holder = IRToCK3_c_uch_katyn_holder government = tribal_government liege = 0 }
+}
+d_tokumbay={
+	890.1.1 = { holder = IRToCK3_c_tokumbay_holder government = tribal_government liege = 0 }
+}
+c_arkalyk={
+	831.3.16 = { holder = 302731 government = nomad_government liege = 0 }
+	866.1.12 = { holder = 302733 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_betpa={
+	328.6.20 = { liege = 0 change_development_level = 0 }
+	856.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_betpa_holder liege = 0 }
+}
+c_bulat={
+	328.6.20 = { change_development_level = 0 }
+	862.3.13 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_betpa_holder }
+}
+c_jasky_kart={
+	865.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_jasky_kart_holder liege = 0 change_development_level = 0 }
+}
+c_karabas={
+	831.3.16 = { holder = 302731 government = nomad_government liege = 0 }
+	866.1.12 = { holder = 302733 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_karkaraly={
+	857.1.1 = { holder = fictional_kimeks_5 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_ku_jeku={
+	865.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_jasky_kart_holder change_development_level = 0 }
+}
+c_kulan_utmas={
+	865.5.10 = { holder = 302744 government = nomad_government liege = 0 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_manaka={
+	856.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_betpa_holder change_development_level = 0 }
+}
+c_nurtay={
+	859.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_uch_katyn_holder change_development_level = 0 }
+}
+c_targyl={
+	328.6.20 = { liege = 0 change_development_level = 0 }
+	862.3.13 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_betpa_holder }
+}
+c_tokumbay={
+	859.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_tokumbay_holder liege = 0 change_development_level = 0 }
+}
+c_uch_katyn={
+	857.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_uch_katyn_holder liege = 0 change_development_level = 0 }
+}
+c_uliuty={
+	862.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_jasky_kart_holder change_development_level = 0 }
+}

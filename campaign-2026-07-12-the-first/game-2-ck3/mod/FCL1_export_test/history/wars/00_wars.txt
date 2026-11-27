@@ -1,0 +1,63 @@
+﻿war = {
+	start_date = 180.1.1
+	end_date = 890.1.2
+	targeted_titles={ c_shamir }
+	casus_belli = invasion_war
+	attackers={ irtock3_imperator188105_successor_11 irtock3_imperator178887_successor_12 irtock3_imperator170877_successor_11 irtock3_imperator187096_successor_12 irtock3_imperator171077_successor_13 irtock3_imperator187860_successor_11 irtock3_imperator175548_successor_12 irtock3_imperator182092_successor_13 irtock3_imperator176492_successor_12 irtock3_imperator183551_successor_11 irtock3_imperator175592_successor_13 irtock3_imperator175291_successor_12 irtock3_imperator180237_successor_12 irtock3_imperator177276_successor_13 irtock3_imperator180946_successor_12 irtock3_imperator194797_successor_12 }
+	defenders={ irtock3_imperator178427_successor_12 irtock3_imperator170863_successor_11 irtock3_imperator180275_successor_12 }
+	claimant = irtock3_imperator188105_successor_11
+}
+war = {
+	start_date = 319.11.10
+	end_date = 890.1.2
+	targeted_titles={ c_pula c_gacka c_ljubljana c_cherso }
+	casus_belli = claim_cb
+	attackers={ irtock3_imperator176060_successor_12 irtock3_imperator172978_successor_12 irtock3_imperator171275_successor_12 irtock3_imperator188799_successor_11 irtock3_imperator186919_successor_12 irtock3_imperator186972_successor_13 irtock3_imperator187080_successor_12 irtock3_imperator179816_successor_11 irtock3_imperator187793_successor_14 }
+	defenders={ irtock3_imperator192341_successor_11 irtock3_imperator178140_successor_11 irtock3_imperator178009_successor_14 }
+	claimant = irtock3_imperator176060_successor_12
+}
+war = {
+	start_date = 324.3.31
+	end_date = 890.1.2
+	targeted_titles={ c_duqm }
+	casus_belli = claim_cb
+	attackers={ irtock3_imperator189845_successor_11 }
+	defenders={ irtock3_imperator176966_successor_13 }
+	claimant = irtock3_imperator189845_successor_11
+}
+war = {
+	start_date = 326.10.10
+	end_date = 890.1.2
+	targeted_titles={ c_tarnowska c_lubelska c_cherven c_sandomierska c_radomska c_dorohychyn }
+	casus_belli = claim_cb
+	attackers={ irtock3_imperator186622_successor_12 irtock3_imperator173038_successor_12 irtock3_imperator175064_successor_12 irtock3_imperator175603_successor_12 }
+	defenders={ irtock3_imperator186062_successor_10 irtock3_imperator182922_successor_11 irtock3_imperator189845_successor_11 irtock3_imperator172741_successor_11 irtock3_imperator174690_successor_12 }
+	claimant = irtock3_imperator186622_successor_12
+}
+war = {
+	start_date = 327.11.16
+	end_date = 890.1.2
+	targeted_titles={ c_khawr c_debul }
+	casus_belli = claim_cb
+	attackers={ irtock3_imperator177925_successor_13 }
+	defenders={ irtock3_imperator176492_successor_12 }
+	claimant = irtock3_imperator177925_successor_13
+}
+war = {
+	start_date = 328.2.15
+	end_date = 890.1.2
+	targeted_titles={ c_tripoli c_antiocheia }
+	casus_belli = claim_cb
+	attackers={ irtock3_imperator186229_successor_11 irtock3_imperator181500_successor_12 }
+	defenders={ irtock3_imperator187904_successor_11 }
+	claimant = irtock3_imperator186229_successor_11
+}
+war = {
+	start_date = 328.6.1
+	end_date = 890.1.2
+	targeted_titles={ c_kassel c_paderborn c_gleichenstein c_schmalkalden c_hildesheim c_wolpe c_hannover c_gottingen c_luneburg c_brunswick c_halberstadt c_blankenburg }
+	casus_belli = independence_faction_war
+	attackers={ irtock3_imperator195773_successor_10 }
+	defenders={ irtock3_imperator186062_successor_10 irtock3_imperator182922_successor_11 irtock3_imperator189845_successor_11 irtock3_imperator172741_successor_11 irtock3_imperator174690_successor_12 }
+	claimant = irtock3_imperator195773_successor_10
+}

@@ -1,0 +1,61 @@
+914={
+	holding = none
+}
+915={
+	holding = none
+}
+916={
+	holding = none
+}
+917={
+	holding = castle_holding
+}
+918={
+	holding = none
+}
+919={
+	holding = none
+}
+921={
+	holding = church_holding
+}
+922={
+	holding = city_holding
+}
+923={
+	holding = castle_holding
+}
+924={
+	holding = city_holding
+}
+925={
+	holding = none
+}
+926={
+	holding = none
+}
+1164={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1165={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1271={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1272={
+	culture = bengali
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1277={
+	culture = bengali
+	faith = celtic_pagan
+	holding = castle_holding
+}

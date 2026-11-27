@@ -5,7 +5,7 @@ d_anjou={
 	890.1.1 = { liege = 0 }
 }
 d_brittany={
-	472.9.14 = { government = feudal_government holder = imperator234668 liege = k_IRTOCK3_ICE succession_laws = { high_partition_succession_law } }
+	472.9.14 = { government = feudal_government holder = imperator234668 liege = k_IR_Albion succession_laws = { high_partition_succession_law } }
 	497.10.11 = { holder = irtock3_imperator234668_successor_0 }
 	526.10.11 = { holder = irtock3_imperator234668_successor_1 }
 	576.10.11 = { holder = irtock3_imperator234668_successor_2 }
@@ -192,7 +192,7 @@ c_rennes={
 }
 c_rouen={
 	458.5.27 = { holder = imperator244271 }
-	466.6.12 = { liege = d_IRTOCK3_EBS }
+	466.6.12 = { liege = d_IR_Eburonia }
 	476.1.7 = { change_development_level = 16 }
 	482.10.28 = { holder = irtock3_imperator244271_successor_0 }
 	523.10.28 = { holder = irtock3_imperator244271_successor_1 }

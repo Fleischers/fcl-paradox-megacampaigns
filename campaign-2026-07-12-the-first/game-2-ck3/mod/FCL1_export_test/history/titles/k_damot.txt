@@ -1,0 +1,65 @@
+k_damot={
+	890.1.1 = { liege = 0 }
+}
+d_damot={
+	763.1.1 = { holder = 145970 government = tribal_government liege = 0 }
+	798.1.1 = { holder = 145971 }
+	823.1.1 = { holder = 145972 }
+	862.1.1 = { holder = 183506 }
+}
+d_kaffa={
+	890.1.1 = { liege = 0 }
+}
+d_sharka={
+	890.1.1 = { holder = IRToCK3_c_sharka_holder government = tribal_government liege = 0 }
+}
+c_berta={
+	860.1.1 = { holder = welayta0061 government = tribal_government liege = "d_damot" }
+	890.1.1 = { holder = welayta0062 change_development_level = 1 }
+}
+c_burji={
+	860.1.1 = { holder = welayta0031 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_damot={
+	763.1.1 = { holder = 145970 government = tribal_government liege = "d_damot" }
+	798.1.1 = { holder = 145971 }
+	823.1.1 = { holder = 145972 }
+	862.1.1 = { holder = 183506 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_dara={
+	860.1.1 = { holder = welayta0031 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_gamo={
+	860.1.1 = { holder = welayta0041 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}
+c_hadya={
+	758.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sharka_holder liege = "d_showa" change_development_level = 3 }
+}
+c_innarya={
+	763.1.1 = { holder = 145970 government = tribal_government liege = "d_damot" }
+	798.1.1 = { holder = 145971 }
+	823.1.1 = { holder = 145972 }
+	862.1.1 = { holder = 183506 }
+	890.1.1 = { change_development_level = 3 }
+}
+c_kaffa={
+	860.1.1 = { holder = welayta0071 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_sharka={
+	758.1.1 = { government = tribal_government }
+	890.1.1 = { holder = IRToCK3_c_sharka_holder liege = "d_showa" change_development_level = 3 }
+}
+c_welamo={
+	850.1.1 = { holder = welayta0041 government = tribal_government }
+	890.1.1 = { change_development_level = 2 }
+}
+c_wellega={
+	860.1.1 = { holder = welayta0071 government = tribal_government }
+	890.1.1 = { change_development_level = 1 }
+}

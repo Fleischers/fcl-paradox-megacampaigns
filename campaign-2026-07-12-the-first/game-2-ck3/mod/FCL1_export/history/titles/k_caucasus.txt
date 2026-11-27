@@ -1,4 +1,5 @@
 k_caucasus={
+	476.1.7 = { liege = e_IR_Scythia }
 	890.1.1 = { liege = 0 }
 }
 d_alania={

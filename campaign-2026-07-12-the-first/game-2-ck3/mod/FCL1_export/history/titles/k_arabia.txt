@@ -509,7 +509,7 @@ c_thalabiya={
 	840.1.8 = { holder = irtock3_imperator223387_successor_9 }
 }
 c_tihama={
-	441.3.3 = { liege = d_IRTOCK3_AA9 holder = imperator238331 }
+	441.3.3 = { liege = d_IR_Salamis_AA9 holder = imperator238331 }
 	476.1.7 = { change_development_level = 18 }
 	476.1.8 = { holder = irtock3_imperator238331_successor_0 }
 	529.1.8 = { holder = irtock3_imperator238331_successor_1 }

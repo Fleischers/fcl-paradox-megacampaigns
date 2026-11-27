@@ -231,7 +231,7 @@ IRToCK3_game_start_onaction_effects = {
 		# Persia
 		irtock3_gamestart_add_title_to_prefecture_region_effect = {
 			REGION = irtock3_rome_empire_division_persia
-			EMPIRE = e_roman_prefecture_persia
+			EMPIRE = e_greater_armenia
 		}
 		# Sarmatia
 		irtock3_gamestart_add_title_to_prefecture_region_effect = {

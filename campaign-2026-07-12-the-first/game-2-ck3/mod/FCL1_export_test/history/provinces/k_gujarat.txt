@@ -1,0 +1,174 @@
+1126={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1127={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1133={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1134={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1135={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1136={
+	culture = brythonic
+	faith = nestorian
+	holding = castle_holding
+}
+1264={
+	holding = none
+	terrain = hills
+}
+1266={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1267={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1268={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1290={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1291={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+1292={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+1295={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+}
+3350={
+	holding = castle_holding
+}
+3351={
+	holding = none
+}
+3352={
+	holding = none
+}
+3353={
+	holding = church_holding
+}
+3354={
+	holding = none
+}
+3355={
+	holding = none
+}
+3356={
+	holding = none
+}
+3357={
+	holding = none
+}
+3358={
+	holding = none
+}
+3359={
+	holding = none
+}
+3360={
+	holding = none
+}
+3361={
+	holding = none
+}
+3362={
+	holding = none
+}
+3363={
+	holding = castle_holding
+}
+3364={
+	holding = none
+}
+3365={
+	holding = castle_holding
+}
+3366={
+	holding = none
+}
+3367={
+	holding = none
+}
+3368={
+	holding = church_holding
+}
+3369={
+	holding = none
+}
+3370={
+	holding = none
+}
+3371={
+	holding = none
+}
+3372={
+	holding = none
+}
+3373={
+	holding = none
+}
+3374={
+	holding = none
+}
+3375={
+	holding = none
+}
+3376={
+	holding = city_holding
+}
+3377={
+	holding = none
+}
+3378={
+	holding = none
+}
+3379={
+	holding = none
+}
+3380={
+	holding = city_holding
+}
+3381={
+	holding = none
+}
+3382={
+	holding = none
+}
+3383={
+	holding = none
+}
+3384={
+	holding = none
+}

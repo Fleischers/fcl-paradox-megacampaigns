@@ -1,0 +1,243 @@
+602={
+	holding = none
+}
+608={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+616={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+617={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+618={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+619={
+	holding = castle_holding
+}
+620={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+896={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+897={
+	holding = none
+}
+1430={
+	holding = none
+}
+5313={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5314={
+	holding = none
+}
+5316={
+	holding = none
+}
+5317={
+	holding = none
+}
+5318={
+	holding = church_holding
+}
+5319={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+5345={
+	holding = none
+}
+5346={
+	holding = none
+}
+5347={
+	holding = none
+}
+5348={
+	holding = none
+}
+5349={
+	culture = alan
+	faith = scythian_pagan
+	holding = tribal_holding
+}
+5499={
+	holding = none
+}
+5500={
+	holding = none
+}
+5501={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5502={
+	holding = none
+}
+5503={
+	holding = none
+}
+5504={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+5505={
+	holding = none
+}
+5506={
+	holding = none
+}
+5507={
+	holding = none
+}
+7218={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7219={
+	holding = none
+}
+7220={
+	holding = none
+}
+7221={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7222={
+	holding = none
+}
+7223={
+	holding = none
+}
+7224={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7225={
+	holding = none
+}
+7226={
+	holding = none
+}
+7227={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7228={
+	holding = none
+}
+7229={
+	holding = none
+}
+7230={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7231={
+	holding = none
+}
+7232={
+	holding = none
+}
+7233={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7234={
+	holding = none
+}
+7235={
+	holding = none
+}
+7236={
+	holding = none
+}
+7237={
+	holding = none
+}
+7238={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7239={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7240={
+	holding = city_holding
+}
+7241={
+	holding = city_holding
+}
+7242={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7243={
+	holding = none
+}
+7244={
+	holding = church_holding
+}
+7245={
+	holding = none
+}
+7246={
+	holding = none
+}
+7247={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7248={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}
+7249={
+	holding = none
+}
+7250={
+	holding = none
+}
+7251={
+	culture = sarmatian
+	faith = scythian_pagan
+	holding = castle_holding
+}
+7252={
+	culture = scythian
+	faith = scythian_pagan
+	holding = none
+}

@@ -1,0 +1,24 @@
+479={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+	terrain = mountain
+}
+480={
+	culture = brythonic
+	faith = celtic_pagan
+	holding = castle_holding
+	terrain = mountain
+}
+3743={
+	holding = city_holding
+}
+3744={
+	holding = church_holding
+}
+3745={
+	holding = church_holding
+}
+3746={
+	holding = none
+}

@@ -1,0 +1,118 @@
+9717={
+	holding = city_holding
+}
+9718={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+9719={
+	holding = city_holding
+}
+9720={
+	holding = church_holding
+}
+9722={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+9724={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+9725={
+	holding = city_holding
+}
+9728={
+	culture = han
+	religion = sukhavati
+	holding = castle_holding
+}
+9729={
+	holding = city_holding
+	special_building = zigong_mines_01
+}
+9730={
+	culture = han
+	religion = zhengyi
+	holding = castle_holding
+	1000.1.1 = { religion = sukhavati }
+}
+9731={
+	holding = city_holding
+}
+9732={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+9733={
+	holding = city_holding
+}
+9734={
+	culture = han
+	religion = zhengyi
+	holding = castle_holding
+	1000.1.1 = { religion = mantrayana }
+}
+9735={
+	holding = city_holding
+}
+9736={
+	holding = castle_holding
+}
+9776={
+	holding = city_holding
+}
+9777={
+	holding = city_holding
+}
+9778={
+	holding = church_holding
+}
+9779={
+	culture = qiang
+	religion = rrmeaism
+	holding = castle_holding
+}
+10207={
+	holding = city_holding
+}
+10209={
+	holding = church_holding
+}
+10226={
+	culture = han
+	religion = zhengyi
+	holding = castle_holding
+	1000.1.1 = { religion = mantrayana }
+}
+10227={
+	holding = city_holding
+}
+10413={
+	holding = church_holding
+}
+10439={
+	culture = qiang
+	religion = rrmeaism
+	holding = castle_holding
+}
+10446={
+	culture = han
+	religion = mantrayana
+	holding = castle_holding
+}
+13019={
+	holding = city_holding
+}
+13036={
+	holding = none
+}
+13074={
+	culture = qiang
+	religion = rrmeaism
+	holding = castle_holding
+}

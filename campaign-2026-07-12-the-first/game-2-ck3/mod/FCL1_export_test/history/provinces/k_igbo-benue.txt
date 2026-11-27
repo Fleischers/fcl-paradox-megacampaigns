@@ -1,0 +1,150 @@
+6521={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6523={
+	holding = none
+}
+6524={
+	holding = none
+}
+6525={
+	holding = none
+}
+6530={
+	holding = none
+}
+6531={
+	holding = none
+}
+6533={
+	culture = hausa
+	religion = west_african_bori_pagan
+	holding = none
+}
+6546={
+	holding = none
+}
+6547={
+	holding = none
+}
+6548={
+	holding = none
+}
+6549={
+	holding = none
+}
+6906={
+	holding = none
+}
+6907={
+	holding = none
+}
+6908={
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = none
+}
+6909={
+	holding = none
+}
+8077={
+	holding = none
+}
+8078={
+	holding = none
+}
+8085={
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = none
+}
+8087={
+	holding = none
+}
+8100={
+	holding = none
+}
+8101={
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = none
+}
+8102={
+	holding = none
+}
+8103={
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = none
+}
+8104={
+	holding = none
+}
+8105={
+	culture = nupe
+	religion = west_african_bori_pagan
+	holding = none
+}
+8106={
+	holding = none
+}
+8107={
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8108={
+	holding = none
+}
+8109={
+	holding = none
+}
+8110={
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8111={
+	holding = none
+}
+8112={
+	holding = none
+}
+8113={
+	holding = none
+}
+8114={
+	holding = none
+}
+8115={
+	culture = edo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8116={
+	holding = none
+}
+8117={
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8118={
+	holding = none
+}
+8119={
+	holding = none
+}
+8120={
+	holding = none
+}
+8121={
+	culture = igbo
+	religion = west_african_orisha_pagan
+	holding = none
+}
+8122={
+	holding = none
+}

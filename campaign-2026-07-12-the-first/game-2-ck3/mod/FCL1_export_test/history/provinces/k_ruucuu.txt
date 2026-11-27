@@ -1,0 +1,16 @@
+10643={
+	culture = ryukyuan
+	religion = utaki
+	holding = tribal_holding
+}
+10645={
+	culture = ryukyuan
+	religion = utaki
+	holding = tribal_holding
+}
+10646={
+	holding = none
+}
+10647={
+	holding = none
+}

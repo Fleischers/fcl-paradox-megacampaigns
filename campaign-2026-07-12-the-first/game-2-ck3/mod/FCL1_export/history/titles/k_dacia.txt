@@ -1,5 +1,5 @@
 k_dacia={
-	475.10.25 = { government = feudal_government holder = imperator238272 liege = e_IRTOCK3_AHD succession_laws = { high_partition_succession_law } }
+	475.10.25 = { government = feudal_government holder = imperator238272 liege = e_IR_Iassorum succession_laws = { partition_succession_law } }
 	499.10.25 = { holder = irtock3_imperator238272_successor_0 }
 	538.10.25 = { holder = irtock3_imperator238272_successor_1 }
 	581.10.25 = { holder = irtock3_imperator238272_successor_2 }
@@ -20,7 +20,7 @@ d_transylvanian_alps={
 	890.1.1 = { liege = 0 }
 }
 c_braila={
-	465.11.6 = { liege = d_IRTOCK3_AQ4 holder = imperator244290 }
+	465.11.6 = { liege = d_IR_Medja holder = imperator244290 }
 	476.1.7 = { change_development_level = 13 }
 	510.5.4 = { holder = irtock3_imperator244290_successor_0 }
 	564.5.4 = { holder = irtock3_imperator244290_successor_1 }
@@ -33,7 +33,7 @@ c_braila={
 	838.5.4 = { holder = irtock3_imperator244290_successor_8 }
 }
 c_bucuresti={
-	465.11.6 = { liege = d_IRTOCK3_AQ4 holder = imperator244290 }
+	465.11.6 = { liege = d_IR_Medja holder = imperator244290 }
 	476.1.7 = { change_development_level = 17 }
 	510.5.4 = { holder = irtock3_imperator244290_successor_0 }
 	564.5.4 = { holder = irtock3_imperator244290_successor_1 }
@@ -46,7 +46,7 @@ c_bucuresti={
 	838.5.4 = { holder = irtock3_imperator244290_successor_8 }
 }
 c_buzau={
-	465.11.6 = { liege = d_IRTOCK3_AQ4 holder = imperator244290 }
+	465.11.6 = { liege = d_IR_Medja holder = imperator244290 }
 	476.1.7 = { change_development_level = 15 }
 	510.5.4 = { holder = irtock3_imperator244290_successor_0 }
 	564.5.4 = { holder = irtock3_imperator244290_successor_1 }
@@ -85,7 +85,7 @@ c_calarasi={
 	829.10.14 = { holder = irtock3_imperator237889_successor_8 }
 }
 c_campulung={
-	465.11.6 = { liege = d_IRTOCK3_AQ4 holder = imperator244290 }
+	465.11.6 = { liege = d_IR_Medja holder = imperator244290 }
 	476.1.7 = { change_development_level = 12 }
 	510.5.4 = { holder = irtock3_imperator244290_successor_0 }
 	564.5.4 = { holder = irtock3_imperator244290_successor_1 }
@@ -150,7 +150,7 @@ c_severin={
 	863.10.25 = { holder = irtock3_imperator238272_successor_8 }
 }
 c_tabla_butii={
-	465.11.6 = { liege = d_IRTOCK3_AQ4 holder = imperator244290 }
+	465.11.6 = { liege = d_IR_Medja holder = imperator244290 }
 	476.1.7 = { change_development_level = 12 }
 	510.5.4 = { holder = irtock3_imperator244290_successor_0 }
 	564.5.4 = { holder = irtock3_imperator244290_successor_1 }

@@ -1,4 +1,5 @@
 k_transoxiana={
+	476.1.7 = { liege = e_IR_Qalai }
 	890.1.1 = { liege = 0 }
 }
 d_badakhshan={
@@ -246,7 +247,7 @@ c_kurdar={
 	869.2.12 = { holder = irtock3_imperator245690_successor_7 }
 }
 c_kurtysh={
-	473.6.15 = { liege = d_IRTOCK3_AA9 holder = imperator247637 }
+	473.6.15 = { liege = d_IR_Salamis_AA9 holder = imperator247637 }
 	476.1.7 = { change_development_level = 18 }
 	528.12.16 = { holder = irtock3_imperator247637_successor_0 }
 	575.12.16 = { holder = irtock3_imperator247637_successor_1 }
@@ -299,7 +300,7 @@ c_nasaiya={
 	854.2.4 = { holder = irtock3_imperator227523_successor_9 }
 }
 c_nasrabad={
-	447.1.20 = { liege = d_IRTOCK3_AAA holder = imperator223706 }
+	447.1.20 = { liege = d_IR_Lapethos holder = imperator223706 }
 	476.1.7 = { change_development_level = 15 }
 	476.1.8 = { holder = imperator232930 }
 	501.10.11 = { holder = irtock3_imperator223706_successor_1 }

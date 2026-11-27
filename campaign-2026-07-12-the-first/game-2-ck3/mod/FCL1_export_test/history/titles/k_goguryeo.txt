@@ -1,0 +1,108 @@
+k_goguryeo={
+	890.1.1 = { liege = 0 }
+}
+d_bukgye={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_seogyeong_holder government = feudal_government liege = 0 }
+}
+d_gaeseong={
+	867.1.1 = { holder = korean_wang_goryeo_43 government = meritocratic_government }
+	875.1.1 = { holder = korean_wang_goryeo_42 }
+}
+d_gwangju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_gwangju_holder government = feudal_government liege = 0 }
+}
+d_gyoju={
+	867.1.1 = { holder = korean_gim_gangneung_31 government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_gyoju_holder government = feudal_government liege = 0 }
+}
+d_haeju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_haeju_holder government = feudal_government liege = 0 }
+}
+d_yukju={
+	867.1.1 = { holder = balhae_wi_1 government = meritocratic_government }
+}
+c_chunju={
+	867.1.1 = { holder = korean_gim_gangneung_31 government = meritocratic_government liege = d_gyoju }
+	890.1.1 = { holder = IRToCK3_c_gyoju_holder change_development_level = 7 }
+}
+c_dangseong={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_gwangju_holder liege = d_gwangju change_development_level = 4 }
+}
+c_dongju={
+	867.1.1 = { holder = korean_gim_gangneung_31 government = meritocratic_government liege = d_gyoju }
+	890.1.1 = { holder = IRToCK3_c_gyoju_holder change_development_level = 3 }
+}
+c_gaeseong={
+	850.1.1 = { holder = korean_wang_goryeo_43 government = meritocratic_government }
+	867.1.1 = { liege = d_gaeseong }
+	875.1.1 = { holder = korean_wang_goryeo_42 }
+	890.1.1 = { change_development_level = 11 }
+}
+c_gokju={
+	867.1.1 = { holder = korean_bak_pyeongsan_3 government = meritocratic_government liege = d_gaeseong }
+	890.1.1 = { change_development_level = 3 }
+}
+c_gwangju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_gwangju_holder liege = d_gwangju change_development_level = 8 }
+}
+c_gwiju={
+	867.1.1 = { holder = balhae_wi_1 government = meritocratic_government liege = d_yukju }
+	890.1.1 = { change_development_level = 4 }
+}
+c_gyoju={
+	867.1.1 = { holder = korean_gim_gangneung_31 government = meritocratic_government liege = d_gyoju }
+	890.1.1 = { holder = IRToCK3_c_gyoju_holder liege = 0 change_development_level = 4 }
+}
+c_haeju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_haeju_holder liege = d_haeju change_development_level = 6 }
+}
+c_hwangju={
+	867.1.1 = { holder = korean_myeong_1 government = meritocratic_government }
+	890.1.1 = { liege = d_haeju change_development_level = 5 }
+}
+c_inje={
+	867.1.1 = { holder = korean_gim_gangneung_31 government = meritocratic_government liege = d_gyoju }
+	890.1.1 = { holder = IRToCK3_c_gyoju_holder change_development_level = 2 }
+}
+c_jangjeong={
+	867.1.1 = { holder = balhae_wi_1 government = meritocratic_government liege = d_yukju }
+	890.1.1 = { change_development_level = 3 }
+}
+c_pungju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_haeju_holder liege = d_haeju change_development_level = 3 }
+}
+c_pyeongju={
+	867.1.1 = { holder = korean_ryu_yeomju_1 government = meritocratic_government liege = d_gaeseong }
+	890.1.1 = { change_development_level = 5 }
+}
+c_seogyeong={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_seogyeong_holder liege = d_bukgye change_development_level = 9 }
+}
+c_seongju={
+	867.1.1 = { holder = korean_hwangbo_3 government = meritocratic_government }
+	890.1.1 = { liege = d_bukgye change_development_level = 4 }
+}
+c_taeju={
+	867.1.1 = { holder = balhae_wi_1 government = meritocratic_government liege = d_yukju }
+	890.1.1 = { change_development_level = 5 }
+}
+c_uiju={
+	867.1.1 = { holder = balhae_wi_1 government = meritocratic_government liege = d_yukju }
+	890.1.1 = { change_development_level = 6 }
+}
+c_yangju={
+	867.1.1 = { government = meritocratic_government }
+	890.1.1 = { holder = IRToCK3_c_gwangju_holder liege = d_gwangju change_development_level = 8 }
+}
+c_yeongwon={
+	867.1.1 = { holder = mohe_a_1 government = tribal_government }
+	890.1.1 = { change_development_level = 3 }
+}

@@ -1,0 +1,164 @@
+10059={
+	culture = shatuo
+	religion = sukhavati
+	holding = castle_holding
+	special_building = yungang_grottoes_01
+	1000.1.1 = { culture = khitan religion = avatamsaka }
+}
+10061={
+	holding = none
+}
+10062={
+	culture = shatuo
+	religion = mantrayana
+	holding = castle_holding
+	1000.1.1 = { culture = khitan religion = avatamsaka }
+}
+10063={
+	holding = castle_holding
+}
+10064={
+	culture = shatuo
+	religion = mantrayana
+	holding = castle_holding
+}
+10065={
+	holding = castle_holding
+	special_building_slot = hanging_temple_01
+	500.1.1 = { special_building = hanging_temple_01 }
+}
+10102={
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+	1038.1.1 = { culture = tangut religion = avatamsaka }
+}
+10103={
+	holding = city_holding
+}
+10108={
+	holding = city_holding
+}
+10109={
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+	1038.1.1 = { culture = tangut religion = avatamsaka }
+}
+10429={
+	holding = none
+}
+12386={
+	holding = church_holding
+}
+12387={
+	holding = church_holding
+}
+12391={
+	culture = tuyuhun
+	religion = yogacara
+	holding = castle_holding
+	1000.1.1 = { culture = khitan religion = avatamsaka }
+}
+12392={
+	holding = city_holding
+}
+12393={
+	culture = tuyuhun
+	religion = yogacara
+	holding = castle_holding
+	1000.1.1 = { culture = khitan religion = avatamsaka }
+}
+12394={
+	culture = khitan
+	religion = avatamsaka
+	holding = castle_holding
+}
+12395={
+	holding = city_holding
+}
+12396={
+	holding = city_holding
+}
+12401={
+	culture = han
+	religion = avatamsaka
+	holding = castle_holding
+}
+12402={
+	holding = castle_holding
+}
+12404={
+	holding = church_holding
+}
+12412={
+	holding = castle_holding
+}
+12413={
+	culture = khitan
+	religion = avatamsaka
+	holding = castle_holding
+}
+12414={
+	holding = church_holding
+}
+13044={
+	culture = shatuo
+	religion = sukhavati
+	holding = castle_holding
+}
+13045={
+	holding = church_holding
+}
+13067={
+	holding = none
+}
+13068={
+	holding = none
+}
+13075={
+	holding = church_holding
+}
+13076={
+	holding = none
+}
+13077={
+	holding = church_holding
+}
+13078={
+	holding = city_holding
+}
+13079={
+	holding = castle_holding
+}
+13080={
+	culture = khitan
+	religion = avatamsaka
+	holding = castle_holding
+}
+13081={
+	holding = city_holding
+}
+13082={
+	culture = shatuo
+	religion = mantrayana
+	holding = castle_holding
+}
+13110={
+	holding = city_holding
+}
+13111={
+	holding = church_holding
+}
+13127={
+	holding = city_holding
+}
+13128={
+	holding = church_holding
+}
+13139={
+	culture = sogdian
+	religion = khurmazta
+	holding = castle_holding
+	1038.1.1 = { culture = tangut religion = avatamsaka }
+}

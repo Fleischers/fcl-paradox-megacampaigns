@@ -1,0 +1,139 @@
+10774={
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10775={
+	holding = none
+}
+10776={
+	holding = none
+}
+10777={
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10779={
+	holding = none
+}
+10780={
+	holding = none
+}
+10781={
+	holding = none
+}
+10782={
+	holding = none
+}
+10783={
+	holding = none
+}
+10784={
+	holding = none
+}
+10785={
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10786={
+	holding = none
+}
+10787={
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+10788={
+	holding = none
+}
+10789={
+	holding = none
+}
+10790={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = ainu religion = kamuyism_pagan }
+}
+10791={
+	holding = none
+}
+10792={
+	holding = none
+}
+10793={
+	holding = none
+}
+10794={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = ainu religion = kamuyism_pagan }
+}
+10795={
+	holding = none
+}
+10796={
+	holding = none
+}
+10797={
+	holding = none
+}
+10798={
+	holding = none
+}
+10799={
+	holding = none
+}
+10800={
+	holding = none
+}
+10801={
+	culture = ainu
+	religion = kamuyism_pagan
+	holding = tribal_holding
+}
+12810={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12811={
+	holding = none
+}
+12812={
+	holding = none
+}
+12813={
+	holding = none
+}
+12814={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12815={
+	holding = none
+}
+12816={
+	holding = none
+}
+12817={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+}
+12818={
+	holding = none
+}
+12819={
+	culture = nivkh
+	religion = shamanism
+	holding = tribal_holding
+	1066.1.1 = { culture = ainu religion = kamuyism_pagan }
+}
+12820={
+	holding = none
+}

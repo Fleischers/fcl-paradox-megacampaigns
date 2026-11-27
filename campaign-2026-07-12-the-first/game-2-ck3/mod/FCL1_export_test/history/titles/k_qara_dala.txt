@@ -1,0 +1,67 @@
+k_qara_dala={
+	890.1.1 = { liege = 0 }
+}
+d_atbasar={
+	890.1.1 = { holder = IRToCK3_c_atbasar_holder government = tribal_government liege = 0 }
+}
+d_kurgan={
+	890.1.1 = { liege = 0 }
+}
+d_kush-murun={
+	867.1.1 = { holder = 0 government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_karasu_holder government = tribal_government liege = 0 }
+}
+d_tobol-ishim={
+	890.1.1 = { liege = 0 }
+}
+c_abugan={
+	850.7.29 = { holder = 302591 government = nomad_government liege = 0 }
+	876.9.18 = { holder = 302595 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_atbasar={
+	861.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_atbasar_holder liege = 0 change_development_level = 0 }
+}
+c_jangyztau={
+	861.1.1 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_atbasar_holder change_development_level = 0 }
+}
+c_kafa={
+	861.1.1 = { government = nomad_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_atbasar_holder change_development_level = 0 }
+}
+c_karasu={
+	842.4.24 = { government = herder_government liege = 0 }
+	890.1.1 = { holder = IRToCK3_c_karasu_holder liege = 0 change_development_level = 0 }
+}
+c_kostanay={
+	849.6.24 = { government = nomad_government liege = 0 }
+	886.2.16 = { holder = 302573 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kurgan={
+	849.6.24 = { government = nomad_government liege = 0 }
+	886.2.16 = { holder = 302573 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_kush-murun={
+	850.7.29 = { holder = 302591 government = nomad_government liege = 0 }
+	876.9.18 = { holder = 302595 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_petropavl={
+	863.8.9 = { holder = 302581 government = nomad_government liege = 0 }
+	864.2.23 = { holder = 302582 }
+	890.1.1 = { change_development_level = 0 }
+}
+c_sabakyul={
+	849.6.24 = { government = herder_government liege = 0 }
+	886.2.16 = { holder = 302573 government = nomad_government }
+	890.1.1 = { change_development_level = 0 }
+}
+c_vargashi={
+	863.8.9 = { holder = 302581 government = nomad_government liege = 0 }
+	864.2.23 = { holder = 302582 }
+	890.1.1 = { change_development_level = 0 }
+}

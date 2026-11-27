@@ -1,0 +1,360 @@
+11570={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = mongol }
+}
+11571={
+	holding = none
+}
+11572={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = mongol }
+}
+11573={
+	holding = none
+}
+11574={
+	holding = none
+}
+11575={
+	holding = none
+}
+11576={
+	holding = none
+}
+11577={
+	holding = none
+}
+11606={
+	holding = none
+}
+11607={
+	holding = none
+}
+11608={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = mongol }
+}
+11609={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { culture = mongol }
+}
+11610={
+	holding = none
+}
+11611={
+	holding = none
+}
+11612={
+	holding = none
+}
+11613={
+	holding = none
+}
+11614={
+	holding = none
+}
+11615={
+	holding = none
+}
+11616={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { culture = mongol }
+}
+11617={
+	holding = none
+}
+11618={
+	holding = none
+}
+11619={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = mongol }
+}
+11620={
+	holding = none
+}
+11621={
+	holding = none
+}
+11622={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = mongol }
+}
+11623={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { culture = mongol }
+}
+11624={
+	holding = none
+}
+11625={
+	holding = none
+}
+11626={
+	holding = none
+}
+11627={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11628={
+	holding = none
+}
+11629={
+	holding = none
+}
+11630={
+	holding = none
+}
+11631={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11632={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11633={
+	holding = none
+}
+11634={
+	holding = none
+}
+11635={
+	holding = none
+}
+11637={
+	holding = none
+}
+11638={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11639={
+	holding = none
+}
+11640={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11641={
+	holding = none
+}
+11642={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11643={
+	holding = none
+}
+11644={
+	holding = none
+}
+11645={
+	holding = none
+}
+11646={
+	holding = none
+}
+11647={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11648={
+	holding = none
+}
+11649={
+	holding = none
+}
+11650={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11651={
+	holding = none
+}
+11656={
+	holding = none
+}
+11657={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11658={
+	holding = none
+}
+11659={
+	holding = none
+}
+11660={
+	holding = none
+}
+11661={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11662={
+	holding = none
+}
+11663={
+	holding = none
+}
+11664={
+	holding = none
+}
+11665={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11666={
+	holding = none
+}
+11667={
+	holding = none
+}
+11668={
+	holding = none
+}
+11669={
+	holding = none
+}
+11670={
+	holding = none
+}
+11671={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11672={
+	holding = none
+}
+11673={
+	holding = none
+}
+11674={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+}
+11675={
+	holding = none
+}
+11676={
+	holding = none
+}
+11677={
+	holding = none
+}
+11678={
+	holding = none
+}
+11679={
+	holding = none
+}
+11680={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11681={
+	holding = none
+}
+11682={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+}
+11683={
+	culture = mohe
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11684={
+	holding = none
+}
+11685={
+	holding = none
+}
+11686={
+	holding = none
+}
+11687={
+	holding = none
+}
+11688={
+	culture = mohe
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = shiwei holding = nomad_holding }
+}
+11689={
+	holding = none
+}
+11690={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11698={
+	holding = none
+}
+11699={
+	culture = mohe
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = jurchen religion = shamanism }
+}
+11700={
+	holding = none
+}
+11701={
+	holding = none
+}
+11702={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = nomad_holding
+	1066.1.1 = { culture = jurchen religion = shamanism holding = nomad_holding }
+}
+11722={
+	holding = none
+}
+11723={
+	holding = none
+}
+11724={
+	culture = shiwei
+	religion = tengri_pagan
+	holding = herder_holding
+	1066.1.1 = { culture = mongol }
+}

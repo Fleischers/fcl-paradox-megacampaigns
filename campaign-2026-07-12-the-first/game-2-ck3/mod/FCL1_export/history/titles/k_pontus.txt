@@ -1,5 +1,6 @@
 k_pontus={
-	457.6.22 = { government = feudal_government holder = imperator238510 liege = e_armenia succession_laws = { high_partition_succession_law } }
+	476.1.7 = { liege = e_greater_armenia }
+	457.6.22 = { government = feudal_government holder = imperator238510 liege = e_greater_armenia succession_laws = { partition_succession_law } }
 	514.6.20 = { holder = irtock3_imperator238510_successor_0 }
 	570.6.20 = { holder = irtock3_imperator238510_successor_1 }
 	622.6.20 = { holder = irtock3_imperator238510_successor_2 }
@@ -36,7 +37,7 @@ c_ablastha={
 	850.10.9 = { holder = irtock3_imperator239330_successor_9 }
 }
 c_azysia={
-	460.1.27 = { liege = d_IRTOCK3_AAA holder = imperator229888 }
+	460.1.27 = { liege = d_IR_Lapethos holder = imperator229888 }
 	476.1.7 = { change_development_level = 12 }
 	476.1.8 = { holder = irtock3_imperator229888_successor_0 }
 	528.1.8 = { holder = irtock3_imperator229888_successor_1 }
@@ -98,7 +99,7 @@ c_helenopontus={
 	831.6.20 = { holder = irtock3_imperator238510_successor_7 }
 }
 c_paphlagonia={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 11 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -111,7 +112,7 @@ c_paphlagonia={
 	836.9.30 = { holder = irtock3_imperator233457_successor_8 }
 }
 c_pompeiopolis={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 16 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }
@@ -149,7 +150,7 @@ c_sebasteia={
 	831.6.20 = { holder = irtock3_imperator238510_successor_7 }
 }
 c_sinope={
-	461.9.1 = { liege = d_IRTOCK3_AAB holder = imperator233457 }
+	461.9.1 = { liege = d_IR_Kition holder = imperator233457 }
 	476.1.7 = { change_development_level = 20 }
 	487.9.30 = { holder = irtock3_imperator233457_successor_0 }
 	524.9.30 = { holder = irtock3_imperator233457_successor_1 }

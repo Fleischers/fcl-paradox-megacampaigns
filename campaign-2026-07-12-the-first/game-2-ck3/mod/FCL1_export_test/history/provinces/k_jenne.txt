@@ -1,0 +1,81 @@
+6632={
+	holding = none
+}
+6634={
+	holding = none
+}
+6643={
+	holding = none
+}
+6644={
+	holding = none
+}
+6645={
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = none
+	1256.1.1 = { religion = ashari }
+}
+6646={
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = none
+	1256.1.1 = { religion = ashari }
+}
+6647={
+	holding = none
+}
+6648={
+	holding = none
+}
+6649={
+	holding = none
+}
+6670={
+	holding = none
+}
+6671={
+	holding = none
+}
+6672={
+	holding = none
+}
+6673={
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = none
+	1226.1.1 = { religion = ashari }
+}
+6708={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6709={
+	holding = none
+}
+6710={
+	holding = none
+}
+6711={
+	culture = bozo
+	religion = west_african_bidu_pagan
+	holding = tribal_holding
+	867.1.1 = { buildings = { palisades_01 market_villages_01 } special_building_slot = holy_site_great_mosque_of_djenne_01 }
+	1062.1.1 = { holding = castle_holding buildings = { cereal_fields_01 regimental_grounds_01 } }
+	1176.1.1 = { religion = ashari }
+}
+6712={
+	holding = none
+}
+6722={
+	culture = bobo
+	religion = west_african_pagan
+	holding = none
+}
+6723={
+	holding = none
+}
+6724={
+	holding = none
+}

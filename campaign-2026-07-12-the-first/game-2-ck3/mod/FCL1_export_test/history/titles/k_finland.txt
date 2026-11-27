@@ -1,0 +1,176 @@
+k_finland={
+	890.1.1 = { liege = 0 }
+}
+d_finland={
+	755.1.1 = { holder = 170306 government = tribal_government }
+	800.1.1 = { holder = 170307 }
+	835.1.1 = { holder = 170308 }
+	867.1.1 = { holder = 170131 }
+	890.1.1 = { holder = IRToCK3_c_finland_holder government = tribal_government liege = 0 }
+}
+d_karelia={
+	747.1.1 = { holder = 170324 government = tribal_government }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { holder = IRToCK3_c_kakisalmi_holder government = tribal_government liege = 0 }
+}
+d_pohjanmaa={
+	890.1.1 = { liege = 0 }
+}
+d_savo={
+	890.1.1 = { liege = 0 }
+}
+c_finland={
+	328.6.20 = { liege = 0 change_development_level = 0 }
+	768.1.1 = { government = tribal_government liege = "d_finland" }
+	890.1.1 = { holder = IRToCK3_c_finland_holder liege = 0 }
+}
+c_kainuu={
+	761.1.1 = { holder = 170329 government = tribal_government }
+	790.1.1 = { holder = 170330 }
+	807.1.1 = { holder = 170331 }
+	838.1.1 = { holder = 170332 }
+	862.1.1 = { holder = 170141 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_kakisalmi={
+	328.6.20 = { change_development_level = 0 }
+	768.1.1 = { holder = 170316 government = tribal_government }
+	787.1.1 = { holder = 170317 }
+	821.1.1 = { holder = 170318 }
+	838.1.1 = { holder = 170319 }
+	864.1.1 = { holder = 170116 }
+	890.1.1 = { holder = IRToCK3_c_kakisalmi_holder liege = 0 }
+}
+c_kontupohja={
+	747.1.1 = { holder = 170324 government = tribal_government liege = "d_karelia" }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_messukyla={
+	755.1.1 = { holder = 170306 government = tribal_government liege = "d_finland" }
+	800.1.1 = { holder = 170307 }
+	835.1.1 = { holder = 170308 }
+	867.1.1 = { holder = 170131 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_mustasaari={
+	761.1.1 = { holder = 170329 government = tribal_government }
+	790.1.1 = { holder = 170330 }
+	807.1.1 = { holder = 170331 }
+	838.1.1 = { holder = 170332 }
+	862.1.1 = { holder = 170141 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_nyland={
+	328.6.20 = { liege = 0 change_development_level = 0 }
+	767.1.1 = { holder = 170313 government = tribal_government }
+	792.1.1 = { holder = 170314 }
+	834.1.1 = { holder = 170315 }
+	865.1.1 = { holder = 170126 }
+	890.1.1 = { holder = IRToCK3_c_finland_holder }
+}
+c_olavinlinna={
+	762.1.1 = { holder = 170320 government = tribal_government }
+	781.1.1 = { holder = 170321 }
+	812.1.1 = { holder = 170322 }
+	837.1.1 = { holder = 170323 }
+	866.1.1 = { holder = 170121 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_onega={
+	747.1.1 = { holder = 170324 government = tribal_government liege = "d_karelia" }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_oulu={
+	761.1.1 = { holder = 170329 government = tribal_government }
+	790.1.1 = { holder = 170330 }
+	807.1.1 = { holder = 170331 }
+	838.1.1 = { holder = 170332 }
+	862.1.1 = { holder = 170141 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_pedersore={
+	761.1.1 = { holder = 170329 government = tribal_government }
+	790.1.1 = { holder = 170330 }
+	807.1.1 = { holder = 170331 }
+	838.1.1 = { holder = 170332 }
+	862.1.1 = { holder = 170141 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_pielinen={
+	762.1.1 = { holder = 170320 government = tribal_government }
+	781.1.1 = { holder = 170321 }
+	812.1.1 = { holder = 170322 }
+	837.1.1 = { holder = 170323 }
+	866.1.1 = { holder = 170121 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_salinis={
+	747.1.1 = { holder = 170324 government = tribal_government liege = "d_karelia" }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_satakunta={
+	755.1.1 = { holder = 170306 government = tribal_government liege = "d_finland" }
+	800.1.1 = { holder = 170307 }
+	835.1.1 = { holder = 170308 }
+	867.1.1 = { holder = 170131 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_sortavala={
+	768.1.1 = { holder = 170316 government = tribal_government }
+	787.1.1 = { holder = 170317 }
+	821.1.1 = { holder = 170318 }
+	838.1.1 = { holder = 170319 }
+	864.1.1 = { holder = 170116 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_sysma={
+	767.1.1 = { holder = 170313 government = tribal_government }
+	792.1.1 = { holder = 170314 }
+	834.1.1 = { holder = 170315 }
+	865.1.1 = { holder = 170126 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_tavasts={
+	767.1.1 = { holder = 170313 government = tribal_government }
+	792.1.1 = { holder = 170314 }
+	834.1.1 = { holder = 170315 }
+	865.1.1 = { holder = 170126 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_viena={
+	747.1.1 = { holder = 170324 government = tribal_government liege = "d_karelia" }
+	780.1.1 = { holder = 170325 }
+	795.1.1 = { holder = 170326 }
+	820.1.1 = { holder = 170327 }
+	846.1.1 = { holder = 170328 }
+	864.1.1 = { holder = 170111 }
+	890.1.1 = { change_development_level = 1 }
+}
+c_viipuri={
+	328.6.20 = { liege = 0 change_development_level = 0 }
+	768.1.1 = { holder = 170316 government = tribal_government }
+	787.1.1 = { holder = 170317 }
+	821.1.1 = { holder = 170318 }
+	838.1.1 = { holder = 170319 }
+	864.1.1 = { holder = 170116 }
+	890.1.1 = { holder = IRToCK3_c_kakisalmi_holder }
+}

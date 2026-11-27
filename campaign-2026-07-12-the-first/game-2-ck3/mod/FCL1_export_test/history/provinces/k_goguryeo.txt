@@ -1,0 +1,255 @@
+9870={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9872={
+	holding = city_holding
+}
+9873={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9874={
+	holding = church_holding
+}
+9875={
+	holding = city_holding
+}
+9876={
+	holding = none
+}
+9877={
+	holding = none
+}
+9878={
+	holding = city_holding
+}
+9879={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9880={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9881={
+	holding = city_holding
+}
+9882={
+	holding = none
+}
+9883={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9884={
+	holding = city_holding
+}
+9885={
+	holding = castle_holding
+}
+9886={
+	holding = none
+}
+9887={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9888={
+	holding = city_holding
+}
+9889={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo religion = avatamsaka }
+}
+9890={
+	holding = city_holding
+}
+9891={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo religion = avatamsaka }
+}
+9892={
+	holding = city_holding
+}
+9893={
+	holding = none
+}
+9894={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo religion = avatamsaka }
+}
+9895={
+	holding = city_holding
+}
+9896={
+	holding = none
+}
+9897={
+	holding = none
+}
+9898={
+	holding = city_holding
+}
+9899={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	867.1.1 = { special_building = generic_university }
+	1000.1.1 = { culture = goryeo religion = avatamsaka }
+}
+9900={
+	holding = none
+}
+9901={
+	holding = none
+}
+9902={
+	culture = goguryeo
+	religion = mu
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9903={
+	holding = city_holding
+}
+9904={
+	holding = none
+}
+9905={
+	holding = city_holding
+}
+9906={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	special_building_slot = byeokran_port_01
+	867.1.1 = { special_building = byeokran_port_01 }
+	1000.1.1 = { culture = goryeo religion = yogacara }
+	1097.1.1 = { religion = pundarika }
+	1110.1.1 = { religion = avatamsaka }
+}
+9907={
+	holding = none
+}
+9908={
+	holding = city_holding
+}
+9909={
+	holding = none
+}
+9910={
+	holding = none
+}
+9911={
+	culture = goguryeo
+	religion = vinaya
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo religion = avatamsaka }
+}
+9912={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9913={
+	holding = city_holding
+}
+9914={
+	holding = none
+}
+9915={
+	holding = none
+}
+9916={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9917={
+	holding = city_holding
+}
+9918={
+	holding = none
+}
+9919={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	932.1.1 = { religion = dhyana }
+	1000.1.1 = { culture = goryeo }
+}
+9920={
+	holding = none
+}
+9921={
+	holding = city_holding
+}
+9922={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9923={
+	holding = city_holding
+}
+9924={
+	holding = none
+}
+9925={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9928={
+	holding = city_holding
+}
+9929={
+	holding = none
+}
+9939={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9945={
+	holding = castle_holding
+}
+9946={
+	culture = goguryeo
+	religion = avatamsaka
+	holding = castle_holding
+	1000.1.1 = { culture = goryeo }
+}
+9947={
+	holding = city_holding
+}
+9948={
+	holding = none
+}
+12454={
+	holding = none
+}

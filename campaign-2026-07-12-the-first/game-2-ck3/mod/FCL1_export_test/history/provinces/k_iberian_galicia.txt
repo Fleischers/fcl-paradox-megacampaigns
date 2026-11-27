@@ -1,0 +1,181 @@
+1760={
+	culture = lusoiberian
+	faith = catholic
+	holding = tribal_holding
+}
+1761={
+	holding = city_holding
+}
+1762={
+	holding = castle_holding
+}
+1763={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1764={
+	holding = castle_holding
+}
+1765={
+	holding = none
+}
+1766={
+	holding = none
+}
+1767={
+	holding = none
+}
+1781={
+	holding = city_holding
+}
+1782={
+	holding = church_holding
+}
+1783={
+	holding = city_holding
+}
+1784={
+	culture = non_indo_european_iberian
+	faith = celtiberian_paganism
+	holding = tribal_holding
+}
+1785={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1786={
+	holding = none
+}
+1787={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1788={
+	holding = city_holding
+}
+1789={
+	holding = church_holding
+}
+1790={
+	holding = castle_holding
+}
+1791={
+	holding = none
+}
+1792={
+	holding = none
+}
+1793={
+	holding = none
+}
+1794={
+	holding = none
+}
+1795={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1796={
+	holding = castle_holding
+}
+1797={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1798={
+	holding = none
+}
+1799={
+	holding = none
+}
+1800={
+	holding = none
+}
+1816={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1817={
+	holding = none
+}
+1818={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1819={
+	holding = none
+}
+1820={
+	holding = none
+}
+1821={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1822={
+	holding = city_holding
+}
+1823={
+	holding = none
+}
+1824={
+	holding = none
+}
+1825={
+	holding = city_holding
+}
+1826={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1827={
+	holding = city_holding
+}
+1828={
+	holding = castle_holding
+}
+1829={
+	holding = city_holding
+}
+1894={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+1895={
+	holding = none
+}
+1910={
+	holding = city_holding
+}
+1911={
+	holding = none
+}
+1912={
+	culture = non_indo_european_iberian
+	faith = priscillianism
+	holding = castle_holding
+}
+1913={
+	culture = non_indo_european_iberian
+	faith = priscillianism
+	holding = castle_holding
+}
+1914={
+	holding = none
+}
+1916={
+	holding = none
+}
+1921={
+	holding = city_holding
+}

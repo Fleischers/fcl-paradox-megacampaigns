@@ -1,0 +1,68 @@
+k_kabisay-an={
+	890.1.1 = { liege = 0 }
+}
+d_PHI_butuan={
+	890.1.1 = { holder = IRToCK3_c_PHI_calagan_holder government = tribal_government liege = 0 }
+}
+d_PHI_maguindanao={
+	890.1.1 = { holder = IRToCK3_c_PHI_cotabato_holder government = tribal_government liege = 0 }
+}
+d_PHI_visayas={
+	890.1.1 = { liege = 0 }
+}
+c_PHI_bool_and_cebu={
+	867.1.1 = { holder = bisayan_boolcebu_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 6 }
+}
+c_PHI_buglas={
+	867.1.1 = { holder = bisayan_buglas_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_PHI_butuan={
+	867.1.1 = { holder = bisayan_butuan_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 6 }
+}
+c_PHI_calagan={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_PHI_calagan_holder liege = 0 change_development_level = 3 }
+}
+c_PHI_cotabato={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_PHI_cotabato_holder liege = 0 change_development_level = 4 }
+}
+c_PHI_lanao={
+	867.1.1 = { holder = bisayan_lanao_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_PHI_maguindanao={
+	867.1.1 = { holder = bisayan_maguindanao_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_PHI_mandaya={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_PHI_calagan_holder change_development_level = 2 }
+}
+c_PHI_panay={
+	862.1.1 = { holder = bisayan_panay_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 5 }
+}
+c_PHI_samar={
+	867.1.1 = { holder = bisayan_samar_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_PHI_sarangani={
+	867.1.1 = { holder = bisayan_sarangani_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_PHI_sulu={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_PHI_cotabato_holder change_development_level = 6 }
+}
+c_PHI_tandaya={
+	867.1.1 = { holder = bisayan_tandaya_01_fic government = wanua_government }
+	890.1.1 = { change_development_level = 3 }
+}
+c_PHI_zamboanga={
+	867.1.1 = { government = wanua_government }
+	890.1.1 = { holder = IRToCK3_c_PHI_cotabato_holder change_development_level = 3 }
+}

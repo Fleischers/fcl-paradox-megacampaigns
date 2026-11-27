@@ -96,7 +96,7 @@ c_gomoco={
 	890.1.1 = { holder = IRToCK3_c_gomoco_holder liege = "d_ngari" }
 }
 c_kamru={
-	466.5.21 = { liege = d_IRTOCK3_AAA holder = imperator236171 }
+	466.5.21 = { liege = d_IR_Lapethos holder = imperator236171 }
 	476.1.7 = { change_development_level = 6 }
 	490.11.13 = { holder = irtock3_imperator236171_successor_0 }
 	543.11.13 = { holder = irtock3_imperator236171_successor_1 }

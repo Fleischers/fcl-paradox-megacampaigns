@@ -1,5 +1,6 @@
 k_jazira={
-	470.12.2 = { government = feudal_government holder = imperator241930 liege = e_armenia succession_laws = { high_partition_succession_law } }
+	476.1.7 = { liege = e_greater_armenia }
+	470.12.2 = { government = feudal_government holder = imperator241930 liege = e_greater_armenia succession_laws = { partition_succession_law } }
 	523.5.27 = { holder = irtock3_imperator241930_successor_0 }
 	558.5.27 = { holder = irtock3_imperator241930_successor_1 }
 	613.5.27 = { holder = irtock3_imperator241930_successor_2 }

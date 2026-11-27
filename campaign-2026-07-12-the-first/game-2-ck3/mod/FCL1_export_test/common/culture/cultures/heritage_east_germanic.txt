@@ -1,0 +1,143 @@
+﻿gothic = {
+	color = rgb { 12 9 3 }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_martial_admiration tradition_battlefield_looters }
+	name_list = name_list_gothic
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	martial_custom = martial_custom_male_only
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	ethos = ethos_bellicose
+}
+visigothic = {
+	color = rgb { 140 140 38 }
+	parents = { gothic }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_equal_inheritance tradition_hit_and_run tradition_martial_admiration }
+	name_list = name_list_visigothic
+	created = 20.1.1
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+vandilian = {
+	color = rgb { 215 246 166 }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_martial_admiration tradition_forest_fighters }
+	name_list = name_list_gothic
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	martial_custom = martial_custom_male_only
+	ethos = ethos_bellicose
+}
+ostrogothic = {
+	color = rgb { 114 162 166 }
+	parents = { gothic }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_martial_admiration tradition_battlefield_looters }
+	name_list = name_list_gothic
+	created = 20.1.1
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	martial_custom = martial_custom_male_only
+	ethos = ethos_bellicose
+}
+gepid = {
+	color = rgb { 91 66 30 }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_martial_admiration tradition_battlefield_looters }
+	name_list = name_list_gothic
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	martial_custom = martial_custom_male_only
+	ethos = ethos_bellicose
+}
+vandal = {
+	color = rgb { 76 39 22 }
+	heritage = heritage_east_germanic
+	language = language_gothic
+	traditions = { tradition_martial_admiration tradition_battlefield_looters }
+	name_list = name_list_gothic
+	head_determination = head_determination_domain
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = { 0.0 0.025 }
+	house_coa_mask_scale = { 0.95 0.95 }
+	ethnicities = {
+		25 = caucasian_blond
+		15 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+	}
+	coa_gfx = { german_group_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { dde_hre_clothing_gfx western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	martial_custom = martial_custom_male_only
+	ethos = ethos_bellicose
+}

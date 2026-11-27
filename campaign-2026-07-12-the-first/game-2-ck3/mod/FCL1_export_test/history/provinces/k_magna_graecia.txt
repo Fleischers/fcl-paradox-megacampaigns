@@ -1,0 +1,193 @@
+2593={
+	holding = none
+}
+2602={
+	holding = none
+}
+2605={
+	holding = city_holding
+}
+2606={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2607={
+	holding = castle_holding
+}
+2608={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2609={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2610={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2611={
+	holding = city_holding
+}
+2612={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2613={
+	holding = none
+}
+2614={
+	holding = church_holding
+}
+2615={
+	holding = none
+}
+2616={
+	holding = none
+}
+2617={
+	holding = none
+}
+2618={
+	holding = city_holding
+}
+2619={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2620={
+	holding = none
+}
+2621={
+	holding = city_holding
+}
+2622={
+	holding = castle_holding
+}
+2623={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2624={
+	holding = city_holding
+}
+2625={
+	holding = church_holding
+}
+2626={
+	holding = none
+}
+2627={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2628={
+	culture = non_indo_european_iberian
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2629={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2630={
+	holding = none
+}
+2631={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2632={
+	holding = none
+}
+2633={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+2634={
+	holding = none
+}
+2635={
+	culture = non_indo_european_iberian
+	faith = catholic
+	holding = castle_holding
+}
+2636={
+	holding = city_holding
+}
+2637={
+	holding = church_holding
+}
+2638={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+2639={
+	holding = city_holding
+}
+2640={
+	culture = non_indo_european_iberian
+	faith = iberian_pagan
+	holding = castle_holding
+}
+2641={
+	holding = none
+}
+2642={
+	holding = city_holding
+}
+2643={
+	holding = none
+}
+2644={
+	holding = castle_holding
+}
+2645={
+	holding = castle_holding
+}
+2646={
+	culture = brythonic
+	faith = catholic
+	holding = castle_holding
+}
+2669={
+	holding = none
+}
+8751={
+	holding = city_holding
+}
+8752={
+	holding = city_holding
+}
+8753={
+	holding = church_holding
+}
+8754={
+	holding = city_holding
+}
+8755={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+8756={
+	holding = none
+}
+8757={
+	holding = city_holding
+}
+8758={
+	holding = none
+}

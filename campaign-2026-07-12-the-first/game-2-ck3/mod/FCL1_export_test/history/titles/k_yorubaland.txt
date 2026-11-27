@@ -1,0 +1,94 @@
+k_yorubaland={
+	890.1.1 = { liege = 0 }
+}
+d_benin={
+	890.1.1 = { liege = 0 }
+}
+d_ibadan={
+	890.1.1 = { liege = 0 }
+}
+d_ife={
+	865.1.1 = { holder = yoruba0004 government = tribal_government }
+}
+d_oyo={
+	890.1.1 = { liege = 0 }
+}
+c_abomey={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0006 liege = d_ife }
+	890.1.1 = { change_development_level = 0 }
+}
+c_benin={
+	865.1.1 = { holder = edo0000 government = tribal_government liege = d_ife }
+	889.1.1 = { holder = edo0002 }
+	890.1.1 = { change_development_level = 5 }
+}
+c_edo={
+	865.1.1 = { holder = edo0011 government = tribal_government liege = d_ife }
+	876.1.1 = { holder = edo0012 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ibadan={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0005 liege = d_ife }
+	890.1.1 = { change_development_level = 3 }
+}
+c_ife={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0004 }
+	890.1.1 = { change_development_level = 6 }
+}
+c_ifonyin={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0006 liege = d_ife }
+	890.1.1 = { change_development_level = 0 }
+}
+c_igana={
+	864.1.1 = { holder = yoruba0009 government = tribal_government }
+	865.1.1 = { liege = d_ife }
+	890.1.1 = { change_development_level = 2 }
+}
+c_igbomina={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0004 }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ijebu={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0005 liege = d_ife }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ilorin={
+	864.1.1 = { holder = yoruba0009 government = tribal_government }
+	865.1.1 = { liege = d_ife }
+	890.1.1 = { change_development_level = 2 }
+}
+c_ketu={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0006 liege = d_ife }
+	890.1.1 = { change_development_level = 0 }
+}
+c_owu={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0005 liege = d_ife }
+	890.1.1 = { change_development_level = 5 }
+}
+c_oyo={
+	864.1.1 = { holder = yoruba0009 government = tribal_government }
+	865.1.1 = { liege = d_ife }
+	890.1.1 = { change_development_level = 5 }
+}
+c_yagba={
+	760.1.1 = { holder = yoruba0001 government = tribal_government }
+	830.1.1 = { holder = yoruba0003 }
+	865.1.1 = { holder = yoruba0004 }
+	890.1.1 = { change_development_level = 2 }
+}

@@ -171,7 +171,7 @@ c_santiago={
 	839.9.2 = { holder = irtock3_imperator229414_successor_8 }
 }
 c_tui={
-	459.1.22 = { liege = d_IRTOCK3_TMG holder = imperator232040 }
+	459.1.22 = { liege = d_IR_Tamagania holder = imperator232040 }
 	476.1.7 = { change_development_level = 34 }
 	480.6.6 = { holder = irtock3_imperator232040_successor_0 }
 	534.6.6 = { holder = irtock3_imperator232040_successor_1 }

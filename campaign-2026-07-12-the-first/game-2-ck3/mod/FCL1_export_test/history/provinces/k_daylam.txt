@@ -1,0 +1,244 @@
+668={
+	holding = none
+}
+669={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+4000={
+	holding = city_holding
+}
+4001={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4002={
+	holding = castle_holding
+}
+4003={
+	holding = city_holding
+}
+4004={
+	holding = none
+}
+4005={
+	culture = getian
+	faith = nestorian
+	holding = castle_holding
+}
+4006={
+	holding = none
+}
+4028={
+	holding = castle_holding
+}
+4029={
+	culture = getian
+	faith = nestorian
+	holding = castle_holding
+}
+4030={
+	holding = none
+}
+4031={
+	holding = none
+}
+4032={
+	culture = bactrian
+	faith = nestorian
+	holding = castle_holding
+}
+4033={
+	holding = none
+}
+4034={
+	holding = none
+}
+4035={
+	holding = none
+}
+4310={
+	holding = city_holding
+}
+4311={
+	holding = city_holding
+}
+4312={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4313={
+	holding = city_holding
+}
+4314={
+	holding = none
+}
+4315={
+	holding = city_holding
+}
+4316={
+	culture = sarmatian
+	faith = nestorian
+	holding = castle_holding
+}
+4317={
+	holding = none
+}
+4323={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4324={
+	holding = none
+}
+4325={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+	special_building_slot = soltaniyeh_01
+}
+4326={
+	holding = none
+}
+4327={
+	holding = none
+}
+4534={
+	culture = persian
+	faith = afridunism
+	holding = castle_holding
+}
+4535={
+	holding = city_holding
+}
+4536={
+	holding = castle_holding
+}
+4537={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4538={
+	holding = city_holding
+}
+4539={
+	holding = none
+}
+4540={
+	holding = none
+}
+4541={
+	holding = none
+}
+4542={
+	holding = none
+}
+4543={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4544={
+	holding = none
+}
+4545={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4546={
+	holding = castle_holding
+}
+4547={
+	holding = none
+}
+4548={
+	holding = none
+}
+4549={
+	holding = none
+}
+4766={
+	holding = none
+}
+4767={
+	culture = getian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4768={
+	holding = none
+}
+4769={
+	holding = none
+}
+4770={
+	holding = none
+}
+4771={
+	culture = armenian
+	faith = armenian_apostolic
+	holding = castle_holding
+}
+4772={
+	holding = none
+}
+5771={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5772={
+	holding = city_holding
+}
+5773={
+	holding = city_holding
+}
+5774={
+	holding = none
+}
+5775={
+	holding = none
+}
+5776={
+	holding = castle_holding
+}
+5777={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5778={
+	holding = none
+}
+5779={
+	holding = none
+}
+5788={
+	holding = city_holding
+}
+5789={
+	holding = none
+}
+5790={
+	culture = getian
+	faith = dacian_pagan
+	holding = castle_holding
+}
+5791={
+	holding = none
+}
+5792={
+	holding = church_holding
+}
+5793={
+	holding = city_holding
+}
+5794={
+	holding = city_holding
+}

@@ -1,5 +1,5 @@
 k_bengal={
-	465.7.30 = { government = feudal_government holder = imperator230497 liege = e_IRTOCK3_AFZ succession_laws = { high_partition_succession_law } }
+	465.7.30 = { government = feudal_government holder = imperator230497 liege = e_IR_Qalai succession_laws = { partition_succession_law } }
 	495.8.17 = { holder = irtock3_imperator230497_successor_0 }
 	524.8.17 = { holder = irtock3_imperator230497_successor_1 }
 	566.8.17 = { holder = irtock3_imperator230497_successor_2 }
@@ -39,7 +39,7 @@ c_bikrampur={
 	836.12.18 = { holder = irtock3_imperator229205_successor_7 }
 }
 c_candradvipa={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 21 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -51,7 +51,7 @@ c_candradvipa={
 	821.7.31 = { holder = irtock3_imperator232090_successor_7 }
 }
 c_gauda={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 21 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -87,7 +87,7 @@ c_karmanta={
 	836.12.18 = { holder = irtock3_imperator229205_successor_7 }
 }
 c_kotivarsa={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 20 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -99,7 +99,7 @@ c_kotivarsa={
 	821.7.31 = { holder = irtock3_imperator232090_successor_7 }
 }
 c_laksmanavati={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 16 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -123,7 +123,7 @@ c_madhupur={
 	836.12.18 = { holder = irtock3_imperator229205_successor_7 }
 }
 c_mallabhum={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 16 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -149,7 +149,7 @@ c_midnapore={
 	873.1.8 = { holder = irtock3_imperator230615_successor_9 }
 }
 c_nabadwipa={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 24 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -161,7 +161,7 @@ c_nabadwipa={
 	821.7.31 = { holder = irtock3_imperator232090_successor_7 }
 }
 c_pundravardhana={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 22 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -173,7 +173,7 @@ c_pundravardhana={
 	821.7.31 = { holder = irtock3_imperator232090_successor_7 }
 }
 c_radha={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 20 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -197,7 +197,7 @@ c_samatata={
 	836.12.18 = { holder = irtock3_imperator229205_successor_7 }
 }
 c_saptagrama={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 25 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }
@@ -235,7 +235,7 @@ c_tamralipti={
 	873.1.8 = { holder = irtock3_imperator230615_successor_9 }
 }
 c_vijayapura={
-	469.3.7 = { liege = d_IRTOCK3_AAA holder = imperator232090 }
+	469.3.7 = { liege = d_IR_Lapethos holder = imperator232090 }
 	476.1.7 = { change_development_level = 20 }
 	502.7.31 = { holder = irtock3_imperator232090_successor_0 }
 	553.7.31 = { holder = irtock3_imperator232090_successor_1 }

@@ -1,0 +1,175 @@
+2526={
+	holding = none
+}
+2527={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2528={
+	holding = none
+}
+2529={
+	holding = none
+}
+2542={
+	culture = getian
+	faith = hellenic_pagan
+	holding = castle_holding
+	special_building_slot = generic_university
+}
+2546={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2547={
+	holding = none
+}
+2548={
+	holding = none
+}
+2549={
+	holding = none
+}
+2550={
+	holding = city_holding
+}
+2551={
+	holding = none
+}
+2552={
+	holding = none
+}
+2553={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2555={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2556={
+	holding = none
+}
+2566={
+	holding = church_holding
+}
+2568={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2571={
+	holding = church_holding
+}
+2572={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2573={
+	holding = city_holding
+}
+2574={
+	holding = none
+}
+2575={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2576={
+	holding = city_holding
+}
+2577={
+	holding = city_holding
+}
+2578={
+	holding = city_holding
+}
+2579={
+	holding = city_holding
+}
+2581={
+	holding = none
+}
+2582={
+	holding = city_holding
+}
+2583={
+	holding = none
+}
+2584={
+	holding = none
+}
+2585={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2586={
+	holding = none
+}
+2587={
+	holding = none
+}
+2588={
+	holding = none
+}
+2589={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2590={
+	holding = castle_holding
+}
+2591={
+	holding = none
+}
+2592={
+	holding = none
+}
+2594={
+	culture = etruscan
+	faith = catholic
+	holding = castle_holding
+}
+2595={
+	holding = church_holding
+}
+2596={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2597={
+	holding = none
+}
+2598={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2599={
+	holding = city_holding
+}
+2600={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+2603={
+	holding = none
+}
+2604={
+	culture = etruscan
+	faith = hellenic_pagan
+	holding = castle_holding
+}
+8759={
+	holding = church_holding
+}

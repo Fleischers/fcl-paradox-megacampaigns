@@ -1,0 +1,270 @@
+8973={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8974={
+	holding = city_holding
+}
+8975={
+	holding = church_holding
+}
+8976={
+	holding = none
+}
+8977={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8978={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+8979={
+	holding = city_holding
+}
+8980={
+	holding = church_holding
+}
+8981={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+8982={
+	holding = city_holding
+}
+10014={
+	holding = city_holding
+}
+10015={
+	culture = yi
+	religion = bimoism
+	holding = castle_holding
+}
+10016={
+	holding = church_holding
+}
+10017={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+10018={
+	holding = city_holding
+}
+10019={
+	holding = city_holding
+}
+10020={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10021={
+	holding = church_holding
+}
+10022={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+10023={
+	holding = city_holding
+}
+10024={
+	holding = none
+}
+10025={
+	holding = city_holding
+	special_building = wulingyuan_01
+}
+10027={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10028={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10029={
+	holding = church_holding
+}
+10030={
+	holding = city_holding
+}
+10031={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10032={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10033={
+	holding = city_holding
+}
+10034={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10035={
+	holding = city_holding
+}
+10036={
+	holding = church_holding
+}
+10037={
+	holding = none
+}
+10038={
+	holding = city_holding
+}
+10039={
+	holding = castle_holding
+}
+10040={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+10041={
+	holding = church_holding
+	special_building = dushan_mines_01
+}
+10042={
+	holding = none
+}
+10043={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+	1000.1.1 = { religion = dhyana }
+}
+10044={
+	holding = church_holding
+}
+10045={
+	holding = city_holding
+}
+10046={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+	special_building_slot = wudang_mountain_temples_01
+	647.1.1 = { special_building = wudang_mountain_temples_01 }
+	1066.1.1 = { religion = daoxue }
+}
+10047={
+	holding = city_holding
+}
+10048={
+	holding = church_holding
+}
+10323={
+	holding = none
+}
+10395={
+	culture = han
+	religion = dhyana
+	holding = castle_holding
+}
+10396={
+	holding = church_holding
+}
+10397={
+	holding = city_holding
+}
+10398={
+	holding = none
+}
+10399={
+	culture = han
+	religion = pundarika
+	holding = castle_holding
+	1000.1.1 = { religion = daoxue }
+}
+10400={
+	holding = city_holding
+}
+10401={
+	holding = castle_holding
+	special_building = chihu_mines_01
+}
+10453={
+	holding = none
+}
+12984={
+	holding = church_holding
+}
+13005={
+	holding = none
+}
+13006={
+	holding = none
+}
+13007={
+	holding = church_holding
+}
+13008={
+	holding = none
+}
+13011={
+	holding = city_holding
+}
+13012={
+	holding = church_holding
+}
+13013={
+	holding = none
+}
+13021={
+	holding = none
+}
+13022={
+	holding = church_holding
+}
+13025={
+	culture = han
+	religion = shangqing
+	holding = castle_holding
+}
+13026={
+	holding = none
+}
+13027={
+	holding = none
+}
+13028={
+	holding = church_holding
+}
+13029={
+	holding = none
+}
+13030={
+	holding = city_holding
+}
+13054={
+	holding = church_holding
+}
+13061={
+	holding = none
+}
+13062={
+	holding = none
+}
+13154={
+	holding = city_holding
+}
+13159={
+	holding = none
+}

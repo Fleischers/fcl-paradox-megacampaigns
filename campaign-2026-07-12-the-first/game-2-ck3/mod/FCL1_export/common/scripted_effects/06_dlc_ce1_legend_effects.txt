@@ -358,7 +358,7 @@ grab_mythical_founder_effect = {
 						OR = {
 							root.primary_title = title:k_white_rus
 							root.primary_title = title:k_ruthenia
-							root.primary_title = title:e_russia
+							root.primary_title = title:e_rus
 						}
 					}
 					set_variable = { name = mythical_ancestor_var value = flag:rus }

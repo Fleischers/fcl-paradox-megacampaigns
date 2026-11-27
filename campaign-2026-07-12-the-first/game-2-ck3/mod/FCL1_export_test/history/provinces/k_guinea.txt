@@ -1,0 +1,240 @@
+6988={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+6990={
+	holding = none
+}
+6991={
+	holding = none
+}
+6992={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+6993={
+	holding = none
+}
+6994={
+	holding = none
+}
+6996={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+8150={
+	holding = none
+}
+8151={
+	culture = malinke
+	religion = west_african_pagan
+	holding = none
+}
+8152={
+	holding = none
+}
+8153={
+	holding = none
+}
+8154={
+	holding = none
+}
+8156={
+	holding = none
+}
+8157={
+	holding = none
+}
+8158={
+	holding = none
+}
+8159={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8160={
+	holding = none
+}
+8161={
+	holding = none
+}
+8162={
+	holding = none
+}
+8167={
+	holding = none
+}
+8168={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8176={
+	holding = none
+}
+8178={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8179={
+	holding = none
+}
+8180={
+	holding = none
+}
+8181={
+	holding = none
+}
+8187={
+	holding = none
+}
+8188={
+	holding = none
+}
+8189={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}
+8190={
+	holding = none
+}
+8191={
+	holding = none
+}
+8199={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8200={
+	holding = none
+}
+8201={
+	holding = none
+}
+8202={
+	holding = none
+}
+8203={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8204={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8205={
+	culture = mel
+	religion = west_african_pagan
+	holding = none
+}
+8206={
+	holding = none
+}
+8207={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8208={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8209={
+	holding = none
+}
+8210={
+	holding = none
+}
+8211={
+	holding = none
+}
+8212={
+	holding = none
+}
+8213={
+	holding = none
+}
+8214={
+	holding = none
+}
+8215={
+	holding = none
+}
+8216={
+	holding = none
+}
+8217={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8218={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8219={
+	holding = none
+}
+8220={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8221={
+	holding = none
+}
+8222={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8223={
+	holding = none
+}
+8224={
+	holding = none
+}
+8225={
+	holding = none
+}
+8226={
+	holding = none
+}
+8227={
+	holding = none
+}
+8228={
+	holding = none
+}
+8229={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8230={
+	holding = none
+}
+8231={
+	culture = kru
+	religion = akom_pagan
+	holding = none
+}
+8273={
+	holding = none
+}
+8275={
+	culture = mel
+	religion = west_african_roog_pagan
+	holding = none
+}

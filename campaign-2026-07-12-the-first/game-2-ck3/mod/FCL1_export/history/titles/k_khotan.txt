@@ -1,4 +1,5 @@
 k_khotan={
+	476.1.7 = { liege = e_IR_Qalai }
 	890.1.1 = { liege = 0 }
 }
 d_charkliq={

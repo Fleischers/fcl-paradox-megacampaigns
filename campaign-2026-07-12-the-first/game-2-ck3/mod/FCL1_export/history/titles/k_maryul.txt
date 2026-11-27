@@ -1,5 +1,5 @@
 k_maryul={
-	468.10.7 = { government = feudal_government holder = imperator237802 liege = e_IRTOCK3_AFZ succession_laws = { high_partition_succession_law } }
+	468.10.7 = { government = feudal_government holder = imperator237802 liege = e_IR_Qalai succession_laws = { partition_succession_law } }
 	508.8.9 = { holder = irtock3_imperator237802_successor_0 }
 	559.8.9 = { holder = irtock3_imperator237802_successor_1 }
 	604.8.9 = { holder = irtock3_imperator237802_successor_2 }

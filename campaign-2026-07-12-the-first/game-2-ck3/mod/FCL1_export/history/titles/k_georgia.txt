@@ -1,4 +1,5 @@
 k_georgia={
+	476.1.7 = { liege = e_greater_armenia }
 	890.1.1 = { liege = 0 }
 }
 d_abkhazia={
