@@ -1,7 +1,7 @@
 ﻿on_game_start_after_lobby = {
-	on_actions = { irtock3_on_game_start_after_lobby }
+	on_actions = { fcl1_bloodlines_on_game_start_after_lobby }
 }
-irtock3_on_game_start_after_lobby = {
+fcl1_bloodlines_on_game_start_after_lobby = {
 	effect = {
 		title:k_IRTOCK3_ICE.holder ?= {
 			dynasty ?= {
@@ -35,6 +35,14 @@ irtock3_on_game_start_after_lobby = {
 				}
 			}
 		}
+		title:k_IRTOCK3_MAC.holder ?= {
+			dynasty ?= {
+				every_dynasty_member = {
+					limit = { is_alive = yes }
+					add_trait = blood_of_macedon
+				}
+			}
+		}
 		title:e_germany.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
@@ -43,7 +51,7 @@ irtock3_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:h_IRTOCK3_CRM.holder ?= {
+		title:e_spain.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
@@ -67,7 +75,7 @@ irtock3_on_game_start_after_lobby = {
 				}
 			}
 		}
-		title:e_IRTOCK3_A3O.holder ?= {
+		title:k_IRTOCK3_A3O.holder ?= {
 			dynasty ?= {
 				every_dynasty_member = {
 					limit = { is_alive = yes }

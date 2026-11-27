@@ -20,11 +20,11 @@ The start hook resolves the dynasty from the current holder of each title, then 
 | Belgia | `blood_of_belgia` | Diplomacy | `k_IRTOCK3_RMI` |
 | Dacia | `blood_of_dacia` | Martial | `k_IRTOCK3_AHL` |
 | Germania (formed by Scandia) | `blood_of_germania` | Intrigue | `e_germany` |
-| Greater Iberia | `blood_of_greater_iberia` | Stewardship | `h_IRTOCK3_CRM` |
+| Greater Iberia | `blood_of_greater_iberia` | Stewardship | `e_spain` |
 | Israel | `blood_of_israel` | Diplomacy | `k_israel` |
-| Macedon | `blood_of_macedon` | Martial | Unresolved; `k_macedon` is unheld and has no bookmark character |
+| Macedon | `blood_of_macedon` | Martial | `k_IRTOCK3_MAC` |
 | Numidia (formed by Mauretania) | `blood_of_numidia` | Learning | `k_IRTOCK3_MAU` |
-| Scythia | `blood_of_scythia` | Intrigue | `e_IRTOCK3_A3O` |
+| Scythia | `blood_of_scythia` | Intrigue | `k_IRTOCK3_A3O` |
 | Tuscia | `blood_of_tuscia` | Stewardship | `e_IRTOCK3_A64` |
 
 Tuscia's dynasty also receives `blood_of_the_winner` at game start.
@@ -38,6 +38,7 @@ Bloodlines are packaged as the separate companion mod `campaign-2026-07-12-the-f
 - Trait icon DDS files and PNG previews: `gfx/interface/icons/traits/`. The 256x256 icons use 12-pixel transparent perimeters (3 pixels at 64x64 icon scale). In each trait definition, set `icon = <trait>.dds`; CK3 prepends `gfx/interface/icons/traits/` automatically, so don't include the directory in the `icon` value.
 - Start assignment: `common/on_action/IRToCK3_game_start.txt`, called after the lobby closes.
 - Mod installation and dependency notes: `campaign-2026-07-12-the-first/game-2-ck3/mod/FCL1_bloodlines/README.md`
+- The game-start hook uses the unique `fcl1_bloodlines_on_game_start_after_lobby` action to avoid colliding with converter on_actions.
 
 The assignments affect characters at the start of a new game. They do not retroactively grant traits to characters in an already-started save.
 
@@ -50,6 +51,6 @@ The assignments affect characters at the start of a new game. They do not retroa
 5. Add any new trait icon paths only after their DDS assets exist.
 6. Launch a new game with the updated mod and verify the starting dynasties' traits in-game.
 
-## Current-export caveat
+## Standalone testing
 
-The `k_macedon` title is unheld at the current export's 890 bookmark start, and the bookmark has no Macedon player character. No Macedon assignment is active: identify the player's actual starting title or dynasty before adding it. Do not use a future `k_macedon` holder automatically unless verified as the player dynasty.
+FCL1 Bloodlines depends on `Converted - FCL1_export`; its dynasty grants use export-specific title IDs and are intended for new games with that export. To test trait visuals in vanilla, remove the dependency and disable the export-specific game-start hook, then add traits to test characters with the in-game console.
