@@ -1,2 +1,0 @@
-# The vanilla CK3 Oghuz dynasty needs a CoA because we preserve the Seljuk cadet house.
-7327 = k_oghuz_il

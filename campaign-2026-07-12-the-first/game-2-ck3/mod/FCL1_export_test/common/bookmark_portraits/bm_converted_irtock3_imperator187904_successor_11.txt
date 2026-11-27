@@ -1,8 +1,0 @@
-bm_converted_irtock3_imperator187904_successor_11 = {
-	type = male
-	age = 0.82
-	genes = {
-		
-	}
-	entity = { 3942081117 3942081117 }
-}

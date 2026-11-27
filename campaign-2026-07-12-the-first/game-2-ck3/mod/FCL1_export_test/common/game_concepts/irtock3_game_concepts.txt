@@ -1,3 +1,0 @@
-﻿irtock3_praetorian_prefecture = {
-	alias = { irtock3_praetorian_prefectures }
-}
