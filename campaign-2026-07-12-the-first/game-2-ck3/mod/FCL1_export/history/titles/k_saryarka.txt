@@ -1,4 +1,5 @@
 k_saryarka={
+	476.1.7 = { liege = e_khazaria }
 	890.1.1 = { liege = 0 }
 }
 d_betpa={

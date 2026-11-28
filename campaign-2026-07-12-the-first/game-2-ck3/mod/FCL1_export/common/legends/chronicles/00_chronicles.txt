@@ -281,7 +281,7 @@ ancient_people = {
 			triggered_desc = {
 				trigger = {
 					scope:culture = culture:hunnic
-					scope:title = title:e_caspian-pontic_steppe
+					scope:title = title:e_khazaria
 					scope:original_region = geographical_region:world_steppe_west
 				}
 				desc = legend_hunnic_heritage
@@ -357,7 +357,7 @@ ancient_people = {
 			triggered_desc = {
 				trigger = {
 					scope:culture = culture:hunnic
-					scope:title = title:e_caspian-pontic_steppe
+					scope:title = title:e_khazaria
 					scope:original_region = geographical_region:world_steppe_west
 				}
 				desc = legend_hunnic_heritage_desc

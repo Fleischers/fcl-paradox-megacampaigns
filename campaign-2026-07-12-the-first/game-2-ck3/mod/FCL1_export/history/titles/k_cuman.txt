@@ -8,7 +8,8 @@ d_kokturgay={
 	890.1.1 = { liege = 0 }
 }
 d_qyzylsaryarka={
-	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder government = tribal_government liege = 0 }
+	476.1.7 = { liege = k_cuman }
+	890.1.1 = { holder = IRToCK3_c_eghiz_kara_holder government = tribal_government liege = k_cuman }
 }
 d_saryarka={
 	837.1.1 = { holder = 0 }

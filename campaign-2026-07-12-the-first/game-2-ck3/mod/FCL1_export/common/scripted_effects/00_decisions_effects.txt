@@ -3879,7 +3879,7 @@ create_cossack_scripted_effect = {
 	## Set up the Cossack Kingdom title with de jure duchies
 	custom_tooltip = {
 		text = cossack_custom_de_jure
-		title:k_cossack = { set_de_jure_liege_title = title:e_caspian-pontic_steppe }
+		title:k_cossack = { set_de_jure_liege_title = title:e_khazaria }
 		title:d_tana = { set_de_jure_liege_title = title:k_cossack }
 		title:d_red_levedia = { set_de_jure_liege_title = title:k_cossack }
 		title:d_levedia = { set_de_jure_liege_title = title:k_cossack }

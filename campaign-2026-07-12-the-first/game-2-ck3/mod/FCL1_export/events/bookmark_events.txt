@@ -23,14 +23,14 @@ bookmark.0200 = { #by James Beaumont
 	hidden = yes
 	
 	trigger = {
-		this = title:e_caspian-pontic_steppe.holder #Khagan of Khazaria
+		this = title:e_khazaria.holder #Khagan of Khazaria
 		is_alive = yes
 		is_landed = yes
 	}
 
 	immediate = {
 		create_character = {
-			location = title:e_caspian-pontic_steppe.holder.capital_province
+			location = title:e_khazaria.holder.capital_province
 			trait = lifestyle_mystic
 			random_traits = yes
 			faith = faith:kabarism
@@ -50,9 +50,9 @@ bookmark.0200 = { #by James Beaumont
 			}
 			save_scope_as = new_courtier
 		}
-		title:e_caspian-pontic_steppe.holder = { add_courtier = scope:new_courtier }
+		title:e_khazaria.holder = { add_courtier = scope:new_courtier }
 		create_character = {
-			location = title:e_caspian-pontic_steppe.holder.capital_province
+			location = title:e_khazaria.holder.capital_province
 			faith = faith:kabarism
 			culture = culture:radhanite
 			random_traits_list = {
@@ -77,9 +77,9 @@ bookmark.0200 = { #by James Beaumont
 			}
 			save_scope_as = new_courtier
 		}
-		title:e_caspian-pontic_steppe.holder = { add_courtier = scope:new_courtier }
+		title:e_khazaria.holder = { add_courtier = scope:new_courtier }
 		create_character = {
-			location = title:e_caspian-pontic_steppe.holder.capital_province
+			location = title:e_khazaria.holder.capital_province
 			age = { 18 35 }
 			random_traits_list = {
 				count = 1
@@ -131,9 +131,9 @@ bookmark.0200 = { #by James Beaumont
 			}
 			save_scope_as = new_courtier
 		}
-		title:e_caspian-pontic_steppe.holder = { add_courtier = scope:new_courtier }
+		title:e_khazaria.holder = { add_courtier = scope:new_courtier }
 		create_character = {
-			location = title:e_caspian-pontic_steppe.holder.capital_province
+			location = title:e_khazaria.holder.capital_province
 			random_traits = yes
 			faith = faith:kabarism
 			culture = culture:radhanite
@@ -142,9 +142,9 @@ bookmark.0200 = { #by James Beaumont
 			}
 			save_scope_as = new_courtier
 		}
-		title:e_caspian-pontic_steppe.holder = { add_courtier = scope:new_courtier }
+		title:e_khazaria.holder = { add_courtier = scope:new_courtier }
 		create_character = {
-			location = title:e_caspian-pontic_steppe.holder.capital_province
+			location = title:e_khazaria.holder.capital_province
 			random_traits = yes
 			faith = faith:kabarism
 			culture = culture:radhanite
@@ -153,7 +153,7 @@ bookmark.0200 = { #by James Beaumont
 			}
 			save_scope_as = new_courtier
 		}
-		title:e_caspian-pontic_steppe.holder = { add_courtier = scope:new_courtier }
+		title:e_khazaria.holder = { add_courtier = scope:new_courtier }
 	}
 }
 

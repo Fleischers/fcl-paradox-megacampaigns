@@ -459,7 +459,7 @@ mpo_nomad_invasion_cb = {
 										this = title:e_golden_horde
 										this = title:e_tartaria
 										this = title:e_andong
-										this = title:e_caspian-pontic_steppe
+										this = title:e_khazaria
 									}
 								}
 								# IRToCK3: The base game makes the AI more likely to target titles under the zhongyuan/yongliang empires. But, this breaks if those titles change, so using geographical_regions instead
@@ -1753,7 +1753,7 @@ mpo_nomad_duchy_invasion_cb = {
 										this = title:e_golden_horde
 										this = title:e_tartaria
 										this = title:e_andong
-										this = title:e_caspian-pontic_steppe
+										this = title:e_khazaria
 									}
 								}
 							}
