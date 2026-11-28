@@ -3251,7 +3251,7 @@ crusading_claim_cb = {
 							geographical_region = world_africa_north
 							county = {
 								OR = {
-									empire = title:e_caspian-pontic_steppe
+									empire = title:e_khazaria
 									empire = title:e_byzantium
 								}
 							}
@@ -3420,7 +3420,7 @@ crusading_claim_cb = {
 							geographical_region = world_africa_north
 							county = {
 								OR = {
-									empire = title:e_caspian-pontic_steppe
+									empire = title:e_khazaria
 									empire = title:e_byzantium
 								}
 							}

@@ -741,7 +741,7 @@ k_sorbia={
 e_rus={
 	890.1.1 = { liege = 0 }
 }
-e_caspian-pontic_steppe={
+e_khazaria={
 	890.1.1 = { liege = 0 }
 }
 k_magyar={

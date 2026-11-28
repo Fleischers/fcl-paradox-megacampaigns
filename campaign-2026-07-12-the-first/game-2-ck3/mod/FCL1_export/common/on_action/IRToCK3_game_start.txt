@@ -3,12 +3,21 @@
 }
 irtock3_on_game_start_after_lobby = {
 	effect = {
+		title:k_pontic_steppe ?= { set_de_jure_liege_title = title:e_IR_Scythia }
+		title:k_caspian_steppe ?= { set_de_jure_liege_title = title:e_IR_Scythia }
+		title:k_caucasus ?= { set_de_jure_liege_title = title:e_IR_Scythia }
+		title:k_qara_dala ?= { set_de_jure_liege_title = title:e_khazaria }
+		title:k_saryarka ?= { set_de_jure_liege_title = title:e_khazaria }
+		title:k_cuman ?= { set_de_jure_liege_title = title:e_khazaria }
+		title:d_qyzylsaryarka ?= { set_de_jure_liege_title = title:k_cuman }
 		title:k_armenia ?= { set_de_jure_liege_title = title:e_greater_armenia }
 		title:k_georgia ?= { set_de_jure_liege_title = title:e_greater_armenia }
 		title:k_pontus ?= { set_de_jure_liege_title = title:e_greater_armenia }
-		title:k_caucasus ?= { set_de_jure_liege_title = title:e_IR_Scythia }
 		title:k_mesopotamia ?= { set_de_jure_liege_title = title:e_persia }
 		title:k_jazira ?= { set_de_jure_liege_title = title:e_greater_armenia }
+		title:k_anatolia ?= { set_de_jure_liege_title = title:e_byzantium }
+		title:k_phoenicia ?= { set_de_jure_liege_title = title:e_egypte }
+		title:d_edessa ?= { set_de_jure_liege_title = title:k_syria }
 		title:k_khotan ?= { set_de_jure_liege_title = title:e_IR_Qalai }
 		title:k_oghuz_il ?= { set_de_jure_liege_title = title:e_IR_Qalai }
 		title:k_syr_darya ?= { set_de_jure_liege_title = title:e_IR_Qalai }

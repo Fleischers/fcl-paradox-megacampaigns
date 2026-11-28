@@ -33,7 +33,7 @@ on_game_start = {
 				has_mpo_dlc_trigger = no
 				current_date >= 1000.1.1
 			}
-			title:e_caspian-pontic_steppe = {
+			title:e_khazaria = {
 				set_title_name = cn_cumania
 			}
 		}
