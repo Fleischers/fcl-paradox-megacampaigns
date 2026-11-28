@@ -55,7 +55,7 @@
 	holding = none
 }
 826={
-	culture = burmese
+	culture = bengali
 	faith = old_bon
 	holding = none
 }
@@ -68,17 +68,17 @@
 	holding = castle_holding
 }
 1244={
-	culture = bengali
+	culture = assamese
 	faith = vaishnavism
 	holding = castle_holding
 }
 1245={
-	culture = sarmatian
+	culture = khasi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1246={
-	culture = sarmatian
+	culture = khasi
 	faith = scythian_pagan
 	holding = castle_holding
 }

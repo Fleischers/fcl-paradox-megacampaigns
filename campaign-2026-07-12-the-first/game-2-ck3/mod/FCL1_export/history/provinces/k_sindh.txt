@@ -1,45 +1,45 @@
 1137={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1138={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1175={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1297={
-	culture = brythonic
+	culture = sindhi
 	faith = manichean
 	holding = castle_holding
 }
 1303={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1331={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1333={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1336={
-	culture = sumpa
+	culture = sindhi
 	faith = manichean
 	holding = city_holding
 }
 1339={
-	culture = brythonic
+	culture = sindhi
 	faith = celtic_pagan
 	holding = castle_holding
 }

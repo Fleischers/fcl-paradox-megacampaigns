@@ -1,30 +1,30 @@
 483={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = celtic_pagan
 	holding = castle_holding
 }
 484={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = celtic_pagan
 	holding = castle_holding
 }
 486={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = manichean
 	holding = city_holding
 }
 487={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = city_holding
 }
 488={
-	culture = macedonian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
 489={
-	culture = macedonian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -39,27 +39,27 @@
 	holding = castle_holding
 }
 492={
-	culture = lemnian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 495={
-	culture = brythonic
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 496={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 497={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 744={
-	culture = non_indo_european_iberian
+	culture = levantine
 	faith = orthodox
 	holding = castle_holding
 }
@@ -79,15 +79,19 @@
 	holding = none
 }
 3748={
+	culture = levantine
 	holding = city_holding
 }
 3749={
+	culture = levantine
 	holding = city_holding
 }
 3750={
+	culture = levantine
 	holding = castle_holding
 }
 3751={
+	culture = levantine
 	holding = city_holding
 }
 3752={
@@ -218,7 +222,7 @@
 	holding = castle_holding
 }
 3793={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -232,7 +236,7 @@
 	holding = none
 }
 3797={
-	culture = macedonian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }

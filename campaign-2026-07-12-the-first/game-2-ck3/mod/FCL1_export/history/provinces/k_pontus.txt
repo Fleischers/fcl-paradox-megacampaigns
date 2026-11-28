@@ -1,20 +1,20 @@
 678={
-	culture = getian
+	culture = hellenic_greek
 	faith = armenian_apostolic
 	holding = castle_holding
 }
 705={
-	culture = getian
+	culture = hellenic_greek
 	faith = armenian_apostolic
 	holding = castle_holding
 }
 706={
-	culture = armenian
+	culture = anatolian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
 735={
-	culture = syro_hellenic
+	culture = anatolian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -22,7 +22,7 @@
 	holding = city_holding
 }
 739={
-	culture = getian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -30,7 +30,7 @@
 	holding = none
 }
 5581={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -41,7 +41,7 @@
 	holding = none
 }
 5584={
-	culture = getian
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -61,7 +61,7 @@
 	holding = none
 }
 5590={
-	culture = getian
+	culture = anatolian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 5594={
-	culture = getian
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -89,7 +89,7 @@
 	holding = city_holding
 }
 5598={
-	culture = getian
+	culture = anatolian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -103,7 +103,7 @@
 	holding = city_holding
 }
 5602={
-	culture = getian
+	culture = anatolian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -111,7 +111,7 @@
 	holding = none
 }
 5604={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }

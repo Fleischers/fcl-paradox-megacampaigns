@@ -1,5 +1,5 @@
 4869={
-	culture = etruscan
+	culture = aramaic
 	faith = nestorian
 	holding = castle_holding
 }
@@ -16,12 +16,12 @@
 	holding = none
 }
 4893={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }
 4894={
-	culture = brythonic
+	culture = aramaic
 	faith = nestorian
 	holding = castle_holding
 }
@@ -29,7 +29,7 @@
 	holding = castle_holding
 }
 5900={
-	culture = brythonic
+	culture = syro_hellenic
 	faith = orthodox
 	holding = city_holding
 }
@@ -52,7 +52,7 @@
 	holding = city_holding
 }
 5915={
-	culture = etruscan
+	culture = aramaic
 	faith = orthodox
 	holding = city_holding
 }
@@ -139,7 +139,7 @@
 	holding = none
 }
 5945={
-	culture = aramaic
+	culture = adnanite
 	faith = orthodox
 	holding = castle_holding
 }
@@ -150,7 +150,7 @@
 	holding = none
 }
 5948={
-	culture = aramaic
+	culture = adnanite
 	faith = orthodox
 	holding = castle_holding
 }
@@ -158,7 +158,7 @@
 	holding = none
 }
 5950={
-	culture = phoenician
+	culture = adnanite
 	faith = manichean
 	holding = city_holding
 }
@@ -177,7 +177,7 @@
 	holding = city_holding
 }
 5955={
-	culture = hebrew
+	culture = aramaic
 	faith = rabbinism
 	holding = castle_holding
 }

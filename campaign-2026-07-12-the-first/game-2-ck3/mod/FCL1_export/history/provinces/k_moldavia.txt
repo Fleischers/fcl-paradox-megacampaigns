@@ -1,25 +1,25 @@
 511={
-	culture = getian
+	culture = vlach
 	faith = dacian_pagan
 	holding = castle_holding
 }
 512={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = celtic_pagan
 	holding = tribal_holding
 }
 513={
-	culture = brythonic
+	culture = vlach
 	faith = celtic_pagan
 	holding = city_holding
 }
 541={
-	culture = getian
+	culture = vlach
 	faith = celtic_pagan
 	holding = city_holding
 }
 545={
-	culture = getian
+	culture = dacian
 	faith = tengri_pagan
 	holding = city_holding
 }
@@ -27,7 +27,7 @@
 	holding = none
 }
 5012={
-	culture = brythonic
+	culture = getian
 	faith = tengri_pagan
 	holding = tribal_holding
 }
@@ -46,7 +46,7 @@
 	holding = none
 }
 5017={
-	culture = brythonic
+	culture = getian
 	faith = tengri_pagan
 	holding = city_holding
 }
@@ -54,45 +54,54 @@
 	holding = none
 }
 5019={
-	culture = hunnic
+	culture = vlach
 	faith = tengri_pagan
 	holding = castle_holding
 }
 5020={
+	culture = vlach
 	holding = none
 }
 5021={
-	culture = getian
+	culture = vlach
 	faith = germanic_pagan
 	holding = castle_holding
 }
 5022={
+	culture = vlach
 	holding = none
 }
 5023={
+	culture = vlach
 	holding = none
 }
 5024={
+	culture = vlach
 	holding = castle_holding
 }
 5025={
+	culture = vlach
 	holding = none
 }
 5026={
+	culture = vlach
 	holding = none
 }
 5027={
+	culture = vlach
 	holding = none
 }
 5028={
+	culture = vlach
 	holding = none
 }
 5029={
-	culture = getian
+	culture = vlach
 	faith = tengri_pagan
 	holding = castle_holding
 }
 5030={
+	culture = vlach
 	holding = none
 }
 5031={
@@ -119,7 +128,7 @@
 	holding = none
 }
 5038={
-	culture = hunnic
+	culture = scythian
 	faith = tengri_pagan
 	holding = city_holding
 }
@@ -127,7 +136,7 @@
 	holding = none
 }
 5040={
-	culture = getian
+	culture = scythian
 	faith = dacian_pagan
 	holding = castle_holding
 	special_building_slot = hotin_fort_01

@@ -1,16 +1,17 @@
 458={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
 459={
+	culture = croatian
 	holding = none
 }
 460={
 	holding = castle_holding
 }
 461={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
@@ -18,20 +19,21 @@
 	holding = none
 }
 463={
+	culture = bosnian
 	holding = none
 }
 464={
-	culture = finnish
+	culture = croatian
 	faith = catholic
 	holding = tribal_holding
 }
 465={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
 466={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
@@ -39,17 +41,17 @@
 	holding = none
 }
 468={
-	culture = getian
+	culture = italiote
 	faith = catholic
 	holding = castle_holding
 }
 469={
-	culture = lemnian
+	culture = albanian
 	faith = catholic
 	holding = city_holding
 }
 502={
-	culture = getian
+	culture = serbian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -57,15 +59,16 @@
 	holding = none
 }
 504={
+	culture = bosnian
 	holding = city_holding
 }
 505={
-	culture = getian
+	culture = celtic_pannonian
 	faith = orthodox
 	holding = castle_holding
 }
 2518={
-	culture = lemnian
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -76,7 +79,7 @@
 	holding = none
 }
 2521={
-	culture = getian
+	culture = croatian
 	faith = catholic
 	holding = city_holding
 }
@@ -84,13 +87,14 @@
 	holding = none
 }
 2523={
+	culture = croatian
 	holding = none
 }
 3095={
 	holding = none
 }
 3096={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -101,7 +105,7 @@
 	holding = none
 }
 3100={
-	culture = getian
+	culture = celtic_pannonian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -115,7 +119,7 @@
 	holding = none
 }
 3501={
-	culture = lemnian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
@@ -126,85 +130,101 @@
 	holding = castle_holding
 }
 3504={
+	culture = bosnian
 	holding = city_holding
 }
 3505={
+	culture = bosnian
 	holding = castle_holding
 }
 3506={
+	culture = bosnian
 	holding = city_holding
 }
 3507={
-	culture = getian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
 3508={
+	culture = bosnian
 	holding = city_holding
 }
 3509={
+	culture = bosnian
 	holding = none
 }
 3510={
-	culture = getian
+	culture = bosnian
 	faith = orthodox
 	holding = castle_holding
 }
 3511={
+	culture = bosnian
 	holding = none
 }
 3512={
+	culture = bosnian
 	holding = none
 }
 3513={
-	culture = getian
+	culture = bosnian
 	faith = orthodox
 	holding = castle_holding
 }
 3514={
+	culture = bosnian
 	holding = none
 }
 3515={
+	culture = bosnian
 	holding = none
 }
 3516={
-	culture = getian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
 3517={
+	culture = bosnian
 	holding = none
 }
 3518={
+	culture = bosnian
 	holding = castle_holding
 }
 3519={
-	culture = getian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
 3521={
+	culture = bosnian
 	holding = none
 }
 3522={
-	culture = getian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
 3523={
+	culture = bosnian
 	holding = city_holding
 }
 3524={
+	culture = bosnian
 	holding = none
 }
 3525={
+	culture = bosnian
 	holding = none
 }
 3526={
+	culture = bosnian
 	holding = none
 }
 3527={
-	culture = lemnian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
@@ -212,7 +232,7 @@
 	holding = castle_holding
 }
 3529={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
@@ -235,34 +255,41 @@
 	holding = city_holding
 }
 3536={
+	culture = croatian
 	holding = none
 }
 3537={
+	culture = croatian
 	holding = none
 }
 3538={
+	culture = croatian
 	holding = city_holding
 }
 3539={
-	culture = getian
+	culture = croatian
 	faith = catholic
 	holding = castle_holding
 }
 3540={
+	culture = croatian
 	holding = city_holding
 }
 3541={
+	culture = croatian
 	holding = none
 }
 3542={
+	culture = croatian
 	holding = none
 }
 3543={
-	culture = getian
+	culture = croatian
 	faith = catholic
 	holding = tribal_holding
 }
 3544={
+	culture = croatian
 	holding = none
 }
 3545={
@@ -275,7 +302,7 @@
 	holding = city_holding
 }
 3548={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
@@ -286,7 +313,7 @@
 	holding = none
 }
 3551={
-	culture = lemnian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
@@ -297,7 +324,7 @@
 	holding = none
 }
 3555={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
@@ -314,7 +341,7 @@
 	holding = none
 }
 3560={
-	culture = lemnian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
@@ -328,20 +355,24 @@
 	holding = none
 }
 3564={
+	culture = bosnian
 	holding = castle_holding
 }
 3565={
+	culture = bosnian
 	holding = castle_holding
 }
 3566={
+	culture = bosnian
 	holding = castle_holding
 }
 3567={
-	culture = getian
+	culture = bosnian
 	faith = catholic
 	holding = castle_holding
 }
 3568={
+	culture = bosnian
 	holding = none
 }
 3569={
@@ -351,7 +382,7 @@
 	holding = none
 }
 3572={
-	culture = lemnian
+	culture = dalmatian
 	faith = catholic
 	holding = city_holding
 }
@@ -362,7 +393,7 @@
 	holding = city_holding
 }
 3575={
-	culture = getian
+	culture = albanian
 	faith = catholic
 	holding = city_holding
 }
@@ -382,72 +413,88 @@
 	holding = none
 }
 3581={
+	culture = serbian
 	holding = none
 }
 3582={
+	culture = serbian
 	holding = none
 }
 3583={
-	culture = getian
+	culture = serbian
 	faith = catholic
 	holding = castle_holding
 }
 3584={
+	culture = serbian
 	holding = none
 }
 3585={
+	culture = serbian
 	holding = none
 }
 3586={
+	culture = serbian
 	holding = none
 }
 3587={
+	culture = serbian
 	holding = none
 }
 3588={
+	culture = serbian
 	holding = none
 }
 3589={
+	culture = serbian
 	holding = none
 }
 3590={
+	culture = serbian
 	holding = city_holding
 }
 3591={
-	culture = getian
+	culture = serbian
 	faith = orthodox
 	holding = castle_holding
 }
 3592={
+	culture = serbian
 	holding = none
 }
 3593={
+	culture = serbian
 	holding = none
 }
 3594={
+	culture = serbian
 	holding = none
 	special_building_slot = trepca_mines_01
 }
 3595={
+	culture = serbian
 	holding = none
 }
 3596={
-	culture = macedonian
+	culture = serbian
 	faith = orthodox
 	holding = castle_holding
 }
 3597={
+	culture = serbian
 	holding = castle_holding
 }
 3598={
-	culture = getian
+	culture = serbian
 	faith = orthodox
 	holding = castle_holding
 }
 3599={
+	culture = serbian
 	holding = none
 }
 3600={
+	culture = serbian
 	holding = city_holding
 }
 3601={
@@ -460,7 +507,7 @@
 	holding = none
 }
 3604={
-	culture = getian
+	culture = celtic_pannonian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -480,7 +527,7 @@
 	holding = city_holding
 }
 3610={
-	culture = getian
+	culture = dalmatian
 	faith = catholic
 	holding = castle_holding
 }
@@ -491,7 +538,7 @@
 	holding = none
 }
 3739={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }

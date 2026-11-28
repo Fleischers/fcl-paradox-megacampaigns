@@ -2,7 +2,7 @@
 	holding = none
 }
 4774={
-	culture = brythonic
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -13,7 +13,7 @@
 	holding = none
 }
 4777={
-	culture = armenian
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -24,7 +24,7 @@
 	holding = none
 }
 4780={
-	culture = armenian
+	culture = assyrian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -38,7 +38,7 @@
 	holding = none
 }
 4811={
-	culture = brythonic
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 4840={
-	culture = armenian
+	culture = assyrian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -103,7 +103,7 @@
 	holding = castle_holding
 }
 4848={
-	culture = syro_hellenic
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -120,7 +120,7 @@
 	holding = church_holding
 }
 4853={
-	culture = etruscan
+	culture = aramaic
 	faith = nestorian
 	holding = castle_holding
 }
@@ -128,7 +128,7 @@
 	holding = church_holding
 }
 4855={
-	culture = armenian
+	culture = kurdish
 	faith = nestorian
 	holding = castle_holding
 }
@@ -142,7 +142,7 @@
 	holding = city_holding
 }
 4859={
-	culture = armenian
+	culture = kurdish
 	faith = nestorian
 	holding = castle_holding
 }
@@ -150,7 +150,7 @@
 	holding = none
 }
 4861={
-	culture = brythonic
+	culture = armenian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -170,7 +170,7 @@
 	holding = none
 }
 4867={
-	culture = syro_hellenic
+	culture = aramaic
 	faith = nestorian
 	holding = castle_holding
 }
@@ -178,7 +178,7 @@
 	holding = none
 }
 4870={
-	culture = etruscan
+	culture = aramaic
 	faith = nestorian
 	holding = castle_holding
 }
@@ -220,7 +220,7 @@
 	holding = castle_holding
 }
 4883={
-	culture = syro_hellenic
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -228,12 +228,12 @@
 	holding = city_holding
 }
 4885={
-	culture = syro_hellenic
+	culture = adnanite
 	faith = nestorian
 	holding = castle_holding
 }
 4886={
-	culture = syro_hellenic
+	culture = adnanite
 	faith = nestorian
 	holding = castle_holding
 }
@@ -244,7 +244,7 @@
 	holding = none
 }
 4889={
-	culture = syro_hellenic
+	culture = adnanite
 	faith = nestorian
 	holding = castle_holding
 }

@@ -1,60 +1,60 @@
 1178={
-	culture = brythonic
+	culture = punjabi
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1179={
-	culture = hunnic
+	culture = punjabi
 	faith = tengri_pagan
 	holding = castle_holding
 }
 1180={
-	culture = sarmatian
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1190={
-	culture = sarmatian
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1191={
-	culture = hunnic
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1192={
-	culture = sarmatian
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1193={
-	culture = hunnic
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1337={
-	culture = sumpa
+	culture = sindhi
 	faith = manichean
 	holding = city_holding
 }
 1338={
-	culture = sumpa
+	culture = punjabi
 	faith = manichean
 	holding = city_holding
 }
 1340={
-	culture = hunnic
+	culture = punjabi
 	faith = manichean
 	holding = city_holding
 }
 1341={
-	culture = sarmatian
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1342={
-	culture = hunnic
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -62,7 +62,7 @@
 	holding = none
 }
 1362={
-	culture = hunnic
+	culture = punjabi
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -70,7 +70,7 @@
 	holding = none
 }
 1375={
-	culture = hunnic
+	culture = punjabi
 	faith = tengri_pagan
 	holding = tribal_holding
 }
@@ -117,7 +117,7 @@
 	holding = city_holding
 }
 3421={
-	culture = sarmatian
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -137,7 +137,7 @@
 	holding = city_holding
 }
 3427={
-	culture = brythonic
+	culture = punjabi
 	faith = nestorian
 	holding = tribal_holding
 }
@@ -160,7 +160,7 @@
 	holding = none
 }
 3434={
-	culture = sumpa
+	culture = kashmiri
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -195,7 +195,7 @@
 	holding = none
 }
 4517={
-	culture = sindhi
+	culture = baloch
 	faith = manichean
 	holding = castle_holding
 }
@@ -209,7 +209,7 @@
 	holding = none
 }
 4521={
-	culture = hunnic
+	culture = punjabi
 	faith = scythian_pagan
 	holding = castle_holding
 }

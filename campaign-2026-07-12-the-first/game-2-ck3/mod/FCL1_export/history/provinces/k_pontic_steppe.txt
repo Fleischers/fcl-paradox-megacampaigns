@@ -2,22 +2,22 @@
 	holding = castle_holding
 }
 543={
-	culture = sarmatian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
 556={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 557={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 558={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -25,13 +25,15 @@
 	holding = none
 }
 560={
+	culture = gothic
 	holding = city_holding
 }
 561={
+	culture = gothic
 	holding = city_holding
 }
 562={
-	culture = sarmatian
+	culture = gothic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -50,7 +52,7 @@
 	holding = none
 }
 595={
-	culture = hunnic
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -60,7 +62,7 @@
 	holding = castle_holding
 }
 5257={
-	culture = hunnic
+	culture = scythian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -71,7 +73,7 @@
 	holding = none
 }
 5260={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -82,7 +84,7 @@
 	holding = none
 }
 5263={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -102,7 +104,7 @@
 	holding = city_holding
 }
 5269={
-	culture = sarmatian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -113,7 +115,7 @@
 	holding = none
 }
 5272={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -121,7 +123,7 @@
 	holding = none
 }
 5274={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -129,7 +131,7 @@
 	holding = none
 }
 5276={
-	culture = sarmatian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -216,7 +218,7 @@
 	holding = city_holding
 }
 5330={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }

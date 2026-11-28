@@ -15,7 +15,7 @@
 	holding = none
 }
 2012={
-	culture = baranis
+	culture = basque
 	faith = priscillianism
 	holding = castle_holding
 }
@@ -32,7 +32,7 @@
 	holding = none
 }
 2142={
-	culture = baranis
+	culture = occitan
 	faith = priscillianism
 	holding = castle_holding
 }
@@ -49,7 +49,7 @@
 	holding = city_holding
 }
 2147={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -60,7 +60,7 @@
 	holding = city_holding
 }
 2150={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -76,7 +76,7 @@
 	holding = none
 }
 2196={
-	culture = brythonic
+	culture = basque
 	faith = catholic
 	holding = castle_holding
 }
@@ -87,7 +87,7 @@
 	holding = castle_holding
 }
 2199={
-	culture = baranis
+	culture = basque
 	faith = priscillianism
 	holding = castle_holding
 }
@@ -118,7 +118,7 @@
 	holding = church_holding
 }
 2232={
-	culture = non_indo_european_iberian
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -129,7 +129,7 @@
 	holding = none
 }
 2237={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -143,7 +143,7 @@
 	holding = none
 }
 2241={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -154,7 +154,7 @@
 	holding = none
 }
 2244={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -168,12 +168,12 @@
 	holding = city_holding
 }
 2248={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2249={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -184,7 +184,7 @@
 	holding = none
 }
 2252={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -201,7 +201,7 @@
 	holding = none
 }
 2257={
-	culture = etruscan
+	culture = occitan
 	faith = hellenic_pagan
 	holding = castle_holding
 }

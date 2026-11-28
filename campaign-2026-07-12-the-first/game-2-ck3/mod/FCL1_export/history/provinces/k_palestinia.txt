@@ -15,7 +15,7 @@
 	holding = castle_holding
 }
 5960={
-	culture = hebrew
+	culture = phoenician
 	faith = rabbinism
 	holding = castle_holding
 }
@@ -23,7 +23,7 @@
 	holding = city_holding
 }
 5962={
-	culture = hebrew
+	culture = phoenician
 	faith = rabbinism
 	holding = castle_holding
 }
@@ -45,12 +45,12 @@
 	holding = city_holding
 }
 5968={
-	culture = hebrew
+	culture = phoenician
 	faith = rabbinism
 	holding = castle_holding
 }
 5969={
-	culture = hebrew
+	culture = nabatean
 	faith = valentinianism
 	holding = castle_holding
 }

@@ -1,5 +1,5 @@
 740={
-	culture = getian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -7,7 +7,7 @@
 	holding = city_holding
 }
 742={
-	culture = anatolian
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -15,7 +15,7 @@
 	holding = city_holding
 }
 745={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -32,12 +32,12 @@
 	holding = city_holding
 }
 750={
-	culture = brythonic
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 753={
-	culture = brythonic
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 	holding = castle_holding
 }
 5531={
-	culture = non_indo_european_iberian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -68,7 +68,7 @@
 	holding = none
 }
 5536={
-	culture = non_indo_european_iberian
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -79,7 +79,7 @@
 	holding = none
 }
 5539={
-	culture = brythonic
+	culture = lydian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -102,7 +102,7 @@
 	holding = city_holding
 }
 5546={
-	culture = brythonic
+	culture = lydian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -110,7 +110,7 @@
 	holding = city_holding
 }
 5548={
-	culture = brythonic
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -121,14 +121,16 @@
 	holding = none
 }
 5551={
+	culture = levantine
 	holding = castle_holding
 }
 5552={
-	culture = non_indo_european_iberian
+	culture = levantine
 	faith = orthodox
 	holding = castle_holding
 }
 5553={
+	culture = levantine
 	holding = none
 }
 5554={
@@ -138,6 +140,7 @@
 	holding = none
 }
 5556={
+	culture = levantine
 	holding = castle_holding
 }
 5557={
@@ -153,7 +156,7 @@
 	holding = none
 }
 5561={
-	culture = brythonic
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -167,7 +170,7 @@
 	holding = none
 }
 5565={
-	culture = brythonic
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -181,7 +184,7 @@
 	holding = city_holding
 }
 5569={
-	culture = getian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -198,7 +201,7 @@
 	holding = none
 }
 5574={
-	culture = getian
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }

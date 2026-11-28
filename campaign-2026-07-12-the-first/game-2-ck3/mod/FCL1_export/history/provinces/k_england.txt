@@ -1,7 +1,9 @@
 1499={
+	culture = angle
 	holding = none
 }
 1500={
+	culture = angle
 	holding = city_holding
 }
 1502={
@@ -241,7 +243,7 @@
 	holding = city_holding
 }
 1569={
-	culture = brythonic
+	culture = cornish
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -255,7 +257,7 @@
 	holding = none
 }
 1573={
-	culture = brythonic
+	culture = cornish
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -280,7 +282,7 @@
 	holding = none
 }
 1580={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -291,62 +293,75 @@
 	holding = city_holding
 }
 1583={
-	culture = brythonic
+	culture = angle
 	faith = briton_paganism
 	holding = castle_holding
 }
 1584={
+	culture = angle
 	holding = city_holding
 }
 1585={
+	culture = angle
 	holding = city_holding
 }
 1586={
+	culture = angle
 	holding = city_holding
 }
 1587={
+	culture = angle
 	holding = city_holding
 }
 1588={
-	culture = brythonic
+	culture = angle
 	faith = briton_paganism
 	holding = castle_holding
 }
 1589={
+	culture = angle
 	holding = city_holding
 }
 1590={
+	culture = angle
 	holding = city_holding
 }
 1591={
-	culture = brythonic
+	culture = angle
 	faith = briton_paganism
 	holding = castle_holding
 }
 1592={
+	culture = angle
 	holding = city_holding
 }
 1593={
+	culture = angle
 	holding = city_holding
 }
 1594={
+	culture = angle
 	holding = city_holding
 }
 1595={
-	culture = brythonic
+	culture = angle
 	faith = briton_paganism
 	holding = castle_holding
 }
 1596={
+	culture = angle
 	holding = city_holding
 }
 1597={
+	culture = angle
 	holding = city_holding
 }
 1598={
+	culture = angle
 	holding = city_holding
 }
 1599={
+	culture = angle
 	holding = city_holding
 }
 1600={
@@ -383,7 +398,7 @@
 	holding = city_holding
 }
 1609={
-	culture = brythonic
+	culture = pictish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -455,7 +470,7 @@
 	holding = city_holding
 }
 1635={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }

@@ -35,17 +35,17 @@
 	holding = none
 }
 1164={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1165={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1271={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }

@@ -36,7 +36,7 @@
 	holding = tribal_holding
 }
 7163={
-	culture = scythian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = none
 }
@@ -55,7 +55,7 @@
 	holding = none
 }
 7168={
-	culture = scythian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = none
 }

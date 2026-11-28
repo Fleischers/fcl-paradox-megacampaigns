@@ -2,7 +2,7 @@
 	holding = church_holding
 }
 1752={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -10,7 +10,7 @@
 	holding = church_holding
 }
 1754={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = priscillianism
 	holding = castle_holding
 }
@@ -18,40 +18,46 @@
 	holding = city_holding
 }
 1756={
+	culture = suebi
 	holding = city_holding
 }
 1757={
+	culture = suebi
 	holding = none
 }
 1758={
-	culture = non_indo_european_iberian
+	culture = suebi
 	faith = priscillianism
 	holding = castle_holding
 }
 1759={
-	culture = non_indo_european_iberian
+	culture = suebi
 	faith = priscillianism
 	holding = castle_holding
 }
 1768={
+	culture = suebi
 	holding = none
 }
 1769={
-	culture = non_indo_european_iberian
+	culture = suebi
 	faith = priscillianism
 	holding = tribal_holding
 }
 1770={
+	culture = suebi
 	holding = none
 }
 1771={
+	culture = suebi
 	holding = none
 }
 1772={
+	culture = suebi
 	holding = none
 }
 1773={
-	culture = non_indo_european_iberian
+	culture = suebi
 	faith = priscillianism
 	holding = tribal_holding
 }
@@ -62,12 +68,12 @@
 	holding = none
 }
 1776={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = priscillianism
 	holding = tribal_holding
 }
 1777={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -84,7 +90,7 @@
 	holding = city_holding
 }
 1831={
-	culture = non_indo_european_iberian
+	culture = lusoiberian
 	faith = priscillianism
 	holding = tribal_holding
 }
@@ -95,7 +101,7 @@
 	holding = city_holding
 }
 1834={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = priscillianism
 	holding = tribal_holding
 }
@@ -111,7 +117,7 @@
 	holding = city_holding
 }
 1954={
-	culture = non_indo_european_iberian
+	culture = lusoiberian
 	faith = celtiberian_paganism
 	holding = tribal_holding
 }
@@ -136,5 +142,6 @@
 	holding = none
 }
 2003={
+	culture = suebi
 	holding = none
 }

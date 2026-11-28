@@ -1,43 +1,49 @@
 6329={
-	culture = non_indo_european_iberian
+	culture = egyptian
 	faith = coptic
 	holding = castle_holding
 }
 6330={
+	culture = egyptian
 	holding = none
 }
 6331={
+	culture = egyptian
 	holding = none
 }
 6332={
+	culture = egyptian
 	holding = castle_holding
 }
 6333={
+	culture = egyptian
 	holding = city_holding
 }
 6334={
-	culture = non_indo_european_iberian
+	culture = egyptian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6335={
+	culture = egyptian
 	holding = city_holding
 }
 6336={
-	culture = non_indo_european_iberian
+	culture = egyptian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6337={
-	culture = non_indo_european_iberian
+	culture = egyptian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6338={
+	culture = egyptian
 	holding = city_holding
 }
 6339={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -54,7 +60,7 @@
 	holding = none
 }
 6344={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -62,7 +68,7 @@
 	holding = city_holding
 }
 6346={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -79,12 +85,12 @@
 	holding = none
 }
 6351={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6352={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = coptic
 	holding = castle_holding
 }
@@ -98,7 +104,7 @@
 	holding = none
 }
 6356={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -115,15 +121,16 @@
 	holding = none
 }
 6361={
+	culture = egyptian
 	holding = city_holding
 }
 6362={
-	culture = non_indo_european_iberian
+	culture = egyptian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6363={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = coptic
 	holding = castle_holding
 }
@@ -137,7 +144,7 @@
 	holding = castle_holding
 }
 6367={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -163,12 +170,12 @@
 	holding = none
 }
 6393={
-	culture = brythonic
+	culture = nubian
 	faith = celtic_pagan
 	holding = castle_holding
 }
 6394={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -176,7 +183,7 @@
 	holding = church_holding
 }
 6396={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -190,7 +197,7 @@
 	holding = church_holding
 }
 6400={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = kushitism_pagan
 	holding = castle_holding
 }
@@ -215,7 +222,7 @@
 	holding = none
 }
 6407={
-	culture = non_indo_european_iberian
+	culture = nubian
 	faith = coptic
 	holding = castle_holding
 }
@@ -240,7 +247,7 @@
 	holding = church_holding
 }
 6429={
-	culture = brythonic
+	culture = nubian
 	faith = kushitism_pagan
 	holding = castle_holding
 }

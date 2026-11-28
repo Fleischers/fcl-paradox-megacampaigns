@@ -1,22 +1,22 @@
 1118={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = jungle
 }
 1121={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1140={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain
 }
 1143={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = nestorian
 	holding = castle_holding
 }
@@ -28,13 +28,13 @@
 	terrain = mountain
 }
 1197={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain
 }
 1198={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = hills
@@ -43,7 +43,7 @@
 	holding = none
 }
 1203={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 	holding = city_holding
 }
 1216={
-	culture = non_indo_european_iberian
+	culture = tamil
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = hills
@@ -63,7 +63,7 @@
 	holding = none
 }
 1265={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = jungle
@@ -80,7 +80,7 @@
 	holding = castle_holding
 }
 7850={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -97,7 +97,7 @@
 	holding = none
 }
 7855={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -105,7 +105,7 @@
 	holding = none
 }
 7857={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -129,7 +129,7 @@
 	terrain = mountain
 }
 7864={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain
@@ -163,7 +163,7 @@
 	terrain = mountain
 }
 7874={
-	culture = bengali
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain

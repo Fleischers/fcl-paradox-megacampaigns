@@ -2,7 +2,7 @@
 	holding = none
 }
 2046={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -13,7 +13,7 @@
 	holding = none
 }
 2049={
-	culture = belgae
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -21,7 +21,7 @@
 	holding = none
 }
 2051={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -29,7 +29,7 @@
 	holding = city_holding
 }
 2053={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -37,7 +37,7 @@
 	holding = city_holding
 }
 2055={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -45,7 +45,7 @@
 	holding = none
 }
 2460={
-	culture = belgae
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -59,12 +59,12 @@
 	holding = none
 }
 2777={
-	culture = getian
+	culture = swabian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2778={
-	culture = frankish
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -78,12 +78,12 @@
 	holding = none
 }
 2782={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2783={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -94,7 +94,7 @@
 	holding = city_holding
 }
 2786={
-	culture = rhaetian
+	culture = swabian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -129,7 +129,7 @@
 	holding = none
 }
 2955={
-	culture = getian
+	culture = rhaetian
 	faith = gallic_celtic
 	holding = castle_holding
 }
@@ -137,12 +137,12 @@
 	holding = none
 }
 3092={
-	culture = getian
+	culture = bavarian
 	faith = catholic
 	holding = castle_holding
 }
 3099={
-	culture = getian
+	culture = bavarian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -150,7 +150,7 @@
 	holding = none
 }
 3105={
-	culture = rhaetian
+	culture = bavarian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -164,7 +164,7 @@
 	holding = none
 }
 3109={
-	culture = getian
+	culture = bavarian
 	faith = catholic
 	holding = castle_holding
 }
@@ -190,7 +190,7 @@
 	holding = none
 }
 3117={
-	culture = getian
+	culture = bavarian
 	faith = catholic
 	holding = castle_holding
 }
@@ -204,12 +204,12 @@
 	holding = none
 }
 3121={
-	culture = getian
+	culture = bavarian
 	faith = catholic
 	holding = castle_holding
 }
 3125={
-	culture = getian
+	culture = bavarian
 	faith = gallic_celtic
 	holding = castle_holding
 }
@@ -220,7 +220,7 @@
 	holding = none
 }
 3128={
-	culture = getian
+	culture = bavarian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -228,7 +228,7 @@
 	holding = none
 }
 3134={
-	culture = rhaetian
+	culture = bavarian
 	faith = hellenic_pagan
 	holding = castle_holding
 }

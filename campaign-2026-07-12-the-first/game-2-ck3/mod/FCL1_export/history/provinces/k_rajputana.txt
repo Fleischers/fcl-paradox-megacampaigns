@@ -1,76 +1,76 @@
 1130={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1172={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1174={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 	terrain = desert
 }
 1176={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1294={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1300={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1302={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1304={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1345={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1346={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1349={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1350={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1353={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1354={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1355={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -87,7 +87,7 @@
 	holding = none
 }
 3342={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -201,7 +201,7 @@
 	holding = none
 }
 3968={
-	culture = brythonic
+	culture = hindustani
 	faith = celtic_pagan
 	holding = castle_holding
 }

@@ -1,5 +1,5 @@
 566={
-	culture = hunnic
+	culture = urslavic
 	faith = orthodox
 	holding = city_holding
 }
@@ -12,7 +12,7 @@
 	holding = none
 }
 592={
-	culture = hunnic
+	culture = sarmatian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -28,12 +28,12 @@
 	holding = none
 }
 5286={
-	culture = hunnic
+	culture = urslavic
 	faith = tengri_pagan
 	holding = city_holding
 }
 5350={
-	culture = hunnic
+	culture = finnish
 	faith = tengri_pagan
 	holding = tribal_holding
 }
@@ -44,7 +44,7 @@
 	holding = city_holding
 }
 5353={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -55,12 +55,12 @@
 	holding = none
 }
 5356={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
 5357={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -93,7 +93,7 @@
 	holding = none
 }
 5366={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -121,7 +121,7 @@
 	holding = castle_holding
 }
 5374={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -152,12 +152,12 @@
 	holding = none
 }
 5383={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
 5384={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -171,7 +171,7 @@
 	holding = none
 }
 5388={
-	culture = sarmatian
+	culture = mordvin
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -199,7 +199,7 @@
 	holding = none
 }
 5509={
-	culture = mordvin
+	culture = sarmatian
 	faith = tengri_pagan
 	holding = tribal_holding
 }

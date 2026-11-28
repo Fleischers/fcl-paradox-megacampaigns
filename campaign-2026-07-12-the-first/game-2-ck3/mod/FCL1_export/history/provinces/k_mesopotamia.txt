@@ -1,5 +1,5 @@
 4788={
-	culture = getian
+	culture = babylonian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -28,7 +28,7 @@
 	holding = church_holding
 }
 4797={
-	culture = syro_hellenic
+	culture = babylonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -39,7 +39,7 @@
 	holding = none
 }
 4800={
-	culture = armenian
+	culture = syro_hellenic
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -50,7 +50,7 @@
 	holding = none
 }
 4803={
-	culture = armenian
+	culture = assyrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -58,7 +58,7 @@
 	holding = none
 }
 4805={
-	culture = syro_hellenic
+	culture = assyrian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -72,12 +72,12 @@
 	holding = none
 }
 4820={
-	culture = getian
+	culture = elamite
 	faith = armenian_apostolic
 	holding = castle_holding
 }
 4821={
-	culture = getian
+	culture = babylonian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -100,17 +100,17 @@
 	holding = city_holding
 }
 4828={
-	culture = syro_hellenic
+	culture = babylonian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 4829={
-	culture = syro_hellenic
+	culture = assyrian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 4830={
-	culture = syro_hellenic
+	culture = babylonian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -127,7 +127,7 @@
 	holding = none
 }
 4835={
-	culture = syro_hellenic
+	culture = assyrian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -135,7 +135,7 @@
 	holding = none
 }
 5991={
-	culture = syro_hellenic
+	culture = babylonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -143,7 +143,7 @@
 	holding = church_holding
 }
 5993={
-	culture = syro_hellenic
+	culture = babylonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -170,7 +170,7 @@
 	holding = none
 }
 6001={
-	culture = getian
+	culture = babylonian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -178,7 +178,7 @@
 	holding = none
 }
 6003={
-	culture = getian
+	culture = babylonian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -186,7 +186,7 @@
 	holding = church_holding
 }
 6005={
-	culture = getian
+	culture = babylonian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -200,12 +200,12 @@
 	holding = city_holding
 }
 6019={
-	culture = getian
+	culture = babylonian
 	faith = nestorian
 	holding = castle_holding
 }
 6020={
-	culture = getian
+	culture = syro_hellenic
 	faith = nestorian
 	holding = castle_holding
 }

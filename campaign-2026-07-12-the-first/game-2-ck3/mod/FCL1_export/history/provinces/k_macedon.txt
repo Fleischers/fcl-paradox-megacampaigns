@@ -1,5 +1,5 @@
 471={
-	culture = macedonian
+	culture = albanian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -9,37 +9,37 @@
 	holding = castle_holding
 }
 494={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 498={
-	culture = brythonic
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 499={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 500={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 501={
-	culture = getian
+	culture = bulgarian
 	faith = orthodox
 	holding = castle_holding
 }
 506={
-	culture = getian
+	culture = bulgarian
 	faith = orthodox
 	holding = castle_holding
 }
 507={
-	culture = getian
+	culture = bulgarian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -50,7 +50,7 @@
 	holding = city_holding
 }
 510={
-	culture = brythonic
+	culture = getian
 	faith = hellenic_pagan
 	holding = city_holding
 }
@@ -64,12 +64,12 @@
 	holding = none
 }
 3617={
-	culture = macedonian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 3618={
-	culture = macedonian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -101,7 +101,7 @@
 	holding = castle_holding
 }
 3628={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -129,7 +129,7 @@
 	holding = church_holding
 }
 3636={
-	culture = macedonian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -152,7 +152,7 @@
 	holding = none
 }
 3643={
-	culture = macedonian
+	culture = dalmatian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -175,7 +175,7 @@
 	holding = none
 }
 3650={
-	culture = macedonian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -186,7 +186,7 @@
 	holding = none
 }
 3653={
-	culture = macedonian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -197,7 +197,7 @@
 	holding = city_holding
 }
 3656={
-	culture = macedonian
+	culture = dalmatian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -205,7 +205,7 @@
 	holding = none
 }
 3658={
-	culture = getian
+	culture = dalmatian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -216,35 +216,44 @@
 	holding = castle_holding
 }
 3661={
+	culture = bulgarian
 	holding = none
 }
 3662={
+	culture = bulgarian
 	holding = none
 }
 3663={
+	culture = bulgarian
 	holding = none
 }
 3664={
-	culture = getian
+	culture = bulgarian
 	faith = orthodox
 	holding = castle_holding
 }
 3665={
+	culture = bulgarian
 	holding = city_holding
 }
 3666={
+	culture = bulgarian
 	holding = none
 }
 3667={
+	culture = bulgarian
 	holding = city_holding
 }
 3668={
+	culture = bulgarian
 	holding = none
 }
 3669={
+	culture = bulgarian
 	holding = none
 }
 3670={
+	culture = bulgarian
 	holding = none
 }
 3671={
@@ -269,17 +278,20 @@
 	holding = none
 }
 3678={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
 3679={
+	culture = bulgarian
 	holding = none
 }
 3680={
+	culture = bulgarian
 	holding = none
 }
 3681={
+	culture = bulgarian
 	holding = none
 }
 3682={
@@ -304,7 +316,7 @@
 	holding = none
 }
 3689={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -312,7 +324,7 @@
 	holding = none
 }
 3691={
-	culture = brythonic
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }

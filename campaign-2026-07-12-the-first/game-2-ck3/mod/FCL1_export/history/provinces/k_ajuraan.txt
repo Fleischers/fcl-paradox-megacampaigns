@@ -2,7 +2,7 @@
 	holding = church_holding
 }
 8432={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = city_holding
 }
@@ -54,7 +54,7 @@
 	holding = none
 }
 8466={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -119,7 +119,7 @@
 	holding = none
 }
 8504={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = city_holding
 }
@@ -136,7 +136,7 @@
 	holding = none
 }
 8509={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -147,7 +147,7 @@
 	holding = church_holding
 }
 8512={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }

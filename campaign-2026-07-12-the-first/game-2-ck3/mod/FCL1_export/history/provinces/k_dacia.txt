@@ -2,12 +2,12 @@
 	holding = none
 }
 515={
-	culture = sarmatian
+	culture = getian
 	faith = tengri_pagan
 	holding = city_holding
 }
 516={
-	culture = finnish
+	culture = dacian
 	faith = finnish_pagan
 	holding = castle_holding
 }
@@ -35,7 +35,7 @@
 	holding = city_holding
 }
 4981={
-	culture = getian
+	culture = thracian
 	faith = orthodox
 	holding = castle_holding
 }

@@ -1,536 +1,638 @@
 2056={
+	culture = franconian
 	holding = none
 }
 2057={
-	culture = belgae
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2058={
+	culture = franconian
 	holding = none
 }
 2078={
+	culture = franconian
 	holding = none
 }
 2079={
+	culture = franconian
 	holding = castle_holding
 }
 2080={
+	culture = franconian
 	holding = none
 }
 2081={
+	culture = franconian
 	holding = none
 }
 2083={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2085={
+	culture = franconian
 	holding = none
 }
 2192={
+	culture = franconian
 	holding = none
 }
 2384={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2387={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2388={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2395={
+	culture = franconian
 	holding = none
 }
 2692={
+	culture = franconian
 	holding = church_holding
 }
 2693={
+	culture = franconian
 	holding = church_holding
 }
 2694={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2695={
+	culture = franconian
 	holding = none
 }
 2698={
+	culture = franconian
 	holding = none
 }
 2700={
+	culture = franconian
 	holding = none
 }
 2701={
+	culture = franconian
 	holding = none
 }
 2703={
+	culture = franconian
 	holding = city_holding
 }
 2704={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2705={
+	culture = franconian
 	holding = none
 }
 2706={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2707={
+	culture = franconian
 	holding = none
 }
 2708={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2709={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2710={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2711={
+	culture = franconian
 	holding = none
 }
 2712={
+	culture = franconian
 	holding = none
 }
 2713={
+	culture = franconian
 	holding = none
 }
 2714={
+	culture = franconian
 	holding = none
 }
 2715={
+	culture = franconian
 	holding = none
 }
 2717={
-	culture = gallic
+	culture = franconian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2719={
+	culture = franconian
 	holding = none
 }
 2720={
+	culture = franconian
 	holding = none
 }
 2721={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2722={
+	culture = franconian
 	holding = none
 }
 2723={
+	culture = franconian
 	holding = none
 }
 2724={
+	culture = franconian
 	holding = none
 }
 2725={
+	culture = franconian
 	holding = none
 }
 2726={
+	culture = franconian
 	holding = none
 }
 2727={
+	culture = franconian
 	holding = none
 }
 2728={
+	culture = franconian
 	holding = none
 }
 2729={
-	culture = frankish
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2730={
+	culture = franconian
 	holding = none
 }
 2731={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2732={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2733={
+	culture = franconian
 	holding = city_holding
 }
 2735={
+	culture = franconian
 	holding = city_holding
 }
 2736={
+	culture = franconian
 	holding = city_holding
 }
 2737={
-	culture = frankish
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2738={
+	culture = franconian
 	holding = none
 }
 2739={
-	culture = gallic
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2741={
+	culture = franconian
 	holding = church_holding
 }
 2742={
+	culture = franconian
 	holding = castle_holding
 }
 2743={
+	culture = franconian
 	holding = none
 }
 2744={
+	culture = franconian
 	holding = city_holding
 }
 2745={
-	culture = frankish
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2746={
-	culture = rhaetian
+	culture = franconian
 	faith = manichean
 	holding = tribal_holding
 }
 2747={
+	culture = franconian
 	holding = none
 }
 2748={
-	culture = rhaetian
+	culture = franconian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2749={
+	culture = franconian
 	holding = none
 }
 2750={
+	culture = franconian
 	holding = none
 }
 2751={
-	culture = frankish
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2752={
+	culture = franconian
 	holding = none
 }
 2753={
+	culture = franconian
 	holding = city_holding
 }
 2755={
+	culture = franconian
 	holding = castle_holding
 }
 2756={
+	culture = franconian
 	holding = castle_holding
 }
 2757={
-	culture = getian
+	culture = franconian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2758={
+	culture = franconian
 	holding = castle_holding
 }
 2759={
-	culture = rhaetian
+	culture = franconian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2760={
+	culture = franconian
 	holding = none
 }
 2761={
+	culture = franconian
 	holding = none
 }
 2762={
+	culture = franconian
 	holding = none
 }
 2763={
-	culture = rhaetian
+	culture = franconian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2764={
+	culture = franconian
 	holding = none
 }
 2765={
+	culture = franconian
 	holding = none
 }
 2766={
+	culture = franconian
 	holding = none
 }
 2767={
+	culture = franconian
 	holding = castle_holding
 }
 2768={
-	culture = rhaetian
+	culture = franconian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2769={
+	culture = franconian
 	holding = none
 }
 2770={
+	culture = franconian
 	holding = none
 }
 2771={
+	culture = franconian
 	holding = none
 }
 2772={
+	culture = franconian
 	holding = none
 }
 2773={
-	culture = rhaetian
+	culture = franconian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2774={
+	culture = franconian
 	holding = city_holding
 }
 2851={
+	culture = franconian
 	holding = none
 }
 2852={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2853={
+	culture = franconian
 	holding = none
 }
 2854={
+	culture = franconian
 	holding = church_holding
 }
 2855={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2856={
+	culture = franconian
 	holding = none
 }
 2857={
+	culture = franconian
 	holding = none
 }
 2858={
+	culture = franconian
 	holding = none
 }
 2859={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2860={
-	culture = frankish
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2861={
+	culture = franconian
 	holding = none
 }
 2862={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2863={
+	culture = franconian
 	holding = none
 }
 2864={
+	culture = franconian
 	holding = none
 }
 2865={
+	culture = franconian
 	holding = none
 }
 2866={
+	culture = franconian
 	holding = none
 }
 2867={
+	culture = franconian
 	holding = none
 }
 2868={
+	culture = franconian
 	holding = none
 }
 2869={
+	culture = franconian
 	holding = none
 }
 2870={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2871={
+	culture = franconian
 	holding = castle_holding
 }
 2872={
+	culture = franconian
 	holding = none
 }
 2873={
+	culture = franconian
 	holding = none
 }
 2874={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2875={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2876={
+	culture = franconian
 	holding = none
 }
 2877={
-	culture = frankish
+	culture = franconian
 	faith = celtic_pagan
 	holding = castle_holding
 }
 2880={
+	culture = franconian
 	holding = none
 }
 2885={
+	culture = franconian
 	holding = none
 }
 2886={
-	culture = norse
+	culture = franconian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2887={
+	culture = franconian
 	holding = none
 }
 2888={
+	culture = franconian
 	holding = none
 }
 2889={
-	culture = frankish
+	culture = franconian
 	faith = gallic_celtic
 	holding = tribal_holding
 }
 2890={
+	culture = franconian
 	holding = none
 }
 2891={
+	culture = franconian
 	holding = none
 }
 2892={
+	culture = franconian
 	holding = none
 }
 2915={
+	culture = franconian
 	holding = none
 }
 2918={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2919={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2920={
+	culture = franconian
 	holding = none
 }
 2921={
+	culture = franconian
 	holding = none
 }
 2922={
+	culture = franconian
 	holding = none
 }
 2923={
+	culture = franconian
 	holding = none
 }
 2924={
-	culture = norse
+	culture = franconian
 	faith = germanic_pagan
 	holding = castle_holding
 }
 2925={
+	culture = franconian
 	holding = none
 }
 2926={
+	culture = franconian
 	holding = castle_holding
 }
 2927={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2928={
+	culture = franconian
 	holding = none
 }
 2992={
+	culture = franconian
 	holding = none
 }
 2995={
+	culture = franconian
 	holding = castle_holding
 }
 2998={
-	culture = frankish
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 2999={
+	culture = franconian
 	holding = none
 }
 3000={
+	culture = franconian
 	holding = city_holding
 }
 3003={
-	culture = frankish
+	culture = franconian
 	faith = celtic_pagan
 	holding = castle_holding
 }
 3005={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }
 3006={
+	culture = franconian
 	holding = none
 }
 3007={
+	culture = franconian
 	holding = none
 }
 3008={
+	culture = franconian
 	holding = none
 }
 3009={
+	culture = franconian
 	holding = none
 }
 3010={
-	culture = norse
+	culture = franconian
 	faith = catholic
 	holding = castle_holding
 }

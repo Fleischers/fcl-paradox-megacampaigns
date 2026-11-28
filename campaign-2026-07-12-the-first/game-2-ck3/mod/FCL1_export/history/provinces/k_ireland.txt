@@ -1,5 +1,5 @@
 9={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -19,7 +19,7 @@
 	holding = none
 }
 15={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -30,7 +30,7 @@
 	holding = city_holding
 }
 18={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -38,7 +38,7 @@
 	holding = none
 }
 20={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -52,7 +52,7 @@
 	holding = city_holding
 }
 24={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -66,35 +66,41 @@
 	holding = none
 }
 28={
-	culture = brythonic
+	culture = norse
 	faith = gaelic_paganism
 	holding = castle_holding
 }
 29={
+	culture = norse
 	holding = none
 }
 30={
+	culture = norse
 	holding = city_holding
 }
 31={
+	culture = norse
 	holding = none
 }
 32={
+	culture = norse
 	holding = none
 }
 33={
+	culture = norse
 	holding = none
 }
 34={
-	culture = brythonic
+	culture = norse
 	faith = gaelic_paganism
 	holding = castle_holding
 }
 36={
+	culture = norse
 	holding = none
 }
 37={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -114,7 +120,7 @@
 	holding = city_holding
 }
 43={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -122,12 +128,12 @@
 	holding = church_holding
 }
 45={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
 46={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -138,7 +144,7 @@
 	holding = none
 }
 49={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -149,7 +155,7 @@
 	holding = church_holding
 }
 52={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -172,7 +178,7 @@
 	holding = none
 }
 8745={
-	culture = brythonic
+	culture = irish
 	faith = gaelic_paganism
 	holding = castle_holding
 }

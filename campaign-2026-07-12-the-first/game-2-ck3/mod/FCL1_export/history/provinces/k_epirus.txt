@@ -1,5 +1,5 @@
 470={
-	culture = getian
+	culture = albanian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -9,21 +9,22 @@
 	holding = castle_holding
 }
 473={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
 474={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
 475={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
 3520={
+	culture = albanian
 	holding = none
 }
 3696={
@@ -65,7 +66,7 @@
 	holding = castle_holding
 }
 3708={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -77,52 +78,62 @@
 	special_building_slot = kassiopi_castle
 }
 3711={
-	culture = lemnian
+	culture = albanian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 3712={
+	culture = albanian
 	holding = none
 }
 3713={
-	culture = getian
+	culture = albanian
 	faith = orthodox
 	holding = castle_holding
 }
 3714={
+	culture = albanian
 	holding = none
 }
 3715={
+	culture = albanian
 	holding = none
 }
 3716={
+	culture = albanian
 	holding = none
 }
 3717={
+	culture = albanian
 	holding = church_holding
 }
 3718={
+	culture = albanian
 	holding = none
 }
 3719={
+	culture = albanian
 	holding = city_holding
 }
 3720={
-	culture = getian
+	culture = albanian
 	faith = orthodox
 	holding = castle_holding
 }
 3721={
+	culture = albanian
 	holding = none
 }
 3722={
+	culture = albanian
 	holding = none
 }
 3723={
+	culture = albanian
 	holding = none
 }
 3724={
-	culture = getian
+	culture = albanian
 	faith = orthodox
 	holding = castle_holding
 }

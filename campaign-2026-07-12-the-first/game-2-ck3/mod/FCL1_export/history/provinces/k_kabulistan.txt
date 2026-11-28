@@ -2,7 +2,7 @@
 	holding = city_holding
 }
 4343={
-	culture = sarmatian
+	culture = afghan
 	faith = nestorian
 	holding = castle_holding
 }
@@ -16,7 +16,7 @@
 	holding = castle_holding
 }
 4489={
-	culture = hunnic
+	culture = afghan
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -45,12 +45,12 @@
 	holding = castle_holding
 }
 4499={
-	culture = hunnic
+	culture = afghan
 	faith = tengri_pagan
 	holding = castle_holding
 }
 4500={
-	culture = sarmatian
+	culture = macedonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 	holding = city_holding
 }
 4504={
-	culture = sarmatian
+	culture = afghan
 	faith = nestorian
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 4507={
-	culture = hunnic
+	culture = afghan
 	faith = nestorian
 	holding = castle_holding
 }

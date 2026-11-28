@@ -5,7 +5,7 @@
 	holding = none
 }
 9046={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -19,7 +19,7 @@
 	holding = castle_holding
 }
 9050={
-	culture = hunnic
+	culture = kashmiri
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -27,7 +27,7 @@
 	holding = castle_holding
 }
 9052={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -38,12 +38,12 @@
 	holding = none
 }
 9055={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
 9056={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 	holding = none
 }
 9058={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -62,7 +62,7 @@
 	holding = none
 }
 9061={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -70,7 +70,7 @@
 	holding = none
 }
 9063={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -81,7 +81,7 @@
 	holding = none
 }
 9066={
-	culture = sumpa
+	culture = tsangpa
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -89,7 +89,7 @@
 	holding = none
 }
 9068={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -97,7 +97,7 @@
 	holding = city_holding
 }
 9070={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -111,12 +111,12 @@
 	holding = none
 }
 9074={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
 9075={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }

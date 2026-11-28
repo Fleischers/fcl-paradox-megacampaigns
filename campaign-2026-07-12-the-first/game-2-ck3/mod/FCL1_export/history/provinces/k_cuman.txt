@@ -1,5 +1,5 @@
 1273={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -60,12 +60,12 @@
 	holding = none
 }
 7256={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 7257={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -79,7 +79,7 @@
 	holding = none
 }
 7261={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -87,7 +87,7 @@
 	holding = none
 }
 7263={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -98,12 +98,12 @@
 	holding = none
 }
 7266={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 7267={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }

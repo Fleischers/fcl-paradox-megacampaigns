@@ -1,13 +1,14 @@
 1801={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = castle_holding
 }
 1802={
+	culture = castilian
 	holding = none
 }
 1803={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = catholic
 	holding = castle_holding
 }
@@ -15,17 +16,17 @@
 	holding = church_holding
 }
 1805={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = catholic
 	holding = tribal_holding
 }
 1806={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1807={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -39,80 +40,90 @@
 	holding = none
 }
 1811={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = catholic
 	holding = castle_holding
 }
 1812={
+	culture = castilian
 	holding = city_holding
 }
 1813={
+	culture = castilian
 	holding = castle_holding
 }
 1814={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = castle_holding
 }
 1815={
+	culture = castilian
 	holding = church_holding
 }
 1859={
+	culture = catalan
 	holding = castle_holding
 }
 1860={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = catholic
 	holding = tribal_holding
 }
 1861={
+	culture = catalan
 	holding = none
 }
 1862={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1863={
+	culture = catalan
 	holding = city_holding
 }
 1864={
-	culture = etruscan
+	culture = catalan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1865={
+	culture = catalan
 	holding = city_holding
 }
 1866={
-	culture = etruscan
+	culture = catalan
 	faith = catholic
 	holding = castle_holding
 }
 1867={
+	culture = catalan
 	holding = none
 }
 1868={
-	culture = etruscan
+	culture = catalan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1869={
+	culture = catalan
 	holding = none
 }
 1870={
+	culture = catalan
 	holding = none
 }
 1871={
 	holding = city_holding
 }
 1872={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1873={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -120,27 +131,32 @@
 	holding = city_holding
 }
 1875={
+	culture = catalan
 	holding = none
 }
 1876={
+	culture = catalan
 	holding = none
 }
 1877={
+	culture = catalan
 	holding = city_holding
 }
 1878={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 1879={
+	culture = catalan
 	holding = none
 }
 1880={
+	culture = catalan
 	holding = none
 }
 1881={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -151,6 +167,7 @@
 	holding = none
 }
 1884={
+	culture = catalan
 	holding = church_holding
 }
 1885={
@@ -160,7 +177,7 @@
 	holding = none
 }
 1887={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = castle_holding
 	special_building_slot = aljaferia_palace_01
@@ -186,29 +203,33 @@
 	holding = church_holding
 }
 1896={
+	culture = castilian
 	holding = city_holding
 }
 1897={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = city_holding
 }
 1898={
+	culture = castilian
 	holding = city_holding
 }
 1899={
+	culture = castilian
 	holding = city_holding
 }
 1900={
+	culture = castilian
 	holding = city_holding
 }
 1901={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = city_holding
 }
 1902={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = city_holding
 }
@@ -216,46 +237,54 @@
 	holding = none
 }
 1904={
+	culture = castilian
 	holding = none
 }
 1905={
+	culture = castilian
 	holding = none
 }
 1906={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = castle_holding
 }
 1907={
+	culture = castilian
 	holding = city_holding
 }
 1908={
+	culture = castilian
 	holding = none
 }
 1909={
+	culture = castilian
 	holding = church_holding
 }
 1915={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = city_holding
 }
 1922={
+	culture = castilian
 	holding = none
 }
 1924={
-	culture = non_indo_european_iberian
+	culture = castilian
 	faith = catholic
 	holding = tribal_holding
 }
 1925={
+	culture = castilian
 	holding = none
 }
 1926={
+	culture = castilian
 	holding = none
 }
 1932={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = city_holding
 }
@@ -263,7 +292,7 @@
 	holding = castle_holding
 }
 1936={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -280,27 +309,32 @@
 	holding = none
 }
 8795={
-	culture = non_indo_european_iberian
+	culture = basque
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 8796={
+	culture = catalan
 	holding = none
 }
 8797={
+	culture = catalan
 	holding = city_holding
 }
 8798={
+	culture = catalan
 	holding = city_holding
 }
 8799={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = catholic
 	holding = castle_holding
 }
 8800={
+	culture = catalan
 	holding = church_holding
 }
 8801={
+	culture = catalan
 	holding = none
 }

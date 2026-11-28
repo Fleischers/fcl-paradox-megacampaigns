@@ -15,12 +15,12 @@
 	holding = tribal_holding
 }
 1854={
-	culture = non_indo_european_iberian
+	culture = hellenic_greek
 	faith = catholic
 	holding = tribal_holding
 }
 1855={
-	culture = non_indo_european_iberian
+	culture = hellenic_greek
 	faith = catholic
 	holding = tribal_holding
 }
@@ -39,7 +39,7 @@
 	holding = none
 }
 1919={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = priscillianism
 	holding = tribal_holding
 }
@@ -47,7 +47,7 @@
 	holding = none
 }
 1923={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -70,7 +70,7 @@
 	holding = none
 }
 1935={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -104,7 +104,7 @@
 	holding = none
 }
 1947={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -112,7 +112,7 @@
 	holding = none
 }
 1949={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -123,7 +123,7 @@
 	holding = none
 }
 1952={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -140,7 +140,7 @@
 	holding = none
 }
 1960={
-	culture = non_indo_european_iberian
+	culture = lusoiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -154,7 +154,7 @@
 	holding = city_holding
 }
 1967={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -174,15 +174,16 @@
 	holding = city_holding
 }
 2000={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = catholic
 	holding = castle_holding
 }
 2001={
+	culture = catalan
 	holding = city_holding
 }
 2002={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = catholic
 	holding = castle_holding
 }
@@ -190,7 +191,7 @@
 	holding = none
 }
 8735={
-	culture = non_indo_european_iberian
+	culture = catalan
 	faith = catholic
 	holding = castle_holding
 }

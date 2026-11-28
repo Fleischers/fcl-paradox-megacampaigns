@@ -16,7 +16,7 @@
 	holding = none
 }
 575={
-	culture = sarmatian
+	culture = merya
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -27,7 +27,7 @@
 	holding = none
 }
 580={
-	culture = sarmatian
+	culture = vepsian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -37,7 +37,7 @@
 	holding = none
 }
 582={
-	culture = sarmatian
+	culture = merya
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -56,7 +56,7 @@
 	holding = none
 }
 5173={
-	culture = sarmatian
+	culture = merya
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -79,7 +79,7 @@
 	holding = none
 }
 5231={
-	culture = sarmatian
+	culture = vepsian
 	faith = finnish_pagan
 	holding = tribal_holding
 }
@@ -105,7 +105,7 @@
 	holding = none
 }
 5239={
-	culture = sarmatian
+	culture = merya
 	faith = scythian_pagan
 	holding = castle_holding
 }

@@ -2,7 +2,7 @@
 	holding = none
 }
 669={
-	culture = getian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -10,7 +10,7 @@
 	holding = castle_holding
 }
 4001={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -24,7 +24,7 @@
 	holding = none
 }
 4005={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -35,7 +35,7 @@
 	holding = castle_holding
 }
 4029={
-	culture = getian
+	culture = parthian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -46,7 +46,7 @@
 	holding = none
 }
 4032={
-	culture = bactrian
+	culture = khwarezmian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -66,7 +66,7 @@
 	holding = city_holding
 }
 4312={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -80,7 +80,7 @@
 	holding = city_holding
 }
 4316={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -88,7 +88,7 @@
 	holding = none
 }
 4323={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -96,7 +96,7 @@
 	holding = none
 }
 4325={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 	special_building_slot = soltaniyeh_01
@@ -139,7 +139,7 @@
 	holding = none
 }
 4543={
-	culture = getian
+	culture = persian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -147,7 +147,7 @@
 	holding = none
 }
 4545={
-	culture = getian
+	culture = kurdish
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -167,7 +167,7 @@
 	holding = none
 }
 4767={
-	culture = getian
+	culture = kurdish
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -189,7 +189,7 @@
 	holding = city_holding
 }
 5771={
-	culture = sarmatian
+	culture = persian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -209,7 +209,7 @@
 	holding = church_holding
 }
 5777={
-	culture = getian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -226,7 +226,7 @@
 	holding = none
 }
 5790={
-	culture = getian
+	culture = persian
 	faith = orthodox
 	holding = castle_holding
 }

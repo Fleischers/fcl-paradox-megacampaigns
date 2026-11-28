@@ -18,7 +18,7 @@
 	holding = none
 }
 1837={
-	culture = non_indo_european_iberian
+	culture = celtiberian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -38,7 +38,7 @@
 	holding = castle_holding
 }
 1843={
-	culture = baranis
+	culture = carthaginian
 	faith = priscillianism
 	holding = tribal_holding
 }
@@ -51,18 +51,20 @@
 	holding = tribal_holding
 }
 1846={
-	culture = non_indo_european_iberian
+	culture = andalusian
 	faith = catholic
 	holding = tribal_holding
 }
 1847={
+	culture = andalusian
 	holding = none
 }
 1848={
+	culture = andalusian
 	holding = none
 }
 1849={
-	culture = non_indo_european_iberian
+	culture = andalusian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -78,15 +80,19 @@
 	holding = castle_holding
 }
 1972={
+	culture = andalusian
 	holding = none
 }
 1974={
+	culture = andalusian
 	holding = none
 }
 1975={
+	culture = andalusian
 	holding = city_holding
 }
 1976={
+	culture = andalusian
 	holding = church_holding
 }
 1977={
@@ -95,12 +101,12 @@
 	holding = tribal_holding
 }
 1978={
-	culture = non_indo_european_iberian
+	culture = andalusian
 	faith = catholic
 	holding = castle_holding
 }
 1979={
-	culture = non_indo_european_iberian
+	culture = andalusian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -119,6 +125,7 @@
 	holding = city_holding
 }
 1984={
+	culture = andalusian
 	holding = city_holding
 }
 1985={

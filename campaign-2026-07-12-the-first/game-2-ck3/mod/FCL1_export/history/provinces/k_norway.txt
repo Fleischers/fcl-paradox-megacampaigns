@@ -43,7 +43,7 @@
 	holding = none
 }
 8={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }

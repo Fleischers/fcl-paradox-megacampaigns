@@ -2,7 +2,7 @@
 	holding = none
 }
 2112={
-	culture = norse
+	culture = belgae
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -50,7 +50,7 @@
 	holding = city_holding
 }
 2413={
-	culture = old_saxon
+	culture = frisian
 	faith = catholic
 	holding = castle_holding
 }
@@ -66,12 +66,12 @@
 	holding = castle_holding
 }
 2417={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = tribal_holding
 }
 2418={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = tribal_holding
 }
@@ -83,7 +83,7 @@
 	1258.1.1 = { holding = church_holding }
 }
 2421={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -108,12 +108,12 @@
 	holding = castle_holding
 }
 2428={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2429={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -130,7 +130,7 @@
 	holding = city_holding
 }
 2450={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }

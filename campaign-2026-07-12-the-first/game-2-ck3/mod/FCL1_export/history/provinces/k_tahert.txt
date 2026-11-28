@@ -1,230 +1,275 @@
 4608={
+	culture = numidian
 	holding = none
 }
 4609={
-	culture = non_indo_european_iberian
+	culture = numidian
 	faith = iberian_pagan
 	holding = castle_holding
 }
 4610={
+	culture = numidian
 	holding = none
 }
 4611={
+	culture = numidian
 	holding = none
 }
 4613={
+	culture = numidian
 	holding = none
 }
 4614={
+	culture = numidian
 	holding = none
 }
 4615={
-	culture = brythonic
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4616={
-	culture = brythonic
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4617={
+	culture = numidian
 	holding = none
 }
 4618={
+	culture = numidian
 	holding = none
 }
 4619={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4621={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4622={
+	culture = numidian
 	holding = castle_holding
 }
 4627={
+	culture = numidian
 	holding = city_holding
 }
 4633={
+	culture = numidian
 	holding = none
 }
 4634={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4635={
+	culture = numidian
 	holding = none
 }
 4636={
+	culture = numidian
 	holding = castle_holding
 }
 4637={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4638={
+	culture = numidian
 	holding = castle_holding
 }
 4639={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4640={
+	culture = numidian
 	holding = city_holding
 }
 4641={
+	culture = numidian
 	holding = city_holding
 }
 4642={
+	culture = numidian
 	holding = none
 }
 4643={
+	culture = numidian
 	holding = none
 }
 4644={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4645={
+	culture = numidian
 	holding = none
 }
 4646={
+	culture = numidian
 	holding = city_holding
 }
 4647={
-	culture = brythonic
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4648={
+	culture = numidian
 	holding = none
 }
 4649={
+	culture = numidian
 	holding = city_holding
 }
 4650={
-	culture = brythonic
+	culture = numidian
 	faith = adamites
 	holding = castle_holding
 }
 4651={
+	culture = numidian
 	holding = city_holding
 }
 4652={
+	culture = numidian
 	holding = castle_holding
 }
 4653={
-	culture = brythonic
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4654={
+	culture = numidian
 	holding = castle_holding
 }
 4655={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = none
 }
 4656={
+	culture = numidian
 	holding = none
 }
 4657={
+	culture = numidian
 	holding = none
 }
 4658={
+	culture = numidian
 	holding = city_holding
 }
 4659={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4660={
+	culture = numidian
 	holding = city_holding
 }
 4661={
+	culture = numidian
 	holding = none
 }
 4662={
+	culture = numidian
 	holding = none
 }
 4663={
+	culture = numidian
 	holding = none
 }
 4664={
+	culture = cornish
 	holding = none
 }
 4665={
+	culture = cornish
 	holding = castle_holding
 }
 4666={
-	culture = baranis
+	culture = cornish
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4667={
+	culture = numidian
 	holding = city_holding
 }
 4668={
+	culture = numidian
 	holding = city_holding
 }
 4669={
-	culture = baranis
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4670={
+	culture = numidian
 	holding = church_holding
 }
 4671={
+	culture = numidian
 	holding = none
 }
 4672={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4673={
+	culture = numidian
 	holding = none
 }
 4674={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = none
 }
 4675={
+	culture = numidian
 	holding = city_holding
 }
 4676={
+	culture = numidian
 	holding = none
 }
 4749={
-	culture = baranis
+	culture = numidian
 	faith = canaanite_pagan
 	holding = tribal_holding
 }
 4750={
+	culture = numidian
 	holding = none
 }
 4751={
+	culture = numidian
 	holding = none
 }
 4754={
+	culture = numidian
 	holding = city_holding
 }
 4762={
+	culture = numidian
 	holding = none
 }
 6322={
+	culture = numidian
 	holding = none
 }

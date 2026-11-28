@@ -5,7 +5,7 @@
 	holding = city_holding
 }
 4265={
-	culture = bactrian
+	culture = persian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -16,7 +16,7 @@
 	holding = castle_holding
 }
 4268={
-	culture = brythonic
+	culture = baloch
 	faith = nestorian
 	holding = castle_holding
 }
@@ -36,7 +36,7 @@
 	holding = city_holding
 }
 4274={
-	culture = getian
+	culture = persian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -47,7 +47,7 @@
 	holding = none
 }
 4277={
-	culture = bactrian
+	culture = persian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -61,7 +61,7 @@
 	holding = none
 }
 4283={
-	culture = bactrian
+	culture = persian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -69,7 +69,7 @@
 	holding = none
 }
 4285={
-	culture = brythonic
+	culture = baloch
 	faith = nestorian
 	holding = castle_holding
 }
@@ -83,7 +83,7 @@
 	holding = church_holding
 }
 4289={
-	culture = bactrian
+	culture = persian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -115,7 +115,7 @@
 	holding = city_holding
 }
 4299={
-	culture = bactrian
+	culture = afghan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -166,7 +166,7 @@
 	holding = none
 }
 4477={
-	culture = bengali
+	culture = baloch
 	faith = nestorian
 	holding = castle_holding
 }
@@ -174,7 +174,7 @@
 	holding = none
 }
 4479={
-	culture = sindhi
+	culture = baloch
 	faith = manichean
 	holding = castle_holding
 }
@@ -191,7 +191,7 @@
 	holding = none
 }
 4484={
-	culture = sindhi
+	culture = afghan
 	faith = manichean
 	holding = castle_holding
 }

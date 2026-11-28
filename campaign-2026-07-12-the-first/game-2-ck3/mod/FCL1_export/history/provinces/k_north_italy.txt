@@ -2,12 +2,12 @@
 	holding = church_holding
 }
 2041={
-	culture = etruscan
+	culture = italian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2043={
-	culture = etruscan
+	culture = ligustic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -21,7 +21,7 @@
 	holding = church_holding
 }
 2466={
-	culture = etruscan
+	culture = ligustic
 	faith = hellenic_pagan
 	holding = castle_holding
 	special_building_slot = walls_of_genoa_01
@@ -33,7 +33,7 @@
 	holding = none
 }
 2469={
-	culture = etruscan
+	culture = italian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -41,17 +41,19 @@
 	holding = none
 }
 2471={
-	culture = etruscan
+	culture = italian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2472={
+	culture = etruscan
 	holding = city_holding
 }
 2473={
 	holding = none
 }
 2474={
+	culture = etruscan
 	holding = church_holding
 }
 2475={
@@ -60,6 +62,7 @@
 	holding = castle_holding
 }
 2476={
+	culture = etruscan
 	holding = city_holding
 }
 2477={
@@ -68,15 +71,19 @@
 	holding = castle_holding
 }
 2478={
+	culture = etruscan
 	holding = city_holding
 }
 2479={
+	culture = etruscan
 	holding = city_holding
 }
 2480={
+	culture = etruscan
 	holding = none
 }
 2481={
+	culture = etruscan
 	holding = city_holding
 }
 2482={
@@ -93,15 +100,19 @@
 	holding = none
 }
 2487={
+	culture = etruscan
 	holding = none
 }
 2488={
+	culture = etruscan
 	holding = none
 }
 2489={
+	culture = etruscan
 	holding = none
 }
 2490={
+	culture = etruscan
 	holding = none
 }
 2491={
@@ -110,9 +121,11 @@
 	holding = castle_holding
 }
 2492={
+	culture = etruscan
 	holding = none
 }
 2493={
+	culture = etruscan
 	holding = none
 }
 2494={
@@ -121,17 +134,19 @@
 	holding = castle_holding
 }
 2495={
+	culture = etruscan
 	holding = city_holding
 }
 2496={
 	holding = none
 }
 2497={
-	culture = etruscan
+	culture = italian
 	faith = gallic_celtic
 	holding = castle_holding
 }
 2498={
+	culture = etruscan
 	holding = city_holding
 }
 2499={
@@ -143,7 +158,7 @@
 	holding = none
 }
 2501={
-	culture = etruscan
+	culture = italian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -151,7 +166,7 @@
 	holding = none
 }
 2503={
-	culture = etruscan
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -159,12 +174,12 @@
 	holding = church_holding
 }
 2505={
-	culture = etruscan
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
 2506={
-	culture = etruscan
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -172,7 +187,7 @@
 	holding = none
 }
 2508={
-	culture = etruscan
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -186,7 +201,7 @@
 	holding = none
 }
 2512={
-	culture = etruscan
+	culture = venetic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -200,12 +215,12 @@
 	holding = castle_holding
 }
 2516={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
 2517={
-	culture = getian
+	culture = italian
 	faith = gallic_celtic
 	holding = tribal_holding
 	special_building_slot = doges_palace_01
@@ -214,7 +229,7 @@
 	holding = castle_holding
 }
 2525={
-	culture = etruscan
+	culture = italian
 	faith = catholic
 	holding = tribal_holding
 }
@@ -246,7 +261,7 @@
 	holding = castle_holding
 }
 2537={
-	culture = etruscan
+	culture = ligustic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -254,7 +269,7 @@
 	holding = none
 }
 2540={
-	culture = etruscan
+	culture = italian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -324,9 +339,11 @@
 	holding = city_holding
 }
 8761={
+	culture = etruscan
 	holding = none
 }
 8762={
+	culture = etruscan
 	holding = none
 }
 8763={

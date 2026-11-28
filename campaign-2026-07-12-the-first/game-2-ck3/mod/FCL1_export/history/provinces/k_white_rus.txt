@@ -1,5 +1,5 @@
 161={
-	culture = norse
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -7,12 +7,12 @@
 	holding = none
 }
 548={
-	culture = sarmatian
+	culture = urslavic
 	faith = catholic
 	holding = castle_holding
 }
 550={
-	culture = sarmatian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }
@@ -20,7 +20,7 @@
 	holding = none
 }
 568={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -28,17 +28,17 @@
 	holding = none
 }
 587={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
 933={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
 934={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -46,7 +46,7 @@
 	holding = none
 }
 5044={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -63,7 +63,7 @@
 	holding = none
 }
 5114={
-	culture = sarmatian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }
@@ -74,7 +74,7 @@
 	holding = none
 }
 5117={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -82,7 +82,7 @@
 	holding = none
 }
 5119={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -108,7 +108,7 @@
 	holding = city_holding
 }
 5127={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -116,7 +116,7 @@
 	holding = church_holding
 }
 5129={
-	culture = vepsian
+	culture = urslavic
 	faith = finnish_pagan
 	holding = tribal_holding
 }
@@ -133,7 +133,7 @@
 	holding = none
 }
 5134={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -141,12 +141,12 @@
 	holding = none
 }
 5136={
-	culture = sarmatian
+	culture = urslavic
 	faith = catholic
 	holding = castle_holding
 }
 5170={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -163,7 +163,7 @@
 	holding = none
 }
 5221={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
