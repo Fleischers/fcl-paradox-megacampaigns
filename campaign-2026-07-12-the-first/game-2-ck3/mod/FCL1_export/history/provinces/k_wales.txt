@@ -1,5 +1,5 @@
 1630={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -7,7 +7,7 @@
 	holding = city_holding
 }
 1632={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 	holding = city_holding
 }
 1649={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -29,7 +29,7 @@
 	holding = city_holding
 }
 1652={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -37,7 +37,7 @@
 	holding = city_holding
 }
 1654={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -48,7 +48,7 @@
 	holding = city_holding
 }
 1657={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -56,7 +56,7 @@
 	holding = city_holding
 }
 1659={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 	holding = city_holding
 }
 1661={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -72,7 +72,7 @@
 	holding = city_holding
 }
 1663={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -80,7 +80,7 @@
 	holding = city_holding
 }
 1665={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -88,7 +88,7 @@
 	holding = city_holding
 }
 1667={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -99,7 +99,7 @@
 	holding = city_holding
 }
 1670={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }
@@ -110,7 +110,7 @@
 	holding = city_holding
 }
 1673={
-	culture = brythonic
+	culture = welsh
 	faith = briton_paganism
 	holding = castle_holding
 }

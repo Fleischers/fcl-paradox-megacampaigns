@@ -1,21 +1,21 @@
 1438={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1439={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1440={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 	special_building_slot = hetian_mines_01
 }
 1441={
-	culture = sarmatian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -38,7 +38,7 @@
 	900.1.1 = { culture = uyghur }
 }
 1445={
-	culture = scythian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = tribal_holding
 }
@@ -76,7 +76,7 @@
 	holding = city_holding
 }
 7967={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -84,7 +84,7 @@
 	holding = none
 }
 7969={
-	culture = hellenic_greek
+	culture = tocharian
 	faith = nestorian
 	holding = tribal_holding
 }
@@ -212,7 +212,7 @@
 	holding = none
 }
 9606={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -220,7 +220,7 @@
 	holding = church_holding
 }
 9608={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -246,7 +246,7 @@
 	holding = none
 }
 9616={
-	culture = punjabi
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }

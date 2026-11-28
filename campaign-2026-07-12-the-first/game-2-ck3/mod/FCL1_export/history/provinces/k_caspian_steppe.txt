@@ -2,12 +2,12 @@
 	holding = none
 }
 608={
-	culture = hunnic
+	culture = sarmatian
 	faith = tengri_pagan
 	holding = castle_holding
 }
 616={
-	culture = hunnic
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = tribal_holding
 }
@@ -17,7 +17,7 @@
 	holding = castle_holding
 }
 618={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -25,12 +25,12 @@
 	holding = castle_holding
 }
 620={
-	culture = sarmatian
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }
 896={
-	culture = hunnic
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -41,7 +41,7 @@
 	holding = none
 }
 5313={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -58,7 +58,7 @@
 	holding = church_holding
 }
 5319={
-	culture = alan
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = tribal_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 5349={
-	culture = alan
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = tribal_holding
 }
@@ -86,7 +86,7 @@
 	holding = none
 }
 5501={
-	culture = hunnic
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -97,7 +97,7 @@
 	holding = none
 }
 5504={
-	culture = hunnic
+	culture = mordvin
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -111,7 +111,7 @@
 	holding = none
 }
 7218={
-	culture = alan
+	culture = sarmatian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -122,7 +122,7 @@
 	holding = none
 }
 7221={
-	culture = hunnic
+	culture = sarmatian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -133,7 +133,7 @@
 	holding = none
 }
 7224={
-	culture = hunnic
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -144,7 +144,7 @@
 	holding = none
 }
 7227={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -155,7 +155,7 @@
 	holding = none
 }
 7230={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -166,7 +166,7 @@
 	holding = none
 }
 7233={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -183,12 +183,12 @@
 	holding = none
 }
 7238={
-	culture = hunnic
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }
 7239={
-	culture = sarmatian
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -199,7 +199,7 @@
 	holding = church_holding
 }
 7242={
-	culture = hunnic
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -232,7 +232,7 @@
 	holding = none
 }
 7251={
-	culture = hunnic
+	culture = alan
 	faith = scythian_pagan
 	holding = castle_holding
 }

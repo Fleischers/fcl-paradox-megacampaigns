@@ -1,5 +1,5 @@
 4007={
-	culture = bactrian
+	culture = tajik
 	faith = nestorian
 	holding = castle_holding
 }
@@ -16,7 +16,7 @@
 	holding = none
 }
 4012={
-	culture = bactrian
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -33,7 +33,7 @@
 	holding = none
 }
 4017={
-	culture = brythonic
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -41,7 +41,7 @@
 	holding = city_holding
 }
 4019={
-	culture = brythonic
+	culture = persian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -52,7 +52,7 @@
 	holding = none
 }
 4022={
-	culture = getian
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -66,7 +66,7 @@
 	holding = none
 }
 4026={
-	culture = getian
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -74,7 +74,7 @@
 	holding = city_holding
 }
 4036={
-	culture = brythonic
+	culture = khwarezmian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -85,7 +85,7 @@
 	holding = none
 }
 4039={
-	culture = bactrian
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -102,12 +102,12 @@
 	holding = none
 }
 4044={
-	culture = bactrian
+	culture = tajik
 	faith = nestorian
 	holding = castle_holding
 }
 4062={
-	culture = bactrian
+	culture = persian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -141,7 +141,7 @@
 	holding = none
 }
 4201={
-	culture = hunnic
+	culture = afghan
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -149,12 +149,12 @@
 	holding = none
 }
 4203={
-	culture = bactrian
+	culture = persian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 4204={
-	culture = bactrian
+	culture = afghan
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -174,7 +174,7 @@
 	holding = none
 }
 4210={
-	culture = brythonic
+	culture = tajik
 	faith = nestorian
 	holding = castle_holding
 }
@@ -182,7 +182,7 @@
 	holding = none
 }
 4212={
-	culture = brythonic
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -193,7 +193,7 @@
 	holding = none
 }
 4215={
-	culture = brythonic
+	culture = parthian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -221,7 +221,7 @@
 	holding = city_holding
 }
 4223={
-	culture = bactrian
+	culture = tajik
 	faith = nestorian
 	holding = castle_holding
 }
@@ -229,7 +229,7 @@
 	holding = none
 }
 4225={
-	culture = hunnic
+	culture = afghan
 	faith = nestorian
 	holding = castle_holding
 	special_building_slot = minarets_and_remains_of_jam_01
@@ -250,7 +250,7 @@
 	holding = none
 }
 4231={
-	culture = sarmatian
+	culture = bactrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -273,7 +273,7 @@
 	holding = none
 }
 4238={
-	culture = bactrian
+	culture = macedonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -281,7 +281,7 @@
 	holding = none
 }
 4240={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -295,7 +295,7 @@
 	holding = none
 }
 4247={
-	culture = sarmatian
+	culture = sogdian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -326,7 +326,7 @@
 	holding = none
 }
 4335={
-	culture = sarmatian
+	culture = bactrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -346,7 +346,7 @@
 	holding = none
 }
 4341={
-	culture = hunnic
+	culture = bactrian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -363,7 +363,7 @@
 	holding = none
 }
 4351={
-	culture = sarmatian
+	culture = bactrian
 	faith = nestorian
 	holding = castle_holding
 }

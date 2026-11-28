@@ -1,4 +1,5 @@
 2151={
+	culture = breton
 	holding = none
 }
 2152={
@@ -7,6 +8,7 @@
 	holding = castle_holding
 }
 2153={
+	culture = breton
 	holding = church_holding
 }
 2154={
@@ -15,10 +17,11 @@
 	holding = castle_holding
 }
 2155={
+	culture = breton
 	holding = none
 }
 2156={
-	culture = sarmatian
+	culture = breton
 	faith = catholic
 	holding = castle_holding
 }
@@ -28,15 +31,19 @@
 	holding = castle_holding
 }
 2158={
+	culture = breton
 	holding = none
 }
 2159={
+	culture = breton
 	holding = none
 }
 2160={
+	culture = breton
 	holding = city_holding
 }
 2161={
+	culture = breton
 	holding = city_holding
 }
 2162={
@@ -45,21 +52,24 @@
 	holding = castle_holding
 }
 2163={
+	culture = breton
 	holding = city_holding
 }
 2164={
+	culture = breton
 	holding = city_holding
 }
 2165={
-	culture = etruscan
+	culture = breton
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2166={
+	culture = breton
 	holding = city_holding
 }
 2167={
-	culture = breton
+	culture = gallic
 	faith = gallic_celtic
 	holding = castle_holding
 }
@@ -70,7 +80,7 @@
 	holding = castle_holding
 }
 2170={
-	culture = breton
+	culture = gallic
 	faith = gallic_celtic
 	holding = castle_holding
 }
@@ -84,7 +94,7 @@
 	holding = none
 }
 2174={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -98,12 +108,12 @@
 	holding = city_holding
 }
 2178={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
 2179={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
@@ -117,7 +127,7 @@
 	holding = none
 }
 2261={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -128,7 +138,7 @@
 	holding = none
 }
 2264={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -139,7 +149,7 @@
 	holding = none
 }
 2267={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -150,7 +160,7 @@
 	holding = city_holding
 }
 2270={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -161,10 +171,11 @@
 	holding = none
 }
 2282={
+	culture = breton
 	holding = city_holding
 }
 2325={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -178,7 +189,7 @@
 	holding = none
 }
 2329={
-	culture = breton
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }

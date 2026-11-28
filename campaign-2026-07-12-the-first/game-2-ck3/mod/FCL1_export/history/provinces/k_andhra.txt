@@ -1,15 +1,15 @@
 1122={
-	culture = bengali
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1123={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1207={
-	culture = bengali
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = jungle
@@ -26,7 +26,7 @@
 	terrain = jungle
 }
 1415={
-	culture = non_indo_european_iberian
+	culture = oriya
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -35,7 +35,7 @@
 	terrain = jungle
 }
 7840={
-	culture = bengali
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }

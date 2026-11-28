@@ -5,43 +5,43 @@
 	holding = castle_holding
 }
 1125={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1142={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1145={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain
 }
 1146={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = nestorian
 	holding = castle_holding
 }
 1159={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1206={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1212={
-	culture = bengali
+	culture = marathi
 	faith = manichean
 	holding = castle_holding
 }
 1213={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = jungle
@@ -50,7 +50,7 @@
 	holding = city_holding
 }
 1254={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -58,12 +58,12 @@
 	holding = none
 }
 1259={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1260={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -72,12 +72,12 @@
 	terrain = jungle
 }
 1269={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1285={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -85,7 +85,7 @@
 	holding = castle_holding
 }
 1416={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain
@@ -109,12 +109,12 @@
 	holding = city_holding
 }
 7794={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 7795={
-	culture = non_indo_european_iberian
+	culture = kannada
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -127,7 +127,7 @@
 	terrain = mountain
 }
 7879={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = mountain

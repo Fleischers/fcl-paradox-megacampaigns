@@ -1,0 +1,22 @@
+punic_iberian = {
+	color = rgb { 190 120 160 }
+	parents = { carthaginian non_indo_european_iberian }
+	heritage = heritage_iberian
+	language = language_carthaginian
+	traditions = { tradition_maritime_mercantilism tradition_seafaring tradition_metal_craftsmanship tradition_hit_and_run }
+	name_list = name_list_carthaginian
+	name_list = name_list_punic
+	name_list = name_list_iberian
+	created = 800.1.1
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	coa_gfx = { arabic_group_coa_gfx iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { arabic_group_building_gfx iberian_building_gfx mena_building_gfx mediterranean_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx iberian_christian_clothing_gfx western_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx iberian_christian_unit_gfx }
+	ethnicities = {
+		50 = arab
+		50 = mediterranean
+	}
+}

@@ -1,5 +1,5 @@
 8278={
-	culture = brythonic
+	culture = ethiopian
 	faith = kushitism_pagan
 	holding = castle_holding
 }
@@ -7,7 +7,7 @@
 	holding = castle_holding
 }
 8280={
-	culture = brythonic
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 	holding = none
 }
 8283={
-	culture = brythonic
+	culture = ethiopian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -29,7 +29,7 @@
 	holding = city_holding
 }
 8286={
-	culture = brythonic
+	culture = ethiopian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -40,7 +40,7 @@
 	holding = city_holding
 }
 8289={
-	culture = brythonic
+	culture = ethiopian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -57,7 +57,7 @@
 	holding = city_holding
 }
 8294={
-	culture = somali
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
@@ -80,12 +80,12 @@
 	holding = none
 }
 8301={
-	culture = somali
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
 8303={
-	culture = norse
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
@@ -102,12 +102,12 @@
 	holding = castle_holding
 }
 8308={
-	culture = norse
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
 8309={
-	culture = norse
+	culture = ethiopian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -118,7 +118,7 @@
 	holding = church_holding
 }
 8312={
-	culture = norse
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
@@ -167,7 +167,7 @@
 	holding = none
 }
 8326={
-	culture = afar
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }

@@ -5,7 +5,7 @@
 	holding = none
 }
 2438={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -13,7 +13,7 @@
 	holding = city_holding
 }
 2440={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -33,12 +33,12 @@
 	holding = none
 }
 2446={
-	culture = norse
+	culture = old_saxon
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2670={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -58,7 +58,7 @@
 	holding = castle_holding
 }
 2793={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -66,7 +66,7 @@
 	holding = none
 }
 2795={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -74,7 +74,7 @@
 	holding = none
 }
 2797={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -91,7 +91,7 @@
 	holding = city_holding
 }
 2802={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -99,7 +99,7 @@
 	holding = none
 }
 2804={
-	culture = norse
+	culture = suebi
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -110,7 +110,7 @@
 	holding = none
 }
 2838={
-	culture = norse
+	culture = old_saxon
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -130,7 +130,7 @@
 	holding = none
 }
 2844={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
@@ -138,12 +138,12 @@
 	holding = none
 }
 2846={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 2847={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -154,17 +154,17 @@
 	holding = none
 }
 2850={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2893={
-	culture = norse
+	culture = langobard
 	faith = catholic
 	holding = castle_holding
 }
 2894={
-	culture = norse
+	culture = langobard
 	faith = catholic
 	holding = castle_holding
 }
@@ -178,7 +178,7 @@
 	holding = none
 }
 2898={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -186,12 +186,12 @@
 	holding = none
 }
 2900={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 2901={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -223,7 +223,7 @@
 	holding = none
 }
 2913={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }

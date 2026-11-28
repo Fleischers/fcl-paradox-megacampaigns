@@ -5,7 +5,7 @@
 	holding = none
 }
 1423={
-	culture = brythonic
+	culture = scythian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -28,7 +28,7 @@
 	holding = city_holding
 }
 4355={
-	culture = hunnic
+	culture = sogdian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -36,7 +36,7 @@
 	holding = city_holding
 }
 4357={
-	culture = sarmatian
+	culture = afghan
 	faith = nestorian
 	holding = castle_holding
 }
@@ -53,12 +53,12 @@
 	holding = none
 }
 4362={
-	culture = sarmatian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 4363={
-	culture = sarmatian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -69,7 +69,7 @@
 	holding = none
 }
 4366={
-	culture = saka
+	culture = hunnic
 	faith = tengri_pagan
 	holding = none
 }
@@ -80,7 +80,7 @@
 	holding = church_holding
 }
 4369={
-	culture = sarmatian
+	culture = macedonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -103,7 +103,7 @@
 	holding = city_holding
 }
 4376={
-	culture = sarmatian
+	culture = macedonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -111,7 +111,7 @@
 	holding = city_holding
 }
 4378={
-	culture = sarmatian
+	culture = macedonian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -128,12 +128,12 @@
 	holding = city_holding
 }
 4383={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 4384={
-	culture = sarmatian
+	culture = sogdian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -147,7 +147,7 @@
 	holding = city_holding
 }
 4388={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -155,7 +155,7 @@
 	holding = none
 }
 4390={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -166,12 +166,12 @@
 	holding = church_holding
 }
 4393={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 4394={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -197,7 +197,7 @@
 	holding = none
 }
 4402={
-	culture = sarmatian
+	culture = sogdian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -205,7 +205,7 @@
 	holding = none
 }
 4404={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -222,7 +222,7 @@
 	holding = castle_holding
 }
 4409={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -239,7 +239,7 @@
 	holding = none
 }
 4414={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -253,7 +253,7 @@
 	holding = none
 }
 4418={
-	culture = bactrian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -267,7 +267,7 @@
 	holding = none
 }
 4422={
-	culture = hunnic
+	culture = sogdian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -290,7 +290,7 @@
 	holding = none
 }
 4429={
-	culture = bactrian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -301,7 +301,7 @@
 	holding = none
 }
 4432={
-	culture = bactrian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -321,7 +321,7 @@
 	holding = city_holding
 }
 4438={
-	culture = bactrian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -332,7 +332,7 @@
 	holding = none
 }
 4441={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -352,12 +352,12 @@
 	holding = none
 }
 4447={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
 4448={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -371,7 +371,7 @@
 	holding = none
 }
 4452={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -382,12 +382,12 @@
 	holding = city_holding
 }
 4455={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
 4456={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -401,7 +401,7 @@
 	holding = city_holding
 }
 4460={
-	culture = hunnic
+	culture = khwarezmian
 	faith = manichean
 	holding = castle_holding
 }
@@ -412,7 +412,7 @@
 	holding = none
 }
 4524={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -426,7 +426,7 @@
 	holding = none
 }
 4528={
-	culture = brythonic
+	culture = khwarezmian
 	faith = nestorian
 	holding = castle_holding
 }
@@ -445,7 +445,7 @@
 	holding = none
 }
 4533={
-	culture = sarmatian
+	culture = khwarezmian
 	faith = armenian_apostolic
 	holding = castle_holding
 }

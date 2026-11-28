@@ -1,25 +1,25 @@
 1147={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1148={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1149={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1150={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1170={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 	terrain = jungle
@@ -52,37 +52,37 @@
 	holding = castle_holding
 }
 1262={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1263={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1287={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1288={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1289={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1298={
-	culture = bengali
+	culture = hindustani
 	faith = nestorian
 	holding = castle_holding
 }
 1299={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }

@@ -2,7 +2,7 @@
 	holding = none
 }
 8332={
-	culture = non_indo_european_iberian
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -10,7 +10,7 @@
 	holding = none
 }
 8334={
-	culture = non_indo_european_iberian
+	culture = afar
 	faith = orthodox
 	holding = castle_holding
 }
@@ -24,7 +24,7 @@
 	holding = none
 }
 8339={
-	culture = non_indo_european_iberian
+	culture = somali
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -35,7 +35,7 @@
 	holding = none
 }
 8342={
-	culture = non_indo_european_iberian
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -43,7 +43,7 @@
 	holding = city_holding
 }
 8344={
-	culture = non_indo_european_iberian
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -94,7 +94,7 @@
 	holding = none
 }
 8400={
-	culture = non_indo_european_iberian
+	culture = somali
 	faith = coptic
 	holding = castle_holding
 }
@@ -108,7 +108,7 @@
 	holding = none
 }
 8404={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = city_holding
 }
@@ -163,12 +163,12 @@
 	holding = tribal_holding
 }
 8424={
-	culture = brythonic
+	culture = qahtanite
 	faith = coptic
 	holding = city_holding
 }
 8425={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = city_holding
 }
@@ -185,7 +185,7 @@
 	holding = church_holding
 }
 8430={
-	culture = brythonic
+	culture = somali
 	faith = coptic
 	holding = city_holding
 }

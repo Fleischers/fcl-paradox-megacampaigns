@@ -1,5 +1,5 @@
 6110={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = coptic
 	holding = castle_holding
 }
@@ -10,7 +10,7 @@
 	holding = castle_holding
 }
 6113={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = coptic
 	holding = castle_holding
 	special_building_slot = allaq_mines_01
@@ -35,17 +35,17 @@
 	holding = castle_holding
 }
 6376={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = egyptian_pagan
 	holding = castle_holding
 }
 6377={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = coptic
 	holding = castle_holding
 }
 6378={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = egyptian_pagan
 	holding = castle_holding
 }
@@ -53,7 +53,7 @@
 	holding = none
 }
 6380={
-	culture = non_indo_european_iberian
+	culture = beja
 	faith = coptic
 	holding = castle_holding
 }
@@ -85,7 +85,7 @@
 	holding = none
 }
 6412={
-	culture = non_indo_european_iberian
+	culture = ethiopian
 	faith = kushitism_pagan
 	holding = castle_holding
 }
@@ -96,17 +96,17 @@
 	holding = none
 }
 6436={
-	culture = non_indo_european_iberian
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
 6437={
-	culture = non_indo_european_iberian
+	culture = ethiopian
 	faith = coptic
 	holding = castle_holding
 }
 6438={
-	culture = brythonic
+	culture = ethiopian
 	faith = celtic_pagan
 	holding = castle_holding
 }

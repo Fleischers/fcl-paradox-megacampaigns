@@ -1,10 +1,10 @@
 2082={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
 2084={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -15,7 +15,7 @@
 	holding = castle_holding
 }
 2088={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 	special_building_slot = holy_site_cologne_cathedral_01
@@ -27,12 +27,12 @@
 	holding = none
 }
 2091={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
 2092={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -49,17 +49,17 @@
 	holding = none
 }
 2097={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
 2098={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
 2099={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -73,40 +73,45 @@
 	holding = city_holding
 }
 2104={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
 2105={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = tribal_holding
 }
 2106={
-	culture = norse
+	culture = frankish
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2107={
+	culture = frankish
 	holding = none
 }
 2108={
+	culture = frankish
 	holding = none
 }
 2109={
+	culture = frankish
 	holding = none
 }
 2110={
 	holding = none
 }
 2111={
+	culture = frankish
 	holding = castle_holding
 }
 2114={
+	culture = frankish
 	holding = city_holding
 }
 2115={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
@@ -114,82 +119,96 @@
 	holding = none
 }
 2117={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = tribal_holding
 }
 2118={
-	culture = belgae
+	culture = frankish
 	faith = catholic
 	holding = tribal_holding
 }
 2119={
+	culture = frankish
 	holding = none
 }
 2120={
+	culture = frankish
 	holding = none
 }
 2121={
+	culture = frankish
 	holding = none
 }
 2122={
 	holding = none
 }
 2123={
+	culture = frankish
 	holding = city_holding
 }
 2124={
+	culture = frankish
 	holding = castle_holding
 }
 2125={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = tribal_holding
 }
 2126={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
 2127={
+	culture = frankish
 	holding = none
 }
 2128={
+	culture = frankish
 	holding = city_holding
 }
 2129={
+	culture = frankish
 	holding = none
 }
 2130={
-	culture = belgae
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
 2131={
+	culture = frankish
 	holding = none
 }
 2132={
-	culture = belgae
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
 2133={
+	culture = frankish
 	holding = castle_holding
 }
 2134={
+	culture = frankish
 	holding = church_holding
 }
 2135={
+	culture = frankish
 	holding = city_holding
 }
 2136={
+	culture = frankish
 	holding = none
 }
 2137={
+	culture = frankish
 	holding = none
 }
 2433={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
@@ -203,7 +222,7 @@
 	holding = castle_holding
 }
 2673={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
@@ -220,12 +239,12 @@
 	holding = none
 }
 2679={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
 2680={
-	culture = norse
+	culture = frankish
 	faith = catholic
 	holding = castle_holding
 }
@@ -254,7 +273,7 @@
 	holding = none
 }
 2689={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }

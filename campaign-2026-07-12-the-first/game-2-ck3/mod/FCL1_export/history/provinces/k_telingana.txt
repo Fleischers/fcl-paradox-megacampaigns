@@ -8,22 +8,22 @@
 	holding = none
 }
 1209={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1211={
-	culture = bengali
+	culture = telugu
 	faith = nestorian
 	holding = castle_holding
 }
 1255={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1256={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -55,12 +55,12 @@
 	holding = city_holding
 }
 7910={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
 7912={
-	culture = non_indo_european_iberian
+	culture = telugu
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -78,7 +78,7 @@
 	holding = none
 }
 7923={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }

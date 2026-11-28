@@ -1,5 +1,5 @@
 5974={
-	culture = brythonic
+	culture = nabatean
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -7,7 +7,7 @@
 	holding = none
 }
 5976={
-	culture = hebrew
+	culture = nabatean
 	faith = rabbinism
 	holding = castle_holding
 }
@@ -26,7 +26,7 @@
 	holding = church_holding
 }
 5984={
-	culture = hebrew
+	culture = aramaic
 	faith = rabbinism
 	holding = castle_holding
 }
@@ -53,7 +53,7 @@
 	holding = city_holding
 }
 6131={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 	holding = none
 }
 6134={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = city_holding
 }
 6137={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -86,7 +86,7 @@
 	holding = city_holding
 }
 6140={
-	culture = brythonic
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -97,7 +97,7 @@
 	holding = city_holding
 }
 6144={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -111,7 +111,7 @@
 	holding = none
 }
 6148={
-	culture = brythonic
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -131,17 +131,17 @@
 	holding = none
 }
 6154={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
 6155={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = castle_holding
 }
 6156={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = city_holding
 }
@@ -149,7 +149,7 @@
 	holding = city_holding
 }
 6158={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -160,7 +160,7 @@
 	holding = castle_holding
 }
 6161={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -196,7 +196,7 @@
 	holding = church_holding
 }
 6172={
-	culture = nabatean
+	culture = adnanite
 	faith = arabic_pagan
 	holding = castle_holding
 }
@@ -245,7 +245,7 @@
 	holding = none
 }
 6188={
-	culture = brythonic
+	culture = nabatean
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -276,7 +276,7 @@
 	holding = castle_holding
 }
 6197={
-	culture = brythonic
+	culture = nabatean
 	faith = coptic
 	holding = castle_holding
 }
@@ -305,7 +305,7 @@
 	holding = none
 }
 6207={
-	culture = brythonic
+	culture = hebrew
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -313,7 +313,7 @@
 	holding = none
 }
 6209={
-	culture = brythonic
+	culture = nabatean
 	faith = coptic
 	holding = castle_holding
 }
@@ -324,7 +324,7 @@
 	holding = city_holding
 }
 6212={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -344,7 +344,7 @@
 	holding = none
 }
 6218={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -361,17 +361,17 @@
 	holding = castle_holding
 }
 6223={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
 6224={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = castle_holding
 }
 6225={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -405,7 +405,7 @@
 	holding = church_holding
 }
 6235={
-	culture = brythonic
+	culture = adnanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -444,7 +444,7 @@
 	holding = city_holding
 }
 6250={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -455,12 +455,12 @@
 	holding = church_holding
 }
 6253={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
 6254={
-	culture = brythonic
+	culture = adnanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -487,7 +487,7 @@
 	holding = church_holding
 }
 6262={
-	culture = nabatean
+	culture = adnanite
 	faith = arabic_pagan
 	holding = castle_holding
 }
@@ -512,7 +512,7 @@
 	holding = city_holding
 }
 6269={
-	culture = etruscan
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }

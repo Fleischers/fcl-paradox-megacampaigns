@@ -2,7 +2,7 @@
 	holding = city_holding
 }
 757={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -13,7 +13,7 @@
 	holding = church_holding
 }
 5681={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -27,7 +27,7 @@
 	holding = none
 }
 5905={
-	culture = brythonic
+	culture = cilician
 	faith = orthodox
 	holding = castle_holding
 }
@@ -35,7 +35,7 @@
 	holding = castle_holding
 }
 5910={
-	culture = aramaic
+	culture = syro_hellenic
 	faith = orthodox
 	holding = castle_holding
 }
@@ -49,12 +49,12 @@
 	holding = city_holding
 }
 5918={
-	culture = brythonic
+	culture = phoenician
 	faith = orthodox
 	holding = city_holding
 }
 5919={
-	culture = brythonic
+	culture = phoenician
 	faith = orthodox
 	holding = city_holding
 }

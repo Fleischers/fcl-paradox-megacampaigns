@@ -1,5 +1,5 @@
 2071={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -13,7 +13,7 @@
 	holding = none
 }
 2076={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -44,12 +44,12 @@
 	holding = none
 }
 2189={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
 2190={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
@@ -57,32 +57,37 @@
 	holding = none
 }
 2273={
+	culture = french
 	holding = church_holding
 }
 2274={
-	culture = etruscan
+	culture = french
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2275={
+	culture = french
 	holding = castle_holding
 }
 2276={
+	culture = french
 	holding = none
 }
 2277={
+	culture = french
 	holding = none
 }
 2278={
-	culture = belgae
+	culture = french
 	faith = catholic
 	holding = castle_holding
 }
 2279={
+	culture = french
 	holding = none
 }
 2280={
-	culture = etruscan
+	culture = french
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -90,17 +95,17 @@
 	holding = none
 }
 2283={
-	culture = etruscan
+	culture = french
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2284={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2285={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -111,7 +116,7 @@
 	holding = city_holding
 }
 2302={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -131,12 +136,12 @@
 	holding = city_holding
 }
 2309={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
 2310={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -144,50 +149,61 @@
 	holding = none
 }
 2312={
+	culture = french
 	holding = city_holding
 }
 2313={
+	culture = french
 	holding = city_holding
 }
 2314={
-	culture = belgae
+	culture = french
 	faith = catholic
 	holding = castle_holding
 }
 2315={
+	culture = french
 	holding = city_holding
 }
 2316={
+	culture = french
 	holding = city_holding
 }
 2317={
+	culture = french
 	holding = castle_holding
 }
 2318={
+	culture = french
 	holding = none
 }
 2319={
-	culture = etruscan
+	culture = french
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2320={
+	culture = french
 	holding = church_holding
 }
 2321={
+	culture = french
 	holding = none
 }
 2322={
+	culture = french
 	holding = none
 }
 2323={
+	culture = french
 	holding = none
 }
 2324={
+	culture = french
 	holding = none
 }
 2331={
-	culture = norse
+	culture = french
 	faith = catholic
 	holding = castle_holding
 }
@@ -195,7 +211,7 @@
 	holding = city_holding
 }
 2333={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -212,26 +228,28 @@
 	holding = none
 }
 2338={
-	culture = belgae
+	culture = french
 	faith = catholic
 	holding = castle_holding
 }
 2339={
-	culture = etruscan
+	culture = french
 	faith = catholic
 	holding = castle_holding
 }
 2340={
+	culture = french
 	holding = city_holding
 }
 2341={
+	culture = french
 	holding = city_holding
 }
 2342={
 	holding = none
 }
 2343={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -242,7 +260,7 @@
 	holding = city_holding
 }
 2346={
-	culture = belgae
+	culture = gallic
 	faith = gallic_celtic
 	holding = castle_holding
 }
@@ -250,12 +268,12 @@
 	holding = none
 }
 2348={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
 2349={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -263,7 +281,7 @@
 	holding = none
 }
 2351={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -295,7 +313,7 @@
 	holding = tribal_holding
 }
 2359={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = tribal_holding
 }
@@ -309,7 +327,7 @@
 	holding = none
 }
 2363={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -335,7 +353,7 @@
 	holding = none
 }
 2371={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -346,7 +364,7 @@
 	holding = city_holding
 }
 2374={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -366,7 +384,7 @@
 	holding = church_holding
 }
 2380={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -389,7 +407,7 @@
 	holding = none
 }
 2390={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -399,7 +417,7 @@
 	holding = tribal_holding
 }
 2392={
-	culture = norse
+	culture = belgae
 	faith = catholic
 	holding = castle_holding
 }
@@ -430,7 +448,7 @@
 	holding = none
 }
 2458={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -438,6 +456,7 @@
 	holding = none
 }
 2463={
+	culture = french
 	holding = none
 }
 2464={

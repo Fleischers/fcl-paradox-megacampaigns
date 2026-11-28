@@ -2,7 +2,7 @@
 	holding = city_holding
 }
 671={
-	culture = getian
+	culture = armenian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -38,7 +38,7 @@
 	holding = castle_holding
 }
 707={
-	culture = brythonic
+	culture = armenian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -151,7 +151,7 @@
 	holding = none
 }
 5783={
-	culture = getian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }

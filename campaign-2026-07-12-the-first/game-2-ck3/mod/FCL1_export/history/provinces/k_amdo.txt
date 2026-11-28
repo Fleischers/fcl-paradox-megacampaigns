@@ -1,10 +1,10 @@
 9354={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
 9355={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -21,7 +21,7 @@
 	holding = none
 }
 9360={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -130,7 +130,7 @@
 	holding = none
 }
 9389={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }

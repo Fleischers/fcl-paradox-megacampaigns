@@ -5,12 +5,12 @@
 	holding = city_holding
 }
 1676={
-	culture = brythonic
+	culture = pictish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
 1677={
-	culture = brythonic
+	culture = pictish
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -18,12 +18,12 @@
 	holding = city_holding
 }
 1679={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }
 1680={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -31,7 +31,7 @@
 	holding = city_holding
 }
 1682={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -45,7 +45,7 @@
 	holding = church_holding
 }
 1686={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -56,7 +56,7 @@
 	holding = city_holding
 }
 1689={
-	culture = brythonic
+	culture = cumbrian
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -67,7 +67,7 @@
 	holding = city_holding
 }
 1692={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -78,7 +78,7 @@
 	holding = none
 }
 1695={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -97,7 +97,7 @@
 	holding = city_holding
 }
 1700={
-	culture = brythonic
+	culture = cumbrian
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -108,7 +108,7 @@
 	holding = city_holding
 }
 1703={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -116,7 +116,7 @@
 	holding = city_holding
 }
 1705={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -124,7 +124,7 @@
 	holding = church_holding
 }
 1707={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -132,7 +132,7 @@
 	holding = none
 }
 1709={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -143,7 +143,7 @@
 	holding = none
 }
 1712={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -154,7 +154,7 @@
 	holding = none
 }
 1715={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -165,7 +165,7 @@
 	holding = none
 }
 1718={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -173,7 +173,7 @@
 	holding = none
 }
 1720={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -187,7 +187,7 @@
 	holding = none
 }
 1724={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -198,7 +198,7 @@
 	holding = city_holding
 }
 1727={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -212,7 +212,7 @@
 	holding = city_holding
 }
 1731={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -223,7 +223,7 @@
 	holding = city_holding
 }
 1734={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -234,7 +234,7 @@
 	holding = city_holding
 }
 1737={
-	culture = brythonic
+	culture = cumbrian
 	faith = gaelic_paganism
 	holding = castle_holding
 }
@@ -248,7 +248,7 @@
 	holding = city_holding
 }
 1741={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }
@@ -256,7 +256,7 @@
 	holding = none
 }
 1743={
-	culture = brythonic
+	culture = pictish
 	faith = insular_celtic
 	holding = tribal_holding
 }

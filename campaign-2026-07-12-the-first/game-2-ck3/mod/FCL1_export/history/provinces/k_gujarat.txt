@@ -1,30 +1,30 @@
 1126={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1127={
-	culture = non_indo_european_iberian
+	culture = marathi
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1133={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1134={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1135={
-	culture = non_indo_european_iberian
+	culture = gujarati
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1136={
-	culture = brythonic
+	culture = gujarati
 	faith = nestorian
 	holding = castle_holding
 }
@@ -33,37 +33,37 @@
 	terrain = hills
 }
 1266={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1267={
-	culture = non_indo_european_iberian
+	culture = gujarati
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1268={
-	culture = non_indo_european_iberian
+	culture = gujarati
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1290={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1291={
-	culture = non_indo_european_iberian
+	culture = rajput
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1292={
-	culture = brythonic
+	culture = gujarati
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1295={
-	culture = brythonic
+	culture = gujarati
 	faith = nestorian
 	holding = castle_holding
 }

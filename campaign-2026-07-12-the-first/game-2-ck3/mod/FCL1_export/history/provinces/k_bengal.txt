@@ -73,7 +73,7 @@
 	holding = none
 }
 853={
-	culture = sarmatian
+	culture = bengali
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -120,7 +120,7 @@
 	holding = church_holding
 }
 1131={
-	culture = sarmatian
+	culture = bengali
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -133,7 +133,7 @@
 	holding = none
 }
 1232={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -143,12 +143,12 @@
 	holding = castle_holding
 }
 1235={
-	culture = non_indo_european_iberian
+	culture = bengali
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1236={
-	culture = brythonic
+	culture = bengali
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -158,7 +158,7 @@
 	holding = castle_holding
 }
 1239={
-	culture = brythonic
+	culture = bengali
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -171,37 +171,37 @@
 	holding = castle_holding
 }
 1243={
-	culture = brythonic
+	culture = bengali
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1318={
-	culture = sarmatian
+	culture = bengali
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1319={
-	culture = sarmatian
+	culture = bengali
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1323={
-	culture = brythonic
+	culture = bengali
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1324={
-	culture = sarmatian
+	culture = bengali
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1325={
-	culture = sarmatian
+	culture = khasi
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1381={
-	culture = brythonic
+	culture = assamese
 	faith = celtic_pagan
 	holding = castle_holding
 }

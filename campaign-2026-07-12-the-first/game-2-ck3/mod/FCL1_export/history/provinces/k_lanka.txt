@@ -1,5 +1,5 @@
 3266={
-	culture = bengali
+	culture = sinhala
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -16,7 +16,7 @@
 	holding = castle_holding
 }
 3271={
-	culture = bengali
+	culture = sinhala
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -24,7 +24,7 @@
 	holding = city_holding
 }
 3273={
-	culture = bengali
+	culture = sinhala
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -32,7 +32,7 @@
 	holding = city_holding
 }
 3275={
-	culture = bengali
+	culture = tamil
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -49,7 +49,7 @@
 	holding = none
 }
 3280={
-	culture = bengali
+	culture = tamil
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -60,12 +60,12 @@
 	holding = none
 }
 3283={
-	culture = bengali
+	culture = sinhala
 	faith = iberian_pagan
 	holding = castle_holding
 }
 3284={
-	culture = bengali
+	culture = sinhala
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -79,7 +79,7 @@
 	holding = none
 }
 3288={
-	culture = bengali
+	culture = tamil
 	faith = iberian_pagan
 	holding = castle_holding
 }

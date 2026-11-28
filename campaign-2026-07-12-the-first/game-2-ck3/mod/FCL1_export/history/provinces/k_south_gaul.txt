@@ -2,7 +2,7 @@
 	holding = none
 }
 2006={
-	culture = etruscan
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -10,7 +10,7 @@
 	holding = none
 }
 2013={
-	culture = etruscan
+	culture = celtiberian
 	faith = catholic
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 	holding = city_holding
 }
 2015={
-	culture = etruscan
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -26,7 +26,7 @@
 	holding = city_holding
 }
 2017={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -34,7 +34,7 @@
 	holding = castle_holding
 }
 2019={
-	culture = etruscan
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -42,7 +42,7 @@
 	holding = none
 }
 2021={
-	culture = etruscan
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -68,12 +68,12 @@
 	holding = city_holding
 }
 2030={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2031={
-	culture = rhaetian
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -87,7 +87,7 @@
 	holding = none
 }
 2035={
-	culture = rhaetian
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -98,12 +98,12 @@
 	holding = none
 }
 2039={
-	culture = rhaetian
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2040={
-	culture = rhaetian
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -117,7 +117,7 @@
 	holding = city_holding
 }
 2061={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -125,7 +125,7 @@
 	holding = none
 }
 2063={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -133,7 +133,7 @@
 	holding = none
 }
 2065={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -156,7 +156,7 @@
 	holding = none
 }
 2209={
-	culture = hellenic_greek
+	culture = basque
 	faith = hellenic_pagan
 	holding = city_holding
 }
@@ -173,12 +173,12 @@
 	holding = city_holding
 }
 2214={
-	culture = hellenic_greek
+	culture = celtiberian
 	faith = catholic
 	holding = city_holding
 }
 2215={
-	culture = hellenic_greek
+	culture = celtiberian
 	faith = hellenic_pagan
 	holding = city_holding
 }
@@ -186,7 +186,7 @@
 	holding = none
 }
 2217={
-	culture = etruscan
+	culture = gallic
 	faith = gallic_celtic
 	holding = tribal_holding
 }
@@ -204,7 +204,7 @@
 	holding = none
 }
 2222={
-	culture = hellenic_greek
+	culture = gallic
 	faith = catholic
 	holding = tribal_holding
 }
@@ -217,12 +217,12 @@
 	holding = none
 }
 2225={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
 2226={
-	culture = etruscan
+	culture = gallic
 	faith = gallic_celtic
 	holding = tribal_holding
 }
@@ -239,7 +239,7 @@
 	holding = city_holding
 }
 2231={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -253,7 +253,7 @@
 	holding = church_holding
 }
 2289={
-	culture = etruscan
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -270,7 +270,7 @@
 	holding = none
 }
 2294={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -281,7 +281,7 @@
 	holding = none
 }
 2297={
-	culture = belgae
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -289,7 +289,7 @@
 	holding = none
 }
 2299={
-	culture = belgae
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
@@ -315,7 +315,7 @@
 	holding = none
 }
 8717={
-	culture = etruscan
+	culture = gallic
 	faith = hellenic_pagan
 	holding = castle_holding
 }

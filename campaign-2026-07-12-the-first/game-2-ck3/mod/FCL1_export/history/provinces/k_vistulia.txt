@@ -5,117 +5,132 @@
 	holding = none
 }
 527={
-	culture = hunnic
+	culture = vandilian
 	faith = tengri_pagan
 	holding = castle_holding
 }
 529={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 530={
-	culture = getian
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 531={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
 532={
-	culture = hunnic
+	culture = vandilian
 	faith = tengri_pagan
 	holding = castle_holding
 }
 534={
-	culture = sarmatian
+	culture = vandilian
 	faith = tengri_pagan
 	holding = city_holding
 }
 535={
-	culture = getian
+	culture = urslavic
 	faith = catholic
 	holding = castle_holding
 }
 536={
-	culture = getian
+	culture = scythian
 	faith = tengri_pagan
 	holding = city_holding
 }
 546={
-	culture = hunnic
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 549={
-	culture = sarmatian
+	culture = prussian
 	faith = catholic
 	holding = castle_holding
 }
 4933={
+	culture = polish
 	holding = castle_holding
 }
 4934={
+	culture = polish
 	holding = none
 }
 4935={
+	culture = polish
 	holding = city_holding
 }
 4936={
+	culture = polish
 	holding = none
 }
 4937={
+	culture = polish
 	holding = city_holding
 }
 4938={
+	culture = polish
 	holding = none
 }
 4939={
+	culture = polish
 	holding = city_holding
 }
 4940={
-	culture = getian
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 4941={
+	culture = polish
 	holding = none
 }
 4942={
+	culture = polish
 	holding = none
 }
 4943={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 4944={
+	culture = polish
 	holding = none
 }
 4945={
+	culture = polish
 	holding = none
 }
 4946={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 4947={
+	culture = polish
 	holding = none
 }
 4948={
+	culture = polish
 	holding = none
 }
 4949={
+	culture = polish
 	holding = city_holding
 }
 4950={
+	culture = polish
 	holding = none
 }
 4951={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -123,7 +138,7 @@
 	holding = none
 }
 4953={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -137,7 +152,7 @@
 	holding = none
 }
 4957={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -163,7 +178,7 @@
 	holding = none
 }
 4965={
-	culture = hunnic
+	culture = vandilian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -207,7 +222,7 @@
 	holding = none
 }
 5051={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -227,7 +242,7 @@
 	holding = none
 }
 5057={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -247,7 +262,7 @@
 	holding = none
 }
 5063={
-	culture = getian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -270,7 +285,7 @@
 	holding = church_holding
 }
 5070={
-	culture = hunnic
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -281,7 +296,7 @@
 	holding = castle_holding
 }
 5073={
-	culture = sarmatian
+	culture = vandilian
 	faith = catholic
 	holding = castle_holding
 }
@@ -295,7 +310,7 @@
 	holding = city_holding
 }
 5077={
-	culture = getian
+	culture = urslavic
 	faith = catholic
 	holding = castle_holding
 }

@@ -1,5 +1,5 @@
 88={
-	culture = sarmatian
+	culture = estonian
 	faith = orthodox
 	holding = castle_holding
 }

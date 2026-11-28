@@ -1,10 +1,10 @@
 1161={
-	culture = sumpa
+	culture = kashmiri
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1351={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 	holding = city_holding
 }
 7948={
-	culture = sumpa
+	culture = kashmiri
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -40,7 +40,7 @@
 	holding = castle_holding
 }
 7954={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -54,7 +54,7 @@
 	holding = castle_holding
 }
 9024={
-	culture = sarmatian
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = castle_holding
 }

@@ -2,7 +2,7 @@
 	holding = city_holding
 }
 601={
-	culture = getian
+	culture = georgian
 	faith = urartuism
 	holding = castle_holding
 }
@@ -10,12 +10,12 @@
 	holding = church_holding
 }
 676={
-	culture = sarmatian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }
 677={
-	culture = armenian
+	culture = hellenic_greek
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -31,7 +31,7 @@
 	holding = castle_holding
 }
 5696={
-	culture = getian
+	culture = hellenic_greek
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -42,7 +42,7 @@
 	holding = city_holding
 }
 5737={
-	culture = armenian
+	culture = georgian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -53,7 +53,7 @@
 	holding = city_holding
 }
 5740={
-	culture = getian
+	culture = georgian
 	faith = armenian_apostolic
 	holding = castle_holding
 }
@@ -64,7 +64,7 @@
 	holding = city_holding
 }
 5743={
-	culture = sarmatian
+	culture = georgian
 	faith = urartuism
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 5746={
-	culture = sarmatian
+	culture = hellenic_greek
 	faith = urartuism
 	holding = castle_holding
 }
@@ -115,7 +115,7 @@
 	holding = none
 }
 5759={
-	culture = sarmatian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -144,7 +144,7 @@
 	holding = city_holding
 }
 5768={
-	culture = getian
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }

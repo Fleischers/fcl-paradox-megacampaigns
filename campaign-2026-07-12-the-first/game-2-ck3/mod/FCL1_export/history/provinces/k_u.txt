@@ -1,5 +1,5 @@
 9219={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -10,7 +10,7 @@
 	holding = none
 }
 9223={
-	culture = sumpa
+	culture = bodpa
 	faith = old_bon
 	holding = tribal_holding
 }
@@ -18,7 +18,7 @@
 	holding = none
 }
 9225={
-	culture = sumpa
+	culture = bodpa
 	faith = old_bon
 	holding = tribal_holding
 }
@@ -35,7 +35,7 @@
 	holding = none
 }
 9230={
-	culture = sumpa
+	culture = bodpa
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -46,7 +46,7 @@
 	holding = none
 }
 9233={
-	culture = sumpa
+	culture = bodpa
 	faith = old_bon
 	holding = tribal_holding
 }
@@ -70,7 +70,7 @@
 	holding = castle_holding
 }
 9239={
-	culture = sumpa
+	culture = bodpa
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -98,7 +98,7 @@
 	holding = none
 }
 9247={
-	culture = sumpa
+	culture = bodpa
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -120,7 +120,7 @@
 	holding = none
 }
 9253={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -148,12 +148,12 @@
 	holding = none
 }
 9261={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
 9262={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }
@@ -184,7 +184,7 @@
 	holding = castle_holding
 }
 9363={
-	culture = sumpa
+	culture = zhangzhung
 	faith = scythian_pagan
 	holding = none
 }

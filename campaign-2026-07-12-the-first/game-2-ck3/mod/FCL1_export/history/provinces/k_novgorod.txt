@@ -13,7 +13,7 @@
 	holding = none
 }
 5137={
-	culture = sarmatian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }
@@ -33,7 +33,7 @@
 	holding = city_holding
 }
 5143={
-	culture = sarmatian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }
@@ -44,7 +44,7 @@
 	holding = none
 }
 5146={
-	culture = vepsian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -58,7 +58,7 @@
 	holding = none
 }
 5150={
-	culture = vepsian
+	culture = urslavic
 	faith = finnish_pagan
 	holding = tribal_holding
 }
@@ -69,7 +69,7 @@
 	holding = none
 }
 5153={
-	culture = vepsian
+	culture = urslavic
 	faith = finnish_pagan
 	holding = none
 }
@@ -80,7 +80,7 @@
 	holding = none
 }
 5156={
-	culture = vepsian
+	culture = urslavic
 	religion = finnish_pagan
 	holding = tribal_holding
 }
@@ -91,7 +91,7 @@
 	holding = none
 }
 5159={
-	culture = vepsian
+	culture = urslavic
 	religion = finnish_pagan
 	holding = tribal_holding
 	1150.1.1 = { religion = orthodox }
@@ -100,7 +100,7 @@
 	holding = none
 }
 5161={
-	culture = sarmatian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }
@@ -111,7 +111,7 @@
 	holding = none
 }
 5164={
-	culture = sarmatian
+	culture = urslavic
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -125,7 +125,7 @@
 	holding = none
 }
 5168={
-	culture = vepsian
+	culture = urslavic
 	faith = slavic_pagan
 	holding = castle_holding
 }

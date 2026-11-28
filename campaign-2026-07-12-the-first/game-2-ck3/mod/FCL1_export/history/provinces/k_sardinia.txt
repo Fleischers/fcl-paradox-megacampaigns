@@ -1,5 +1,5 @@
 2647={
-	culture = etruscan
+	culture = nuragic
 	faith = catholic
 	holding = city_holding
 }
@@ -18,57 +18,65 @@
 	holding = city_holding
 }
 2652={
-	culture = etruscan
+	culture = nuragic
 	faith = catholic
 	holding = city_holding
 }
 2653={
-	culture = etruscan
+	culture = sardinian
 	faith = hellenic_pagan
 	holding = city_holding
 }
 2654={
+	culture = sardinian
 	holding = city_holding
 	special_building_slot = argentiera_mines_01
 }
 2655={
+	culture = sardinian
 	holding = church_holding
 }
 2656={
-	culture = etruscan
+	culture = sardinian
 	faith = hellenic_pagan
 	holding = city_holding
 }
 2657={
+	culture = sardinian
 	holding = city_holding
 }
 2658={
-	culture = etruscan
+	culture = sardinian
 	faith = hellenic_pagan
 	holding = city_holding
 }
 2659={
-	culture = etruscan
+	culture = sardinian
 	faith = hellenic_pagan
 	holding = city_holding
 }
 2660={
+	culture = sardinian
 	holding = none
 }
 2661={
+	culture = sardinian
 	holding = church_holding
 }
 2662={
-	culture = etruscan
+	culture = sardinian
 	faith = catholic
 	holding = city_holding
 }
 2663={
+	culture = sardinian
 	holding = none
 }
 2664={
+	culture = sardinian
 	holding = city_holding
 }
 2665={
+	culture = sardinian
 	holding = city_holding
 }

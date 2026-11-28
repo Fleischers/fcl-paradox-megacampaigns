@@ -2,12 +2,12 @@
 	holding = city_holding
 }
 9129={
-	culture = brythonic
+	culture = nepali
 	faith = nestorian
 	holding = city_holding
 }
 9133={
-	culture = brythonic
+	culture = assamese
 	faith = manichean
 	holding = city_holding
 }
@@ -18,7 +18,7 @@
 	holding = none
 }
 9137={
-	culture = brythonic
+	culture = assamese
 	faith = manichean
 	holding = city_holding
 }
@@ -40,7 +40,7 @@
 	holding = church_holding
 }
 9143={
-	culture = bengali
+	culture = assamese
 	faith = vaishnavism
 	holding = castle_holding
 }
@@ -62,7 +62,7 @@
 	holding = none
 }
 9149={
-	culture = bengali
+	culture = assamese
 	faith = vaishnavism
 	holding = castle_holding
 }
@@ -94,7 +94,7 @@
 	holding = city_holding
 }
 9157={
-	culture = lhomon
+	culture = assamese
 	faith = old_bon
 	holding = none
 }

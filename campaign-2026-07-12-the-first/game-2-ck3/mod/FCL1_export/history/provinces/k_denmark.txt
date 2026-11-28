@@ -2,12 +2,12 @@
 	holding = none
 }
 56={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
 57={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -20,7 +20,7 @@
 	holding = castle_holding
 }
 60={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -28,13 +28,13 @@
 	holding = city_holding
 }
 62={
-	culture = norse
+	culture = angle
 	faith = catholic
 	holding = tribal_holding
 	special_building_slot = danevirke_01
 }
 63={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -42,7 +42,7 @@
 	holding = castle_holding
 }
 65={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -50,7 +50,7 @@
 	holding = city_holding
 }
 67={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }
@@ -103,7 +103,7 @@
 	holding = city_holding
 }
 81={
-	culture = norse
+	culture = old_saxon
 	faith = catholic
 	holding = castle_holding
 }

@@ -5,7 +5,7 @@
 	holding = none
 }
 4552={
-	culture = non_indo_european_iberian
+	culture = butr
 	faith = coptic
 	holding = castle_holding
 }
@@ -19,12 +19,12 @@
 	holding = castle_holding
 }
 4556={
-	culture = non_indo_european_iberian
+	culture = carthaginian
 	faith = coptic
 	holding = castle_holding
 }
 4557={
-	culture = non_indo_european_iberian
+	culture = carthaginian
 	faith = coptic
 	holding = castle_holding
 }
@@ -38,17 +38,17 @@
 	holding = castle_holding
 }
 4561={
-	culture = non_indo_european_iberian
+	culture = carthaginian
 	faith = catholic
 	holding = castle_holding
 }
 4562={
-	culture = carthaginian
+	culture = hebrew
 	faith = manichean
 	holding = castle_holding
 }
 4563={
-	culture = baranis
+	culture = butr
 	faith = canaanite_pagan
 	holding = castle_holding
 }
@@ -71,7 +71,7 @@
 	holding = city_holding
 }
 4570={
-	culture = baranis
+	culture = butr
 	faith = manichean
 	holding = castle_holding
 }
@@ -79,12 +79,12 @@
 	holding = church_holding
 }
 4572={
-	culture = non_indo_european_iberian
+	culture = numidian
 	faith = catholic
 	holding = castle_holding
 }
 4573={
-	culture = non_indo_european_iberian
+	culture = numidian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -92,7 +92,7 @@
 	holding = none
 }
 4575={
-	culture = non_indo_european_iberian
+	culture = carthaginian
 	faith = catholic
 	holding = castle_holding
 }
@@ -103,55 +103,64 @@
 	holding = castle_holding
 }
 4578={
-	culture = non_indo_european_iberian
+	culture = vandal
 	faith = catholic
 	holding = castle_holding
 }
 4579={
+	culture = vandal
 	holding = city_holding
 }
 4580={
+	culture = vandal
 	holding = none
 }
 4581={
+	culture = punic_iberian
 	holding = church_holding
 }
 4582={
-	culture = non_indo_european_iberian
+	culture = punic_iberian
 	faith = catholic
 	holding = castle_holding
 }
 4583={
+	culture = punic_iberian
 	holding = church_holding
 }
 4584={
+	culture = punic_iberian
 	holding = castle_holding
 }
 4585={
-	culture = non_indo_european_iberian
+	culture = vandal
 	faith = iberian_pagan
 	holding = castle_holding
 }
 4586={
+	culture = vandal
 	holding = city_holding
 }
 4587={
+	culture = vandal
 	holding = none
 }
 4588={
-	culture = baranis
+	culture = vandal
 	faith = catholic
 	holding = castle_holding
 }
 4589={
-	culture = non_indo_european_iberian
+	culture = vandal
 	faith = iberian_pagan
 	holding = castle_holding
 }
 4590={
+	culture = vandal
 	holding = church_holding
 }
 4591={
+	culture = vandal
 	holding = none
 }
 4592={
@@ -161,7 +170,7 @@
 	holding = castle_holding
 }
 4594={
-	culture = non_indo_european_iberian
+	culture = carthaginian
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -186,7 +195,7 @@
 	holding = city_holding
 }
 4601={
-	culture = non_indo_european_iberian
+	culture = butr
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -197,7 +206,7 @@
 	holding = city_holding
 }
 4604={
-	culture = non_indo_european_iberian
+	culture = butr
 	faith = iberian_pagan
 	holding = castle_holding
 }
@@ -211,6 +220,7 @@
 	holding = city_holding
 }
 4620={
+	culture = vandal
 	holding = none
 }
 4623={
@@ -228,26 +238,32 @@
 	holding = city_holding
 }
 4628={
+	culture = vandal
 	holding = none
 }
 4629={
+	culture = vandal
 	holding = church_holding
 }
 4630={
+	culture = vandal
 	holding = none
 }
 4631={
-	culture = baranis
+	culture = vandal
 	faith = catholic
 	holding = castle_holding
 }
 4632={
+	culture = vandal
 	holding = city_holding
 }
 4752={
+	culture = vandal
 	holding = city_holding
 }
 4753={
+	culture = punic_iberian
 	holding = none
 }
 6321={

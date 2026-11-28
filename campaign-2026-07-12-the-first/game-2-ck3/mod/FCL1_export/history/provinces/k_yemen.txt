@@ -2,12 +2,12 @@
 	holding = church_holding
 }
 1369={
-	culture = brythonic
+	culture = somali
 	faith = celtic_pagan
 	holding = city_holding
 }
 6240={
-	culture = brythonic
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -18,7 +18,7 @@
 	holding = none
 }
 6243={
-	culture = brythonic
+	culture = qahtanite
 	faith = arabic_pagan
 	holding = castle_holding
 }
@@ -41,7 +41,7 @@
 	holding = city_holding
 }
 6276={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -52,7 +52,7 @@
 	holding = none
 }
 6280={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -60,7 +60,7 @@
 	holding = none
 }
 6282={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -68,7 +68,7 @@
 	holding = none
 }
 6284={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -91,7 +91,7 @@
 	holding = castle_holding
 }
 6291={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -117,12 +117,12 @@
 	holding = city_holding
 }
 6299={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
 6300={
-	culture = brythonic
+	culture = qahtanite
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -144,7 +144,7 @@
 	holding = none
 }
 6306={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -155,7 +155,7 @@
 	holding = city_holding
 }
 6309={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
@@ -166,17 +166,17 @@
 	holding = none
 }
 6312={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
 6313={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }
 6314={
-	culture = non_indo_european_iberian
+	culture = qahtanite
 	faith = coptic
 	holding = castle_holding
 }

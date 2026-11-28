@@ -1,15 +1,15 @@
 901={
-	culture = sarmatian
+	culture = saka
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1181={
-	culture = sarmatian
+	culture = saka
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1186={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -19,7 +19,7 @@
 	holding = tribal_holding
 }
 1431={
-	culture = sarmatian
+	culture = saka
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -45,7 +45,7 @@
 	holding = none
 }
 7121={
-	culture = sarmatian
+	culture = scythian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -53,7 +53,7 @@
 	holding = none
 }
 7123={
-	culture = sarmatian
+	culture = saka
 	faith = orthodox
 	holding = castle_holding
 }
@@ -61,7 +61,7 @@
 	holding = city_holding
 }
 7125={
-	culture = sarmatian
+	culture = saka
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -75,7 +75,7 @@
 	holding = none
 }
 7129={
-	culture = sarmatian
+	culture = saka
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -89,7 +89,7 @@
 	holding = castle_holding
 }
 7133={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -115,12 +115,12 @@
 	holding = church_holding
 }
 7141={
-	culture = sarmatian
+	culture = sogdian
 	faith = scythian_pagan
 	holding = castle_holding
 }
 7142={
-	culture = sarmatian
+	culture = scythian
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -149,7 +149,7 @@
 	holding = none
 }
 7151={
-	culture = scythian
+	culture = tocharian
 	faith = scythian_pagan
 	holding = none
 }

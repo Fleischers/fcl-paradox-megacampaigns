@@ -1,42 +1,46 @@
 528={
-	culture = getian
+	culture = vandal
 	faith = germanic_pagan
 	holding = castle_holding
 }
 2806={
+	culture = polabian
 	holding = castle_holding
 }
 2807={
-	culture = norse
+	culture = polabian
 	faith = catholic
 	holding = castle_holding
 }
 2808={
+	culture = polabian
 	holding = city_holding
 }
 2809={
-	culture = norse
+	culture = polabian
 	faith = catholic
 	holding = castle_holding
 }
 2810={
+	culture = polabian
 	holding = none
 }
 2811={
-	culture = norse
+	culture = polabian
 	faith = catholic
 	holding = castle_holding
 }
 2812={
-	culture = norse
+	culture = polabian
 	faith = catholic
 	holding = castle_holding
 }
 2813={
+	culture = polabian
 	holding = none
 }
 2814={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -44,48 +48,55 @@
 	holding = city_holding
 }
 2816={
+	culture = polabian
 	holding = none
 }
 2817={
-	culture = norse
+	culture = polabian
 	faith = catholic
 	holding = castle_holding
 }
 2818={
-	culture = hunnic
+	culture = pommeranian
 	faith = tengri_pagan
 	holding = tribal_holding
 }
 2819={
+	culture = polabian
 	holding = none
 }
 2820={
+	culture = polabian
 	holding = none
 }
 2821={
+	culture = polabian
 	holding = none
 }
 2822={
+	culture = pommeranian
 	holding = city_holding
 }
 2823={
-	culture = norse
+	culture = pommeranian
 	faith = catholic
 	holding = castle_holding
 }
 2824={
+	culture = pommeranian
 	holding = city_holding
 }
 2825={
+	culture = pommeranian
 	holding = castle_holding
 }
 2826={
-	culture = norse
+	culture = pommeranian
 	faith = catholic
 	holding = tribal_holding
 }
 2827={
-	culture = norse
+	culture = gothic
 	faith = germanic_pagan
 	holding = tribal_holding
 }
@@ -96,7 +107,7 @@
 	holding = city_holding
 }
 2830={
-	culture = norse
+	culture = prussian
 	faith = catholic
 	holding = castle_holding
 }
@@ -107,15 +118,16 @@
 	holding = city_holding
 }
 2836={
+	culture = pommeranian
 	holding = castle_holding
 }
 2906={
-	culture = frankish
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 2916={
-	culture = frankish
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -126,7 +138,7 @@
 	holding = none
 }
 2932={
-	culture = frankish
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -137,17 +149,17 @@
 	holding = none
 }
 2935={
-	culture = frankish
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 2936={
-	culture = frankish
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 2980={
-	culture = norse
+	culture = suebi
 	faith = germanic_pagan
 	holding = tribal_holding
 }
@@ -161,7 +173,7 @@
 	holding = city_holding
 }
 3012={
-	culture = frankish
+	culture = suebi
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -187,17 +199,17 @@
 	holding = none
 }
 3020={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 3021={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 3023={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -205,12 +217,12 @@
 	holding = castle_holding
 }
 3025={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 3027={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -218,7 +230,7 @@
 	holding = none
 }
 3030={
-	culture = frankish
+	culture = suebi
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -238,65 +250,74 @@
 	holding = none
 }
 3039={
-	culture = norse
+	culture = gallic
 	faith = catholic
 	holding = castle_holding
 }
 3045={
-	culture = norse
+	culture = polish
 	faith = germanic_pagan
 	holding = tribal_holding
 }
 3057={
+	culture = polish
 	holding = none
 }
 3058={
-	culture = norse
+	culture = polish
 	faith = germanic_pagan
 	holding = tribal_holding
 }
 3059={
+	culture = polish
 	holding = none
 }
 3060={
+	culture = polish
 	holding = none
 }
 3061={
-	culture = norse
+	culture = polish
 	faith = tengri_pagan
 	holding = tribal_holding
 }
 3062={
+	culture = polish
 	holding = city_holding
 }
 3063={
+	culture = polish
 	holding = none
 }
 3064={
-	culture = frankish
+	culture = polish
 	faith = germanic_pagan
 	holding = tribal_holding
 }
 3065={
+	culture = polish
 	holding = none
 }
 3066={
+	culture = polish
 	holding = none
 }
 3067={
-	culture = norse
+	culture = polish
 	faith = germanic_pagan
 	holding = tribal_holding
 }
 3068={
-	culture = norse
+	culture = polish
 	faith = germanic_pagan
 	holding = tribal_holding
 }
 3069={
+	culture = polish
 	holding = none
 }
 3070={
+	culture = polish
 	holding = none
 }
 3136={
@@ -306,10 +327,11 @@
 	holding = none
 }
 3139={
+	culture = polish
 	holding = none
 }
 3140={
-	culture = norse
+	culture = suebi
 	faith = germanic_pagan
 	holding = tribal_holding
 }
@@ -317,62 +339,71 @@
 	holding = none
 }
 3142={
+	culture = polish
 	holding = none
 }
 3143={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = tribal_holding
 }
 3144={
+	culture = polish
 	holding = none
 }
 3145={
-	culture = frankish
+	culture = polish
 	faith = tengri_pagan
 	holding = tribal_holding
 }
 3146={
+	culture = polish
 	holding = none
 }
 3147={
+	culture = polish
 	holding = none
 }
 3148={
+	culture = polish
 	holding = none
 }
 3149={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 3151={
+	culture = pommeranian
 	holding = none
 }
 3152={
-	culture = norse
+	culture = pommeranian
 	faith = catholic
 	holding = castle_holding
 }
 3153={
+	culture = pommeranian
 	holding = none
 }
 3154={
-	culture = norse
+	culture = pommeranian
 	faith = catholic
 	holding = castle_holding
 }
 3155={
+	culture = pommeranian
 	holding = city_holding
 }
 3156={
+	culture = pommeranian
 	holding = city_holding
 }
 3157={
 	holding = church_holding
 }
 3158={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -380,7 +411,7 @@
 	holding = none
 }
 3160={
-	culture = norse
+	culture = gothic
 	faith = catholic
 	holding = castle_holding
 }
@@ -400,7 +431,7 @@
 	holding = none
 }
 3166={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -408,7 +439,7 @@
 	holding = none
 }
 3168={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -425,7 +456,7 @@
 	holding = none
 }
 3173={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -445,12 +476,12 @@
 	holding = none
 }
 3180={
-	culture = norse
+	culture = suebi
 	faith = catholic
 	holding = castle_holding
 }
 3181={
-	culture = norse
+	culture = suebi
 	faith = germanic_pagan
 	holding = tribal_holding
 }
@@ -458,30 +489,35 @@
 	holding = city_holding
 }
 3183={
+	culture = pommeranian
 	holding = none
 }
 3184={
+	culture = pommeranian
 	holding = city_holding
 }
 3185={
+	culture = pommeranian
 	holding = none
 }
 3186={
+	culture = pommeranian
 	holding = none
 }
 3187={
-	culture = norse
+	culture = pommeranian
 	faith = catholic
 	holding = castle_holding
 }
 3188={
+	culture = pommeranian
 	holding = none
 }
 3189={
 	holding = none
 }
 3190={
-	culture = norse
+	culture = gothic
 	faith = catholic
 	holding = castle_holding
 }
@@ -501,76 +537,89 @@
 	holding = none
 }
 3196={
-	culture = norse
+	culture = gothic
 	faith = catholic
 	holding = castle_holding
 }
 4900={
-	culture = suebi
+	culture = polish
 	faith = catholic
 	holding = tribal_holding
 }
 4901={
+	culture = polish
 	holding = none
 }
 4902={
+	culture = polish
 	holding = church_holding
 }
 4903={
+	culture = polish
 	holding = none
 }
 4904={
+	culture = polish
 	holding = none
 }
 4905={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = tribal_holding
 }
 4906={
+	culture = polish
 	holding = none
 }
 4907={
+	culture = polish
 	holding = none
 }
 4908={
+	culture = polish
 	holding = none
 }
 4909={
-	culture = norse
+	culture = polish
 	faith = germanic_pagan
 	holding = castle_holding
 }
 4910={
+	culture = polish
 	holding = none
 }
 4911={
+	culture = polish
 	holding = castle_holding
 }
 4912={
-	culture = norse
+	culture = polish
 	faith = tengri_pagan
 	holding = tribal_holding
 }
 4913={
+	culture = polish
 	holding = none
 }
 4914={
+	culture = polish
 	holding = none
 }
 4915={
-	culture = norse
+	culture = polish
 	faith = catholic
 	holding = castle_holding
 }
 4916={
+	culture = polish
 	holding = none
 }
 4917={
+	culture = polish
 	holding = none
 }
 4918={
-	culture = norse
+	culture = vandal
 	faith = tengri_pagan
 	holding = tribal_holding
 }
@@ -584,7 +633,7 @@
 	holding = none
 }
 4922={
-	culture = getian
+	culture = vandal
 	faith = catholic
 	holding = castle_holding
 }
@@ -592,7 +641,7 @@
 	holding = none
 }
 4924={
-	culture = norse
+	culture = vandal
 	faith = germanic_pagan
 	holding = castle_holding
 }
@@ -615,7 +664,7 @@
 	holding = none
 }
 4931={
-	culture = norse
+	culture = vandal
 	faith = germanic_pagan
 	holding = castle_holding
 }

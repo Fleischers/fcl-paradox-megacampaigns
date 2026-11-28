@@ -8,17 +8,17 @@
 	holding = city_holding
 }
 9090={
-	culture = hunnic
+	culture = kashmiri
 	faith = old_bon
 	holding = castle_holding
 }
 9091={
-	culture = hunnic
+	culture = kashmiri
 	faith = old_bon
 	holding = castle_holding
 }
 9092={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 	holding = none
 }
 9101={
-	culture = sarmatian
+	culture = kirati
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -76,12 +76,12 @@
 	holding = church_holding
 }
 9108={
-	culture = bengali
+	culture = nepali
 	faith = celtic_pagan
 	holding = castle_holding
 }
 9109={
-	culture = bengali
+	culture = nepali
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -89,7 +89,7 @@
 	holding = none
 }
 9111={
-	culture = bengali
+	culture = nepali
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -106,17 +106,17 @@
 	holding = none
 }
 9116={
-	culture = sarmatian
+	culture = nepali
 	faith = scythian_pagan
 	holding = castle_holding
 }
 9117={
-	culture = sarmatian
+	culture = nepali
 	faith = scythian_pagan
 	holding = castle_holding
 }
 9118={
-	culture = sarmatian
+	culture = nepali
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -124,7 +124,7 @@
 	holding = none
 }
 9120={
-	culture = sarmatian
+	culture = nepali
 	faith = scythian_pagan
 	holding = castle_holding
 }
@@ -141,7 +141,7 @@
 	holding = none
 }
 9125={
-	culture = brythonic
+	culture = assamese
 	faith = nestorian
 	holding = city_holding
 }
@@ -161,7 +161,7 @@
 	holding = none
 }
 9136={
-	culture = sarmatian
+	culture = nepali
 	faith = scythian_pagan
 	holding = castle_holding
 }

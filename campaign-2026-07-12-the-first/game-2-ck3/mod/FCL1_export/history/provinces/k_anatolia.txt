@@ -1,10 +1,10 @@
 736={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }
 737={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 	200.1.1 = { special_building_slot = fairy_chimneys }
@@ -13,7 +13,7 @@
 	holding = none
 }
 754={
-	culture = macedonian
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -21,23 +21,23 @@
 	holding = city_holding
 }
 758={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = tribal_holding
 }
 759={
-	culture = brythonic
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }
 760={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 	1.1.1 = { special_building_slot = cilician_gates }
 }
 761={
-	culture = brythonic
+	culture = cilician
 	faith = orthodox
 	holding = tribal_holding
 }
@@ -48,7 +48,7 @@
 	holding = none
 }
 4896={
-	culture = brythonic
+	culture = cilician
 	faith = orthodox
 	holding = castle_holding
 }
@@ -74,7 +74,7 @@
 	holding = none
 }
 5617={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -94,7 +94,7 @@
 	holding = city_holding
 }
 5623={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -123,7 +123,7 @@
 	holding = none
 }
 5632={
-	culture = brythonic
+	culture = anatolian
 	faith = celtic_pagan
 	holding = castle_holding
 }
@@ -140,7 +140,7 @@
 	holding = none
 }
 5637={
-	culture = brythonic
+	culture = cilician
 	faith = orthodox
 	holding = tribal_holding
 }
@@ -157,7 +157,7 @@
 	holding = city_holding
 }
 5642={
-	culture = brythonic
+	culture = anatolian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -174,7 +174,7 @@
 	holding = none
 }
 5647={
-	culture = brythonic
+	culture = luwian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -210,7 +210,7 @@
 	holding = castle_holding
 }
 5657={
-	culture = brythonic
+	culture = phrygian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -233,7 +233,7 @@
 	holding = church_holding
 }
 5664={
-	culture = brythonic
+	culture = luwian
 	faith = orthodox
 	holding = tribal_holding
 }

@@ -1,46 +1,46 @@
 1141={
-	culture = brythonic
+	culture = hindustani
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1168={
-	culture = hunnic
+	culture = kashmiri
 	faith = tengri_pagan
 	holding = castle_holding
 }
 1173={
-	culture = hunnic
+	culture = hindustani
 	faith = tengri_pagan
 	holding = castle_holding
 }
 1352={
-	culture = sumpa
+	culture = hindustani
 	faith = scythian_pagan
 	holding = castle_holding
 	terrain = jungle
 }
 1357={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1358={
-	culture = etruscan
+	culture = hindustani
 	faith = celtic_pagan
 	holding = castle_holding
 }
 1359={
-	culture = non_indo_european_iberian
+	culture = hindustani
 	faith = iberian_pagan
 	holding = castle_holding
 }
 1364={
-	culture = sarmatian
+	culture = hindustani
 	faith = scythian_pagan
 	holding = castle_holding
 }
 1365={
-	culture = hunnic
+	culture = hindustani
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -50,12 +50,12 @@
 	holding = castle_holding
 }
 1367={
-	culture = hunnic
+	culture = hindustani
 	faith = tengri_pagan
 	holding = castle_holding
 }
 1368={
-	culture = brythonic
+	culture = hindustani
 	faith = celtic_pagan
 	holding = castle_holding
 }

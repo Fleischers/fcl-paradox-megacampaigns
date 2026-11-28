@@ -1,63 +1,64 @@
 517={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
 518={
-	culture = vepsian
+	culture = celtic_pannonian
 	faith = finnish_pagan
 	holding = castle_holding
 }
 519={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
 520={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
 521={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
 522={
+	culture = mogyer
 	holding = none
 }
 523={
-	culture = getian
+	culture = mogyer
 	faith = orthodox
 	holding = castle_holding
 }
 524={
-	culture = getian
+	culture = slovien
 	faith = dacian_pagan
 	holding = castle_holding
 }
 525={
-	culture = hunnic
+	culture = slovien
 	faith = tengri_pagan
 	holding = castle_holding
 }
 533={
-	culture = getian
+	culture = celtic_pannonian
 	faith = dacian_pagan
 	holding = castle_holding
 }
 537={
-	culture = getian
+	culture = dacian
 	faith = dacian_pagan
 	holding = castle_holding
 }
 538={
-	culture = getian
+	culture = gallic
 	faith = dacian_pagan
 	holding = castle_holding
 }
 539={
-	culture = getian
+	culture = dacian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -67,64 +68,73 @@
 	holding = castle_holding
 }
 3802={
+	culture = mogyer
 	holding = none
 }
 3803={
-	culture = getian
+	culture = mogyer
 	faith = catholic
 	holding = castle_holding
 }
 3804={
+	culture = mogyer
 	holding = none
 }
 3805={
-	culture = getian
+	culture = mogyer
 	faith = catholic
 	holding = castle_holding
 }
 3806={
+	culture = mogyer
 	holding = none
 }
 3807={
+	culture = mogyer
 	holding = none
 }
 3808={
-	culture = getian
+	culture = mogyer
 	faith = catholic
 	holding = castle_holding
 }
 3809={
-	culture = getian
+	culture = mogyer
 	faith = catholic
 	holding = castle_holding
 }
 3810={
+	culture = slovien
 	holding = none
 }
 3811={
-	culture = hunnic
+	culture = slovien
 	faith = tengri_pagan
 	holding = castle_holding
 }
 3812={
+	culture = slovien
 	holding = none
 }
 3813={
+	culture = slovien
 	holding = city_holding
 }
 3814={
+	culture = slovien
 	holding = city_holding
 }
 3815={
-	culture = getian
+	culture = slovien
 	faith = catholic
 	holding = castle_holding
 }
 3816={
+	culture = slovien
 	holding = none
 }
 3817={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -135,7 +145,7 @@
 	holding = castle_holding
 }
 3820={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -146,7 +156,7 @@
 	holding = castle_holding
 }
 3823={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -157,12 +167,12 @@
 	holding = castle_holding
 }
 3826={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
 3827={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -176,21 +186,24 @@
 	holding = none
 }
 3831={
-	culture = hunnic
+	culture = slovien
 	faith = tengri_pagan
 	holding = castle_holding
 }
 3832={
+	culture = slovien
 	holding = none
 }
 3833={
+	culture = slovien
 	holding = city_holding
 }
 3834={
+	culture = slovien
 	holding = none
 }
 3835={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -204,7 +217,7 @@
 	holding = none
 }
 3839={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -215,7 +228,7 @@
 	holding = none
 }
 3842={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -229,53 +242,63 @@
 	holding = none
 }
 3846={
-	culture = getian
+	culture = slovien
 	faith = catholic
 	holding = castle_holding
 }
 3847={
+	culture = slovien
 	holding = none
 }
 3848={
-	culture = getian
+	culture = slovien
 	faith = catholic
 	holding = castle_holding
 }
 3849={
+	culture = slovien
 	holding = none
 }
 3850={
+	culture = slovien
 	holding = castle_holding
 }
 3851={
+	culture = slovien
 	holding = city_holding
 }
 3852={
+	culture = slovien
 	holding = city_holding
 }
 3853={
+	culture = slovien
 	holding = city_holding
 }
 3854={
-	culture = getian
+	culture = slovien
 	faith = catholic
 	holding = castle_holding
 }
 3855={
+	culture = slovien
 	holding = none
 }
 3856={
-	culture = getian
+	culture = slovien
 	faith = catholic
 	holding = castle_holding
 }
 3857={
+	culture = slovien
 	holding = city_holding
 }
 3858={
+	culture = slovien
 	holding = city_holding
 }
 3859={
+	culture = slovien
 	holding = city_holding
 }
 3860={
@@ -285,12 +308,12 @@
 	holding = none
 }
 3862={
-	culture = getian
+	culture = celtic_pannonian
 	faith = dacian_pagan
 	holding = castle_holding
 }
 3863={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -298,7 +321,7 @@
 	holding = none
 }
 3865={
-	culture = getian
+	culture = celtic_pannonian
 	faith = catholic
 	holding = castle_holding
 }
@@ -306,16 +329,19 @@
 	holding = none
 }
 3867={
+	culture = mogyer
 	holding = none
 }
 3868={
+	culture = mogyer
 	holding = none
 }
 3869={
+	culture = mogyer
 	holding = none
 }
 3870={
-	culture = getian
+	culture = gallic
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -326,7 +352,7 @@
 	holding = none
 }
 3873={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -340,7 +366,7 @@
 	holding = none
 }
 3877={
-	culture = getian
+	culture = celtic_pannonian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -354,7 +380,7 @@
 	holding = city_holding
 }
 3882={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -365,7 +391,7 @@
 	holding = city_holding
 }
 3885={
-	culture = getian
+	culture = gallic
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -379,7 +405,7 @@
 	holding = none
 }
 3889={
-	culture = getian
+	culture = gallic
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -405,7 +431,7 @@
 	holding = none
 }
 3897={
-	culture = getian
+	culture = dacian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -425,7 +451,7 @@
 	holding = church_holding
 }
 3903={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -433,7 +459,7 @@
 	holding = city_holding
 }
 3905={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -441,7 +467,7 @@
 	holding = none
 }
 3907={
-	culture = getian
+	culture = dacian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -470,6 +496,7 @@
 	holding = church_holding
 }
 3916={
+	culture = mogyer
 	holding = none
 }
 3917={
@@ -479,7 +506,7 @@
 	holding = church_holding
 }
 3919={
-	culture = getian
+	culture = dacian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -496,7 +523,7 @@
 	holding = city_holding
 }
 3924={
-	culture = getian
+	culture = dacian
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -519,7 +546,7 @@
 	holding = castle_holding
 }
 3931={
-	culture = getian
+	culture = dacian
 	faith = orthodox
 	holding = castle_holding
 }
@@ -530,6 +557,7 @@
 	holding = none
 }
 3934={
+	culture = slovien
 	holding = none
 }
 3935={
@@ -556,7 +584,7 @@
 	holding = none
 }
 3942={
-	culture = gepid
+	culture = getian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -576,6 +604,7 @@
 	holding = none
 }
 3948={
+	culture = mogyer
 	holding = none
 }
 3973={
@@ -588,6 +617,7 @@
 	holding = none
 }
 3976={
+	culture = mogyer
 	holding = none
 }
 3977={

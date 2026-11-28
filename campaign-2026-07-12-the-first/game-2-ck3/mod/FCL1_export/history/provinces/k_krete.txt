@@ -1,11 +1,11 @@
 479={
-	culture = brythonic
+	culture = cretan
 	faith = celtic_pagan
 	holding = castle_holding
 	terrain = mountain
 }
 480={
-	culture = brythonic
+	culture = cretan
 	faith = celtic_pagan
 	holding = castle_holding
 	terrain = mountain

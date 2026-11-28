@@ -1,5 +1,5 @@
 476={
-	culture = brythonic
+	culture = hellenic_greek
 	faith = orthodox
 	holding = city_holding
 }
@@ -10,17 +10,17 @@
 	holding = none
 }
 481={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 482={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 485={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = orthodox
 	holding = castle_holding
 }
@@ -34,7 +34,7 @@
 	holding = none
 }
 3728={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -51,7 +51,7 @@
 	holding = city_holding
 }
 3733={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 }
@@ -62,7 +62,7 @@
 	holding = city_holding
 }
 3736={
-	culture = lemnian
+	culture = hellenic_greek
 	faith = hellenic_pagan
 	holding = castle_holding
 	special_building_slot = despot_palace

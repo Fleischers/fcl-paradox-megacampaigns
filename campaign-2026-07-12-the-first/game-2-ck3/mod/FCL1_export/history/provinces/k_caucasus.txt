@@ -1,20 +1,20 @@
 597={
-	culture = sarmatian
+	culture = khazar
 	faith = orthodox
 	holding = city_holding
 }
 598={
-	culture = sarmatian
+	culture = hellenic_greek
 	faith = scythian_pagan
 	holding = castle_holding
 }
 599={
-	culture = sarmatian
+	culture = khazar
 	faith = orthodox
 	holding = city_holding
 }
 603={
-	culture = alan
+	culture = georgian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -22,7 +22,7 @@
 	holding = castle_holding
 }
 605={
-	culture = hunnic
+	culture = alan
 	faith = tengri_pagan
 	holding = castle_holding
 }
@@ -30,12 +30,12 @@
 	holding = city_holding
 }
 607={
-	culture = sarmatian
+	culture = khazar
 	faith = orthodox
 	holding = city_holding
 }
 674={
-	culture = getian
+	culture = persian
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -74,7 +74,7 @@
 	holding = city_holding
 }
 5303={
-	culture = sarmatian
+	culture = khazar
 	faith = orthodox
 	holding = castle_holding
 }
@@ -82,7 +82,7 @@
 	holding = city_holding
 }
 5305={
-	culture = sarmatian
+	culture = khazar
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -96,7 +96,7 @@
 	holding = none
 }
 5309={
-	culture = sarmatian
+	culture = khazar
 	faith = dacian_pagan
 	holding = castle_holding
 }
@@ -104,7 +104,7 @@
 	holding = church_holding
 }
 5311={
-	culture = sarmatian
+	culture = alan
 	faith = orthodox
 	holding = castle_holding
 }
@@ -148,7 +148,7 @@
 	holding = none
 }
 5343={
-	culture = sarmatian
+	culture = khazar
 	faith = dacian_pagan
 	holding = castle_holding
 }

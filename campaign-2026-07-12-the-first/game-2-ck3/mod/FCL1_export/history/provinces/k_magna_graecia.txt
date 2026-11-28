@@ -8,7 +8,7 @@
 	holding = city_holding
 }
 2606={
-	culture = etruscan
+	culture = roman
 	faith = catholic
 	holding = castle_holding
 }
@@ -16,17 +16,17 @@
 	holding = castle_holding
 }
 2608={
-	culture = etruscan
+	culture = italiote
 	faith = catholic
 	holding = castle_holding
 }
 2609={
-	culture = etruscan
+	culture = langobard
 	faith = hellenic_pagan
 	holding = castle_holding
 }
 2610={
-	culture = etruscan
+	culture = lombard
 	faith = catholic
 	holding = tribal_holding
 }
@@ -34,7 +34,7 @@
 	holding = city_holding
 }
 2612={
-	culture = etruscan
+	culture = langobard
 	faith = catholic
 	holding = city_holding
 }
@@ -57,7 +57,7 @@
 	holding = city_holding
 }
 2619={
-	culture = etruscan
+	culture = lombard
 	faith = catholic
 	holding = tribal_holding
 }
@@ -71,7 +71,7 @@
 	holding = city_holding
 }
 2623={
-	culture = etruscan
+	culture = lombard
 	faith = catholic
 	holding = tribal_holding
 }
@@ -85,17 +85,17 @@
 	holding = none
 }
 2627={
-	culture = etruscan
+	culture = italiote
 	faith = catholic
 	holding = tribal_holding
 }
 2628={
-	culture = etruscan
+	culture = samnite
 	faith = catholic
 	holding = tribal_holding
 }
 2629={
-	culture = etruscan
+	culture = italiote
 	faith = catholic
 	holding = tribal_holding
 }
@@ -103,7 +103,7 @@
 	holding = city_holding
 }
 2631={
-	culture = etruscan
+	culture = italiote
 	faith = catholic
 	holding = tribal_holding
 }
@@ -111,54 +111,63 @@
 	holding = none
 }
 2633={
-	culture = non_indo_european_iberian
+	culture = maghrebi
 	faith = catholic
 	holding = castle_holding
 }
 2634={
+	culture = maghrebi
 	holding = none
 }
 2635={
-	culture = non_indo_european_iberian
+	culture = maghrebi
 	faith = catholic
 	holding = castle_holding
 }
 2636={
+	culture = maghrebi
 	holding = city_holding
 }
 2637={
+	culture = maghrebi
 	holding = church_holding
 }
 2638={
-	culture = non_indo_european_iberian
+	culture = maghrebi
 	faith = catholic
 	holding = castle_holding
 }
 2639={
+	culture = maghrebi
 	holding = city_holding
 }
 2640={
-	culture = non_indo_european_iberian
+	culture = maghrebi
 	faith = catholic
 	holding = castle_holding
 }
 2641={
+	culture = maghrebi
 	holding = none
 }
 2642={
+	culture = maghrebi
 	holding = city_holding
 }
 2643={
+	culture = maghrebi
 	holding = none
 }
 2644={
+	culture = maghrebi
 	holding = castle_holding
 }
 2645={
+	culture = maghrebi
 	holding = city_holding
 }
 2646={
-	culture = brythonic
+	culture = maghrebi
 	faith = catholic
 	holding = castle_holding
 }
@@ -178,7 +187,7 @@
 	holding = city_holding
 }
 8755={
-	culture = etruscan
+	culture = messapic
 	faith = catholic
 	holding = tribal_holding
 }

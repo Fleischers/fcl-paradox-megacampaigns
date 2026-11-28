@@ -2,12 +2,12 @@
 	holding = none
 }
 4677={
-	culture = brythonic
+	culture = baranis
 	faith = catholic
 	holding = castle_holding
 }
 4678={
-	culture = baranis
+	culture = carthaginian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
@@ -21,12 +21,12 @@
 	holding = city_holding
 }
 4682={
-	culture = baranis
+	culture = carthaginian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
 4683={
-	culture = baranis
+	culture = carthaginian
 	faith = canaanite_pagan
 	holding = castle_holding
 }
@@ -166,12 +166,12 @@
 	holding = none
 }
 4723={
-	culture = brythonic
+	culture = carthaginian
 	faith = catholic
 	holding = city_holding
 }
 4724={
-	culture = brythonic
+	culture = baranis
 	faith = celtic_pagan
 	holding = tribal_holding
 }
@@ -182,17 +182,20 @@
 	holding = none
 }
 4727={
-	culture = brythonic
+	culture = scythian
 	faith = catholic
 	holding = castle_holding
 }
 4728={
+	culture = scythian
 	holding = city_holding
 }
 4729={
+	culture = scythian
 	holding = city_holding
 }
 4730={
+	culture = scythian
 	holding = none
 }
 4731={
@@ -208,12 +211,12 @@
 	holding = none
 }
 4735={
-	culture = baranis
+	culture = butr
 	faith = canaanite_pagan
 	holding = tribal_holding
 }
 4736={
-	culture = baranis
+	culture = butr
 	faith = canaanite_pagan
 	holding = tribal_holding
 }
@@ -226,7 +229,7 @@
 	holding = none
 }
 4739={
-	culture = baranis
+	culture = butr
 	faith = canaanite_pagan
 	holding = tribal_holding
 }
@@ -266,9 +269,11 @@
 	holding = none
 }
 4757={
+	culture = scythian
 	holding = none
 }
 4758={
+	culture = scythian
 	holding = none
 }
 4759={

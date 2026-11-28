@@ -1,181 +1,218 @@
 1760={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = tribal_holding
 }
 1761={
+	culture = galician
 	holding = city_holding
 }
 1762={
+	culture = galician
 	holding = castle_holding
 }
 1763={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1764={
+	culture = galician
 	holding = castle_holding
 }
 1765={
+	culture = galician
 	holding = none
 }
 1766={
+	culture = galician
 	holding = none
 }
 1767={
+	culture = galician
 	holding = none
 }
 1781={
+	culture = galician
 	holding = city_holding
 }
 1782={
+	culture = galician
 	holding = church_holding
 }
 1783={
+	culture = galician
 	holding = city_holding
 }
 1784={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = tribal_holding
 }
 1785={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1786={
+	culture = galician
 	holding = none
 }
 1787={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1788={
+	culture = galician
 	holding = city_holding
 }
 1789={
+	culture = galician
 	holding = church_holding
 }
 1790={
+	culture = galician
 	holding = castle_holding
 }
 1791={
+	culture = galician
 	holding = none
 }
 1792={
+	culture = galician
 	holding = none
 }
 1793={
+	culture = galician
 	holding = none
 }
 1794={
+	culture = galician
 	holding = none
 }
 1795={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1796={
+	culture = galician
 	holding = castle_holding
 }
 1797={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1798={
+	culture = galician
 	holding = none
 }
 1799={
+	culture = galician
 	holding = none
 }
 1800={
+	culture = galician
 	holding = city_holding
 }
 1816={
-	culture = non_indo_european_iberian
+	culture = asturleonese
 	faith = catholic
 	holding = castle_holding
 }
 1817={
+	culture = galician
 	holding = none
 }
 1818={
-	culture = non_indo_european_iberian
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1819={
+	culture = galician
 	holding = city_holding
 }
 1820={
+	culture = galician
 	holding = none
 }
 1821={
-	culture = brythonic
+	culture = galician
 	faith = catholic
 	holding = castle_holding
 }
 1822={
+	culture = asturleonese
 	holding = castle_holding
 }
 1823={
+	culture = galician
 	holding = none
 }
 1824={
+	culture = asturleonese
 	holding = none
 }
 1825={
+	culture = asturleonese
 	holding = city_holding
 }
 1826={
-	culture = non_indo_european_iberian
+	culture = asturleonese
 	faith = catholic
 	holding = castle_holding
 }
 1827={
+	culture = asturleonese
 	holding = city_holding
 }
 1828={
+	culture = asturleonese
 	holding = city_holding
 }
 1829={
+	culture = asturleonese
 	holding = city_holding
 }
 1894={
-	culture = non_indo_european_iberian
+	culture = asturleonese
 	faith = catholic
 	holding = castle_holding
 }
 1895={
+	culture = asturleonese
 	holding = none
 }
 1910={
+	culture = asturleonese
 	holding = city_holding
 }
 1911={
+	culture = asturleonese
 	holding = none
 }
 1912={
-	culture = non_indo_european_iberian
+	culture = asturleonese
 	faith = priscillianism
 	holding = castle_holding
 }
 1913={
-	culture = non_indo_european_iberian
+	culture = asturleonese
 	faith = priscillianism
 	holding = tribal_holding
 }
 1914={
+	culture = asturleonese
 	holding = none
 }
 1916={
+	culture = asturleonese
 	holding = none
 }
 1921={
+	culture = asturleonese
 	holding = castle_holding
 }

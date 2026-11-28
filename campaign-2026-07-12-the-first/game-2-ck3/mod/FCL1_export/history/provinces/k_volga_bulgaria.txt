@@ -12,12 +12,12 @@
 	holding = none
 }
 609={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
 610={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -86,7 +86,7 @@
 	holding = none
 }
 5408={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -97,7 +97,7 @@
 	holding = castle_holding
 }
 5412={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -117,7 +117,7 @@
 	holding = none
 }
 5418={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -125,7 +125,7 @@
 	holding = none
 }
 5420={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -133,7 +133,7 @@
 	holding = none
 }
 5422={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
@@ -147,7 +147,7 @@
 	holding = none
 }
 5426={
-	culture = sarmatian
+	culture = hunnic
 	faith = scythian_pagan
 	holding = none
 }
