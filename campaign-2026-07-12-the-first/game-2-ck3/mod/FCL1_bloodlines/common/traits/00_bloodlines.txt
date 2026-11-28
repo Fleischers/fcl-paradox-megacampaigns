@@ -187,3 +187,156 @@ blood_of_the_winner = {
 		desc = trait_blood_of_the_winner_desc
 	}
 }
+
+blood_of_albion_secondary = {
+	type = fame
+	embarkation_cost_mult = -0.15
+	character_travel_speed = 10
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_albion_secondary_desc
+	}
+}
+
+blood_of_greater_iberia_secondary = {
+	type = fame
+	monthly_income_mult = 0.01
+	coastal_advantage = 2
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_greater_iberia_secondary_desc
+	}
+}
+
+blood_of_tuscia_secondary = {
+	type = fame
+	defender_advantage = 1
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_tuscia_secondary_desc
+	}
+}
+
+blood_of_belgia_secondary = {
+	type = fame
+	build_speed = -0.05
+	garrison_size = 0.05
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_belgia_secondary_desc
+	}
+}
+
+blood_of_dacia_secondary = {
+	type = fame
+	dread_baseline_add = 5
+	heavy_infantry_maintenance_mult = -0.05
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_dacia_secondary_desc
+	}
+}
+
+blood_of_scythia_secondary = {
+	type = fame
+	movement_speed = 0.05
+	character_travel_safety = 10
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_scythia_secondary_desc
+	}
+}
+
+blood_of_numidia_secondary = {
+	type = fame
+	desert_advantage = 3
+	hostile_scheme_power_add = 5
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_numidia_secondary_desc
+	}
+}
+
+blood_of_macedon_secondary = {
+	type = fame
+	cultural_head_fascination_mult = 0.05
+	different_culture_opinion = 3
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_macedon_secondary_desc
+	}
+}
+
+blood_of_israel_secondary = {
+	type = fame
+	monthly_piety_gain_mult = 0.05
+	scheme_resistance = 5
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_israel_secondary_desc
+	}
+}
+
+blood_of_germania_secondary = {
+	type = fame
+	prowess = 2
+	forest_advantage = 3
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_germania_secondary_desc
+	}
+}
+
+blood_of_armenia_secondary = {
+	type = fame
+	mountains_advantage = 1
+	diplomacy_lifestyle_xp_gain_mult = 0.05
+	shown_in_history = yes
+	genetic = no
+	inherit_chance = 50
+	both_parent_has_trait_inherit_chance = 90
+	ruler_designer_cost = 15
+	desc = {
+		desc = trait_blood_of_armenia_secondary_desc
+	}
+}

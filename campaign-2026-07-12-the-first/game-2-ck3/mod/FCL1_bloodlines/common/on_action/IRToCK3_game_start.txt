@@ -8,6 +8,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_albion
+					add_trait = blood_of_albion_secondary
 				}
 			}
 		}
@@ -16,6 +17,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_armenia
+					add_trait = blood_of_armenia_secondary
 				}
 			}
 		}
@@ -24,6 +26,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_belgia
+					add_trait = blood_of_belgia_secondary
 				}
 			}
 		}
@@ -32,6 +35,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_dacia
+					add_trait = blood_of_dacia_secondary
 				}
 			}
 		}
@@ -40,6 +44,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_macedon
+					add_trait = blood_of_macedon_secondary
 				}
 			}
 		}
@@ -48,6 +53,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_germania
+					add_trait = blood_of_germania_secondary
 				}
 			}
 		}
@@ -56,6 +62,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_greater_iberia
+					add_trait = blood_of_greater_iberia_secondary
 				}
 			}
 		}
@@ -64,6 +71,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_israel
+					add_trait = blood_of_israel_secondary
 				}
 			}
 		}
@@ -72,6 +80,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_numidia
+					add_trait = blood_of_numidia_secondary
 				}
 			}
 		}
@@ -80,6 +89,7 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 				every_dynasty_member = {
 					limit = { is_alive = yes }
 					add_trait = blood_of_scythia
+					add_trait = blood_of_scythia_secondary
 				}
 			}
 		}
@@ -90,6 +100,10 @@ fcl1_bloodlines_on_game_start_after_lobby = {
 					if = {
 						limit = { NOT = { has_trait = blood_of_tuscia } }
 						add_trait = blood_of_tuscia
+					}
+					if = {
+						limit = { NOT = { has_trait = blood_of_tuscia_secondary } }
+						add_trait = blood_of_tuscia_secondary
 					}
 					if = {
 						limit = { NOT = { has_trait = blood_of_the_winner } }

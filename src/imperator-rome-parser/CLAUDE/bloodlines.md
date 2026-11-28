@@ -2,10 +2,11 @@
 
 ## Agreed design
 
-- Give each player nation's ruling dynasty one primary, non-genetic fame trait.
-- On a new CK3 game, give the primary trait to every living member of that dynasty.
+- Give each player nation's ruling dynasty a primary and secondary, non-genetic fame trait.
+- On a new CK3 game, give both traits to every living member of that dynasty.
 - Traits inherited by later children use a 70% chance when only one parent has the trait and 100% when both parents have it.
 - Each primary bloodline grants its nation-specific +1 skill, +0.1 monthly Prestige, and +1 direct-vassal Opinion.
+- Secondary bloodlines have a 50% inheritance chance (90% when both parents have the trait) and grant nation-specific character modifiers.
 - `Blood of the Winner` is a separate Tuscia-only fame trait. It grants +0.1 monthly Prestige, has 60% inheritance (100% when both parents have it), and has no Tuscia-specific name or description.
 - Trait icons should represent the original country identity, so they remain recognizable if a character changes titles or tags. Each nation's stylized flag uses a 12-pixel transparent perimeter rather than a visible frame; `Blood of the Winner` uses an original abstract crown.
 
@@ -28,6 +29,12 @@ The start hook resolves the dynasty from the current holder of each title, then 
 | Tuscia | `blood_of_tuscia` | Stewardship | `e_IRTOCK3_A64` |
 
 Tuscia's dynasty also receives `blood_of_the_winner` at game start.
+
+The secondary traits are `blood_of_albion_secondary`, `blood_of_greater_iberia_secondary`,
+`blood_of_tuscia_secondary`, `blood_of_belgia_secondary`, `blood_of_dacia_secondary`,
+`blood_of_scythia_secondary`, `blood_of_numidia_secondary`, `blood_of_macedon_secondary`,
+`blood_of_israel_secondary`, `blood_of_germania_secondary`, and `blood_of_armenia_secondary`.
+Their modifiers reflect each nation's campaign identity.
 
 ## Implementation
 
